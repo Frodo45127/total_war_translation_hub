@@ -1,0 +1,734 @@
+{
+  "language": "SP",
+  "pack_name": "roots_of_japan.pack",
+  "translations": {
+    "unit_description_texts_description_text_Genpei_Fro_Cav_Missile_Yabusame": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Cav_Missile_Yabusame",
+      "value_original": "These yabusame samurai can ride quickly to key areas of the battlefield, firing arrows as they go.",
+      "value_translated": "Estos samurái yabusame pueden cabalgar rápidamente a zonas clave del campo de batalla y disparar flechas sobre la marcha.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Gen_Fujiwara_Hiraizumi": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Gen_Fujiwara_Hiraizumi",
+      "value_original": "This general and his bodyguard of the political Hiraizumi's family are faithful warriors that never run out of a battle.",
+      "value_translated": "Este general y sus guardaespaldas de la política familia Hiraizumi son fieles guerreros que nunca huyen del campo de batalla.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Gen_Fujiwara_Kubota": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Gen_Fujiwara_Kubota",
+      "value_original": "This general and his bodyguard of the religious Kubota's family are faithful warriors that never run out of a battle.",
+      "value_translated": "Este general y sus guardaespaldas de la religiosa familia Kubota son fieles guerreros que nunca huyen del campo de batalla.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Gen_Minamoto_Kamakura": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Gen_Minamoto_Kamakura",
+      "value_original": "This general and his bodyguard of the Kamakura's family surpass any other general with her control of the bow.",
+      "value_translated": "Este general y sus guardaespaldas de la familia Kamakura sobrepasan a cualquier otro general en el dominio del arco.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Gen_Minamoto_Kiso": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Gen_Minamoto_Kiso",
+      "value_original": "This general and his bodyguard of the Kiso's family surpass any other general with her domain of the sword.",
+      "value_translated": "Este general y sus guardaespaldas de la familia Kiso sobrepasan a cualquier otro general en el dominio de la espada.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Gen_Minamoto_Loyalist": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Gen_Minamoto_Loyalist",
+      "value_original": "These loyalist protect their general from harm, regardless of the risk to their own lives.",
+      "value_translated": "Estos lealistas protegen del daño a su general, sin importarles el riesgo para sus vidas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Gen_Taira_Fukuhara": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Gen_Taira_Fukuhara",
+      "value_original": "This general and his bodyguard of the powerful Fukuhara's family slay their enemies with her naginatas and an enormous numerical superiority.",
+      "value_translated": "Este general y sus guardaespaldas de la poderosa familia Fukuhara acaban con sus enemigos con sus naginatas y una enorme superioridad numérica.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Gen_Taira_Yashima": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Gen_Taira_Yashima",
+      "value_original": "This general and his bodyguard of the powerful Yashima's family slay their enemies with an enormous numerical superiority.",
+      "value_translated": "Este general y sus guardaespaldas de la poderosa familia Yashima acaban con sus enemigos con una enorme superioridad numérica.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Gen_Yojimbo": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Gen_Yojimbo",
+      "value_original": "These yojimbo (\"Bodyguards\") protect their general from harm, for a price.",
+      "value_translated": "Estos yojimbo (\"Guardaespaldas\") protegen del daño a su general, por un precio.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Bow_Kaizoku": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Bow_Kaizoku",
+      "value_original": "Bow kaizoku harass the enemy at a distance with impressive arrow volleys.",
+      "value_translated": "Los kaizoku arqueros pueden hostigar al enemigo desde lejos con una impresionante salva de flechas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Bow_Samurai_Hero": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Bow_Samurai_Hero",
+      "value_original": "These samurai archers are superb shots with an excellent range and the ability to fire an accurate volley of flaming arrows.",
+      "value_translated": "Estos samurái arqueros tienen una gran puntería desde lejos, lo que les permite disparar una precisa salva de flechas incendiarias.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Bow_Warrior_Monk_Hero": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Bow_Warrior_Monk_Hero",
+      "value_original": "These skilled warrior monks can fire arrows at distant enemies with every expectation of doing bloody work.",
+      "value_translated": "Estos habilidosos monjes guerreros pueden disparar flechas a enemigos que estén a gran distancia con intención homicida.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Bow_Yamabushi": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Bow_Yamabushi",
+      "value_original": "These skilled yamabushi (\"One who lies in the mountains\") can fire arrows at distant enemies with every expectation of doing bloody work.",
+      "value_translated": "Estos habilidosos yamabushi (\"El que reside en las montañas\") pueden disparar flechas a enemigos que estén a gran distancia con intención homicida.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Heavy_Sword_Attendant_Hero": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Heavy_Sword_Attendant_Hero",
+      "value_original": "These powerful shock troops are deadly when they charge home, and excellent in close combat.",
+      "value_translated": "Estas poderosas tropas de choque son mortales cuando cargan y destacan en el combate cuerpo a cuerpo.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Heavy_Sword_Attendants": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Heavy_Sword_Attendants",
+      "value_original": "These powerful shock troops are deadly when they charge home, and excellent in close combat.",
+      "value_translated": "Estas poderosas tropas de choque son mortales cuando cargan y destacan en el combate cuerpo a cuerpo.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Kusa": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Kusa",
+      "value_original": "These kusa (\"grass\") are nearly undetectable in the battlefield, capable of discover hidden enemy units and carrying out deadly surprise attacks.",
+      "value_translated": "Estos kusa (\"hierba\") son casi indetectables en el campo de batalla, capaces de descubrir unidades enemigas ocultas y llevar a cabo mortales ataques sorpresa.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Nagamaki_Attendants": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Nagamaki_Attendants",
+      "value_original": "These attendants are armed with long-bladed nagamakis. Polearms give a skilled user a long reach during close-in fights.",
+      "value_translated": "Estos soldados van armados con nagamakis de largas hojas. Las armas de asta otorgan a un usuario habilidoso un largo alcance en los combates cuerpo a cuerpo.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Naginata_Attendant_Hero": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Naginata_Attendant_Hero",
+      "value_original": "The deadly naginata is effective against all comers, especially in the hands of an expert.",
+      "value_translated": "La mortal naginata es efectiva contra cualquier enemigo, sobre todo en manos de un experto.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Naginata_Yamabushi": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Naginata_Yamabushi",
+      "value_original": "Unshakeable faith, unsurpassed skills, and great courage make yamabushi (\"One who lies in the mountains\") to be respected on the battlefield.",
+      "value_translated": "Fe inquebrantable, destreza insuperable y un gran coraje hacen que los yamabushi (\"El que reside en las montañas\") sean respetados en el campo de batalla.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Samurai_Infantry_Yoritomo": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Samurai_Infantry_Yoritomo",
+      "value_original": "Samurai infantry well able to fight in melee and with the bow, making them superb all-purpose warriors.",
+      "value_translated": "La infantería samurái puede luchar cuerpo a cuerpo y disparar con el arco, de modo que son guerreros muy versátiles.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Samurai_Infantry_Yoshinaka": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Samurai_Infantry_Yoshinaka",
+      "value_original": "Samurai infantry equiped with the powerful naginata, able to fight in melee and with the bow, making them superb all-purpose warriors.",
+      "value_translated": "La infantería samurái está equipada con la poderosa naginata y puede luchar cuerpo a cuerpo y disparar con el arco, de modo que son guerreros muy versátiles.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Sword_Junsatsushi": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Sword_Junsatsushi",
+      "value_original": "These junsatsushi are an average sword infantry, with a represion bonus for cities.",
+      "value_translated": "Estos junsatsushi son una unidad de infantería con espada normal, con una bonificación para reprimir a la población de las ciudades.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Inf_Sword_Katana_Kaizoku": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Inf_Sword_Katana_Kaizoku",
+      "value_original": "Kaizoku are armed with incredibly sharp swords. They are fierce fighters and excellent against spearmen.",
+      "value_translated": "Los kaizoku van armados con espadas muy afiladas. Son fieros guerreros y el azote de los lanceros enemigos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_description_text_Genpei_Fro_Light_Ship_Fire_Bomb_Light_Ship": {
+      "key": "unit_description_texts_description_text_Genpei_Fro_Light_Ship_Fire_Bomb_Light_Ship",
+      "value_original": "Those firebomb light ships are the quickest ships in all yashima navy, ready for attack, destroy and run.",
+      "value_translated": "Estos barcos ligeros con bombas incendiarias son los más rápidos de toda la flota yashima, listos para atacar, destruir y huir.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Cav_Missile_Yabusame": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Cav_Missile_Yabusame",
+      "value_original": "With both hands busy aiming and firing their bows, yabusame samurai must use their knees to control and steer their mounts. This requires intense training for both man and beast. These archers can move quickly to the enemy’s flanks, or harass them from a distance. If caught in melee, the samurai have enough training to defend themselves, but they should probably avoid fighting naginata-armed infantry units. Their relatively few numbers makes them vulnerable to a massed attack by archers: weight of numbers will overpower even skilled warriors. \\\\n\\\\nSamurai were expected to be proficient in the use of a number of weapons but, during this period, archery was widely regarded as the best way to demonstrate a warrior’s true skills. Battles were occasionally settled by mounted archery duels, performed by each army’s most skilled archer. Opponents would ride towards one another and fire a single arrow. This “jousting with bows” could be repeated several times as fatal wounds were seldom inflicted during the early passes. The participants were trying their best to kill each other, but their armour was extremely good at keeping out arrows! Instantly fatal wounds were rather difficult to inflict.",
+      "value_translated": "La caballería samurái usa las rodillas para controlar y dirigir a sus monturas mientras sus manos están ocupadas en apuntar y disparar sus arcos. Esto exige un intenso entrenamiento tanto para el hombre como para la bestia. Estos arqueros pueden moverse rápidamente contra el flanco del enemigo o acosarlos a distancia. En el cuerpo a cuerpo, los samurái tienen el entrenamiento suficiente como para defenderse, pero es mejor que eviten a las unidades de infantería armadas con naginatas. Su relativo escaso número los hace vulnerables a los ataques de arqueros en masa: incluso los guerreros más diestros son derrotados por la superioridad numérica. \\\\n\\\\nDe los samurái se espera que sean capaces de usar varias armas pero, durante este periodo, la arquería se consideraba como el mejor modo de demostrar la auténtica destreza de un guerrero. En ocasiones, las batallas se libraban con duelos con arco a caballo en los que participaba el arquero más diestro de cada bando. Los adversarios cabalgaban uno contra el otro y disparaban una sola flecha. Esta \"justa con arcos\" se repetía varias veces, ya que en los primeros pases era raro infligir heridas fatales. Los participantes se esforzaban por matarse entre sí, ¡pero sus armaduras eran muy buenas contra las flechas! Era muy difícil matar a un adversario con el primer disparo.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Gen_Fujiwara_Hiraizumi": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Gen_Fujiwara_Hiraizumi",
+      "value_original": "It is a general’s task to oversee a battle and inspire men whose courage is beginning to falter. He cannot do this if inconsiderate enemies are trying to kill him. His loyal bodyguards consider death in the line of duty to be among the greatest things warriors can hope to achieve. They are hand-picked from among the samurai, having demonstrated great courage and exceptional combat skills. This unit can also carry out vital manoeuvres such as flank attacks or chasing down fleeing enemies, but that may leave the general in danger. Overly aggressive actions should be undertaken only with great care. \\\\n\\\\nFor the great Minamoto generals, the early years of life were perilous: the Taira were determined to wipe out the whole family, and often sent men to kill new-born children. Minamoto Yoshinaka’s mother was forced into hiding following his father’s death, and lived with a peasant woman. Taira warriors soon discovered them and were dispatched to reclaim the Minamoto flag and kill the child. The peasant woman fled with the flag, and Saito Sanemori, the Taira general, found he could not kill the child. The poor peasant had her arm, clutching the Minamoto flag, cut off by the Taira. The arm and flag were later presented as proof that the baby Yoshinaka had been murdered.",
+      "value_translated": "El deber de un general es supervisar la batalla e inspirar a los hombres cuyo coraje ha empezado a flaquear. No puede hacer esto si los enemigos están intentando matarlo. Sus leales guardaespaldas consideran que morir cumpliendo con su deber es uno de los mayores honores a los que puede aspirar un guerrero. Se los escoge entre los samurái que han demostrado un gran coraje y habilidades de combate excepcionales. Esta unidad también puede llevar a cabo maniobras cruciales como ataques por el flanco o perseguir a enemigos que huyen, pero eso puede poner al general en peligro. Las acciones demasiado agresivas deben llevarse a cabo con suma cautela. \\\\n\\\\nPara los grandes generales Minamoto, los primeros años de vida eran peligrosos: los Taira estaban decididos a acabar con toda la familia y a menudo enviaban soldados a matar a los recién nacidos. La madre de Minamoto Yoshinaka tuvo que ocultarse tras la muerte de su padre y vivió junto a una campesina. Los guerreros Taira pronto la descubrieron y fueron a matar al niño y hacerse con la bandera Minamoto. La campesina huyó con la bandera y Saito Sanemori, el general Taira, no se vio capaz de matar al niño. Los Taira le cortaron el brazo que sujetaba la bandera Minamoto a la pobre campesina. El brazo y la bandera se presentaron más tarde como prueba de que el bebé Yoshinaka había sido asesinado.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Gen_Fujiwara_Kubota": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Gen_Fujiwara_Kubota",
+      "value_original": "It is a general’s task to oversee a battle and inspire men whose courage is beginning to falter. He cannot do this if inconsiderate enemies are trying to kill him. His loyal bodyguards consider death in the line of duty to be among the greatest things warriors can hope to achieve. They are hand-picked from among the samurai, having demonstrated great courage and exceptional combat skills. This unit can also carry out vital manoeuvres such as flank attacks or chasing down fleeing enemies, but that may leave the general in danger. Overly aggressive actions should be undertaken only with great care. \\\\n\\\\nFor the great Minamoto generals, the early years of life were perilous: the Taira were determined to wipe out the whole family, and often sent men to kill new-born children. Minamoto Yoshinaka’s mother was forced into hiding following his father’s death, and lived with a peasant woman. Taira warriors soon discovered them and were dispatched to reclaim the Minamoto flag and kill the child. The peasant woman fled with the flag, and Saito Sanemori, the Taira general, found he could not kill the child. The poor peasant had her arm, clutching the Minamoto flag, cut off by the Taira. The arm and flag were later presented as proof that the baby Yoshinaka had been murdered.",
+      "value_translated": "El deber de un general es supervisar la batalla e inspirar a los hombres cuyo coraje ha empezado a flaquear. No puede hacer esto si los enemigos están intentando matarlo. Sus leales guardaespaldas consideran que morir cumpliendo con su deber es uno de los mayores honores a los que puede aspirar un guerrero. Se los escoge entre los samurái que han demostrado un gran coraje y habilidades de combate excepcionales. Esta unidad también puede llevar a cabo maniobras cruciales como ataques por el flanco o perseguir a enemigos que huyen, pero eso puede poner al general en peligro. Las acciones demasiado agresivas deben llevarse a cabo con suma cautela. \\\\n\\\\nPara los grandes generales Minamoto, los primeros años de vida eran peligrosos: los Taira estaban decididos a acabar con toda la familia y a menudo enviaban soldados a matar a los recién nacidos. La madre de Minamoto Yoshinaka tuvo que ocultarse tras la muerte de su padre y vivió junto a una campesina. Los guerreros Taira pronto la descubrieron y fueron a matar al niño y hacerse con la bandera Minamoto. La campesina huyó con la bandera y Saito Sanemori, el general Taira, no se vio capaz de matar al niño. Los Taira le cortaron el brazo que sujetaba la bandera Minamoto a la pobre campesina. El brazo y la bandera se presentaron más tarde como prueba de que el bebé Yoshinaka había sido asesinado.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Gen_Minamoto_Kamakura": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Gen_Minamoto_Kamakura",
+      "value_original": "It is a general’s task to oversee a battle and inspire men whose courage is beginning to falter. He cannot do this if inconsiderate enemies are trying to kill him. His loyal bodyguards consider death in the line of duty to be among the greatest things warriors can hope to achieve. They are hand-picked from among the samurai, having demonstrated great courage and exceptional combat skills. This unit can also carry out vital manoeuvres such as flank attacks or chasing down fleeing enemies, but that may leave the general in danger. Overly aggressive actions should be undertaken only with great care. \\\\n\\\\nFor the great Minamoto generals, the early years of life were perilous: the Taira were determined to wipe out the whole family, and often sent men to kill new-born children. Minamoto Yoshinaka’s mother was forced into hiding following his father’s death, and lived with a peasant woman. Taira warriors soon discovered them and were dispatched to reclaim the Minamoto flag and kill the child. The peasant woman fled with the flag, and Saito Sanemori, the Taira general, found he could not kill the child. The poor peasant had her arm, clutching the Minamoto flag, cut off by the Taira. The arm and flag were later presented as proof that the baby Yoshinaka had been murdered.",
+      "value_translated": "El deber de un general es supervisar la batalla e inspirar a los hombres cuyo coraje ha empezado a flaquear. No puede hacer esto si los enemigos están intentando matarlo. Sus leales guardaespaldas consideran que morir cumpliendo con su deber es uno de los mayores honores a los que puede aspirar un guerrero. Se los escoge entre los samurái que han demostrado un gran coraje y habilidades de combate excepcionales. Esta unidad también puede llevar a cabo maniobras cruciales como ataques por el flanco o perseguir a enemigos que huyen, pero eso puede poner al general en peligro. Las acciones demasiado agresivas deben llevarse a cabo con suma cautela. \\\\n\\\\nPara los grandes generales Minamoto, los primeros años de vida eran peligrosos: los Taira estaban decididos a acabar con toda la familia y a menudo enviaban soldados a matar a los recién nacidos. La madre de Minamoto Yoshinaka tuvo que ocultarse tras la muerte de su padre y vivió junto a una campesina. Los guerreros Taira pronto la descubrieron y fueron a matar al niño y hacerse con la bandera Minamoto. La campesina huyó con la bandera y Saito Sanemori, el general Taira, no se vio capaz de matar al niño. Los Taira le cortaron el brazo que sujetaba la bandera Minamoto a la pobre campesina. El brazo y la bandera se presentaron más tarde como prueba de que el bebé Yoshinaka había sido asesinado.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Gen_Minamoto_Kiso": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Gen_Minamoto_Kiso",
+      "value_original": "It is a general’s task to oversee a battle and inspire men whose courage is beginning to falter. He cannot do this if inconsiderate enemies are trying to kill him. His loyal bodyguards consider death in the line of duty to be among the greatest things warriors can hope to achieve. They are hand-picked from among the samurai, having demonstrated great courage and exceptional combat skills. This unit can also carry out vital manoeuvres such as flank attacks or chasing down fleeing enemies, but that may leave the general in danger. Overly aggressive actions should be undertaken only with great care. \\\\n\\\\nFor the great Minamoto generals, the early years of life were perilous: the Taira were determined to wipe out the whole family, and often sent men to kill new-born children. Minamoto Yoshinaka’s mother was forced into hiding following his father’s death, and lived with a peasant woman. Taira warriors soon discovered them and were dispatched to reclaim the Minamoto flag and kill the child. The peasant woman fled with the flag, and Saito Sanemori, the Taira general, found he could not kill the child. The poor peasant had her arm, clutching the Minamoto flag, cut off by the Taira. The arm and flag were later presented as proof that the baby Yoshinaka had been murdered.",
+      "value_translated": "El deber de un general es supervisar la batalla e inspirar a los hombres cuyo coraje ha empezado a flaquear. No puede hacer esto si los enemigos están intentando matarlo. Sus leales guardaespaldas consideran que morir cumpliendo con su deber es uno de los mayores honores a los que puede aspirar un guerrero. Se los escoge entre los samurái que han demostrado un gran coraje y habilidades de combate excepcionales. Esta unidad también puede llevar a cabo maniobras cruciales como ataques por el flanco o perseguir a enemigos que huyen, pero eso puede poner al general en peligro. Las acciones demasiado agresivas deben llevarse a cabo con suma cautela. \\\\n\\\\nPara los grandes generales Minamoto, los primeros años de vida eran peligrosos: los Taira estaban decididos a acabar con toda la familia y a menudo enviaban soldados a matar a los recién nacidos. La madre de Minamoto Yoshinaka tuvo que ocultarse tras la muerte de su padre y vivió junto a una campesina. Los guerreros Taira pronto la descubrieron y fueron a matar al niño y hacerse con la bandera Minamoto. La campesina huyó con la bandera y Saito Sanemori, el general Taira, no se vio capaz de matar al niño. Los Taira le cortaron el brazo que sujetaba la bandera Minamoto a la pobre campesina. El brazo y la bandera se presentaron más tarde como prueba de que el bebé Yoshinaka había sido asesinado.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Gen_Minamoto_Loyalist": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Gen_Minamoto_Loyalist",
+      "value_original": "It is a general’s task to oversee a battle and inspire men whose courage is beginning to falter. He cannot do this if inconsiderate enemies are trying to kill him. His loyal bodyguards consider death in the line of duty to be among the greatest things warriors can hope to achieve. They are hand-picked from among the samurai, having demonstrated great courage and exceptional combat skills. This unit can also carry out vital manoeuvres such as flank attacks or chasing down fleeing enemies, but that may leave the general in danger. Overly aggressive actions should be undertaken only with great care. \\\\n\\\\nFor the great Minamoto generals, the early years of life were perilous: the Taira were determined to wipe out the whole family, and often sent men to kill new-born children. Minamoto Yoshinaka’s mother was forced into hiding following his father’s death, and lived with a peasant woman. Taira warriors soon discovered them and were dispatched to reclaim the Minamoto flag and kill the child. The peasant woman fled with the flag, and Saito Sanemori, the Taira general, found he could not kill the child. The poor peasant had her arm, clutching the Minamoto flag, cut off by the Taira. The arm and flag were later presented as proof that the baby Yoshinaka had been murdered.",
+      "value_translated": "El deber de un general es supervisar la batalla e inspirar a los hombres cuyo coraje ha empezado a flaquear. No puede hacer esto si los enemigos están intentando matarlo. Sus leales guardaespaldas consideran que morir cumpliendo con su deber es uno de los mayores honores a los que puede aspirar un guerrero. Se los escoge entre los samurái que han demostrado un gran coraje y habilidades de combate excepcionales. Esta unidad también puede llevar a cabo maniobras cruciales como ataques por el flanco o perseguir a enemigos que huyen, pero eso puede poner al general en peligro. Las acciones demasiado agresivas deben llevarse a cabo con suma cautela. \\\\n\\\\nPara los grandes generales Minamoto, los primeros años de vida eran peligrosos: los Taira estaban decididos a acabar con toda la familia y a menudo enviaban soldados a matar a los recién nacidos. La madre de Minamoto Yoshinaka tuvo que ocultarse tras la muerte de su padre y vivió junto a una campesina. Los guerreros Taira pronto la descubrieron y fueron a matar al niño y hacerse con la bandera Minamoto. La campesina huyó con la bandera y Saito Sanemori, el general Taira, no se vio capaz de matar al niño. Los Taira le cortaron el brazo que sujetaba la bandera Minamoto a la pobre campesina. El brazo y la bandera se presentaron más tarde como prueba de que el bebé Yoshinaka había sido asesinado.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Gen_Taira_Fukuhara": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Gen_Taira_Fukuhara",
+      "value_original": "It is a general’s task to oversee a battle and inspire men whose courage is beginning to falter. He cannot do this if inconsiderate enemies are trying to kill him. His loyal bodyguards consider death in the line of duty to be among the greatest things warriors can hope to achieve. They are hand-picked from among the samurai, having demonstrated great courage and exceptional combat skills. This unit can also carry out vital manoeuvres such as flank attacks or chasing down fleeing enemies, but that may leave the general in danger. Overly aggressive actions should be undertaken only with great care. \\\\n\\\\nFor the great Minamoto generals, the early years of life were perilous: the Taira were determined to wipe out the whole family, and often sent men to kill new-born children. Minamoto Yoshinaka’s mother was forced into hiding following his father’s death, and lived with a peasant woman. Taira warriors soon discovered them and were dispatched to reclaim the Minamoto flag and kill the child. The peasant woman fled with the flag, and Saito Sanemori, the Taira general, found he could not kill the child. The poor peasant had her arm, clutching the Minamoto flag, cut off by the Taira. The arm and flag were later presented as proof that the baby Yoshinaka had been murdered.",
+      "value_translated": "El deber de un general es supervisar la batalla e inspirar a los hombres cuyo coraje ha empezado a flaquear. No puede hacer esto si los enemigos están intentando matarlo. Sus leales guardaespaldas consideran que morir cumpliendo con su deber es uno de los mayores honores a los que puede aspirar un guerrero. Se los escoge entre los samurái que han demostrado un gran coraje y habilidades de combate excepcionales. Esta unidad también puede llevar a cabo maniobras cruciales como ataques por el flanco o perseguir a enemigos que huyen, pero eso puede poner al general en peligro. Las acciones demasiado agresivas deben llevarse a cabo con suma cautela. \\\\n\\\\nPara los grandes generales Minamoto, los primeros años de vida eran peligrosos: los Taira estaban decididos a acabar con toda la familia y a menudo enviaban soldados a matar a los recién nacidos. La madre de Minamoto Yoshinaka tuvo que ocultarse tras la muerte de su padre y vivió junto a una campesina. Los guerreros Taira pronto la descubrieron y fueron a matar al niño y hacerse con la bandera Minamoto. La campesina huyó con la bandera y Saito Sanemori, el general Taira, no se vio capaz de matar al niño. Los Taira le cortaron el brazo que sujetaba la bandera Minamoto a la pobre campesina. El brazo y la bandera se presentaron más tarde como prueba de que el bebé Yoshinaka había sido asesinado.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Gen_Taira_Yashima": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Gen_Taira_Yashima",
+      "value_original": "It is a general’s task to oversee a battle and inspire men whose courage is beginning to falter. He cannot do this if inconsiderate enemies are trying to kill him. His loyal bodyguards consider death in the line of duty to be among the greatest things warriors can hope to achieve. They are hand-picked from among the samurai, having demonstrated great courage and exceptional combat skills. This unit can also carry out vital manoeuvres such as flank attacks or chasing down fleeing enemies, but that may leave the general in danger. Overly aggressive actions should be undertaken only with great care. \\\\n\\\\nFor the great Minamoto generals, the early years of life were perilous: the Taira were determined to wipe out the whole family, and often sent men to kill new-born children. Minamoto Yoshinaka’s mother was forced into hiding following his father’s death, and lived with a peasant woman. Taira warriors soon discovered them and were dispatched to reclaim the Minamoto flag and kill the child. The peasant woman fled with the flag, and Saito Sanemori, the Taira general, found he could not kill the child. The poor peasant had her arm, clutching the Minamoto flag, cut off by the Taira. The arm and flag were later presented as proof that the baby Yoshinaka had been murdered.",
+      "value_translated": "El deber de un general es supervisar la batalla e inspirar a los hombres cuyo coraje ha empezado a flaquear. No puede hacer esto si los enemigos están intentando matarlo. Sus leales guardaespaldas consideran que morir cumpliendo con su deber es uno de los mayores honores a los que puede aspirar un guerrero. Se los escoge entre los samurái que han demostrado un gran coraje y habilidades de combate excepcionales. Esta unidad también puede llevar a cabo maniobras cruciales como ataques por el flanco o perseguir a enemigos que huyen, pero eso puede poner al general en peligro. Las acciones demasiado agresivas deben llevarse a cabo con suma cautela. \\\\n\\\\nPara los grandes generales Minamoto, los primeros años de vida eran peligrosos: los Taira estaban decididos a acabar con toda la familia y a menudo enviaban soldados a matar a los recién nacidos. La madre de Minamoto Yoshinaka tuvo que ocultarse tras la muerte de su padre y vivió junto a una campesina. Los guerreros Taira pronto la descubrieron y fueron a matar al niño y hacerse con la bandera Minamoto. La campesina huyó con la bandera y Saito Sanemori, el general Taira, no se vio capaz de matar al niño. Los Taira le cortaron el brazo que sujetaba la bandera Minamoto a la pobre campesina. El brazo y la bandera se presentaron más tarde como prueba de que el bebé Yoshinaka había sido asesinado.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Gen_Yojimbo": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Gen_Yojimbo",
+      "value_original": "It is a general’s task to oversee a battle and inspire men whose courage is beginning to falter. He cannot do this if inconsiderate enemies are trying to kill him. His loyal bodyguards consider death in the line of duty to be among the greatest things warriors can hope to achieve. They are hand-picked from among the samurai, having demonstrated great courage and exceptional combat skills. This unit can also carry out vital manoeuvres such as flank attacks or chasing down fleeing enemies, but that may leave the general in danger. Overly aggressive actions should be undertaken only with great care. \\\\n\\\\nFor the great Minamoto generals, the early years of life were perilous: the Taira were determined to wipe out the whole family, and often sent men to kill new-born children. Minamoto Yoshinaka’s mother was forced into hiding following his father’s death, and lived with a peasant woman. Taira warriors soon discovered them and were dispatched to reclaim the Minamoto flag and kill the child. The peasant woman fled with the flag, and Saito Sanemori, the Taira general, found he could not kill the child. The poor peasant had her arm, clutching the Minamoto flag, cut off by the Taira. The arm and flag were later presented as proof that the baby Yoshinaka had been murdered.",
+      "value_translated": "El deber de un general es supervisar la batalla e inspirar a los hombres cuyo coraje ha empezado a flaquear. No puede hacer esto si los enemigos están intentando matarlo. Sus leales guardaespaldas consideran que morir cumpliendo con su deber es uno de los mayores honores a los que puede aspirar un guerrero. Se los escoge entre los samurái que han demostrado un gran coraje y habilidades de combate excepcionales. Esta unidad también puede llevar a cabo maniobras cruciales como ataques por el flanco o perseguir a enemigos que huyen, pero eso puede poner al general en peligro. Las acciones demasiado agresivas deben llevarse a cabo con suma cautela. \\\\n\\\\nPara los grandes generales Minamoto, los primeros años de vida eran peligrosos: los Taira estaban decididos a acabar con toda la familia y a menudo enviaban soldados a matar a los recién nacidos. La madre de Minamoto Yoshinaka tuvo que ocultarse tras la muerte de su padre y vivió junto a una campesina. Los guerreros Taira pronto la descubrieron y fueron a matar al niño y hacerse con la bandera Minamoto. La campesina huyó con la bandera y Saito Sanemori, el general Taira, no se vio capaz de matar al niño. Los Taira le cortaron el brazo que sujetaba la bandera Minamoto a la pobre campesina. El brazo y la bandera se presentaron más tarde como prueba de que el bebé Yoshinaka había sido asesinado.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Bow_Kaizoku": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Bow_Kaizoku",
+      "value_original": "These men are pirates with no honour and no code to follow. They fight to protect the regions they control and live off plundered goods and by extorting money from others. True, they are not samurai, but they still know how to fight!\\\\n\\\\nIn the time it takes to fire and reload a matchlock firearm, these men can loose a dozen arrows at the enemy with a reasonable degree of accuracy. Once the enemy starts getting close, these pirates retreat behind friendly melee troops for protection. They are not armed or trained for close combat and are very vulnerable to cavalry attacks.\\\\n\\\\nThe Japanese ability to deal with their pirate problem was hindered by the civil war and the lack of a strong central government. The Chinese and Koreans, who were on the receiving end of many wako depredations, continually demanded that the Japanese deal with the pirates, but each solution only seemed to halt them for a short while. Attacks on known wako ports, mass beheadings and even bans on foreign trade did not seem to make much difference to the wako. In 1588, Toyotomi Hideyoshi declared that any fighting in Japanese waters was illegal at the same time as he banned peasants and other non-samurai from owning swords. This effectively made piracy almost impossible, also hindering anyone thinking of raising a revolt.",
+      "value_translated": "Estos hombres son piratas sin honor y sin un código moral que seguir. Luchan para proteger las regiones que controlan y viven de los bienes que obtienen en los saqueos y del dinero que extorsionan de los otros. ¡Cierto es que no son samurái, pero saben cómo luchar!\\\\n\\\\nEn el tiempo que lleva disparar y recargar un arma de fuego, ellos pueden lanzar un montón de flechas contra el enemigo con una gran precisión. Cuando el enemigo se acerca, estos piratas retroceden tras los soldados de cuerpo a cuerpo aliados para protegerse. No están armados ni han sido entrenados para el combate cuerpo a cuerpo y son muy vulnerables ante los ataques de caballería.\\\\n\\\\nLa capacidad de los japoneses para acabar con el problema pirata se vio dificultada por la Guerra civil y la falta de un gobierno central sólido. Los chinos y los coreanos, que siempre caían víctimas del pillaje wako, exigían a los japoneses continuamente que se encargaran de estos piratas, pero las soluciones que encontraban sólo servían para detenerlos a corto plazo. Los ataques a los puertos wako, las decapitaciones en masa y hasta las prohibiciones del comercio exterior no parecían hacer mella en los wako. En 1588, Toyotomi Hideyoshi declaró ilegal cualquier lucha en aguas japonesas, a la vez que prohibió a campesinos y otros no samurái la posesión de espadas. Esto hizo de la piratería algo prácticamente imposible, y hacía que cualquiera que estuviese planeando una revuelta se lo pensase dos veces.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Bow_Samurai_Hero": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Bow_Samurai_Hero",
+      "value_original": "Archery has a long history in Japanese warfare and every samurai is expected to have mastered the art. Less skilled warriors can be trained to fire en masse, but it takes dedication and skill to shoot with accuracy, particularly in the heat of battle. Bow samurai can also shoot fearsome flaming missiles. These troops have high morale and are well-trained so can fight in melee if needed. They are vulnerable if attacked by cavalry.\\\\n\\\\nIn early samurai culture, proficiency with the bow was just as important as with the katana. In the 12th century, battles often started with an archery duel between the two factions, signalled by the firing of special whistling arrows. The Sengoku Jidai saw the bow marginalised as warfare changed. Individual battles of skill were replaced by sheer numbers and mass volleys. Also, the arquebus could be used by ordinary foot soldiers, and the spear could be used in close combat.",
+      "value_translated": "El tiro con arco tiene una larga tradición en las guerras de Japón y todos los samurái deben dominar este arte. Los guerreros menos hábiles pueden ser entrenados para disparar colectivamente, pero hace falta dedicación y destreza para disparar con precisión, sobre todo cuando se está en plena batalla. Los samurái arqueros también pueden disparar temibles proyectiles incendiarios. Estos soldados gozan de una gran moral y un mejor entrenamiento, así que pueden luchar cuerpo a cuerpo si es necesario. Son vulnerables si les ataca la caballería.\\\\n\\\\nEn la cultura samurái original, el dominio del arco era tan importante como el de la katana. En el siglo XII, las batallas empezaban con un duelo de arqueros entre las dos facciones, señalado con unas flechas especiales que silbaban. El Sengoku Jidai vio como el arco quedó marginado cuando el arte de la guerra cambió. Las batallas individuales de destreza quedaron reemplazadas por ejércitos con multitud de tropas. Además, los soldados de a pie ordinarios podían usar el arcabuz y en el combate cuerpo a cuerpo se podía usar la lanza.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Bow_Warrior_Monk_Hero": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Bow_Warrior_Monk_Hero",
+      "value_original": "These warrior monks are armed with powerful bows and can attack enemies at a surprising range. They can also bombard foes with terrifying fire arrows. These are especially dangerous in a country such as Japan where wooden buildings are common. Bow warrior monks need careful handling in the presence of the enemy: they are not trained to fight in melee, and are likely to suffer if they are attacked by cavalry. In all probability the small unit size means that they will be quickly cut down in close combat, even with friendly support. \\\\n\\\\nBow warrior monks practiced archery with the same dedication they gave to their religious duties. Indeed, the skill and stillness required for archery was as much an act of meditation as any amount of monkish contemplation. Long years of practice, however, paid off in battle because their bow techniques were so ingrained as to be done without conscious thought or hesitation. Given reasonable weather, monks would, and did, kill everything and everyone foolish enough to stray within bowshot.",
+      "value_translated": "Estos monjes guerreros están armados con potentes arcos y pueden atacar al enemigo desde una distancia sorprendente. También pueden bombardear a los enemigos con terroríficas flechas incendiarias. Son especialmente peligrosas en un país como Japón, en el que la mayoría de los edificios están hechos de madera. Los monjes guerreros arqueros deben tener cuidado en presencia del enemigo: no están entrenados para la lucha cuerpo a cuerpo y seguramente sufrirán muchas bajas si los ataca la caballería. Como no son numerosos, en un combate cuerpo a cuerpo pueden derrotarlos muy rápidamente, incluso con apoyo aliado. \\\\n\\\\nLos monjes guerreros arqueros practicaban la arquería con la misma dedicación que sus deberes religiosos. De hecho, la habilidad y la calma necesaria para la arquería era un acto de meditación parecido a la meditación monacal. Los largos años de práctica daban su fruto en la batalla, porque estaban tan acostumbrados al arco que podían disparar si pensar ni dudar. Si el tiempo era bueno, los monjes podían matar a cualquiera lo bastante necio como para ponerse a su alcance, como de hecho hacían.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Bow_Yamabushi": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Bow_Yamabushi",
+      "value_original": "These yamabushi (\"One who lies in the mountains\") are armed with powerful bows and can attack enemies at a surprising range. They can also bombard foes with terrifying fire arrows. These are especially dangerous in a country such as Japan where wooden buildings are common. Bow warrior monks need careful handling in the presence of the enemy: they are not trained to fight in melee, and are likely to suffer if they are attacked by cavalry. In all probability the small unit size means that they will be quickly cut down in close combat, even with friendly support. \\\\n\\\\nBow warrior monks practiced archery with the same dedication they gave to their religious duties. Indeed, the skill and stillness required for archery was as much an act of meditation as any amount of monkish contemplation. Long years of practice, however, paid off in battle because their bow techniques were so ingrained as to be done without conscious thought or hesitation. Given reasonable weather, monks would, and did, kill everything and everyone foolish enough to stray within bowshot.",
+      "value_translated": "Estos yamabushi (\"El que reside en las montañas\") están armados con potentes arcos y pueden atacar al enemigo desde una distancia sorprendente. También pueden bombardear a los enemigos con terroríficas flechas incendiarias. Son especialmente peligrosas en un país como Japón, en el que la mayoría de los edificios están hechos de madera. Los monjes guerreros arqueros deben tener cuidado en presencia del enemigo: no están entrenados para la lucha cuerpo a cuerpo y seguramente sufrirán muchas bajas si los ataca la caballería. Como no son numerosos, en un combate cuerpo a cuerpo pueden derrotarlos muy rápidamente, incluso con apoyo aliado. \\\\n\\\\nLos monjes guerreros arqueros practicaban la arquería con la misma dedicación que sus deberes religiosos. De hecho, la habilidad y la calma necesaria para la arquería era un acto de meditación parecido a la meditación monacal. Los largos años de práctica daban su fruto en la batalla, porque estaban tan acostumbrados al arco que podían disparar si pensar ni dudar. Si el tiempo era bueno, los monjes podían matar a cualquiera lo bastante necio como para ponerse a su alcance, como de hecho hacían.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Heavy_Sword_Attendant_Hero": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Heavy_Sword_Attendant_Hero",
+      "value_original": "Heavy sword attendant heroes are armed with a large powerful swords, impressive weapons that require the strength of both arms to wield effectively in battle. This gives the attendants a fearsome appearance as they charge forward to engage in close combat. Two-handed swords are incredibly sharp and can easily cut through enemies, while the flat sides of the blades can deflect enemy blows. Sword attendants go into battle accepting death and fearing little, but accepting your death and foolishly risking life and limb are not the same thing. They must be wary of threats from cavalry and missile troops, against which they are vulnerable if mishandled. \\\\n\\\\nThe skill and craftsmanship of Japan’s swordsmiths is almost beyond compare. Perhaps only the swords from the forges of Toledo and Dasmascus matched the beauty of Japanese blades, but they did not quite match the sophisticated metallurgy of the Japanese. During the Gempei War the katana, or more correctly, tachi of later centuries had still to develop and become recognised as the classic samurai sword. The skills of the swordsmith were, however, already in evidence. Gempei period swords were just as deadly as their later Sengoku Jidai equivalents when used by an expert.",
+      "value_translated": "Los héroes soldado con espada pesada van equipados con poderosos espadones, armas impresionantes que exigen ambas manos para su correcto uso en combate. Esto les da un aspecto temible cuando cargan para luchar cuerpo a cuerpo. Las espadas de dos manos están increíblemente afiladas y pueden cortar a los enemigos con facilidad, mientras que el plano de la hoja puede usarse para desviar los ataques. Los soldados con espada van a la batalla aceptando el riesgo de la muerte y son muy valientes, pero aceptar ese riesgo y arriesgar la vida en vano de forma temeraria no es lo mismo. Deben tener cuidado con la caballería y las tropas con proyectiles, contra las que son vulnerables si no se los guía correctamente. \\\\n\\\\nLa habilidad y el arte de los fabricantes de espadas de Japón son casi incomparables. Tal vez solo las espadas de las forjas de Toledo y Damasco pueden compararse con la belleza de las espadas japonesas, aunque la sofisticada metalurgia de los japoneses no tiene rival. La katana, o para ser más precisos, la tachi de las guerras Genpei se desarrolló en los siglos posteriores hasta convertirse en la espada clásica de los samurái. Sin embargo, ya por aquel entonces era evidente la habilidad de los forjadores de espadas. En manos de un experto, las espadas de la era Genpei eran tan mortales como las de la era Sengoku Jidai.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Heavy_Sword_Attendants": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Heavy_Sword_Attendants",
+      "value_original": "Heavy sword attendants are armed with a large powerful swords, impressive weapons that require the strength of both arms to wield effectively in battle. This gives the attendants a fearsome appearance as they charge forward to engage in close combat. Two-handed swords are incredibly sharp and can easily cut through enemies, while the flat sides of the blades can deflect enemy blows. Sword attendants go into battle accepting death and fearing little, but accepting your death and foolishly risking life and limb are not the same thing. They must be wary of threats from cavalry and missile troops, against which they are vulnerable if mishandled. \\\\n\\\\nThe skill and craftsmanship of Japan’s swordsmiths is almost beyond compare. Perhaps only the swords from the forges of Toledo and Dasmascus matched the beauty of Japanese blades, but they did not quite match the sophisticated metallurgy of the Japanese. During the Gempei War the katana, or more correctly, tachi of later centuries had still to develop and become recognised as the classic samurai sword. The skills of the swordsmith were, however, already in evidence. Gempei period swords were just as deadly as their later Sengoku Jidai equivalents when used by an expert.",
+      "value_translated": "Los soldados con espada pesada van equipados con poderosos espadones, armas impresionantes que exigen ambas manos para su correcto uso en combate. Esto les da un aspecto temible cuando cargan para luchar cuerpo a cuerpo. Las espadas de dos manos están increíblemente afiladas y pueden cortar a los enemigos con facilidad, mientras que el plano de la hoja puede usarse para desviar los ataques. Los soldados con espada van a la batalla aceptando el riesgo de la muerte y son muy valientes, pero aceptar ese riesgo y arriesgar la vida en vano de forma temeraria no es lo mismo. Deben tener cuidado con la caballería y las tropas con proyectiles, contra las que son vulnerables si no se los guía correctamente. \\\\n\\\\nLa habilidad y el arte de los fabricantes de espadas de Japón son casi incomparables. Tal vez solo las espadas de las forjas de Toledo y Damasco pueden compararse con la belleza de las espadas japonesas, aunque la sofisticada metalurgia de los japoneses no tiene rival. La katana, o para ser más precisos, la tachi de las guerras Genpei se desarrolló en los siglos posteriores hasta convertirse en la espada clásica de los samurái. Sin embargo, ya por aquel entonces era evidente la habilidad de los forjadores de espadas. En manos de un experto, las espadas de la era Genpei eran tan mortales como las de la era Sengoku Jidai.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Kusa": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Kusa",
+      "value_original": "The kusa have mastered the art of invisibility, making them highly effective explorers and assasins! In fact, their skills are actually the product of a lifetime of intensive training, cunning and the clever use of misdirection. The ability to move about largely unseen on the battlefield means they appear from nowhere, launch an assault on an enemy general and then vanish before they are caught or killed.\\\\n\\\\nIn addition to a small number of deadly fire bombs, they are armed with blinding grenades to disorientate an enemy for a short time, reducing their fighting ability. To remain as stealthy as possible kusa operate in small numbers, so must avoid prolonged close combat because they cannot afford to take many casualties.\\\\n\\\\nHistorically, kusa were rarely used on the battlefield itself, although their fighting prowess was certainly equal to the challenge. Instead, a daimyo would hire them to undertake espionage missions or assassinate rivals. The kusa’s role was to carry out tasks that others could not honourably accomplish, as they were not constrained by bushido, the code that governed samurai behaviour. During sieges, kusa would infiltrate an enemy’s castle in disguise, gather intelligence and cause confusion by, for example, setting fires - leading the enemy to assume he had turncoats within his walls.",
+      "value_translated": "Los kusa han dominado el arte de la invisibilidad, ¡lo que los convierte en exploradores y asesinos enormemente efectivos! De hecho, sus habilidades son el producto de toda una vida de entrenamiento intensivo, su innata astucia y su habilidad para el despiste. La habilidad de moverse casi sin ser vistos por el campo de batalla hace que aparezcan de pronto, como de la nada, ataquen al general enemigo y se desvanezcan antes que les atrapen o maten.\\\\n\\\\nAdemás de llevar algunas mortíferas bombas de fuego, van armados con granadas cegadoras que pueden desorientar al enemigo durante un periodo corto de tiempo, reduciendo su habilidad de combate. Para mantener el sigilo, los kusa actúan en pequeños grupos, de modo que deben evitar el combate cuerpo a cuerpo pues no se pueden permitir muchas bajas.\\\\n\\\\nHistóricamente los kusa no se solían usar en el campo de batalla propiamente dicho, aunque sus habilidades de lucha bien se merecían tal desafío. En su lugar, el daimyo los reclutaba para que llevaran a cabo misiones de espionaje o para que asesinaran a ciertos rivales. La función del kusa era la de llevar a cabo misiones que otros no podían cumplir por honor, pues ellos no seguían el bushido, el código que gobernaba el comportamiento samurái. Durante los asedios, los kusa se infiltraban camuflados en el castillo del enemigo, reunían información y provocaban confusión, por ejemplo creando fuegos, para que el enemigo asumiera que tenía a renegados dentro de sus propios muros.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Nagamaki_Attendants": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Nagamaki_Attendants",
+      "value_original": "Using nagamakis to best effect requires training and dedication, as the long-bladed polearms require strength and co-ordination to use properly. Any idiot can swing a length of wood around, but to do this in the heat of combat and not decapitate yourself or a comrade takes practice. The attendants are a heavy infantry unit, and best used to carry the attack to the foe. They should be deployed in support of the more effective samurai, but can give a good account of themselves in their own right. They should not be positioned where massed ranks of archers can pepper them: arrows are no respecters of their targets’ worth. \\\\n\\\\nAlthough numbering in the thousands, the armies of the Gempei War were largely made up of professional warriors; these were not peasants like the ashigaru of the later Sengoku Jidai period. Warriors were expected to have naginata skills to great effect, but the weapon took time to master. By the time of the Sengoku Jidai, however, vast armies were being raised and the best that many warlords expected from their men was relatively simple spear work. An ashigaru was expected to know how to set his spear to receive a charge, and to take part in the “push of pike” scramble of melee, but not to fight with the same level of skill as those who fought with naginatas and nagamakis.",
+      "value_translated": "El uso óptimo de la nagamaki exige entrenamiento y dedicación, ya que esta arma de asta larga requiere fuerza y coordinación. Cualquier idiota puede agitar un palo largo, pero se necesita práctica para hacerlo en mitad de un combate sin decapitarse a sí mismo o a un camarada. Estos soldados son una unidad de infantería pesada ideal para atacar directamente al enemigo. Se los debería desplegar con el apoyo de los samurái, que son más eficaces, aunque por sí mismos se desenvuelven bastante bien. No hay que ponerlos en posiciones vulnerables al fuego de los arqueros: las flechas no respetan el valor de sus blancos. \\\\n\\\\nLos ejércitos de las guerras Genpei, aunque tenían miles de efectivos, estaban compuestos principalmente por guerreros profesionales, no por campesinos como los ashigaru de la posterior era Sengoku Jidai. Se esperaba que estos guerreros supiesen manejar bien la naginata, pero era un arma que llevaba su tiempo dominar. Cuando llegó la era Sengoku Jidai, con sus ejércitos enormes, los señores de la guerra solo podían esperar de sus hombres un manejo básico de la lanza. Un ashigaru tenía que saber cómo preparar su lanza para recibir una carga y cómo librar choques de lanzas contra lanzas, pero no tenía la misma destreza que los luchadores con naginatas y nagamakis.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Naginata_Attendant_Hero": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Naginata_Attendant_Hero",
+      "value_original": "The naginata is a weapon that favours the attack, like much samurai armament. Unlike a sword, however, it is equally useful against foot and horse. It can even be used as a rudimentary spear to ward off cavalry attacks. Despite his usefulness and aggressive qualities, a naginata hero and his followers should be handled carefully. They will die as readily as lesser men beneath a hail of arrows or bullets. Like all heroic forces, they can be swamped by sheer numbers of enemies, even lowly ashigaru, if they are unsupported. \\\\n\\\\nThere are arguments as to the exact origin of the naginata. The Japanese had a genius for adopting and improving Chinese ideas, so an early form of the “guan dao” glaive may well be the parent of the naginata. The guan dao is certainly several centuries older than the Japanese weapon, and the “hoko yari”, a spear issued to guards, was also often cited as a precursor to the true naginata. Regardless of the actual lineage, the curved, slicing blade on the end of a pole was independently developed around the world, and often adapted from a variety of agricultural implements. The billhook, glaive and many others are all blades on poles, and clearly weapons that owe much to basic farming tools. In the hands of an expert, all are deadly to footsoldiers and cavalry alike.",
+      "value_translated": "La naginata es un arma eminentemente ofensiva, como la mayoría del armamento de los samuráis, aunque, al contrario que la espada, es igualmente efectiva tanto contra los enemigos a caballo como contra aquellos a pie. También puede usarse a modo de lanza rudimentaria para defenderse de los ataques de la caballería. A pesar de lo útil que resulta y de sus agresivas cualidades, el héroe con naginata y su camarilla deben ser ordenados con cuidado, pues morirán como lo haría cualquier otro hombre bajo una lluvia de flechas o balas. Al igual que ocurre con todas las unidades de héroes, éstas sufrirán sobremanera si se enfrentan a un grupo de enemigos que los superen en número.\\\\n\\\\nEl origen exacto de la naginata es un tema discutido. Los japoneses tenían un talento especial para adoptar y mejorar las ideas chinas, así que se podría pensar que la naginata deriva de la “guan dao”, una arcaica guja de origen chino. Esta precede a la naginata en cientos de años. También se cita con frecuencia a la hoko yari, una lanza que portaban los guardias, como precursora de la verdadera naginata. Sea cual fuere el linaje de esta arma, la hoja curva coronando un palo fue un sistema que se desarrolló independientemente por todo el mundo y que solía ser una modificación de herramientas agrícolas. El gañifete, la guja y muchas otras armas semejantes están compuestas por una cuchilla y un asta, y es evidente que deben mucho a las herramientas de cultivo básicas, aunque, en manos de los expertos, suponen el azote de caballeros y soldados de a pie durante la batalla.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Naginata_Yamabushi": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Naginata_Yamabushi",
+      "value_original": "A devout warrior can be very dangerous, for the truly devout have little to fear from death. For these monks, faith is not just a matter of conscience, but another weapon and armour for the soul. It gives them very good morale in battle. The weapons they carry are naginatas, a staff as tall as a man with a sword-like blade fixed to the end. The long reach of these polearms makes them effective against both cavalry and infantry, but this versatility is no protection against overwhelming numbers or against missile attack. \\\\n\\\\nThe temples at Enryakuji, Miidera and Nara played a key role in the outcome of the Gempei War, giving each family a fighting force of deadly monk warriors. Each temple’s choice in choosing allies were often heavily influenced by the actions of the other two temples. Although the Nara and Miidera monks joined forces to aid the Minamoto during the Gempei War, they had been mortal enemies in 1117. As described in the war epic “Heike Monogatari”, the monks of Enryakuji and Miidera united against the Nara monks. The Emperor Go Shirakawa is quoted as saying: “Three things refuse to obey my will: the waters of the Kamo River, the fall of backgammon dice and the monks of the Enryakuji Temple.”",
+      "value_translated": "Un guerrero devoto puede ser muy peligroso; los verdaderos devotos tienen poco que temer a la muerte. Para estos monjes, la fe no solo pertenece a la conciencia, sino que también es un arma y una armadura para el alma. Esto les da una gran moral en batalla. Van equipados con la naginata, una larga lanza tan alta como un hombre con una hoja unida a su extremo. Su largo alcance la hace muy efectiva contra caballería e infantería, pero no presenta ninguna protección contra proyectiles. \\\\n\\\\nLos templos de Enryakuji, Miidera y Nara desempeñaron un papel fundamental en el resultado de las guerras Genpei y le dieron a cada familia una fuerza de mortales monjes guerreros. La elección de aliados de cada templo a menudo estaba muy influenciada por los acciones de los otros dos templos. Aunque los monjes Nara y Miidera unieron sus fuerzas para ayudar a los Minamoto durante las guerras Genpei, habían sido enemigos mortales en 1117. Tal y como se describe en el épico relato bélico “Heike Monogatari”, los monjes de Enryakuji y Miidera se unieron contra los monjes Nara. El emperador Go Shirakawa dijo: “Hay tres cosas que se niegan a obedecer mi voluntad: las aguas del río Kamo, la caída de los dados de backgammon y los monjes del templo Enryakuji”.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Samurai_Infantry_Yoritomo": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Samurai_Infantry_Yoritomo",
+      "value_original": "To be a samurai was, originally, to be a mounted warrior with bow and spear; mastery of the sword and fighting on foot were later developments. However, once adopted, these new ways were treated with equal sincerity and dedication. Samurai infantry are master archers, capable of hitting targets at impressively long ranges, and also quite capable of defeating enemies in close combat. However, the numerically small size of the unit does make them vulnerable to being overwhelmed by numerous lesser enemies. A wise commander also makes sure they are carefully handled when cavalry threaten. \\\\n\\\\nWar, the skills of war, and the spirits went hand in hand in Japan. According to the “Azuma Kagami”, a written account of the Gempei War, Minamoto Yoritomo’s first action when summoned to war was to put on ceremonial robes, and bow towards the Iwashimizu Hachiman shrine. By doing this, the Minamoto Shogun placed the destiny of his family in the hands of Hachiman, the kami of war and the Minamoto’s tutelary spirit. To make sure Hachiman continued to favour his clan, Yoritomo had a Shinto priest and a samurai “deeply versed in Shinto ritual” offer prayers on his behalf.",
+      "value_translated": "Originalmente, ser samurái significaba ser un guerrero montado a caballo con un arco y una lanza; la maestría de la espada y el combate a pie llegó más tarde. Sin embargo, una vez adoptados, estas nuevas sendas se trataron con la misma sinceridad y dedicación. La infantería samurái son arqueros maestros, capaces de acertar a los blancos desde distancias impresionantes y de derrotar a sus enemigos en combate cuerpo a cuerpo. Sin embargo, como la unidad tiene pocos efectivos, pueden verse superados por un enemigo numéricamente superior. Un sabio comandante los dirige con cuidado bajo la amenaza de la caballería. \\\\n\\\\nLa guerra, las habilidades guerreras y los espíritus estaban estrechamente relacionados en Japón. Según el relato “Azuma Kagami”, que habla de las guerras Genpei, lo primero que hizo Minamoto Yoritomo cuando lo llamaron a la guerra fue ponerse una túnica ceremonial e inclinarse ante el santuario de Iwashimizu Hachiman. Al hacer esto, el shogun Minamoto puso el destino de su familia en manos de Hachiman, el kami de la guerra y el espíritu guía de los Minamoto. Para asegurarse de que Hachiman siguiese favoreciendo a su clan, Yoritomo ordenó a un samurái y sacerdote sintoísta \"muy versado en el ritual sintoísta\" que rezase a su favor.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Samurai_Infantry_Yoshinaka": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Samurai_Infantry_Yoshinaka",
+      "value_original": "To be a samurai was, originally, to be a mounted warrior with bow and spear; mastery of the sword and fighting on foot were later developments. However, once adopted, these new ways were treated with equal sincerity and dedication. Samurai infantry are master archers, capable of hitting targets at impressively long ranges, and also quite capable of defeating enemies in close combat. However, the numerically small size of the unit does make them vulnerable to being overwhelmed by numerous lesser enemies. A wise commander also makes sure they are carefully handled when cavalry threaten. \\\\n\\\\nWar, the skills of war, and the spirits went hand in hand in Japan. According to the “Azuma Kagami”, a written account of the Gempei War, Minamoto Yoritomo’s first action when summoned to war was to put on ceremonial robes, and bow towards the Iwashimizu Hachiman shrine. By doing this, the Minamoto Shogun placed the destiny of his family in the hands of Hachiman, the kami of war and the Minamoto’s tutelary spirit. To make sure Hachiman continued to favour his clan, Yoritomo had a Shinto priest and a samurai “deeply versed in Shinto ritual” offer prayers on his behalf.",
+      "value_translated": "Originalmente, ser samurái significaba ser un guerrero montado a caballo con un arco y una lanza; la maestría de la espada y el combate a pie llegó más tarde. Sin embargo, una vez adoptados, estas nuevas sendas se trataron con la misma sinceridad y dedicación. La infantería samurái son arqueros maestros, capaces de acertar a los blancos desde distancias impresionantes y de derrotar a sus enemigos en combate cuerpo a cuerpo. Sin embargo, como la unidad tiene pocos efectivos, pueden verse superados por un enemigo numéricamente superior. Un sabio comandante los dirige con cuidado bajo la amenaza de la caballería. \\\\n\\\\nLa guerra, las habilidades guerreras y los espíritus estaban estrechamente relacionados en Japón. Según el relato “Azuma Kagami”, que habla de las guerras Genpei, lo primero que hizo Minamoto Yoritomo cuando lo llamaron a la guerra fue ponerse una túnica ceremonial e inclinarse ante el santuario de Iwashimizu Hachiman. Al hacer esto, el shogun Minamoto puso el destino de su familia en manos de Hachiman, el kami de la guerra y el espíritu guía de los Minamoto. Para asegurarse de que Hachiman siguiese favoreciendo a su clan, Yoritomo ordenó a un samurái y sacerdote sintoísta \"muy versado en el ritual sintoísta\" que rezase a su favor.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Sword_Junsatsushi": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Sword_Junsatsushi",
+      "value_original": "Sword junsatsushi are armed with a large powerful swords, impressive weapons that require the strength of both arms to wield effectively in battle. This gives the junsatsushi a fearsome appearance as they charge forward to engage in close combat. Two-handed swords are incredibly sharp and can easily cut through enemies, while the flat sides of the blades can deflect enemy blows. Sword attendants go into battle accepting death and fearing little, but accepting your death and foolishly risking life and limb are not the same thing. They must be wary of threats from cavalry and missile troops, against which they are vulnerable if mishandled. \\\\n\\\\nThe skill and craftsmanship of Japan’s swordsmiths is almost beyond compare. Perhaps only the swords from the forges of Toledo and Dasmascus matched the beauty of Japanese blades, but they did not quite match the sophisticated metallurgy of the Japanese. During the Gempei War the katana, or more correctly, tachi of later centuries had still to develop and become recognised as the classic samurai sword. The skills of the swordsmith were, however, already in evidence. Gempei period swords were just as deadly as their later Sengoku Jidai equivalents when used by an expert.",
+      "value_translated": "Los junsatsushi con espada van equipados con poderosos espadones, armas impresionantes que exigen ambas manos para su correcto uso en combate. Esto les da un aspecto temible cuando cargan para luchar cuerpo a cuerpo. Las espadas de dos manos están increíblemente afiladas y pueden cortar a los enemigos con facilidad, mientras que el plano de la hoja puede usarse para desviar los ataques. Los soldados con espada van a la batalla aceptando el riesgo de la muerte y son muy valientes, pero aceptar ese riesgo y arriesgar la vida en vano de forma temeraria no es lo mismo. Deben tener cuidado con la caballería y las tropas con proyectiles, contra las que son vulnerables si no se los guía correctamente. \\\\n\\\\nLa habilidad y el arte de los fabricantes de espadas de Japón son casi incomparables. Tal vez solo las espadas de las forjas de Toledo y Damasco pueden compararse con la belleza de las espadas japonesas, aunque la sofisticada metalurgia de los japoneses no tiene rival. La katana, o para ser más precisos, la tachi de las guerras Genpei se desarrolló en los siglos posteriores hasta convertirse en la espada clásica de los samurái. Sin embargo, ya por aquel entonces era evidente la habilidad de los forjadores de espadas. En manos de un experto, las espadas de la era Genpei eran tan mortales como las de la era Sengoku Jidai.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Inf_Sword_Katana_Kaizoku": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Inf_Sword_Katana_Kaizoku",
+      "value_original": "Kaizoku are men who have forsaken the code of bushido for a life of plunder and piracy. They have no qualms, though, about using samurai weapons, and these men carry the katana, the razor-sharp sword of the samurai. They can be part of a battle line and are fearsome warriors in melee, especially against spearmen. However, they are weaker against cavalry and missile units, and should stay out of range of enemy archers.\\\\n\\\\nHistorically, ‘wako’ was the name given to the Japanese pirates who raided the Chinese and Korean coasts. Parallels can be drawn between the sengoku daimyos and the pirate ‘sea lords’. Both sets of leaders took their chances in a power vacuum and seized large areas as their fiefdoms, ruling them through their own clan structures. The Murakami were one of the most powerful wako clans and would extort tolls from passing ships for ‘protection’. Later, the Murakami would ally with the Mori, in the process making the Mori a formidable naval power in their own right.",
+      "value_translated": "Los kaizoku son hombres que han renunciado al bushido para llevar una vida de piratería y saqueos. No tienen reparos a la hora de usar las armas de los samurái y además llevan katana, la afilada espada de los samurái. Pueden formar parte de la línea de batalla y son temibles guerreros en la lucha cuerpo a cuerpo, sobre todo contra los lanceros. Sin embargo, son más débiles contra la caballería y las unidades de proyectiles y deben mantenerse fuera de la zona de alcance de los arqueros enemigos.\\\\n\\\\nHistóricamente, “wako” era el nombre que recibían los piratas que asaltaban las costas de China y Corea. Hay similitudes entre los daimyo del Sengoku Jidai y los piratas o “señores del mar”. Ambos líderes aprovecharon el vacío de poder para apropiarse de grandes zonas que convertían en sus dominios, gobernándolos bajo sus propias estructuras de clanes. Los Murakami eran uno de los clanes más poderosos de los wako y exigían peajes de los barcos que pasaban a cambio de “protección”. Más tarde, los Murakami y los Mori se aliaron, lo que hizo que los Mori se convirtieran en una extraordinaria fuerza naval.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_long_description_text_Genpei_Fro_Light_Ship_Fire_Bomb_Light_Ship": {
+      "key": "unit_description_texts_long_description_text_Genpei_Fro_Light_Ship_Fire_Bomb_Light_Ship",
+      "value_original": "Firebomb ships are unusual vessels because they are used to attack the fabric of other ships rather than kill their crews. They have a short range attack that causes much damage, but are vulnerable to boarding counter-attacks: fireship crews are not trained for close combat. Most of their expertise concerns their dangerous and inflammatory weapons, which are pots filled with assorted demonic sulphurous chemicals, and men who use such devices need much courage before they even face an enemy. This gives them excellent morale in battle, as any danger from enemies has to be measured against the danger of the firebombs themselves. Firebomb ship crews have the Banzai special ability. \\\\n\\\\nAlthough gunpowder weapons were not employed during the Gempei War, the technology was available in China and would have been known to the Japanese by repute if nothing else. Gunpowder, and assorted unpleasant ways of using it against enemies, had been invented by accident in China some 200 years earlier. Alchemists had been searching for an elixir of immortality, a quest common to the profession across the world. European alchemists would spend centuries looking for the “philosopher’s stone” for its immortal benefits. Gunpowder and its successors, on the other hand, are almost certainly one of the greatest causers of mortality yet discovered.",
+      "value_translated": "Los barcos con bombas incendiarias son inusuales porque se emplean para atacar al propio barco enemigo más que para matar a su tripulación. Tienen un ataque de corto alcance que causa mucho daño, pero son vulnerables a los contraataques de abordaje: las tripulaciones de estos barcos no están entrenadas para el combate cuerpo a cuerpo. La mayor parte de su entrenamiento se dirige al manejo de sus peligrosas armas inflamables, que son ollas diabólicas llenas con diversos componentes químicos de azufre. Los hombres que usan estos artefactos necesitan mucho valor incluso antes de enfrentarse al enemigo. Esto les da una moral excelente en batalla, ya que el peligro de los enemigos va en relación al de las propias bombas incendiarias. Las tripulaciones de estos barcos tienen la habilidad especial banzai. \\\\n\\\\nAunque las armas de pólvora no se emplearon durante las guerras Genpei, la tecnología estaba disponible en China, y en Japón la conocerían al menos por su reputación. La pólvora y los violentos métodos de emplearla contra el enemigo se habían inventado en China por accidente hacía doscientos años. Los alquimistas habían estado buscando el elixir de la inmortalidad, algo común en la profesión por todo el mundo. Los alquimistas europeos pasaron siglos buscando la \"piedra filosofal\" por sus beneficios de inmortalidad. Paradójicamente, la pólvora y sus derivados son de los inventos más mortíferos jamás realizados.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Cav_Missile_Yabusame": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Cav_Missile_Yabusame",
+      "value_original": "Very good accuracy and reload rate.||Very good in melee.||Very good morale.||Vulnerable to naginata armed infantry and massed archers.",
+      "value_translated": "Precisión y velocidad de recarga muy buenas.||Notable en ataques cuerpo a cuerpo.||Moral muy buena.||Vulnerable a la infantería armada con naginatas y a las grandes masas de arqueros.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Fujiwara_Hiraizumi": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Fujiwara_Hiraizumi",
+      "value_original": "Very good accuracy and reload rate.||Very good in melee.||Very good morale.||Vulnerable to naginata armed infantry and massed archers.",
+      "value_translated": "Precisión y velocidad de recarga muy buenas.||Notable en ataques cuerpo a cuerpo.||Moral muy buena.||Vulnerable a la infantería armada con naginatas y a las grandes masas de arqueros.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Fujiwara_Kubota": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Fujiwara_Kubota",
+      "value_original": "Very good accuracy and reload rate.||Very good in melee.||Very good morale.||Vulnerable to naginata armed infantry and massed archers.",
+      "value_translated": "Precisión y velocidad de recarga muy buenas.||Notable en ataques cuerpo a cuerpo.||Moral muy buena.||Vulnerable a la infantería armada con naginatas y a las grandes masas de arqueros.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Minamoto_Kamakura": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Minamoto_Kamakura",
+      "value_original": "Very good accuracy and reload rate.||Very good in melee.||Very good morale.||Vulnerable to naginata armed infantry and massed archers.",
+      "value_translated": "Precisión y velocidad de recarga muy buenas.||Notable en ataques cuerpo a cuerpo.||Moral muy buena.||Vulnerable a la infantería armada con naginatas y a las grandes masas de arqueros.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Minamoto_Kiso": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Minamoto_Kiso",
+      "value_original": "Very good accuracy and reload rate.||Very good in melee.||Very good morale.||Vulnerable to naginata armed infantry and massed archers.",
+      "value_translated": "Precisión y velocidad de recarga muy buenas.||Notable en ataques cuerpo a cuerpo.||Moral muy buena.||Vulnerable a la infantería armada con naginatas y a las grandes masas de arqueros.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Minamoto_Loyalist": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Minamoto_Loyalist",
+      "value_original": "Average accuracy and reload rate.||Very good in melee.||Good morale.||Vulnerable to cavalry and massed archers.",
+      "value_translated": "Precisión y velocidad de recarga aceptables.||Notable en ataques cuerpo a cuerpo.||Moral buena.||Vulnerable a la caballería y a las grandes masas de arqueros.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Taira_Fukuhara": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Taira_Fukuhara",
+      "value_original": "Very good accuracy and reload rate.||Very good in melee.||Very good morale.||Vulnerable to naginata armed infantry and massed archers.",
+      "value_translated": "Precisión y velocidad de recarga muy buenas.||Notable en ataques cuerpo a cuerpo.||Moral muy buena.||Vulnerable a la infantería armada con naginatas y a las grandes masas de arqueros.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Taira_Yashima": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Taira_Yashima",
+      "value_original": "Very good accuracy and reload rate.||Very good in melee.||Very good morale.||Vulnerable to naginata armed infantry and massed archers.",
+      "value_translated": "Precisión y velocidad de recarga muy buenas.||Notable en ataques cuerpo a cuerpo.||Moral muy buena.||Vulnerable a la infantería armada con naginatas y a las grandes masas de arqueros.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Yojimbo": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Gen_Yojimbo",
+      "value_original": "Average accuracy and reload rate.||Average morale and melee attack.||Vulnerable to naginata armed infantry and massed archers.",
+      "value_translated": "Precisión y velocidad de recarga normales.||Ataque cuerpo a cuerpo y moral normales.||Vulnerable a la infantería armada con naginatas y a las grandes masas de arqueros.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Bow_Kaizoku": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Bow_Kaizoku",
+      "value_original": "Can deploy outside the deployment zone.||Can shoot whilst hidden.||Can hide almost anywhere.||Can walk whilst hidden.||Weak in melee.||Vulnerable to cavalry.",
+      "value_translated": "Puede desplegarse fuera de la zona de despliegue.||Puede disparar y seguir oculta.||Puede esconderse casi en cualquier parte.||Puede andar y seguir oculta.||Débil en el cuerpo a cuerpo.||Vulnerable a la caballería.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Bow_Samurai_Hero": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Bow_Samurai_Hero",
+      "value_original": "Long range and short reload time.||High accuracy and morale.||Good in melee.||Vulnerable to cavalry.",
+      "value_translated": "Largo alcance y escaso tiempo de recarga.||Precisión y moral altos.||Notable en ataques cuerpo a cuerpo.||Vulnerable a la caballería.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Bow_Warrior_Monk_Hero": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Bow_Warrior_Monk_Hero",
+      "value_original": "Very good accuracy and reload rate.||Very good morale.||Vulnerable to cavalry and archers.||Very low unit size.",
+      "value_translated": "Precisión y velocidad de recarga muy buenas.||Moral muy buena.||Vulnerable a la caballería y los arqueros.||Unidad de tamaño muy reducido.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Bow_Yamabushi": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Bow_Yamabushi",
+      "value_original": "Good accuracy and reload rate.||Very good morale.||Vulnerable to cavalry and archers.||Low unit size.",
+      "value_translated": "Precisión y velocidad de recarga buenas.||Moral muy buena.||Vulnerable a la caballería y los arqueros.||Unidad de tamaño reducido.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Heavy_Sword_Attendant_Hero": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Heavy_Sword_Attendant_Hero",
+      "value_original": "Good in melee.||Very good charge.||Good morale.||Vulnerable to cavalry and archers.||Vulnerable to long combats.",
+      "value_translated": "Aceptable en ataques cuerpo a cuerpo.||Notable en las cargas.||Moral muy buena.||Vulnerable a la caballería y los arqueros.||Vulnerable a combates prolongados.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Heavy_Sword_Attendants": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Heavy_Sword_Attendants",
+      "value_original": "Good in melee.||Very good charge.||Good morale.||Vulnerable to cavalry and archers.||Vulnerable to long combats.",
+      "value_translated": "Aceptable en ataques cuerpo a cuerpo.||Notable en las cargas.||Moral buena.||Vulnerable a la caballería y los arqueros.||Vulnerable a combates prolongados.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Kusa": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Kusa",
+      "value_original": "Can hide anywhere.||Can move hidden.||Can discover enemy hidden units easily.||Can climb walls very fast.||Devastating range attack but very limited ammunition.",
+      "value_translated": "Pueden ocultarse en cualquier parte.||Pueden mantenerse ocultos en movimiento.||Pueden descubrir unidades enemigas ocultas fácilmente. ||Pueden escalar muros rápidamente. ||Ataque a distancia devastador, pero con limitada munición.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Nagamaki_Attendants": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Nagamaki_Attendants",
+      "value_original": "Good against infantry.||Medium unit size.||Weak against heavy cavalry.",
+      "value_translated": "Aceptable contra la infantería y la caballería.||Unidad de tamaño medio.||Débil contra la infantería samurái.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Naginata_Attendant_Hero": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Naginata_Attendant_Hero",
+      "value_original": "Versatile infantry, very good against cavalry and other infantry. ||Excellent armour makes them highly resistant to arrows. ||Excellent morale.",
+      "value_translated": "Infantería versátil y muy buena contra la caballería y otra infantería. ||Su excelente armadura les hace muy resistentes ante las flechas. ||Excelente moral.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Naginata_Yamabushi": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Naginata_Yamabushi",
+      "value_original": "Versatile infantry, good against cavalry and other infantry.||Weak armour makes them vulnerable to arrows.||Very strong, but low unit size.",
+      "value_translated": "Infantería versátil, útil contra la caballería y otra infantería.||Su débil armadura la hace vulnerable a las flechas.||Muy poderosa, pero no muy numerosa.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Samurai_Infantry_Yoritomo": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Samurai_Infantry_Yoritomo",
+      "value_original": "Very good accuracy and reload rate.||Very good in melee.||Very good morale.||Vulnerable to cavalry and massed levy troops.",
+      "value_translated": "Precisión y velocidad de recarga muy buenas. ||Notable en ataques cuerpo a cuerpo.||Moral muy alta.||Vulnerable a la caballería y a las tropas de leva masivas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Samurai_Infantry_Yoshinaka": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Samurai_Infantry_Yoshinaka",
+      "value_original": "Average accuracy and reload rate.||Very good in melee.||Aveage morale.||Vulnerable to massed levy troops.",
+      "value_translated": "Precisión y velocidad de recarga aceptables. ||Notable en ataques cuerpo a cuerpo.||Moral normal.||Vulnerable a las tropas de leva masivas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Sword_Junsatsushi": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Sword_Junsatsushi",
+      "value_original": "Good in melee.||Good morale.||Vulnerable to cavalry and archers.||Good for defend cities.",
+      "value_translated": "Aceptable en ataques cuerpo a cuerpo.||Moral buena.||Vulnerable a la caballería y los arqueros.||Bueno para defender ciudades.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Sword_Katana_Kaizoku": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Inf_Sword_Katana_Kaizoku",
+      "value_original": "Can deploy outside the deployment zone.||Good melee attack and morale.||Weak armour.||Vulnerable to cavalry and missiles.",
+      "value_translated": "Puede desplegarse fuera de la zona de despliegue.||Buen ataque cuerpo a cuerpo y moral.||Poca armadura.||Vulnerable a la caballería y a los proyectiles.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Light_Ship_Fire_Bomb_Light_Ship": {
+      "key": "unit_description_texts_strengths_and_weaknesses_Genpei_Fro_Light_Ship_Fire_Bomb_Light_Ship",
+      "value_original": "Fastest moving in Genpei War.||Devastating short-range firebombs.||High morale.||Weak in ranged combat.||Weak in boarding battles.",
+      "value_translated": "El más rápido de las guerras genpei.||Bombas incendiarias devastadoras a corto alcance.||Moral alta.||Débil en combate a distancia.||Débil en batallas de abordaje.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Art_Fire_Projecting_Mangonels": {
+      "key": "units_on_screen_name_Genpei_Fro_Art_Fire_Projecting_Mangonels",
+      "value_original": "Fire Projecting Mangonels",
+      "value_translated": "Mangoneles incendiarios",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Cav_Missile_Yabusame_Yoritomo": {
+      "key": "units_on_screen_name_Genpei_Fro_Cav_Missile_Yabusame_Yoritomo",
+      "value_original": "Yoritomo’s Yabusame Cavalry",
+      "value_translated": "Caballería Yabusame de Yoritomo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Cav_Missile_Yabusame_Yoshinaka": {
+      "key": "units_on_screen_name_Genpei_Fro_Cav_Missile_Yabusame_Yoshinaka",
+      "value_original": "Yoshinaka’s Yabusame Cavalry",
+      "value_translated": "Caballería Yabusame de Yoshinaka",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Fujiwara_Hidehira": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Fujiwara_Hidehira",
+      "value_original": "Fujiwara Hidehira",
+      "value_translated": "Fujiwara Hidehira",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Fujiwara_Hiraizumi": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Fujiwara_Hiraizumi",
+      "value_original": "General's Bodyguard",
+      "value_translated": "Guardaespaldas del general",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Fujiwara_Kubota": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Fujiwara_Kubota",
+      "value_original": "General's Bodyguard",
+      "value_translated": "Guardaespaldas del general",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Fujiwara_Motofusa": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Fujiwara_Motofusa",
+      "value_original": "Fujiwara Motofusa",
+      "value_translated": "Fujiwara Motofusa",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Minamoto_Kamakura": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Minamoto_Kamakura",
+      "value_original": "General's Bodyguard",
+      "value_translated": "Guardaespaldas del general",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Minamoto_Kiso": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Minamoto_Kiso",
+      "value_original": "General's Bodyguard",
+      "value_translated": "Guardaespaldas del general",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Minamoto_Loyalist": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Minamoto_Loyalist",
+      "value_original": "Minamoto Loyalist",
+      "value_translated": "Lealistas Minamoto",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Minamoto_Yoritomo": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Minamoto_Yoritomo",
+      "value_original": "Minamoto Yoritomo",
+      "value_translated": "Minamoto Yoritomo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Minamoto_Yoshinaka": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Minamoto_Yoshinaka",
+      "value_original": "Minamoto Yoshinaka",
+      "value_translated": "Minamoto Yoshinaka",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Taira_Fukuhara": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Taira_Fukuhara",
+      "value_original": "General's Bodyguard",
+      "value_translated": "Guardaespaldas del general",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Taira_Kiyomori": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Taira_Kiyomori",
+      "value_original": "Taira Kiyomori",
+      "value_translated": "Taira Kiyomori",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Taira_Tsunemori": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Taira_Tsunemori",
+      "value_original": "Taira Tsunemori",
+      "value_translated": "Taira Tsunemori",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Taira_Yashima": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Taira_Yashima",
+      "value_original": "General's Bodyguard",
+      "value_translated": "Guardaespaldas del general",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Gen_Yojimbo": {
+      "key": "units_on_screen_name_Genpei_Fro_Gen_Yojimbo",
+      "value_original": "Yojimbo",
+      "value_translated": "Yojimbo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Heavy_Nagamaki_Attendants": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Heavy_Nagamaki_Attendants",
+      "value_original": "Nagamaki Attendants",
+      "value_translated": "Soldados con nagamakis",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Heavy_Naginata_Attendant_Hero": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Heavy_Naginata_Attendant_Hero",
+      "value_original": "Naginata Attendant Hero",
+      "value_translated": "Héroe soldado con naginata",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Heavy_Naginata_Yamabushi": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Heavy_Naginata_Yamabushi",
+      "value_original": "Naginata Yamabushi",
+      "value_translated": "Yamabushi con naginata",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Missile_Bow_Kaizoku": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Missile_Bow_Kaizoku",
+      "value_original": "Bow Kaizoku",
+      "value_translated": "Kaizoku arqueros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Missile_Bow_Samurai_Hero": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Missile_Bow_Samurai_Hero",
+      "value_original": "Foot Samurai Hero",
+      "value_translated": "Héroe samurái a pie",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Missile_Bow_Warrior_Monk_Hero": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Missile_Bow_Warrior_Monk_Hero",
+      "value_original": "Bow Warrior Monk Hero",
+      "value_translated": "Héroe monje guerrero arquero",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Missile_Bow_Yamabushi": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Missile_Bow_Yamabushi",
+      "value_original": "Bow Yamabushi",
+      "value_translated": "Yamabushi arqueros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Missile_Samurai_Infantry_Yoritomo": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Missile_Samurai_Infantry_Yoritomo",
+      "value_original": "Yoritomo's Foot Samurai",
+      "value_translated": "Samuráis a pie de Yoritomo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Missile_Samurai_Infantry_Yoshinaka": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Missile_Samurai_Infantry_Yoshinaka",
+      "value_original": "Yoshinaka's Foot Samurai",
+      "value_translated": "Samuráis a pie de Yoshinaka",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Special_Kusa": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Special_Kusa",
+      "value_original": "Kusa",
+      "value_translated": "Kusa",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Sword_Heavy_Sword_Attendant_Hero": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Sword_Heavy_Sword_Attendant_Hero",
+      "value_original": "Heavy Sword Attendant Hero",
+      "value_translated": "Héroe soldado con espada pesada",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Sword_Heavy_Sword_Attendants": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Sword_Heavy_Sword_Attendants",
+      "value_original": "Heavy Sword Attendants",
+      "value_translated": "Soldados con espadas pesadas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Sword_Junsatsushi": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Sword_Junsatsushi",
+      "value_original": "Sword Junsatsushi",
+      "value_translated": "Junsatsushi con espadas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Inf_Sword_Katana_Kaizoku": {
+      "key": "units_on_screen_name_Genpei_Fro_Inf_Sword_Katana_Kaizoku",
+      "value_original": "Sword Kaizoku",
+      "value_translated": "Kaizoku con espadas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_on_screen_name_Genpei_Fro_Light_Ship_Fire_Bomb_Light_Ship": {
+      "key": "units_on_screen_name_Genpei_Fro_Light_Ship_Fire_Bomb_Light_Ship",
+      "value_original": "Firebomb Light Ship",
+      "value_translated": "Barco ligero con bombas incendiarias",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}
