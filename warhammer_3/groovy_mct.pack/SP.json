@@ -1,0 +1,447 @@
+{
+  "language": "SP",
+  "pack_name": "groovy_mct.pack",
+  "translations": {
+    "mct_button_client_change": {
+      "key": "mct_button_client_change",
+      "value_original": "[[col:red]]MCT settings have been changed by the Host! Open the panel to check changed settings.[[/col]]",
+      "value_translated": "[[col:red]]¡El anfitrión ha cambiado los ajustes de MCT! Abre el panel para comprobar los ajustes cambiados.[[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_button_finalize_settings": {
+      "key": "mct_button_finalize_settings",
+      "value_original": "Save and Apply",
+      "value_translated": "Guardar y aplicar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_button_finalize_settings_tt": {
+      "key": "mct_button_finalize_settings_tt",
+      "value_original": "Save and apply all changed settings. There will be a pop-up to confirm your changes.",
+      "value_translated": "Guardar y aplicar todos los ajustes modificados. Habrá un diálogo para confirmar tus cambios.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_button_revert_to_default": {
+      "key": "mct_button_revert_to_default",
+      "value_original": "Revert to Defaults",
+      "value_translated": "Restaurar ajustes predeterminados",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_button_revert_to_default_tt": {
+      "key": "mct_button_revert_to_default_tt",
+      "value_original": "Change all the settings for the currently selected mod back to the modder-specified defaults.",
+      "value_translated": "Restaura todos los ajustes del mod seleccionado actualmente de vuelta a los valores predeterminados especificados por el modder.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_button_unfinalized": {
+      "key": "mct_button_unfinalized",
+      "value_original": "[[col:red]]MCT settings have not been finalized! Select settings and press \"Finalize Settings\"![[/col]]",
+      "value_translated": "[[col:red]]¡Los ajustes de MCT no se han finalizado! ¡Selecciona ajustes y presiona \"Finalizar ajustes\"![[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_finalize_settings_popup_mod_header": {
+      "key": "mct_finalize_settings_popup_mod_header",
+      "value_original": "Mods & Options",
+      "value_translated": "Mods y Opciones",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_finalize_settings_popup_new_value_header": {
+      "key": "mct_finalize_settings_popup_new_value_header",
+      "value_original": "New Value",
+      "value_translated": "Nuevo valor",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_finalize_settings_popup_old_value_header": {
+      "key": "mct_finalize_settings_popup_old_value_header",
+      "value_original": "Previous Value",
+      "value_translated": "Valor anterior",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_lock_reason_battle": {
+      "key": "mct_lock_reason_battle",
+      "value_original": "[[col:red]]This setting cannot be edited during battle![[/col]]",
+      "value_translated": "[[col:red]]¡Este ajuste no se puede editar durante una batalla![[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_lock_reason_mp_client": {
+      "key": "mct_lock_reason_mp_client",
+      "value_original": "[[col:red]]This setting can only be edited by the MP host![[/col]]",
+      "value_translated": "[[col:red]]¡Este ajuste sólo puede ser editado por el host![[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_lock_reason_read_only": {
+      "key": "mct_lock_reason_read_only",
+      "value_original": "[[col:red]]This setting can only be edited in the frontend menu![[/col]]",
+      "value_translated": "[[col:red]]¡Este ajuste solo puede ser editado en el menú principal![[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_logging_tab_active": {
+      "key": "mct_logging_tab_active",
+      "value_original": "Logging||Open the log file for this mod.",
+      "value_translated": "Registro||Abre el archivo de registro para este mod.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_logging_tab_inactive": {
+      "key": "mct_logging_tab_inactive",
+      "value_original": "[[col:red]]Logging[[/col]]||",
+      "value_translated": "[[col:red]]Registro[[/col]]||",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_logging_tab_selected": {
+      "key": "mct_logging_tab_selected",
+      "value_original": "Logging||The log file system for this mod.",
+      "value_translated": "Registro||El sistema de archivos de registro para este mod.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_mct_mod_author": {
+      "key": "mct_mct_mod_author",
+      "value_original": "Groove Wizard",
+      "value_translated": "Groove Wizard",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_mct_mod_default_section_text": {
+      "key": "mct_mct_mod_default_section_text",
+      "value_original": "Default Category",
+      "value_translated": "Categoría predeterminada",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_mct_mod_description": {
+      "key": "mct_mct_mod_description",
+      "value_original": "The following are the settings for the mod you're looking at right now. Try it out!",
+      "value_translated": "Los siguientes son los ajustes para el mod que estás viendo en este momento. ¡Pruébalos!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_mct_mod_title": {
+      "key": "mct_mct_mod_title",
+      "value_original": "Mod Configuration Tool",
+      "value_translated": "Herramienta de configuración de Mods",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_mp_is_host_end": {
+      "key": "mct_mp_is_host_end",
+      "value_original": "[[col:fabulous_pink]]IF THIS IS WRONG - IF THE OTHER PLAYER IS ON THE LEFT SIDE OF THE SCREEN - PLEASE LOAD TO THE MAIN MENU AND LOAD BACK IN.[[/col]]",
+      "value_translated": "[[col:fabulous_pink]]SI ESTO ESTA MAL - SI EL OTRO JUGADOR ESTÁ EN EL LADO IZQUIERDO DE LA PANTALLA - POR FAVOR, CARGA AL MENÚ PRINCIPAL Y VUELVE A CARGAR LA PARTIDA.[[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_mp_is_host_mid": {
+      "key": "mct_mp_is_host_mid",
+      "value_original": "Loading your settings from MCT. Make sure the other player is cool with the settings you've chosen, if you care!",
+      "value_translated": "Cargando tus ajustes desde el MCT. Asegúrate de que al otro jugador le parecen bien los ajustes que has seleccionado, si es que te importa su opinión.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_mp_is_host_start": {
+      "key": "mct_mp_is_host_start",
+      "value_original": "[[col:red]]MCT: Loading Your Settings[[/col]]",
+      "value_translated": "[[col:red]]MCT: Cargando tus ajustes[[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_mp_not_host_end": {
+      "key": "mct_mp_not_host_end",
+      "value_original": "Loading the Host's settings from MCT. Make sure you're cool with the settings they've picked. Do note - you can't see the host's settings until you load into the campaign, so you'll have to discuss it elsewhere.",
+      "value_translated": "Cargando los ajustes del host desde MCT. Asegúrate de que estás contento con los ajustes que el host ha elegido. Ten en cuenta que no podrás ver los ajustes del host hasta que cargues la campaña, por lo que tendrás que discutirlo con él en algún lugar.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_mp_not_host_end_actually": {
+      "key": "mct_mp_not_host_end_actually",
+      "value_original": "[[col:fabulous_pink]]IF THIS IS WRONG - IF YOU ARE ON THE LEFT SIDE OF THE SCREEN - PLEASE LOAD TO THE MAIN MENU AND LOAD BACK IN. ALSO REPORT THIS TO VANDY.[[/col]]",
+      "value_translated": "[[col:fabulous_pink]]SI ESTO ESTA MAL - SI ESTÁS EN EL LADO IZQUIERDO DE LA PANTALLA -  POR FAVOR, CARGA AL MENÚ PRINCIPAL Y VUELVE A CARGAR LA PARTIDA. Y TAMBIÉN REPORTA ESTO A VANDY.[[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_mp_not_host_mid": {
+      "key": "mct_mp_not_host_mid",
+      "value_original": "'s Settings[[/col]]",
+      "value_translated": " - Ajustes[[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_mp_not_host_start": {
+      "key": "mct_mp_not_host_start",
+      "value_original": "[[col:red]]MCT: Loading ",
+      "value_translated": "[[col:red]]MCT: Cargando",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_new_settings_created_end": {
+      "key": "mct_new_settings_created_end",
+      "value_original": "Press the check mark to open up the MCT panel. Press the x to set to the default values for the new options.",
+      "value_translated": "Presiona el botón de visto para abrir el panel de MCT. Presiona la X para seleccionar los valores por defecto para nuevas opciones.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_new_settings_created_mid": {
+      "key": "mct_new_settings_created_mid",
+      "value_original": "The following mods have new options created since loading up this session (either due to a lord choice, or something happening in the game, etc): ",
+      "value_translated": "Los siguientes mods tienen nuevas opciones creadas desde que se cargó esta sesión (ya sea debido a una elección de señor, o algo que sucede en el juego, etc.):",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_new_settings_created_start": {
+      "key": "mct_new_settings_created_start",
+      "value_original": "[[col:red]]MCT - New Options Created![[/col]]",
+      "value_translated": "[[col:red]]MCT - ¡Nuevas opciones creadas![[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_new_settings_end": {
+      "key": "mct_new_settings_end",
+      "value_original": "Press the check to open MCT. Or, press the x to accept all default values for the new settings.",
+      "value_translated": "Presiona el botón de visto para abrir el panel de MCT. O presiona la X para aceptar los valores por defecto para los nuevos ajustes.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_new_settings_mid": {
+      "key": "mct_new_settings_mid",
+      "value_original": "New settings have been added since the last time you've played, in mods ",
+      "value_translated": "Se han agregado nuevos ajustes desde la última vez que jugaste, en mods.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_new_settings_start": {
+      "key": "mct_new_settings_start",
+      "value_original": "[[col:red]]MCT - New Settings Found![[/col]]",
+      "value_translated": "[[col:red]]MCT - ¡Nuevos ajustes encontrados![[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_patch_notes_tab_active": {
+      "key": "mct_patch_notes_tab_active",
+      "value_original": "Patch Notes||Open the patch notes available for this mod.",
+      "value_translated": "Notas del parche||Abre las notas del parche disponibles para este mod.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_patch_notes_tab_inactive": {
+      "key": "mct_patch_notes_tab_inactive",
+      "value_original": "[[col:red]]Patch Notes[[/col]]||",
+      "value_translated": "[[col:red]]Notas del parche[[/col]]||",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_patch_notes_tab_selected": {
+      "key": "mct_patch_notes_tab_selected",
+      "value_original": "Patch Notes||Patch notes for this mod.",
+      "value_translated": "Notas del parche||Notas del parche para este mod.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_bad_key": {
+      "key": "mct_profiles_bad_key",
+      "value_original": "\\\\n[[col:red]]Invalid key - not a valid string![[/col]]",
+      "value_translated": "\\\\n[[col:red]]Clave no válida: ¡no es una cadena válida![[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_blank_key": {
+      "key": "mct_profiles_blank_key",
+      "value_original": "\\\\n[[col:red]]Invalid key - you have to insert a string![[/col]]",
+      "value_translated": "\\\\n[[col:red]]Clave no válida: ¡tienes que insertar una cadena![[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_change_popup": {
+      "key": "mct_profiles_change_popup",
+      "value_original": "Are you sure you want to change profiles? There are pending changes on [%s] that will be lost if you continue.",
+      "value_translated": "¿Está seguro de que quieres cambiar de perfil? Hay cambios pendientes en [%s] que se perderán si continúas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_current_name": {
+      "key": "mct_profiles_current_name",
+      "value_original": "\\\\nCurrent name: %s",
+      "value_translated": "\\\\nNombre actual: %s",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_default_profile": {
+      "key": "mct_profiles_default_profile",
+      "value_original": "Default Profile",
+      "value_translated": "Perfil por defecto",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_delete_popup": {
+      "key": "mct_profiles_delete_popup",
+      "value_original": "Are you sure you would like to delete your Profile with the key [%s]? This action is irreversible!",
+      "value_translated": "¿Está seguro de que te gustaría eliminar el perfil con la clave [%s]? ¡Esta acción es irreversible!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_delete_tt": {
+      "key": "mct_profiles_delete_tt",
+      "value_original": "Delete Profile||Delete the currently selected MCT Profile. Irreversible!",
+      "value_translated": "Eliminar perfil||Eliminar el perfil MCT seleccionado actualmente. ¡Irreversible! ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_delete_tt_inactive": {
+      "key": "mct_profiles_delete_tt_inactive",
+      "value_original": "[[col:red]]Cannot delete the Default Profile![[/col]]",
+      "value_translated": "[[col:red]]¡No se puede eliminar el perfil predeterminado![[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_edit_tt": {
+      "key": "mct_profiles_edit_tt",
+      "value_original": "Edit Profile||Edit the selected profile, to rename it or change its description.",
+      "value_translated": "Editar perfil||Edite el perfil seleccionado, para cambiarle el nombre o cambiar su descripción.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_edit_tt_inactive": {
+      "key": "mct_profiles_edit_tt_inactive",
+      "value_original": "[[col:red]]Can't edit the Default Profile![[/col]]",
+      "value_translated": "[[col:red]]¡No se puede editar el perfil predeterminado![[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_exists": {
+      "key": "mct_profiles_exists",
+      "value_original": "\\\\n[[col:red]]Invalid key - a profile with that name already exists![[/col]]",
+      "value_translated": "\\\\n[[col:red]]Clave no válida: ¡ya existe un perfil con ese nombre![[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_export_tt": {
+      "key": "mct_profiles_export_tt",
+      "value_original": "TODO",
+      "value_translated": "TODO",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_export_txt": {
+      "key": "mct_profiles_export_txt",
+      "value_original": "Export",
+      "value_translated": "Exportar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_import_tt": {
+      "key": "mct_profiles_import_tt",
+      "value_original": "TODO",
+      "value_translated": "TODO",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_import_txt": {
+      "key": "mct_profiles_import_txt",
+      "value_original": "Import",
+      "value_translated": "Importar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_new": {
+      "key": "mct_profiles_new",
+      "value_original": "Type in your desired profile name and description below.",
+      "value_translated": "Escribe el nombre de perfil que desees y la descripción a continuación.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_new_tt": {
+      "key": "mct_profiles_new_tt",
+      "value_original": "Create Profile||Add a new Profile, with all the same settings as the currently selected Profile to start.",
+      "value_translated": "Crear perfil||Agrega un nuevo perfil, con los mismos ajustes que el perfil seleccionado actualmente para comenzar.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_profiles_new_tt_inactive": {
+      "key": "mct_profiles_new_tt_inactive",
+      "value_original": "[[col:red]]Maximum amount of Profiles reached![[/col]]",
+      "value_translated": "[[col:red]]¡Cantidad máxima de perfiles alcanzada![[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_settings_tab_active": {
+      "key": "mct_settings_tab_active",
+      "value_original": "Settings||Open the settings tab for this mod.",
+      "value_translated": "Ajustes||Abre la pestaña de ajustes para este mod.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_settings_tab_inactive": {
+      "key": "mct_settings_tab_inactive",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_settings_tab_selected": {
+      "key": "mct_settings_tab_selected",
+      "value_original": "Settings||The various settings for this mod.",
+      "value_translated": "Ajustes||Los diversos ajustes para este mod.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_ui_mods_header": {
+      "key": "mct_ui_mods_header",
+      "value_original": "Mods",
+      "value_translated": "Mods",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_ui_settings_title": {
+      "key": "mct_ui_settings_title",
+      "value_original": "Mod Configuration Tool Settings",
+      "value_translated": "Ajustes de la herramienta de configuración de Mods",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "uied_component_texts_localised_string_StateText_607fc144": {
+      "key": "uied_component_texts_localised_string_StateText_607fc144",
+      "value_original": "MOD SETTINGS",
+      "value_translated": "AJUSTES DE MODS",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "uied_component_texts_localised_string_StateText_d7eed06": {
+      "key": "uied_component_texts_localised_string_StateText_d7eed06",
+      "value_original": "Mod Configuration Tool",
+      "value_translated": "Herramienta de configuración de Mods",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "uied_component_texts_localised_string_button_mct_options_Tooltip_42069": {
+      "key": "uied_component_texts_localised_string_button_mct_options_Tooltip_42069",
+      "value_original": "Mod Configuration Tool Options",
+      "value_translated": "Opciones de la herramienta de configuración de Mods",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "vlib_popup_cancel": {
+      "key": "vlib_popup_cancel",
+      "value_original": "Cancel",
+      "value_translated": "Cancelar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "vlib_popup_confirm": {
+      "key": "vlib_popup_confirm",
+      "value_original": "Confirm",
+      "value_translated": "Confirmar",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}

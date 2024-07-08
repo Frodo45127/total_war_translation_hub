@@ -1,0 +1,531 @@
+{
+  "language": "SP",
+  "pack_name": "!!!!!!!!!!!!!!!!map_assets_and_replacer.pack",
+  "translations": {
+    "battlefield_buildings_names_global_effects_description_fro_nuln_barricade_oil_leak": {
+      "key": "battlefield_buildings_names_global_effects_description_fro_nuln_barricade_oil_leak",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_global_effects_description_fro_nuln_barricade_oil_pit": {
+      "key": "battlefield_buildings_names_global_effects_description_fro_nuln_barricade_oil_pit",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_global_effects_description_fro_nuln_garrison_headquarters": {
+      "key": "battlefield_buildings_names_global_effects_description_fro_nuln_garrison_headquarters",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_global_effects_description_fro_nuln_industrielplatz": {
+      "key": "battlefield_buildings_names_global_effects_description_fro_nuln_industrielplatz",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_global_effects_description_fro_nuln_marktplatz": {
+      "key": "battlefield_buildings_names_global_effects_description_fro_nuln_marktplatz",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_global_effects_description_fro_nuln_palace": {
+      "key": "battlefield_buildings_names_global_effects_description_fro_nuln_palace",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_global_effects_description_fro_nuln_tower_gatling": {
+      "key": "battlefield_buildings_names_global_effects_description_fro_nuln_tower_gatling",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_global_effects_description_fro_nuln_tower_magic": {
+      "key": "battlefield_buildings_names_global_effects_description_fro_nuln_tower_magic",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_global_effects_description_fro_nuln_tower_mortar": {
+      "key": "battlefield_buildings_names_global_effects_description_fro_nuln_tower_mortar",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_global_effects_description_fro_nuln_tower_smog": {
+      "key": "battlefield_buildings_names_global_effects_description_fro_nuln_tower_smog",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_global_effects_description_fro_nuln_university_of_magic": {
+      "key": "battlefield_buildings_names_global_effects_description_fro_nuln_university_of_magic",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_local_effects_description_fro_nuln_barricade_oil_leak": {
+      "key": "battlefield_buildings_names_local_effects_description_fro_nuln_barricade_oil_leak",
+      "value_original": "On a normal day, this is only an Oil Leak. Today, it's another graveyard for our enemies.",
+      "value_translated": "En un día normal, esto es sólo una fuga de aceote. Hoy, es el cementerio para nuestros enemigos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_local_effects_description_fro_nuln_barricade_oil_pit": {
+      "key": "battlefield_buildings_names_local_effects_description_fro_nuln_barricade_oil_pit",
+      "value_original": "If our enemies want to see this city burn, they'll burn first.",
+      "value_translated": "Si nuestros enemigos quieren ver arder esta ciudad, ellos arderán primero.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_local_effects_description_fro_nuln_garrison_headquarters": {
+      "key": "battlefield_buildings_names_local_effects_description_fro_nuln_garrison_headquarters",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_local_effects_description_fro_nuln_industrielplatz": {
+      "key": "battlefield_buildings_names_local_effects_description_fro_nuln_industrielplatz",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_local_effects_description_fro_nuln_marktplatz": {
+      "key": "battlefield_buildings_names_local_effects_description_fro_nuln_marktplatz",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_local_effects_description_fro_nuln_palace": {
+      "key": "battlefield_buildings_names_local_effects_description_fro_nuln_palace",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_local_effects_description_fro_nuln_tower_gatling": {
+      "key": "battlefield_buildings_names_local_effects_description_fro_nuln_tower_gatling",
+      "value_original": "Watching from above the Garrison Headquarters, this tower will make any intruder pay dearly.",
+      "value_translated": "Observando desde lo alto del cuartel general de la guarnición, esta torre hará pagar caro a cualquier intruso.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_local_effects_description_fro_nuln_tower_magic": {
+      "key": "battlefield_buildings_names_local_effects_description_fro_nuln_tower_magic",
+      "value_original": "A creation of the brightest minds from the University of Magic.",
+      "value_translated": "Una creación de las mentes más brillantes de la Universidad de Magia.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_local_effects_description_fro_nuln_tower_mortar": {
+      "key": "battlefield_buildings_names_local_effects_description_fro_nuln_tower_mortar",
+      "value_original": "Mortars straight out of the forges, ready to make it rain shells.",
+      "value_translated": "Morteros recién salidos de las forjas, listos para hacer llover proyectiles.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_local_effects_description_fro_nuln_tower_smog": {
+      "key": "battlefield_buildings_names_local_effects_description_fro_nuln_tower_smog",
+      "value_original": "The great forges of Nuln re-route their smoke and polution to the streets of Faulestadt, poisoning the air for anyone still there.",
+      "value_translated": "Las grandes forjas de Nuln desvían su humo y su contaminación a las calles de Faulestadt, envenenando el aire para cualquiera que todavía esté allí.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_local_effects_description_fro_nuln_university_of_magic": {
+      "key": "battlefield_buildings_names_local_effects_description_fro_nuln_university_of_magic",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_onscreen_name_fro_nuln_barricade_oil_leak": {
+      "key": "battlefield_buildings_names_onscreen_name_fro_nuln_barricade_oil_leak",
+      "value_original": "Oil Leak",
+      "value_translated": "Fuga de aceite",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_onscreen_name_fro_nuln_barricade_oil_pit": {
+      "key": "battlefield_buildings_names_onscreen_name_fro_nuln_barricade_oil_pit",
+      "value_original": "Oil Pit",
+      "value_translated": "Foso de aceite",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_onscreen_name_fro_nuln_garrison_headquarters": {
+      "key": "battlefield_buildings_names_onscreen_name_fro_nuln_garrison_headquarters",
+      "value_original": "Garrison Headquarters",
+      "value_translated": "Cuartel general de la guarnición",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_onscreen_name_fro_nuln_industrielplatz": {
+      "key": "battlefield_buildings_names_onscreen_name_fro_nuln_industrielplatz",
+      "value_original": "Industrielplazt",
+      "value_translated": "Plaza industrial",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_onscreen_name_fro_nuln_marktplatz": {
+      "key": "battlefield_buildings_names_onscreen_name_fro_nuln_marktplatz",
+      "value_original": "Marktplatz",
+      "value_translated": "Plaza del mercado",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_onscreen_name_fro_nuln_palace": {
+      "key": "battlefield_buildings_names_onscreen_name_fro_nuln_palace",
+      "value_original": "Palace",
+      "value_translated": "Palacio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_onscreen_name_fro_nuln_tower_gatling": {
+      "key": "battlefield_buildings_names_onscreen_name_fro_nuln_tower_gatling",
+      "value_original": "Volley Gun Tower",
+      "value_translated": "Torre de cañones de salvas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_onscreen_name_fro_nuln_tower_magic": {
+      "key": "battlefield_buildings_names_onscreen_name_fro_nuln_tower_magic",
+      "value_original": "Experimental Ray Tower",
+      "value_translated": "Torre de rayos experimental",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_onscreen_name_fro_nuln_tower_mortar": {
+      "key": "battlefield_buildings_names_onscreen_name_fro_nuln_tower_mortar",
+      "value_original": "Mortar Tower",
+      "value_translated": "Torre de mortero",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_onscreen_name_fro_nuln_tower_smog": {
+      "key": "battlefield_buildings_names_onscreen_name_fro_nuln_tower_smog",
+      "value_original": "Urgat's Smog Tower",
+      "value_translated": "Torre de humo de Urgat",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_buildings_names_onscreen_name_fro_nuln_university_of_magic": {
+      "key": "battlefield_buildings_names_onscreen_name_fro_nuln_university_of_magic",
+      "value_original": "University of Magic",
+      "value_translated": "Universidad de magia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_a_mod_config__enable": {
+      "key": "mct_map_rep_a_mod_config__enable",
+      "value_original": "Enable Map Replacer",
+      "value_translated": "Activar el Reemplazador de Mapas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_a_mod_config__enable_tooltip": {
+      "key": "mct_map_rep_a_mod_config__enable_tooltip",
+      "value_original": "Enables/disables the whole framework.",
+      "value_translated": "Activa/desactiva el sistema entero.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_cr_combi_expanded_coordinate_based": {
+      "key": "mct_map_rep_cr_combi_expanded_coordinate_based",
+      "value_original": "Immortal Empires Expanded (coordinate-based)",
+      "value_translated": "Immortal Empires Expanded (basado en coordenadas)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_cr_combi_expanded_province_based": {
+      "key": "mct_map_rep_cr_combi_expanded_province_based",
+      "value_original": "Immortal Empires Expanded (province-based)",
+      "value_translated": "Immortal Empires Expanded (basado en provincias)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_cr_combi_expanded_region_based": {
+      "key": "mct_map_rep_cr_combi_expanded_region_based",
+      "value_original": "Immortal Empires Expanded (region-based)",
+      "value_translated": "Immortal Empires Expanded (basado en regiones)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_cr_oldworld_coordinate_based": {
+      "key": "mct_map_rep_cr_oldworld_coordinate_based",
+      "value_original": "The Old World (coordinate-based)",
+      "value_translated": "El Viejo Mundo (basado en coordenadas)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_cr_oldworld_province_based": {
+      "key": "mct_map_rep_cr_oldworld_province_based",
+      "value_original": "The Old World (province-based)",
+      "value_translated": "El Viejo Mundo (basado en provincias)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_cr_oldworld_region_based": {
+      "key": "mct_map_rep_cr_oldworld_region_based",
+      "value_original": "The Old World (region-based)",
+      "value_translated": "El Viejo Mundo (basado en regiones)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_global_mod_config": {
+      "key": "mct_map_rep_global_mod_config",
+      "value_original": "Framework Configuration",
+      "value_translated": "Configuración del sistema",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_main_warhammer_coordinate_based": {
+      "key": "mct_map_rep_main_warhammer_coordinate_based",
+      "value_original": "Immortal Empires (coordinate-based)",
+      "value_translated": "Imperios Inmortales (basado en coordenadas)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_main_warhammer_province_based": {
+      "key": "mct_map_rep_main_warhammer_province_based",
+      "value_original": "Immortal Empires (province-based)",
+      "value_translated": "Imperios Inmortales (basado ​​en provincias)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_main_warhammer_region_based": {
+      "key": "mct_map_rep_main_warhammer_region_based",
+      "value_original": "Immortal Empires (region-based)",
+      "value_translated": "Imperios Inmortales (basado ​​en regiones)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_mod_desc": {
+      "key": "mct_map_rep_mod_desc",
+      "value_original": "This mod allows map makers to insert their maps into the campaign.",
+      "value_translated": "Este mod permite a los creadores de mapas insertar sus mapas en la campaña.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_mod_title": {
+      "key": "mct_map_rep_mod_title",
+      "value_original": "Map Replacer Framework",
+      "value_translated": "Sistema de Reemplazo de Mapas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_wh3_main_chaos_coordinate_based": {
+      "key": "mct_map_rep_wh3_main_chaos_coordinate_based",
+      "value_original": "Realm of Chaos (coordinate-based)",
+      "value_translated": "Reinos del Caos (basado en coordenadas)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_wh3_main_chaos_province_based": {
+      "key": "mct_map_rep_wh3_main_chaos_province_based",
+      "value_original": "Realm of Chaos (province-based)",
+      "value_translated": "Reinos del Caos (basado en provincias)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_wh3_main_chaos_region_based": {
+      "key": "mct_map_rep_wh3_main_chaos_region_based",
+      "value_original": "Realm of Chaos (region-based)",
+      "value_translated": "Reinos del Caos (basado en regiones)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_wh3_main_prologue_coordinate_based": {
+      "key": "mct_map_rep_wh3_main_prologue_coordinate_based",
+      "value_original": "Prologue (coordinate-based)",
+      "value_translated": "Prólogo (basado en coordenadas)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_wh3_main_prologue_province_based": {
+      "key": "mct_map_rep_wh3_main_prologue_province_based",
+      "value_original": "Prologue (province-based)",
+      "value_translated": "Prólogo (basado en provincias)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mct_map_rep_wh3_main_prologue_region_based": {
+      "key": "mct_map_rep_wh3_main_prologue_region_based",
+      "value_original": "Prologue (region-based)",
+      "value_translated": "Prólogo (basado en regiones)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "special_ability_phases_onscreen_name_fro_nuln_barricade_oil_leak": {
+      "key": "special_ability_phases_onscreen_name_fro_nuln_barricade_oil_leak",
+      "value_original": "Oiled",
+      "value_translated": "Lubricado",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "special_ability_phases_onscreen_name_fro_nuln_garrison_headquarters": {
+      "key": "special_ability_phases_onscreen_name_fro_nuln_garrison_headquarters",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "special_ability_phases_onscreen_name_fro_nuln_industrielplatz": {
+      "key": "special_ability_phases_onscreen_name_fro_nuln_industrielplatz",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "special_ability_phases_onscreen_name_fro_nuln_marktplatz": {
+      "key": "special_ability_phases_onscreen_name_fro_nuln_marktplatz",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "special_ability_phases_onscreen_name_fro_nuln_palace": {
+      "key": "special_ability_phases_onscreen_name_fro_nuln_palace",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "special_ability_phases_onscreen_name_fro_nuln_palace_unbreakable": {
+      "key": "special_ability_phases_onscreen_name_fro_nuln_palace_unbreakable",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "special_ability_phases_onscreen_name_fro_nuln_tower_smug": {
+      "key": "special_ability_phases_onscreen_name_fro_nuln_tower_smug",
+      "value_original": "Thick Smog",
+      "value_translated": "Humo denso",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "special_ability_phases_onscreen_name_fro_nuln_university_of_magic": {
+      "key": "special_ability_phases_onscreen_name_fro_nuln_university_of_magic",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_fro_nuln_barricade_oil_leak": {
+      "key": "unit_abilities_onscreen_name_fro_nuln_barricade_oil_leak",
+      "value_original": "Oiled",
+      "value_translated": "Lubricado",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_fro_nuln_garrison_headquarters": {
+      "key": "unit_abilities_onscreen_name_fro_nuln_garrison_headquarters",
+      "value_original": "Garrison Armaments",
+      "value_translated": "Armamentos de la guarnición",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_fro_nuln_industrielplatz": {
+      "key": "unit_abilities_onscreen_name_fro_nuln_industrielplatz",
+      "value_original": "Industrielplazt",
+      "value_translated": "Plaza industrial",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_fro_nuln_marktplatz": {
+      "key": "unit_abilities_onscreen_name_fro_nuln_marktplatz",
+      "value_original": "Marktplatz",
+      "value_translated": "Plaza del mercado",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_fro_nuln_palace": {
+      "key": "unit_abilities_onscreen_name_fro_nuln_palace",
+      "value_original": "Palace",
+      "value_translated": "Palacio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_fro_nuln_tower_smug": {
+      "key": "unit_abilities_onscreen_name_fro_nuln_tower_smug",
+      "value_original": "Thick Smog",
+      "value_translated": "Niebla densa",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_fro_nuln_university_of_magic": {
+      "key": "unit_abilities_onscreen_name_fro_nuln_university_of_magic",
+      "value_original": "University of Magic",
+      "value_translated": "Universidad de magia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_fro_nuln_barricade_oil_leak": {
+      "key": "unit_abilities_tooltip_text_fro_nuln_barricade_oil_leak",
+      "value_original": "Fully oiled and ready to burn.",
+      "value_translated": "Totalmente lubricado y listo para arder.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_fro_nuln_garrison_headquarters": {
+      "key": "unit_abilities_tooltip_text_fro_nuln_garrison_headquarters",
+      "value_original": "The best weapons and armours the engineers of Nuln can offer.",
+      "value_translated": "Las mejores armas y armaduras que pueden ofrecer los ingenieros de Nuln.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_fro_nuln_industrielplatz": {
+      "key": "unit_abilities_tooltip_text_fro_nuln_industrielplatz",
+      "value_original": "If you need something to defend yourself and you're not part of the garrison, here's where you get it.",
+      "value_translated": "Si necesitas algo para defenderte y no eres parte de la guarnición, aquí puedes conseguirlo.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_fro_nuln_marktplatz": {
+      "key": "unit_abilities_tooltip_text_fro_nuln_marktplatz",
+      "value_original": "Supplies for the tired!",
+      "value_translated": "¡Suministros para los cansados!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_fro_nuln_palace": {
+      "key": "unit_abilities_tooltip_text_fro_nuln_palace",
+      "value_original": "The Great Palace of Nuln, a symbol of the city... which must never fall.",
+      "value_translated": "El Gran Palacio de Nuln, símbolo de la ciudad... que nunca debe caer.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_fro_nuln_tower_smug": {
+      "key": "unit_abilities_tooltip_text_fro_nuln_tower_smug",
+      "value_original": "If we can get sick and die of this smog, our enemies can too.",
+      "value_translated": "Si nosotros podemos enfermarnos y morir a causa de esta niebla, nuestros enemigos también pueden hacerlo.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_fro_nuln_university_of_magic": {
+      "key": "unit_abilities_tooltip_text_fro_nuln_university_of_magic",
+      "value_original": "The mages at the University of Magic may not be as famous as the ones from other cities, but sure they can burn you down to a crisp if you tell them so.",
+      "value_translated": "Puede que los magos de la Universidad de Magia no sean tan famosos como los de otras ciudades, pero seguro que pueden quemarte hasta convertirte en cenizas si se lo dices.",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}
