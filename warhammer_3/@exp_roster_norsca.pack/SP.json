@@ -1,0 +1,587 @@
+{
+  "language": "SP",
+  "pack_name": "@exp_roster_norsca.pack",
+  "translations": {
+    "agent_subtypes_description_text_override_deco_nor_jarl": {
+      "key": "agent_subtypes_description_text_override_deco_nor_jarl",
+      "value_original": "The Jarl is the most battle hardened veteran of his group and often a lesser clan chieftain of his tribe.",
+      "value_translated": "El Jarl es el veterano más curtido en la batalla de su grupo y a menudo un jefe de clan menor de su tribu.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_onscreen_name_override_deco_nor_jarl": {
+      "key": "agent_subtypes_onscreen_name_override_deco_nor_jarl",
+      "value_original": "Jarl",
+      "value_translated": "Jarl",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_colour_text_wh_main_anc_mount_deco_nor_jarl_mammoth": {
+      "key": "ancillaries_colour_text_wh_main_anc_mount_deco_nor_jarl_mammoth",
+      "value_original": "Tainted and savage they may be, but these behemoths remain willing to bear high-status Marauders into battle, trampling flat everything foolish enough to get in their way.",
+      "value_translated": "Puede que sean salvajes y corruptos, pero estos monstruos están dispuestos a acompañar a los Bárbaros más prestigiosos a la batalla, pisoteando a todo aquel lo bastante lerdo como para interponerse en su camino.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_colour_text_wh_main_anc_mount_deco_nor_jarl_warhorse": {
+      "key": "ancillaries_colour_text_wh_main_anc_mount_deco_nor_jarl_warhorse",
+      "value_original": "The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.",
+      "value_translated": "Los caballos de Norsca viven para la batalla, llegando incluso a elegir como pasto los huesos de los caídos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_onscreen_name_wh_main_anc_mount_deco_nor_jarl_mammoth": {
+      "key": "ancillaries_onscreen_name_wh_main_anc_mount_deco_nor_jarl_mammoth",
+      "value_original": "War Mammoth",
+      "value_translated": "Mamut de Guerra",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_onscreen_name_wh_main_anc_mount_deco_nor_jarl_warhorse": {
+      "key": "ancillaries_onscreen_name_wh_main_anc_mount_deco_nor_jarl_warhorse",
+      "value_original": "Norscan Warhorse",
+      "value_translated": "Caballo de Guerra Norse",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_jarl_mammoth": {
+      "key": "character_skills_localised_description_deco_jarl_mammoth",
+      "value_original": "Tainted and savage they may be, but these behemoths remain willing to bear high-status Marauders into battle, trampling flat everything foolish enough to get in their way.",
+      "value_translated": "Puede que sean salvajes y corruptos, pero estos monstruos están dispuestos a acompañar a los Bárbaros más prestigiosos a la batalla, pisoteando a todo aquel lo bastante lerdo como para interponerse en su camino.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_jarl_warhorse": {
+      "key": "character_skills_localised_description_deco_jarl_warhorse",
+      "value_original": "The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.",
+      "value_translated": "Los caballos de Norsca viven para la batalla, llegando incluso a elegir como pasto los huesos de los caídos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_jarl_mammoth": {
+      "key": "character_skills_localised_name_deco_jarl_mammoth",
+      "value_original": "War Mammoth",
+      "value_translated": "Mamut de Guerra",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_jarl_warhorse": {
+      "key": "character_skills_localised_name_deco_jarl_warhorse",
+      "value_original": "Norscan Warhorse",
+      "value_translated": "Caballo de Guerra Norse",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_deco_nor_jarl_cap_effect": {
+      "key": "effects_description_deco_nor_jarl_cap_effect",
+      "value_original": "Hero capacity: %+n for Jarls",
+      "value_translated": "Capacidad del Héroe: %+n para los Jarls",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_deco_nor_jarl_enable_recruitment_effect": {
+      "key": "effects_description_deco_nor_jarl_enable_recruitment_effect",
+      "value_original": "Unlocks [[img:icon_hero]][[/img]]Hero recruitment: Jarl",
+      "value_translated": "Desbloquea el reclutamiento del [[img:icon_hero]][[/img]]Héroe: Jarl",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_ammunition_nor_marauder_hunters_marauder_horsemen": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_ammunition_nor_marauder_hunters_marauder_horsemen",
+      "value_original": "Ammunition: %+n% for Bondsmen, Marauder Hunters, Reavers, Marauder Horsemen, and Marauder Horsemasters units",
+      "value_translated": "Munición: %+n% para las unidades de Mozuelos, Cazadores Bárbaros, Corsarios, Jinetes Bárbaros, y Señores de los Caballos Bárbaros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_armour_manticore_frost_wyrm": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_armour_manticore_frost_wyrm",
+      "value_original": "Armour: %+n for Manticore, Valkyrie, Frost Hydra and Frost Wyrm units",
+      "value_translated": "Armadura: %+n para las unidades de Mantícoras, Valkirias, Hidras de Escarcha y Dragones de Escarcha del Caos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_armour_marauders_spearmen_berserkers_champions_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_armour_marauders_spearmen_berserkers_champions_rank7",
+      "value_original": "Armour: %+n for Marauders, Marauder Spearmen, Pit Fighters, Shield Maidens. Marauder Berserkers, Marauder Champions, and Huskarl units {{tr:rank7}}",
+      "value_translated": "Armadura: %+n para las unidades de Bárbaros, Lanceros Bárbaros, Luchadores del Foso, Doncellas Escuderas, Bersérkers Bárbaros, Paladines Bárbaros y Huskarles {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_armour_trolls_frost_wyrm_giant_mammoth_fimir_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_armour_trolls_frost_wyrm_giant_mammoth_fimir_rank7",
+      "value_original": "Armour: %+n for Norscan Trolls, Norscan Ice Trolls, Valkyrie, Frost Hydra, Frost Wyrm, Norscan Giant, Fimir, Feral Mammoth, and War Mammoth units {{tr:rank7}}",
+      "value_translated": "Armadura: %+n para las unidades de Trolls Norses, Trolls de Hielo Norses, Valkirias, Hidras de Escarcha, Dragones de Escarcha del Caos, Gigantes Norse, Fimir, Mamuts Salvaje y Mamuts de Guerra {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_melee_attack_nor_manticore_frost_wyrm": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_melee_attack_nor_manticore_frost_wyrm",
+      "value_original": "Melee attack: %+n for Manticore, Valkyrie, Frost Hydra and Frost Wyrm units",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para las unidades de Mantícoras, Valkirias, Hidras de Escarcha y Dragones de Escarcha del Caos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_melee_attack_nor_marauders_spearmen_berserkers_champions": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_melee_attack_nor_marauders_spearmen_berserkers_champions",
+      "value_original": "Melee attack: %+n for Marauders, Marauder Spearmen, Pit Fighters, Shield Maidens. Marauder Berserkers, Marauder Champions, and Huskarl units",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para las unidades de Bárbaros, Lanceros Bárbaros, Luchadores del Foso, Doncellas Escuderas, Bersérkers Bárbaros, Paladines Bárbaros y Huskarles",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_melee_defence_nor_marauders_spearmen_berserkers_champions_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_melee_defence_nor_marauders_spearmen_berserkers_champions_rank7",
+      "value_original": "Melee defence: %+n for Marauders, Marauder Spearmen, Pit Fighters, Shield Maidens. Marauder Berserkers, Marauder Champions, and Huskarl units {{tr:rank7}}",
+      "value_translated": "Defensa cuerpo a cuerpo: %+n para las unidades de Bárbaros, Lanceros Bárbaros, Luchadores del Foso, Doncellas Escuderas, Bersérkers Bárbaros, Paladines Bárbaros y Huskarles {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_missile_damage_nor_marauder_hunters_marauder_horsemen": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_missile_damage_nor_marauder_hunters_marauder_horsemen",
+      "value_original": "Missile strength: %+n% for Bondsmen, Marauder Hunters, Reavers, Marauder Horsemen, and Marauder Horsemasters units",
+      "value_translated": "Fuerza de proyectiles: %+n% para las unidades de Mozuelos, Cazadores Bárbaros, Corsarios, Jinetes Bárbaros, y Señores de los Caballos Bárbaros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_missile_damage_nor_marauder_hunters_marauder_horsemen_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_missile_damage_nor_marauder_hunters_marauder_horsemen_rank7",
+      "value_original": "Missile strength: %+n% for Bondsmen, Marauder Hunters, Reavers, Marauder Horsemen, and Marauder Horsemasters units {{tr:rank7}}",
+      "value_translated": "Fuerza de proyectiles: %+n% para las unidades de Mozuelos, Cazadores Bárbaros, Corsarios, Jinetes Bárbaros, y Señores de los Caballos Bárbaros {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_missile_resistance_nor_marauder_hunters_marauder_horsemen_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_missile_resistance_nor_marauder_hunters_marauder_horsemen_rank7",
+      "value_original": "Missile resistance: %n% for Bondsmen, Marauder Hunters, Reavers, Marauder Horsemen, and Marauder Horsemasters units {{tr:rank7}}",
+      "value_translated": "Resistencia a los proyectiles: %n% para las unidades de Mozuelos, Cazadores Bárbaros, Corsarios, Jinetes Bárbaros, y Señores de los Caballos Bárbaros {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_physical_resistance_nor_marauders_spearmen_berserkers_champions_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_physical_resistance_nor_marauders_spearmen_berserkers_champions_rank7",
+      "value_original": "Physical resistance: %n% for Marauders, Marauder Spearmen, Pit Fighters, Shield Maidens. Marauder Berserkers, Marauder Champions, and Huskarl units {{tr:rank7}}",
+      "value_translated": "Resistencia física: %n% para las unidades de Bárbaros, Lanceros Bárbaros, Luchadores del Foso, Doncellas Escuderas, Bersérkers Bárbaros, Paladines Bárbaros y Huskarles {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_reload_time_reduction_nor_marauder_hunters_marauder_horsemen_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_reload_time_reduction_nor_marauder_hunters_marauder_horsemen_rank7",
+      "value_original": "Reload time reduction: %+n% for Bondsmen, Marauder Hunters, Reavers, Marauder Horsemen, and Marauder Horsemasters units {{tr:rank7}}",
+      "value_translated": "Reducción del tiempo de recarga: %+n% para las unidades de Mozuelos, Cazadores Bárbaros, Corsarios, Jinetes Bárbaros, y Señores de los Caballos Bárbaros {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_ward_save_trolls_frost_wyrm_giant_mammoth_fimir_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_ward_save_trolls_frost_wyrm_giant_mammoth_fimir_rank7",
+      "value_original": "Ward save: %n% for Norscan Trolls, Norscan Ice Trolls, Valkyrie, Frost Hydra, Frost Wyrm, Norscan Giant, Fimir, Feral Mammoth, and War Mammoth units {{tr:rank7}}",
+      "value_translated": "Salvación especial: %+n para las unidades de Trolls Norses, Trolls de Hielo Norses, Valkirias, Hidras de Escarcha, Dragones de Escarcha del Caos, Gigantes Norse, Fimir, Mamuts Salvaje y Mamuts de Guerra {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_weapon_strength_nor_marauders_spearmen_berserkers_champions": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_weapon_strength_nor_marauders_spearmen_berserkers_champions",
+      "value_original": "Weapon strength: %+n% for Marauders, Marauder Spearmen, Pit Fighters, Shield Maidens. Marauder Berserkers, Marauder Champions, and Huskarl units",
+      "value_translated": "Fuerza del arma: %+n% para las unidades de Bárbaros, Lanceros Bárbaros, Luchadores del Foso, Doncellas Escuderas, Bersérkers Bárbaros, Paladines Bárbaros y Huskarles",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_weapon_strength_nor_trolls_frost_wyrm_giant_mammoth_fimir_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_weapon_strength_nor_trolls_frost_wyrm_giant_mammoth_fimir_rank7",
+      "value_original": "Weapon strength: %+n% for Norscan Trolls, Norscan Ice Trolls, Valkyrie, Frost Hydra, Frost Wyrm, Norscan Giant, Fimir, Feral Mammoth, and War Mammoth units {{tr:rank7}}",
+      "value_translated": "Fuerza del arma: %+n para las unidades de Trolls Norses, Trolls de Hielo Norses, Valkirias, Hidras de Escarcha, Dragones de Escarcha del Caos, Gigantes Norse, Fimir, Mamuts Salvaje y Mamuts de Guerra {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc17_effect_bonus_vs_infantry_increase_norscan_hunter_units": {
+      "key": "effects_description_wh2_dlc17_effect_bonus_vs_infantry_increase_norscan_hunter_units",
+      "value_original": "Bonus vs Large: %+n for Bondsmen, Marauder Hunters, Reavers, Marauder Spearmen and all Marauder cavalry units ",
+      "value_translated": "Bonificación contra enemigos grandes: %+n para las unidades de Mozuelos, Cazadores Bárbaros, Corsarios, Lanceros Bárbaros, y todas las unidades de caballería bárbaras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_dlc08_effect_force_stat_charge_bonus_add_marauder_champions": {
+      "key": "effects_description_wh_dlc08_effect_force_stat_charge_bonus_add_marauder_champions",
+      "value_original": "Charge bonus: %+n for Shield Maidens, Marauder Champions, and Huskarl units",
+      "value_translated": "Bonificación de carga: %+n para las unidades de Doncellas Escuderas, Paladines Bárbaros y Huskarles",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_dlc08_effect_force_stat_melee_defence_marauder_champions": {
+      "key": "effects_description_wh_dlc08_effect_force_stat_melee_defence_marauder_champions",
+      "value_original": "Melee defence: %+n for Shield Maidens, Marauder Champions, and Huskarl units",
+      "value_translated": "Defensa cuerpo a cuerpo: %+n para las unidades de Doncellas Escuderas, Paladines Bárbaros y Huskarles",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_nor_bondsmen": {
+      "key": "land_units_onscreen_name_deco_nor_bondsmen",
+      "value_original": "Bondsmen",
+      "value_translated": "Mozuelos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_nor_huskarls": {
+      "key": "land_units_onscreen_name_deco_nor_huskarls",
+      "value_original": "Huskarls",
+      "value_translated": "Huscarles",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_nor_hydra": {
+      "key": "land_units_onscreen_name_deco_nor_hydra",
+      "value_original": "Frost Hydra",
+      "value_translated": "Hidra de Escarcha",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_nor_jarl": {
+      "key": "land_units_onscreen_name_deco_nor_jarl",
+      "value_original": "Jarl",
+      "value_translated": "Jarl",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_nor_jarl_mammoth": {
+      "key": "land_units_onscreen_name_deco_nor_jarl_mammoth",
+      "value_original": "Jarl",
+      "value_translated": "Jarl",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_nor_jarl_warhorse": {
+      "key": "land_units_onscreen_name_deco_nor_jarl_warhorse",
+      "value_original": "Jarl",
+      "value_translated": "Jarl",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_nor_maidens": {
+      "key": "land_units_onscreen_name_deco_nor_maidens",
+      "value_original": "Shield Maidens",
+      "value_translated": "Doncellas Escuderas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_nor_pit": {
+      "key": "land_units_onscreen_name_deco_nor_pit",
+      "value_original": "Pit Fighters",
+      "value_translated": "Luchadores del Foso",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_nor_reavers": {
+      "key": "land_units_onscreen_name_deco_nor_reavers",
+      "value_original": "Reavers",
+      "value_translated": "Corsarios",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_nor_valkyrie": {
+      "key": "land_units_onscreen_name_deco_nor_valkyrie",
+      "value_original": "Valkyrie",
+      "value_translated": "Valquiria",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_nor_wolf": {
+      "key": "land_units_onscreen_name_deco_nor_wolf",
+      "value_original": "Mortkin's Fang (Norscan Ice Wolf)",
+      "value_translated": "Colmillo de Mortkin (Lobo de Hielo Norse)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_nor_bondsmen": {
+      "key": "loading_screen_quotes_description_deco_nor_bondsmen",
+      "value_original": "Young and inexperienced, the Bondsmen are loyal warriors who are usually in the service of a particular Jarl.",
+      "value_translated": "Jóvenes e inexpertos, los Mozuelos son guerreros leales que suelen estar al servicio de un Jarl en particular.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_nor_huskarls": {
+      "key": "loading_screen_quotes_description_deco_nor_huskarls",
+      "value_original": "Fierce men who earned a place in the hall of a Chieftain who values their skill in combat.",
+      "value_translated": "Hombres feroces que se ganaron un lugar en el salón de un caudillo que valora su habilidad en el combate.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_nor_hydra": {
+      "key": "loading_screen_quotes_description_deco_nor_hydra",
+      "value_original": "Legends speak of a rare variation of this horrible creature, that prefers to live in the dark and frozen caverns of the North.",
+      "value_translated": "Las leyendas hablan de una rara variante de esta horrible criatura, que prefiere vivir en las oscuras y heladas cavernas del Norte.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_nor_maidens": {
+      "key": "loading_screen_quotes_description_deco_nor_maidens",
+      "value_original": "Respected by the Jarls of many Norse clans, the Shield Maidens are deadly warriors swift of movement and of blade.",
+      "value_translated": "Respetadas por los jarls de muchos clanes norses, las Doncellas Escuderas son guerreras mortales, rápidas de movimiento y de espada.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_nor_reavers": {
+      "key": "loading_screen_quotes_description_deco_nor_reavers",
+      "value_original": "Among the most feared mariners are the Norse Reavers, brutal warriors who plunder the coastlines.",
+      "value_translated": "Entre los marineros más temidos están los Corsarios Norse, guerreros brutales que saquean las costas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_nor_bondsmen": {
+      "key": "loading_screen_quotes_title_deco_nor_bondsmen",
+      "value_original": "Bondsmen",
+      "value_translated": "Mozuelos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_nor_huskarls": {
+      "key": "loading_screen_quotes_title_deco_nor_huskarls",
+      "value_original": "Huskarls",
+      "value_translated": "Huscarles",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_nor_hydra": {
+      "key": "loading_screen_quotes_title_deco_nor_hydra",
+      "value_original": "Frost Hydra",
+      "value_translated": "Hidra de Escarcha",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_nor_maidens": {
+      "key": "loading_screen_quotes_title_deco_nor_maidens",
+      "value_original": "Shield Maidens",
+      "value_translated": "Doncellas Escuderas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_nor_reavers": {
+      "key": "loading_screen_quotes_title_deco_nor_reavers",
+      "value_original": "Reavers",
+      "value_translated": "Corsarios",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_onscreen_name_deco_nor_shieldwall": {
+      "key": "ui_unit_bullet_point_enums_onscreen_name_deco_nor_shieldwall",
+      "value_original": "Shield Wall",
+      "value_translated": "Muro de Escudos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_onscreen_name_deco_nor_whirlwind": {
+      "key": "ui_unit_bullet_point_enums_onscreen_name_deco_nor_whirlwind",
+      "value_original": "Whirlwind",
+      "value_translated": "Torbellino",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_tooltip_deco_nor_shieldwall": {
+      "key": "ui_unit_bullet_point_enums_tooltip_deco_nor_shieldwall",
+      "value_original": "A special technique of the Shield Maidens.",
+      "value_translated": "Una técnica especial de las Doncellas Escuderas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_tooltip_deco_nor_whirlwind": {
+      "key": "ui_unit_bullet_point_enums_tooltip_deco_nor_whirlwind",
+      "value_original": "Devastating attacks that come at a cost of losing focus.",
+      "value_translated": "Ataques devastadores, pero a costa de perder la concentración.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_groupings_onscreen_deco_nor_jarl": {
+      "key": "ui_unit_groupings_onscreen_deco_nor_jarl",
+      "value_original": "Melee Specialist",
+      "value_translated": "Especialista cuerpo a cuerpo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_groupings_onscreen_deco_nor_jarl_mammoth": {
+      "key": "ui_unit_groupings_onscreen_deco_nor_jarl_mammoth",
+      "value_original": "War Mammoth",
+      "value_translated": "Mamut de Guerra",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_groupings_onscreen_deco_nor_jarl_warhorse": {
+      "key": "ui_unit_groupings_onscreen_deco_nor_jarl_warhorse",
+      "value_original": "Melee Specialist",
+      "value_translated": "Especialista cuerpo a cuerpo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_groupings_tooltip_deco_nor_jarl": {
+      "key": "ui_unit_groupings_tooltip_deco_nor_jarl",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_groupings_tooltip_deco_nor_jarl_mammoth": {
+      "key": "ui_unit_groupings_tooltip_deco_nor_jarl_mammoth",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_groupings_tooltip_deco_nor_jarl_warhorse": {
+      "key": "ui_unit_groupings_tooltip_deco_nor_jarl_warhorse",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_additional_ui_effects_localised_text_deco_nor_ice_blast": {
+      "key": "unit_abilities_additional_ui_effects_localised_text_deco_nor_ice_blast",
+      "value_original": "Powerful explosion of frozen crystals",
+      "value_translated": "Potente explosión de cristales helados",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_deco_nor_ice_blast": {
+      "key": "unit_abilities_onscreen_name_deco_nor_ice_blast",
+      "value_original": "Ice Blast",
+      "value_translated": "Aliento de Hielo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_deco_nor_shieldwall": {
+      "key": "unit_abilities_onscreen_name_deco_nor_shieldwall",
+      "value_original": "Shield Wall",
+      "value_translated": "Muro de Escudos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_deco_nor_whirlwind": {
+      "key": "unit_abilities_onscreen_name_deco_nor_whirlwind",
+      "value_original": "Whirlwind",
+      "value_translated": "Torbellino",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_deco_nor_ice_blast": {
+      "key": "unit_abilities_tooltip_text_deco_nor_ice_blast",
+      "value_original": "Glacial breath that instantly freezes the Hydra's hunters.",
+      "value_translated": "Aliento glacial que congela instantáneamente a los cazadores de la Hidra.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_deco_nor_shieldwall": {
+      "key": "unit_abilities_tooltip_text_deco_nor_shieldwall",
+      "value_original": "Shield Maidens train constantly in the use of their shields, using them to parry both blows and arrows with ease.",
+      "value_translated": "Las Doncellas Escuderas se entrenan constantemente en el uso de sus escudos, utilizándolos para parar tanto los golpes como las flechas con facilidad.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_deco_nor_whirlwind": {
+      "key": "unit_abilities_tooltip_text_deco_nor_whirlwind",
+      "value_original": "With this devastating \"tornado\" attack, the Pit Fighters tear through the enemy ranks hacking recklessly at foes around them.",
+      "value_translated": "Con este devastador ataque en forma de \"tornado\", los Luchadores del Foso atraviesan las filas enemigas cortando temerariamente a los enemigos que los rodean.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_nor_bondsmen": {
+      "key": "unit_description_short_texts_text_deco_nor_bondsmen",
+      "value_original": "Young and inexperienced, the Bondsmen are loyal warriors who are usually in the service of a particular Jarl.",
+      "value_translated": "Jóvenes e inexpertos, los Mozuelos son guerreros leales que suelen estar al servicio de un Jarl en particular.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_nor_huskarls": {
+      "key": "unit_description_short_texts_text_deco_nor_huskarls",
+      "value_original": "Fierce men who earned a place in the hall of a Chieftain who values their skill in combat.",
+      "value_translated": "Hombres feroces que se ganaron un lugar en el salón de un caudillo que valora su habilidad en el combate.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_nor_hydra": {
+      "key": "unit_description_short_texts_text_deco_nor_hydra",
+      "value_original": "Legends speak of a rare variation of this horrible creature, that prefers to live in the dark and frozen caverns of the North.",
+      "value_translated": "Las leyendas hablan de una rara variante de esta horrible criatura, que prefiere vivir en las oscuras y heladas cavernas del Norte.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_nor_jarl": {
+      "key": "unit_description_short_texts_text_deco_nor_jarl",
+      "value_original": "The Jarl is the most battle hardened veteran of his group and often a lesser clan chieftain of his tribe.",
+      "value_translated": "El Jarl es el veterano más curtido en la batalla de su grupo y a menudo un jefe de clan menor de su tribu.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_nor_maidens": {
+      "key": "unit_description_short_texts_text_deco_nor_maidens",
+      "value_original": "Respected by the Jarls of many Norse clans, the Shield Maidens are deadly warriors swift of movement and of blade.",
+      "value_translated": "Respetadas por los jarls de muchos clanes norses, las Doncellas Escuderas son guerreras mortales, rápidas de movimiento y de espada.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_nor_pit": {
+      "key": "unit_description_short_texts_text_deco_nor_pit",
+      "value_original": "Barbarians seeking excitement, wealth or glory in the pit. Most find naught but a brutal death.",
+      "value_translated": "Bárbaros que buscan emoción, riqueza o gloria en el foso. La mayoría no encuentra más que una muerte brutal.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_nor_reavers": {
+      "key": "unit_description_short_texts_text_deco_nor_reavers",
+      "value_original": "Among the most feared mariners are the Norse Reavers, brutal warriors who plunder the coastlines.",
+      "value_translated": "Entre los marineros más temidos están los Corsarios Norse, guerreros brutales que saquean las costas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_nor_valkyrie": {
+      "key": "unit_description_short_texts_text_deco_nor_valkyrie",
+      "value_original": "The mere sight of one of these in battle greatly drives the Norsemen to never falter and achieve great deeds.",
+      "value_translated": "La mera visión de una de estas en batalla impulsa enormemente a los Norses a no desfallecer nunca y lograr grandes hazañas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_nor_wolf": {
+      "key": "unit_description_short_texts_text_deco_nor_wolf",
+      "value_original": "There are tales of a great wolf wandering the Island of Albion. A wolf that once fought alongside Mortkin, the Black-Iron Reaver.",
+      "value_translated": "La gente dice que un gran lobo vive en la Isla de Albión... Un lobo que una vez luchó junto a Mortkin, el Saqueador Negro.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_localised_description_deco_nor_jarldeco_nor_jarl_mammoth": {
+      "key": "units_custom_battle_mounts_localised_description_deco_nor_jarldeco_nor_jarl_mammoth",
+      "value_original": "Tainted and savage they may be, but these behemoths remain willing to bear high-status Marauders into battle, trampling flat everything foolish enough to get in their way.",
+      "value_translated": "Puede que sean salvajes y corruptos, pero estos monstruos están dispuestos a acompañar a los Bárbaros más prestigiosos a la batalla, pisoteando a todo aquel lo bastante lerdo como para interponerse en su camino.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_localised_description_deco_nor_jarldeco_nor_jarl_warhorse": {
+      "key": "units_custom_battle_mounts_localised_description_deco_nor_jarldeco_nor_jarl_warhorse",
+      "value_original": "The horses of Norsca live for battle, even choosing to graze on the bones of the fallen over grass.",
+      "value_translated": "Los caballos de Norsca viven para la batalla, llegando incluso a elegir como pasto los huesos de los caídos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_mount_name_deco_nor_jarldeco_nor_jarl_mammoth": {
+      "key": "units_custom_battle_mounts_mount_name_deco_nor_jarldeco_nor_jarl_mammoth",
+      "value_original": "War Mammoth",
+      "value_translated": "Mamut de Guerra",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_mount_name_deco_nor_jarldeco_nor_jarl_warhorse": {
+      "key": "units_custom_battle_mounts_mount_name_deco_nor_jarldeco_nor_jarl_warhorse",
+      "value_original": "Norscan Warhorse",
+      "value_translated": "Caballo de Guerra Norse",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "update1": {
+      "key": "update1",
+      "value_original": "update1",
+      "value_translated": "update1",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "update2": {
+      "key": "update2",
+      "value_original": "update2",
+      "value_translated": "update2",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}

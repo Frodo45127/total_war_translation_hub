@@ -1,0 +1,244 @@
+{
+  "language": "SP",
+  "pack_name": "@exp_roster_dwarfs.pack",
+  "translations": {
+    "effects_description_deco_effect_unit_cap_dwf_kou_dreadnaught": {
+      "key": "effects_description_deco_effect_unit_cap_dwf_kou_dreadnaught",
+      "value_original": "Unit capacity: %+n\\\\nGrudgecrusher Dreadnaught",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "land_units_concealed_name_deco_bugman_thrower": {
+      "key": "land_units_concealed_name_deco_bugman_thrower",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_concealed_name_deco_hammerers_dual": {
+      "key": "land_units_concealed_name_deco_hammerers_dual",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_concealed_name_deco_irondrakes_drakefire": {
+      "key": "land_units_concealed_name_deco_irondrakes_drakefire",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_concealed_name_deco_old_guard": {
+      "key": "land_units_concealed_name_deco_old_guard",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_concealed_name_deco_prospectors": {
+      "key": "land_units_concealed_name_deco_prospectors",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_concealed_name_dwf_kou_dreadnaught": {
+      "key": "land_units_concealed_name_dwf_kou_dreadnaught",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_bugman_thrower": {
+      "key": "land_units_onscreen_name_deco_bugman_thrower",
+      "value_original": "Bugman's Thrower",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_hammerers_dual": {
+      "key": "land_units_onscreen_name_deco_hammerers_dual",
+      "value_original": "Hammerers (Dual Weapons)",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_irondrakes_drakefire": {
+      "key": "land_units_onscreen_name_deco_irondrakes_drakefire",
+      "value_original": "Irondrakes (Drakefire Pistols)",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_old_guard": {
+      "key": "land_units_onscreen_name_deco_old_guard",
+      "value_original": "Old Guard",
+      "value_translated": "Vieja Guardia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_prospectors": {
+      "key": "land_units_onscreen_name_deco_prospectors",
+      "value_original": "Prospectors",
+      "value_translated": "Prospectores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dwf_kou_dreadnaught": {
+      "key": "land_units_onscreen_name_dwf_kou_dreadnaught",
+      "value_original": "Grudgecrusher Dreadnaught",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_bugman_thrower": {
+      "key": "loading_screen_quotes_description_deco_bugman_thrower",
+      "value_original": "Bugman’s Rangers put the tankards of his fine ale to good - albeit sometimes strange - use, like with these hurling machines.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_hammerers_dual": {
+      "key": "loading_screen_quotes_description_deco_hammerers_dual",
+      "value_original": "Outfitted in heavy, well-polished Dwarf mail, Hammerers wade into combat swinging their hammers in sweeping arcs.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_irondrakes_drakefire": {
+      "key": "loading_screen_quotes_description_deco_irondrakes_drakefire",
+      "value_original": "Each if these Irondrakes carries a pair of finely tuned Drake Pistols, with mechanisms that are still a mystery to Imperial engineers.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_old_guard": {
+      "key": "loading_screen_quotes_description_deco_old_guard",
+      "value_original": "Also known as Great Beards, the Old Guard are the oldest and wisest among the dwarf clans.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_prospectors": {
+      "key": "loading_screen_quotes_description_deco_prospectors",
+      "value_original": "Experienced miners, the Prospectors can dig tunnels with impressive speed and accuracy.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_bugman_thrower": {
+      "key": "loading_screen_quotes_title_deco_bugman_thrower",
+      "value_original": "Bugman's Thrower",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_hammerers_dual": {
+      "key": "loading_screen_quotes_title_deco_hammerers_dual",
+      "value_original": "Hammerers (Dual Weapons)",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_irondrakes_drakefire": {
+      "key": "loading_screen_quotes_title_deco_irondrakes_drakefire",
+      "value_original": "Irondrakes (Drakefire Pistols)",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_old_guard": {
+      "key": "loading_screen_quotes_title_deco_old_guard",
+      "value_original": "Old Guard",
+      "value_translated": "Vieja Guardia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_prospectors": {
+      "key": "loading_screen_quotes_title_deco_prospectors",
+      "value_original": "Prospectors",
+      "value_translated": "Prospectores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_onscreen_name_deco_grungnis_kin": {
+      "key": "ui_unit_bullet_point_enums_onscreen_name_deco_grungnis_kin",
+      "value_original": "Grungni's Kin",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_onscreen_name_deco_prospectors_charges": {
+      "key": "ui_unit_bullet_point_enums_onscreen_name_deco_prospectors_charges",
+      "value_original": "Prospectors' Bombs",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_tooltip_deco_grungnis_kin": {
+      "key": "ui_unit_bullet_point_enums_tooltip_deco_grungnis_kin",
+      "value_original": "\"We are the true sons of Grungni, young beardlings, remember that!\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_tooltip_deco_prospectors_charges": {
+      "key": "ui_unit_bullet_point_enums_tooltip_deco_prospectors_charges",
+      "value_original": "Experts at digging swiftly and bombarding the enemies with special kind of bombs.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_bugman_thrower": {
+      "key": "unit_description_short_texts_text_deco_bugman_thrower",
+      "value_original": "Bugman’s Rangers put the tankards of his fine ale to good - albeit sometimes strange - use, like with these hurling machines.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_hammerers_dual": {
+      "key": "unit_description_short_texts_text_deco_hammerers_dual",
+      "value_original": "Outfitted in heavy, well-polished Dwarf mail, Hammerers wade into combat swinging their hammers in sweeping arcs.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_irondrakes_drakefire": {
+      "key": "unit_description_short_texts_text_deco_irondrakes_drakefire",
+      "value_original": "Each if these Irondrakes carries a pair of finely tuned Drake Pistols, with mechanisms that are still a mystery to Imperial engineers.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_old_guard": {
+      "key": "unit_description_short_texts_text_deco_old_guard",
+      "value_original": "Also known as Great Beards, the Old Guard are the oldest and wisest among the dwarf clans.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_prospectors": {
+      "key": "unit_description_short_texts_text_deco_prospectors",
+      "value_original": "Experienced miners, the Prospectors can dig tunnels with impressive speed and accuracy.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dwf_kou_dreadnaught": {
+      "key": "unit_description_short_texts_text_dwf_kou_dreadnaught",
+      "value_original": "A true marvel of engineering, the Dreadnaught is the pinnacle of Dawi machinery.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "update1": {
+      "key": "update1",
+      "value_original": "update1",
+      "value_translated": "update1",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}

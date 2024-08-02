@@ -1,0 +1,174 @@
+{
+  "language": "SP",
+  "pack_name": "@exp_roster_beastmen.pack",
+  "translations": {
+    "character_skills_localised_description_wh_bst_rallying_scream": {
+      "key": "character_skills_localised_description_wh_bst_rallying_scream",
+      "value_original": "Wargors hold a deep, savage control over their underlings.",
+      "value_translated": "Los Beligors tienen un control profundo y salvaje sobre sus subordinados.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_wh_bst_undying_malice": {
+      "key": "character_skills_localised_description_wh_bst_undying_malice",
+      "value_original": "\"I... See... Man-filth...\"",
+      "value_translated": "\"Ya... veo... Hombre-inmundicia...\"",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_wh_bst_rallying_scream": {
+      "key": "character_skills_localised_name_wh_bst_rallying_scream",
+      "value_original": "Rallying Scream",
+      "value_translated": "Grito de Reunión",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_wh_bst_undying_malice": {
+      "key": "character_skills_localised_name_wh_bst_undying_malice",
+      "value_original": "Undying Malice",
+      "value_translated": "Malicia Eterna",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_rallying_scream_enable": {
+      "key": "effects_description_rallying_scream_enable",
+      "value_original": "Ability \"Rallying Scream\"",
+      "value_translated": "Habilidad \"Grito de Reunión\"",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_undying_malice_enable": {
+      "key": "effects_description_undying_malice_enable",
+      "value_original": "Ability \"Undying Malice\"",
+      "value_translated": "Habilidad \"Malicia Eterna\"",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_bestigor_dual_axe": {
+      "key": "land_units_onscreen_name_dec_bestigor_dual_axe",
+      "value_original": "Bestigor Herd",
+      "value_translated": "Rebaño de Bestigors",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_gor_great_axe": {
+      "key": "land_units_onscreen_name_dec_gor_great_axe",
+      "value_original": "Gor Herd (Great Weapons)",
+      "value_translated": "Rebaño de Gors (armas a dos manos)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_gouge_horns": {
+      "key": "land_units_onscreen_name_dec_gouge_horns",
+      "value_original": "Gouge-horns",
+      "value_translated": "Desgarradores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_wh_dlc03_bst_inf_bestigor_herd_0": {
+      "key": "land_units_onscreen_name_wh_dlc03_bst_inf_bestigor_herd_0",
+      "value_original": "Bestigor Herd (Great Weapons)",
+      "value_translated": "Rebaño de Bestigors (armas a dos manos)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_bulletpoints_dec_bestigor_dual_axe": {
+      "key": "loading_screen_quotes_bulletpoints_dec_bestigor_dual_axe",
+      "value_original": "[[img:ui/skins/default/icon_stat_armour.png]][[/img]]Armoured",
+      "value_translated": "[[img:ui/skins/default/icon_stat_armour.png]][[/img]]Acorazado",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_bulletpoints_dec_gor_great_axe": {
+      "key": "loading_screen_quotes_bulletpoints_dec_gor_great_axe",
+      "value_original": "[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing",
+      "value_translated": "[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Poder perforante",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_dec_bestigor_dual_axe": {
+      "key": "loading_screen_quotes_description_dec_bestigor_dual_axe",
+      "value_original": "Blessed with spectacular horns and raw physical power, Bestigors put others of their kind to shame.",
+      "value_translated": "Bendecidos con cuernos espectaculares y poder físico puro, los Bestigors superan con creces a otros de su especie.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_dec_gor_great_axe": {
+      "key": "loading_screen_quotes_description_dec_gor_great_axe",
+      "value_original": "Grabbing the nearest heavy weapon, the Gors are sent into the fray with animalistic rage.",
+      "value_translated": "Agarrando el arma pesada más cercana, los Gors se lanzan a la refriega con una rabia animal.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_dec_bestigor_dual_axe": {
+      "key": "loading_screen_quotes_title_dec_bestigor_dual_axe",
+      "value_original": "Bestigor Herd",
+      "value_translated": "Rebaño de Bestigors",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_dec_gor_great_axe": {
+      "key": "loading_screen_quotes_title_dec_gor_great_axe",
+      "value_original": "Gor Herd (Great Weapons)",
+      "value_translated": "Rebaño de Gors (armas a dos manos)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_bst_rallying_scream": {
+      "key": "unit_abilities_onscreen_name_bst_rallying_scream",
+      "value_original": "Rallying Scream",
+      "value_translated": "Grito de Reunión",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_bst_undying_malice": {
+      "key": "unit_abilities_onscreen_name_bst_undying_malice",
+      "value_original": "Undying Malice",
+      "value_translated": "Malicia Eterna",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_bst_rallying_scream": {
+      "key": "unit_abilities_tooltip_text_bst_rallying_scream",
+      "value_original": "Wargors hold a deep, savage control over their underlings.",
+      "value_translated": "Los Beligors tienen un control profundo y salvaje sobre sus subordinados.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_bst_undying_malice": {
+      "key": "unit_abilities_tooltip_text_bst_undying_malice",
+      "value_original": "\"I... See... Man-filth...\"",
+      "value_translated": "\"Ya... veo... Hombre-inmundicia...\"",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dec_bestigor_dual_axe": {
+      "key": "unit_description_short_texts_text_dec_bestigor_dual_axe",
+      "value_original": "Blessed with spectacular horns and raw physical power, Bestigors put others of their kind to shame.",
+      "value_translated": "Bendecidos con cuernos espectaculares y poder físico puro, los Bestigors superan con creces a otros de su especie.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dec_gor_great_axe": {
+      "key": "unit_description_short_texts_text_dec_gor_great_axe",
+      "value_original": "Grabbing the nearest heavy weapon, the Gors are sent into the fray with animalistic rage.",
+      "value_translated": "Agarrando el arma pesada más cercana, los Gors se lanzan a la refriega con una rabia animal.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dec_gouge_horns": {
+      "key": "unit_description_short_texts_text_dec_gouge_horns",
+      "value_original": "The Bestigor Champions keep trophies of enemies on them to inspire fear.",
+      "value_translated": "Los Campeones Bestigor llevan consigo trofeos de enemigos para inspirar miedo.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "update1": {
+      "key": "update1",
+      "value_original": "update1",
+      "value_translated": "update1",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}

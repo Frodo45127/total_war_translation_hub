@@ -1,0 +1,601 @@
+{
+  "language": "SP",
+  "pack_name": "@exp_roster_delves.pack",
+  "translations": {
+    "effects_description_wh2_dlc10_effect_force_stat_bonus_vs_infantry_witchelves_executioners": {
+      "key": "effects_description_wh2_dlc10_effect_force_stat_bonus_vs_infantry_witchelves_executioners",
+      "value_original": "Bonus vs Infantry: %+n for Witch Elves, Sisters of Slaughter, Har Ganeth Executioners and Tower Master units",
+      "value_translated": "Bonificación contra infantería: %+n para las unidades de Elfas Brujas, Hermanas de la Matanza, Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc10_effect_force_stat_melee_defence_def_witchelves_executioners": {
+      "key": "effects_description_wh2_dlc10_effect_force_stat_melee_defence_def_witchelves_executioners",
+      "value_original": "Melee defence: %+n for Witch Elves, Sisters of Slaughter, Har Ganeth Executioners and Tower Master units",
+      "value_translated": "Defensa cuerpo a cuerpo: %+n para las unidades de Elfas Brujas, Hermanas de la Matanza, Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc10_effect_hellebron_fatigue_resistance": {
+      "key": "effects_description_wh2_dlc10_effect_hellebron_fatigue_resistance",
+      "value_original": "Vigour loss reduction: %+n% for Crone Hellebron, Witch Elves, Sisters of Slaughter, Death Hags, Khainite Assassins, Har Ganeth Executioners and Tower Masters",
+      "value_translated": "Reducción de la pérdida de vigor: %+n% para la Anciana Hellebron y las unidades de Elfas Brujas, Hermanas de la Matanza, Sacerdotisas Elfas Brujas, Asesinos Khainitas, Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc10_effect_hellebron_perfect_vigour": {
+      "key": "effects_description_wh2_dlc10_effect_hellebron_perfect_vigour",
+      "value_original": "Attribute: Perfect Vigour for Crone Hellebron, Witch Elves, Sisters of Slaughter, Death Hags, Khainite Assassins, Har Ganeth Executioners and Tower Masters",
+      "value_translated": "Atributo: Vigor perfecto para la Anciana Hellebron y las unidades de Elfas Brujas, Hermanas de la Matanza, Sacerdotisas Elfas Brujas, Asesinos Khainitas, Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc10_effect_physical_resist_hellebron": {
+      "key": "effects_description_wh2_dlc10_effect_physical_resist_hellebron",
+      "value_original": "Physical resistance: %n% for Crone Hellebron, Witch Elves, Sisters of Slaughter, Death Hags, Khainite Assassins, Har Ganeth Executioners and Tower Masters",
+      "value_translated": "Resistencia física: %n% para la Anciana Hellebron y las unidades de Elfas Brujas, Hermanas de la Matanza, Sacerdotisas Elfas Brujas, Asesinos Khainitas, Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc10_effect_tech_upkeep_cost_reduction_def_khaine_units": {
+      "key": "effects_description_wh2_dlc10_effect_tech_upkeep_cost_reduction_def_khaine_units",
+      "value_original": "Upkeep: %+n% for Witch Elves, Sisters of Slaughter, Har Ganeth Executioners and Tower Master units",
+      "value_translated": "Mantenimiento: %+n% para las unidades de Elfas Brujas, Hermanas de la Matanza, Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_buildling_upkeep_reduction_def_black_ark_infantry": {
+      "key": "effects_description_wh2_dlc11_effect_buildling_upkeep_reduction_def_black_ark_infantry",
+      "value_original": "Upkeep: %+n% for Dreadspears, Darkshards, Hunters, Corsairs and Reaper Bolt Thrower units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc14_def_black_dragon_recruit_time": {
+      "key": "effects_description_wh2_dlc14_def_black_dragon_recruit_time",
+      "value_original": "Recruitment duration: %+n turn for Lords of Oblivion and Dragon units",
+      "value_translated": "Duración del reclutamiento: %+n turno para las unidades de Señores del Olvido y Dragones",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc14_effect_force_stat_melee_attack_increase_def_blackdragon": {
+      "key": "effects_description_wh2_dlc14_effect_force_stat_melee_attack_increase_def_blackdragon",
+      "value_original": "Melee attack: %+n for Lords of Oblivion and Dragon units",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para las unidades de Señores del Olvido y Dragones",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_building_recruitment_cost_reduction_def_executioners": {
+      "key": "effects_description_wh2_main_effect_building_recruitment_cost_reduction_def_executioners",
+      "value_original": "Recruitment cost: %+n% for Har Ganeth Executioners and Tower Master units",
+      "value_translated": "Coste de reclutamiento: %+n% para las unidades de Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_building_recruitment_cost_reduction_def_resource_iron": {
+      "key": "effects_description_wh2_main_effect_building_recruitment_cost_reduction_def_resource_iron",
+      "value_original": "Recruitment cost: %+n% for Bleakswords, Cold One Knights, Cold One Dread Knights, Cold One Chariot, Black Guard of Naggarond, Har Ganeth Executioners and Tower Master units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_building_recruitment_cost_reduction_def_resource_wood": {
+      "key": "effects_description_wh2_main_effect_building_recruitment_cost_reduction_def_resource_wood",
+      "value_original": "Recruitment cost: %+n% for Dreadspears, Darkshards, Hunters, Shades and Reaper Bolt Thrower units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_building_unit_xp_levels_def_resource_animals": {
+      "key": "effects_description_wh2_main_effect_building_unit_xp_levels_def_resource_animals",
+      "value_original": "Recruit rank: %+n for Harpies, War Hydra, Kharibdyss, Lords of Oblivion and Dragon units",
+      "value_translated": "Rango de reclutamiento: %+n a las unidades de Arpías, Hidra de Guerra, Kharibdyss, Señores del Olvido y Dragones",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_building_unit_xp_levels_def_resource_iron": {
+      "key": "effects_description_wh2_main_effect_building_unit_xp_levels_def_resource_iron",
+      "value_original": "Recruit rank: %+n for Bleakswords, Cold One Knights, Cold One Dread Knights, Cold One Chariot, Black Guard of Naggarond, Har Ganeth Executioners and Tower Master units",
+      "value_translated": "Rango de reclutamiento: %+n a las unidades de Espadas Marchitadoras, Caballeros Gélidos, Caballeros Siniestros Gélidos, Carro de Gélidos, Guardia Negra de Naggarond, Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_building_unit_xp_levels_def_resource_wood": {
+      "key": "effects_description_wh2_main_effect_building_unit_xp_levels_def_resource_wood",
+      "value_original": "Recruit rank: %+n for Dreadspears, Darkshards, Hunters, Shades and Reaper Bolt Thrower units",
+      "value_translated": "Rango de reclutamiento: %+n a las unidades de Lanzas Siniestras, Saetas Oscuras, Cazadoras, Sombras y Lanzavirotes Destripadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_building_upkeep_reduction_def_executioners": {
+      "key": "effects_description_wh2_main_effect_building_upkeep_reduction_def_executioners",
+      "value_original": "Upkeep: %+n% for Har Ganeth Executioners and Tower Master units",
+      "value_translated": "Mantenimiento: %+n% a las unidades de Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_buildling_upkeep_reduction_def_resource_iron": {
+      "key": "effects_description_wh2_main_effect_buildling_upkeep_reduction_def_resource_iron",
+      "value_original": "Upkeep: %+n% for Bleakswords, Cold One Knights, Cold One Dread Knights, Cold One Chariot, Black Guard of Naggarond, Har Ganeth Executioners and Tower Master units",
+      "value_translated": "Mantenimiento: %+n% a las unidades de Espadas Marchitadoras, Caballeros Gélidos, Caballeros Siniestros Gélidos, Carros de Gélidos, Guardia Negra de Naggarond, Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_buildling_upkeep_reduction_def_resource_wood": {
+      "key": "effects_description_wh2_main_effect_buildling_upkeep_reduction_def_resource_wood",
+      "value_original": "Upkeep: %+n% for Dreadspears, Darkshards, Hunters, Shades and Reaper Bolt Thrower units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_ammunition_def_crossbow_boltthrower_corsair": {
+      "key": "effects_description_wh2_main_effect_force_stat_ammunition_def_crossbow_boltthrower_corsair",
+      "value_original": "Ammunition: %+n% for Darkshards, Hunters, Black Ark Corsairs and Reaper Bolt Thrower units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_ammunition_def_crossbows_corsair_darkrider_shade": {
+      "key": "effects_description_wh2_main_effect_force_stat_ammunition_def_crossbows_corsair_darkrider_shade",
+      "value_original": "Ammunition: %+n% for Darkshards, Hunters, Black Ark Corsairs, Shades and Dark Riders units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_armour_blackdragon": {
+      "key": "effects_description_wh2_main_effect_force_stat_armour_blackdragon",
+      "value_original": "Armour: %+n for Lords of Oblivion and Dragon units",
+      "value_translated": "Armadura: %+n para las unidades de Señores del Olvido y Dragones",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_armour_blackguard_executioner_coldones_rank7": {
+      "key": "effects_description_wh2_main_effect_force_stat_armour_blackguard_executioner_coldones_rank7",
+      "value_original": "Armour: %+n for Black Guard of Naggarond, Har Ganeth Executioners, Tower Masters, Cold One Knights, Cold One Dread Knights and Cold One Chariot units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_armour_def_militia": {
+      "key": "effects_description_wh2_main_effect_force_stat_armour_def_militia",
+      "value_original": "Armour: %+n for Dreadspears, Darkshards, Hunters, and Bleaksword units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_armour_executioners_blackguard": {
+      "key": "effects_description_wh2_main_effect_force_stat_armour_executioners_blackguard",
+      "value_original": "Armour: %+n for Har Ganeth Executioners, Black Guard of Naggarond and Tower Master units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_armour_militia_boltthrower_rank7": {
+      "key": "effects_description_wh2_main_effect_force_stat_armour_militia_boltthrower_rank7",
+      "value_original": "Armour: %+n for Bleakswords, Dreadspears, Darkshards, Hunters, and Reaper Bolt Thrower units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_charge_bonus_add_def_blackguard_executioner_coldones_rank7": {
+      "key": "effects_description_wh2_main_effect_force_stat_charge_bonus_add_def_blackguard_executioner_coldones_rank7",
+      "value_original": "Charge bonus: %+n for Black Guard of Naggarond, Har Ganeth Executioners, Tower Masters, Cold One Knights, Cold One Dread Knights and Cold One Chariots units {{tr:rank7}}",
+      "value_translated": "Bonificación de carga: %+n a las unidades de Guardia Negra de Naggarond, Verdugos de Har Ganeth, Maestros de la Torre, Caballeros Gélidos y Carros de Gélidos {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_charge_bonus_add_def_monsters": {
+      "key": "effects_description_wh2_main_effect_force_stat_charge_bonus_add_def_monsters",
+      "value_original": "Charge bonus: %+n for Harpies, War Hydra, Kharibdyss, Lords of Oblivion, Dragon, Feral Manticore and Bloodwrack Medusae units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_leadership_def_beasts": {
+      "key": "effects_description_wh2_main_effect_force_stat_leadership_def_beasts",
+      "value_original": "Leadership: %+n for Harpies, War Hydra, Kharibdyss, Lords of Oblivion and Dragon units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_leadership_def_elite_inf": {
+      "key": "effects_description_wh2_main_effect_force_stat_leadership_def_elite_inf",
+      "value_original": "Leadership: %+n for Shades, Witch Elves, Har Ganeth Executioners, Black Guard of Naggarond, Tower Masters and Sisters of Slaughter units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_leadership_def_militia_corsair_darkrider": {
+      "key": "effects_description_wh2_main_effect_force_stat_leadership_def_militia_corsair_darkrider",
+      "value_original": "Leadership: %+n for Dreadspears, Bleakswords, Darkshards, Hunters, Black Ark Corsairs and Dark Riders units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_melee_attack_def_spears_swords_crossbow_corsairs": {
+      "key": "effects_description_wh2_main_effect_force_stat_melee_attack_def_spears_swords_crossbow_corsairs",
+      "value_original": "Melee attack: %+n for Dreadspears, Bleakswords, Black Ark Corsairs, Darkshards and Hunter units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_melee_attack_executioners": {
+      "key": "effects_description_wh2_main_effect_force_stat_melee_attack_executioners",
+      "value_original": "Melee attack: %+n for Witch Elves, Har Ganeth Executioners, Tower Masters and Sisters of Slaughter units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_melee_attack_witchelf_blackguard_executioner": {
+      "key": "effects_description_wh2_main_effect_force_stat_melee_attack_witchelf_blackguard_executioner",
+      "value_original": "Melee attack: %+n for Witch Elves, Har Ganeth Executioners, Black Guard of Naggarond, Tower Masters and Sisters of Slaughter units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_melee_defence_def_spears_swords_crossbow_corsair": {
+      "key": "effects_description_wh2_main_effect_force_stat_melee_defence_def_spears_swords_crossbow_corsair",
+      "value_original": "Melee defence: %+n for Dreadspears, Bleakswords, Black Ark Corsairs, Darkshards and Hunter units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_melee_defence_def_witchelf_blackguard_executioner": {
+      "key": "effects_description_wh2_main_effect_force_stat_melee_defence_def_witchelf_blackguard_executioner",
+      "value_original": "Melee defence: %+n for Witch Elves, Har Ganeth Executioners, Black Guard of Naggarond, Tower Masters and Sisters of Slaughter units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_missile_damage_def_darkshard_corsairs": {
+      "key": "effects_description_wh2_main_effect_force_stat_missile_damage_def_darkshard_corsairs",
+      "value_original": "Missile strength: %+n% for Darkshards, Hunters, and Black Ark Corsairs units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_missile_damage_def_militia_boltthrower_rank7": {
+      "key": "effects_description_wh2_main_effect_force_stat_missile_damage_def_militia_boltthrower_rank7",
+      "value_original": "Missile strength: %+n% for Darkshards, Hunters, and Reaper Bolt Thrower units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_missile_resistance_def_militia_boltthrower_rank7": {
+      "key": "effects_description_wh2_main_effect_force_stat_missile_resistance_def_militia_boltthrower_rank7",
+      "value_original": "Missile resistance: %n% for Bleakswords, Dreadspears, Darkshards, Hunters, and Reaper Bolt Thrower units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_physical_resistance_def_beasts_witchelfs_rank7": {
+      "key": "effects_description_wh2_main_effect_force_stat_physical_resistance_def_beasts_witchelfs_rank7",
+      "value_original": "Physical resistance: %n% for Witch Elves, Harpies, War Hydra, Kharibdyss, Lords of Oblivion, Dragon, Feral Manticore, Sisters of Slaughter and Bloodwrack Medusae units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_range_def_darkshards_shades_darkrider_corsair": {
+      "key": "effects_description_wh2_main_effect_force_stat_range_def_darkshards_shades_darkrider_corsair",
+      "value_original": "Range: %+n% for Darkshards, Hunters, Black Ark Corsairs, Shades and Dark Riders units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_reload_time_reduction_crossbow_boltthrower_corsair": {
+      "key": "effects_description_wh2_main_effect_force_stat_reload_time_reduction_crossbow_boltthrower_corsair",
+      "value_original": "Reload time reduction: %+n% for Darkshards, Hunters, Black Ark Corsairs and Bolt Thrower units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_speed_def_beasts_witchelfs_rank7": {
+      "key": "effects_description_wh2_main_effect_force_stat_speed_def_beasts_witchelfs_rank7",
+      "value_original": "Speed: %+n% for Witch Elves, Harpies, War Hydra, Kharibdyss, Lords of Oblivion, Dragon, Feral Manticore, Sisters of Slaughter and Bloodwrack Medusae units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_speed_def_elite_inf": {
+      "key": "effects_description_wh2_main_effect_force_stat_speed_def_elite_inf",
+      "value_original": "Speed: %+n% for Witch Elves, Black Guard, Har Ganeth Executioners, Tower Master and Sisters of Slaughter units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_speed_def_militia_corsair": {
+      "key": "effects_description_wh2_main_effect_force_stat_speed_def_militia_corsair",
+      "value_original": "Speed: %+n% for Dreadspears, Darkshards, Hunters, Bleakswords and Black Ark Corsairs units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_ward_save_executioners": {
+      "key": "effects_description_wh2_main_effect_force_stat_ward_save_executioners",
+      "value_original": "Ward save: %n% for Har Ganeth Executioners and Tower Master units",
+      "value_translated": "Salvación especial: %n% a las unidades de Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_weapon_strength_def_beasts_witchelfs_rank7": {
+      "key": "effects_description_wh2_main_effect_force_stat_weapon_strength_def_beasts_witchelfs_rank7",
+      "value_original": "Weapon strength: %+n% for Witch Elves, Harpies, War Hydra, Kharibdyss, Lords of Oblivion, Dragon, Feral Manticore, Sisters of Slaughter and Bloodwrack Medusae units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_weapon_strength_def_blackdragon": {
+      "key": "effects_description_wh2_main_effect_force_stat_weapon_strength_def_blackdragon",
+      "value_original": "Weapon strength: %+n% for Lords of Oblivion and Dragon units",
+      "value_translated": "Fuerza del arma: %+n% para las unidades de Señores del Olvido y Dragones",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_weapon_strength_def_blackguard_executioner_coldones_rank7": {
+      "key": "effects_description_wh2_main_effect_force_stat_weapon_strength_def_blackguard_executioner_coldones_rank7",
+      "value_original": "Weapon strength: %+n% for Black Guard of Naggarond, Har Ganeth Executioners, Tower Masters, Cold One Knights, Cold One Dread Knights and Cold One Chariots units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_weapon_strength_def_executioners": {
+      "key": "effects_description_wh2_main_effect_force_stat_weapon_strength_def_executioners",
+      "value_original": "Weapon strength: %+n% for Witch Elves, Har Ganeth Executioners, Tower Masters and Sisters of Slaughter units",
+      "value_translated": "Fuerza del arma: %+n% a las unidades de Elfas Brujas, Verdugos de Har Ganeth, Maestros de la Torre y Hermanas de la Matanza",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_weapon_strength_def_militia_boltthrower_rank7": {
+      "key": "effects_description_wh2_main_effect_force_stat_weapon_strength_def_militia_boltthrower_rank7",
+      "value_original": "Weapon strength: %+n% for Bleakswords, Dreadspears, Darkshards, Hunters, and Reaper Bolt Thrower units {{tr:rank7}}",
+      "value_translated": "Fuerza del arma: %+n% a las unidades de Espadas Marchitadoras, Lanzas Siniestras, Saetas Oscuras, Cazadoras y Lanzavirotes Destripadores {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_weapon_strength_def_militia_corsairs": {
+      "key": "effects_description_wh2_main_effect_force_stat_weapon_strength_def_militia_corsairs",
+      "value_original": "Weapon strength: %+n% for Dreadspears, Darkshards, Hunters, Bleakswords and Black Ark Corsairs units",
+      "value_translated": "Fuerza del arma: %+n% a las unidades de Lanzas Siniestras, Saetas Oscuras, Cazadoras, Espadas Marchitadoras y Corsarios del Arca Negra",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_weapon_strength_def_monsters": {
+      "key": "effects_description_wh2_main_effect_force_stat_weapon_strength_def_monsters",
+      "value_original": "Weapon strength: %+n% for Harpies, War Hydra, Kharibdyss, Lords of Oblivion, Dragon, Feral Manticore and Bloodwrack Medusae units",
+      "value_translated": "Fuerza del arma: %+n% a las unidades de Arpías, Hidra de Guerra, Kharibdyss, Señores del Olvido, Dragones, Mantícora Salvaje y Medura Drenasangre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_tech_recruitment_cost_reduction_def_beasts": {
+      "key": "effects_description_wh2_main_effect_tech_recruitment_cost_reduction_def_beasts",
+      "value_original": "Recruitment cost: %+n% for Harpies, War Hydra, Kharibdyss, Lords of Oblivion and Dragon units",
+      "value_translated": "Coste de reclutamiento: %+n% a las unidades de Arpías, Hidra de Guerra, Kharibdyss, Señores del Olvido y Dragones",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_tech_recruitment_cost_reduction_def_darkshards": {
+      "key": "effects_description_wh2_main_effect_tech_recruitment_cost_reduction_def_darkshards",
+      "value_original": "Recruitment cost: %+n% for Darkshards and Hunter units",
+      "value_translated": "Coste de reclutamiento: %+n% a las unidades de Saetas Oscuras y Cazadoras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_tech_recruitment_cost_reduction_def_militia": {
+      "key": "effects_description_wh2_main_effect_tech_recruitment_cost_reduction_def_militia",
+      "value_original": "Recruitment cost: %+n% for Dreadspears, Darkshards, Hunters, and Bleakswords units",
+      "value_translated": "Coste de reclutamiento: %+n% a las unidades de Lanzas Siniestras, Saetas Oscuras, Cazadoras y Espadas Marchitadoras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_tech_unit_xp_levels_def_darkshards": {
+      "key": "effects_description_wh2_main_effect_tech_unit_xp_levels_def_darkshards",
+      "value_original": "Recruit rank: %+n for Darkshards and Hunter units",
+      "value_translated": "Rango de reclutamiento: %+n a las unidades de Saetas Oscuras y Cazadoras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_tech_unit_xp_levels_def_executioners": {
+      "key": "effects_description_wh2_main_effect_tech_unit_xp_levels_def_executioners",
+      "value_original": "Recruit rank: %+n for Har Ganeth Executioners and Tower Master units",
+      "value_translated": "Rango de reclutamiento: %+n a las unidades de Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_tech_unit_xp_levels_def_militia": {
+      "key": "effects_description_wh2_main_effect_tech_unit_xp_levels_def_militia",
+      "value_original": "Recruit rank: %+n for Dreadspears, Darkshards, Hunters and Bleakswords units",
+      "value_translated": "Rango de reclutamiento: %+n a las unidades de Lanzas Siniestras, Saetas Oscuras, Cazadoras y Espadas Marchitadoras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_tech_upkeep_cost_reduction_def_beasts": {
+      "key": "effects_description_wh2_main_effect_tech_upkeep_cost_reduction_def_beasts",
+      "value_original": "Upkeep: %+n% for Harpies, War Hydra, Kharibdyss, Lords of Oblivion and Dragon units",
+      "value_translated": "Mantenimiento: %+n% a las unidades de Arpías, Hidra de Guerra, Kharibdyss, Señores del Olvido y Dragones",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_tech_upkeep_cost_reduction_def_militia": {
+      "key": "effects_description_wh2_main_effect_tech_upkeep_cost_reduction_def_militia",
+      "value_original": "Upkeep: %+n% for Dreadspears, Darkshards, Hunters and Bleakswords units",
+      "value_translated": "Mantenimiento: %+n% para las unidades de Lanzas Siniestras, Saetas Oscuras, Cazadoras y Espadas Marchitadoras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_tech_upkeep_reduction_def_darkshards": {
+      "key": "effects_description_wh2_main_effect_tech_upkeep_reduction_def_darkshards",
+      "value_original": "Upkeep: %+n% for Darkshards and Hunter units",
+      "value_translated": "Mantenimiento: %+n% para las unidades de Saetas Oscuras y Cazadoras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_trait_unit_recruitment_duration_def_executioners": {
+      "key": "effects_description_wh2_main_effect_trait_unit_recruitment_duration_def_executioners",
+      "value_original": "Recruitment duration: %+n turn for Har Ganeth Executioners and Tower Master units (minimum 1)",
+      "value_translated": "Duración del reclutamiento: %+n turno(s) para las unidades de Verdugos de Har Ganeth y Maestros de la Torre (mínimo 1)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_upkeep_reduction_malekith_witch_king": {
+      "key": "effects_description_wh2_main_effect_upkeep_reduction_malekith_witch_king",
+      "value_original": "Upkeep: %+n% for Black Guard of Naggarond, Dreadspears, Bleakswords, Darkshards and Hunter units",
+      "value_translated": "Mantenimiento: %+n% a las unidades de Guardia Negra de Naggarond, Lanzas Siniestras, Espadas Marchitadoras, Saetas Oscuras y Cazadoras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_twa03_effect_missile_resistance_khaine_units": {
+      "key": "effects_description_wh2_twa03_effect_missile_resistance_khaine_units",
+      "value_original": "Missile resistance: %n% for Witch Elves, Har Ganeth Executioners and Tower Master units",
+      "value_translated": "Resistencia a los proyectiles: %n% a las unidades de Elfas Brujas, Verdugos de Har Ganeth y Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_hunters_anath_raema": {
+      "key": "land_units_onscreen_name_dec_hunters_anath_raema",
+      "value_original": "Hunters of Anath Raema",
+      "value_translated": "Cazadoras de Anath Raema",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_lords_oblivion": {
+      "key": "land_units_onscreen_name_dec_lords_oblivion",
+      "value_original": "Lords of Oblivion",
+      "value_translated": "Señores del Olvido",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_magma_dragon": {
+      "key": "land_units_onscreen_name_dec_magma_dragon",
+      "value_original": "Magma Dragon",
+      "value_translated": "Dragón de Magma",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_tower_masters": {
+      "key": "land_units_onscreen_name_dec_tower_masters",
+      "value_original": "Tower Masters",
+      "value_translated": "Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_dec_hunters_anath_raema": {
+      "key": "loading_screen_quotes_description_dec_hunters_anath_raema",
+      "value_original": "Indiscriminate hunters who dedicate their lives to the Savage Huntress.",
+      "value_translated": "Cazadoras indiscriminadas que dedican su vida a la Cazadora Salvaje.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_dec_magma_dragon": {
+      "key": "loading_screen_quotes_description_dec_magma_dragon",
+      "value_original": "Primordial and ferocious creatures, Magma Dragons are amongst the most malevolent and reclusive of the Dragon race.",
+      "value_translated": "Criaturas primordiales y feroces, los Dragones de Magma se encuentran entre los más malévolos y solitarios de la raza Dragón.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_dec_tower_masters": {
+      "key": "loading_screen_quotes_description_dec_tower_masters",
+      "value_original": "A few Dark Elves choose to remain as Black Guard beyond the 200 years. The greatest of these are called the Tower Masters.",
+      "value_translated": "Unos pocos Elfos Oscuros deciden permanecer como Guardia Negra después de los 200 años. Los mejores son los llamados Maestros de la Torre.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_dec_hunters_anath_raema": {
+      "key": "loading_screen_quotes_title_dec_hunters_anath_raema",
+      "value_original": "Hunters of Anath Raema",
+      "value_translated": "Cazadoras de Anath Raema",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_dec_magma_dragon": {
+      "key": "loading_screen_quotes_title_dec_magma_dragon",
+      "value_original": "Magma Dragon",
+      "value_translated": "Dragón de Magma",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_dec_tower_masters": {
+      "key": "loading_screen_quotes_title_dec_tower_masters",
+      "value_original": "Tower Masters",
+      "value_translated": "Maestros de la Torre",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_onscreen_name_dragon_breath_magma": {
+      "key": "ui_unit_bullet_point_enums_onscreen_name_dragon_breath_magma",
+      "value_original": "Magma Dragon's Breath",
+      "value_translated": "Aliento de Dragón de Magma",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_tooltip_dragon_breath_magma": {
+      "key": "ui_unit_bullet_point_enums_tooltip_dragon_breath_magma",
+      "value_original": "Magma Dragons are capable of producing a sulfurous poisoned flame said to be amongst the strongest of all Dragon breaths.",
+      "value_translated": "Los Dragones de Magma tienen la capacidad de lanzar una llama envenenada con azufre que inflige quemaduras horribles, se dice que es uno de los más fuertes de todos los Alientos de Dragón.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_dec_magma_dragon_breath": {
+      "key": "unit_abilities_onscreen_name_dec_magma_dragon_breath",
+      "value_original": "Magma Dragon's Breath",
+      "value_translated": "Aliento del Dragón de Magma",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_dec_magma_dragon_breath": {
+      "key": "unit_abilities_tooltip_text_dec_magma_dragon_breath",
+      "value_original": "A sulfurous poisoned flame that inflicts horrific burns.",
+      "value_translated": "Una llama envenenada con azufre que provoca horribles quemaduras.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_wh3_dlc23_unit_passive_blazing_body": {
+      "key": "unit_abilities_tooltip_text_wh3_dlc23_unit_passive_blazing_body",
+      "value_original": "The body of this creature radiates molten heat that weakens any foe close enough to attack.",
+      "value_translated": "El cuerpo de esta criatura irradia un calor fundido que debilita a cualquier enemigo lo suficientemente cerca como para atacar.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dec_hunters_anath_raema": {
+      "key": "unit_description_short_texts_text_dec_hunters_anath_raema",
+      "value_original": "Indiscriminate hunters who dedicate their lives to the Savage Huntress.",
+      "value_translated": "Cazadoras indiscriminadas que dedican su vida a la Cazadora Salvaje.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dec_lords_oblivion": {
+      "key": "unit_description_short_texts_text_dec_lords_oblivion",
+      "value_original": "High ranking officers of the Black Guard who were granted dragon steeds as rewards for loyalty.",
+      "value_translated": "Oficiales de alto rango de la Guardia Negra a los que se les han permitido montar sobre dragones como recompensa por su lealtad.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dec_magma_dragon": {
+      "key": "unit_description_short_texts_text_dec_magma_dragon",
+      "value_original": "Primordial and ferocious creatures, Magma Dragons are amongst the most malevolent and reclusive of the Dragon race.",
+      "value_translated": "Criaturas primordiales y feroces, los Dragones de Magma se encuentran entre los más malévolos y solitarios de la raza Dragón.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dec_tower_masters": {
+      "key": "unit_description_short_texts_text_dec_tower_masters",
+      "value_original": "A few Dark Elves choose to remain as Black Guard beyond the 200 years. The greatest of these are called the Tower Masters.",
+      "value_translated": "Unos pocos Elfos Oscuros deciden permanecer como Guardia Negra después de los 200 años. Los mejores son los llamados Maestros de la Torre.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "update1": {
+      "key": "update1",
+      "value_original": "update1",
+      "value_translated": "update1",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "update2": {
+      "key": "update2",
+      "value_original": "update2",
+      "value_translated": "update2",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}

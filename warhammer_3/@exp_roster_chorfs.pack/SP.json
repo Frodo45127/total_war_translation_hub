@@ -1,0 +1,1147 @@
+{
+  "language": "SP",
+  "pack_name": "@exp_roster_chorfs.pack",
+  "translations": {
+    "agent_actions_localised_action_description_wh2_main_agent_action_hobgob_passive_spread_corruption": {
+      "key": "agent_actions_localised_action_description_wh2_main_agent_action_hobgob_passive_spread_corruption",
+      "value_original": "[[col:yellow]]Increases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption in the local province by %n.[[/col]]",
+      "value_translated": "[[col:yellow]]Aumenta la cantidad de [[img:icon_corruption_chs]][[/img]]Corrupción del Caos Absoluto en la provincia local en %n.[[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_actions_localised_action_name_wh2_main_agent_action_hobgob_passive_spread_corruption": {
+      "key": "agent_actions_localised_action_name_wh2_main_agent_action_hobgob_passive_spread_corruption",
+      "value_original": "{{tr:agent_action_name_spread_corruption}}",
+      "value_translated": "{{tr:agent_action_name_spread_corruption}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_culture_details_description_text_1201098031": {
+      "key": "agent_culture_details_description_text_1201098031",
+      "value_original": "The Bull Centaur Taur'ruks and Hobgoblin Khans constitute the lieutenants of the Dawi Zharr armies, keeping the order among the ranks.",
+      "value_translated": "Los Centauros Enanos Taur'ruk y Khans Hobgoblin son los lugartenientes de los ejércitos de los Dawi Zharr, manteniendo el orden entre las filas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_culture_details_onscreen_name_1201098031": {
+      "key": "agent_culture_details_onscreen_name_1201098031",
+      "value_original": "Taur'ruk & Khan",
+      "value_translated": "Taur'ruk y Khan",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_recruitment_categories_onscreen_name_deco_chd_bull_centaur_lords": {
+      "key": "agent_recruitment_categories_onscreen_name_deco_chd_bull_centaur_lords",
+      "value_original": "Bull Centaur",
+      "value_translated": "Centauro Enano",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_recruitment_categories_onscreen_name_deco_chd_hobgoblin_great_khan": {
+      "key": "agent_recruitment_categories_onscreen_name_deco_chd_hobgoblin_great_khan",
+      "value_original": "Great Khan",
+      "value_translated": "Gran Khan",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_recruitment_categories_onscreen_name_deco_chd_hobgoblin_pelt_shaman": {
+      "key": "agent_recruitment_categories_onscreen_name_deco_chd_hobgoblin_pelt_shaman",
+      "value_original": "Pelt Shaman",
+      "value_translated": "Chamán de Piel",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_description_text_override_deco_chd_bull_centaur_lord": {
+      "key": "agent_subtypes_description_text_override_deco_chd_bull_centaur_lord",
+      "value_original": "The bigger and nastier Bull Centaurs lead the stampede into battle.",
+      "value_translated": "Los Centauros Enanos más grandes y desagradables lideran la estampida hacia la batalla.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_description_text_override_deco_chd_hobgoblin_great_khan": {
+      "key": "agent_subtypes_description_text_override_deco_chd_hobgoblin_great_khan",
+      "value_original": "Only a few Khans grow strong enough to lead an army of Hobgoblins; even less those that manage to command Chaos Dwarf warriors as well.",
+      "value_translated": "Sólo unos pocos Khan se vuelven lo suficientemente fuertes como para liderar un ejército de Hobgoblins; y muchos menos son además capaces de comandar un ejército de los Enanos del Caos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_description_text_override_deco_chd_hobgoblin_khan": {
+      "key": "agent_subtypes_description_text_override_deco_chd_hobgoblin_khan",
+      "value_original": "Occasionally the spiteful infighting within the ranks of the Hobgoblins will give birth to a successful and feared killer who will rise to prominence and be known as Khan.",
+      "value_translated": "Ocasionalmente, las rencorosas luchas internas dentro de las filas de los Hobgoblins darán origen a un exitoso y temido asesino que se alzará y será conocido como Khan.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_description_text_override_deco_chd_hobgoblin_pelt_shaman": {
+      "key": "agent_subtypes_description_text_override_deco_chd_hobgoblin_pelt_shaman",
+      "value_original": "Only a few Khans grow strong enough to lead an army of Hobgoblins; even less those that manage to command Chaos Dwarf warriors as well.",
+      "value_translated": "Sólo unos pocos Khan se vuelven lo suficientemente fuertes como para liderar un ejército de Hobgoblins; y muchos menos son además capaces de comandar un ejército de los Enanos del Caos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_onscreen_name_override_deco_chd_bull_centaur_lord": {
+      "key": "agent_subtypes_onscreen_name_override_deco_chd_bull_centaur_lord",
+      "value_original": "Bull Centaur Lord",
+      "value_translated": "Señor Centauro Enano",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_onscreen_name_override_deco_chd_hobgoblin_great_khan": {
+      "key": "agent_subtypes_onscreen_name_override_deco_chd_hobgoblin_great_khan",
+      "value_original": "Hobgoblin Great Khan",
+      "value_translated": "Gran Khan Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_onscreen_name_override_deco_chd_hobgoblin_khan": {
+      "key": "agent_subtypes_onscreen_name_override_deco_chd_hobgoblin_khan",
+      "value_original": "Hobgoblin Khan",
+      "value_translated": "Khan Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_onscreen_name_override_deco_chd_hobgoblin_pelt_shaman": {
+      "key": "agent_subtypes_onscreen_name_override_deco_chd_hobgoblin_pelt_shaman",
+      "value_original": "Hobgoblin Pelt Shaman",
+      "value_translated": "Chamán de Piel Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_colour_text_wh_main_anc_mount_deco_chd_hobgoblin_khan_wolf": {
+      "key": "ancillaries_colour_text_wh_main_anc_mount_deco_chd_hobgoblin_khan_wolf",
+      "value_original": "\"Da Khan getz da biggest barka', nuff sed.\"",
+      "value_translated": "\"Er Khan conzigue al que maz ladra, y zacabó\".",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_onscreen_name_wh_main_anc_mount_deco_chd_hobgoblin_khan_wolf": {
+      "key": "ancillaries_onscreen_name_wh_main_anc_mount_deco_chd_hobgoblin_khan_wolf",
+      "value_original": "Giant Wolf",
+      "value_translated": "Lobo Gigante",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skill_level_details_localised_description_1wh_main_skill_chd_unique_deco_chd_hobgoblin_khan_sneaky_git": {
+      "key": "character_skill_level_details_localised_description_1wh_main_skill_chd_unique_deco_chd_hobgoblin_khan_sneaky_git",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skill_level_details_localised_name_1wh_main_skill_chd_unique_deco_chd_hobgoblin_khan_sneaky_git": {
+      "key": "character_skill_level_details_localised_name_1wh_main_skill_chd_unique_deco_chd_hobgoblin_khan_sneaky_git",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skill_node_sets_enc_title_wh2_main_skill_node_set_chs_deco_chd_hobgoblin_great_khan": {
+      "key": "character_skill_node_sets_enc_title_wh2_main_skill_node_set_chs_deco_chd_hobgoblin_great_khan",
+      "value_original": "Great Khan Skills",
+      "value_translated": "Habilidades del Gran Khan",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skill_node_sets_enc_title_wh2_main_skill_node_set_chs_deco_chd_hobgoblin_pelt_shaman": {
+      "key": "character_skill_node_sets_enc_title_wh2_main_skill_node_set_chs_deco_chd_hobgoblin_pelt_shaman",
+      "value_original": "Hobgoblin Pelt Shaman Skills",
+      "value_translated": "Habilidades del Chamán de Piel Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skill_node_sets_enc_title_wh_main_skill_node_set_chs_cha_bull_lord": {
+      "key": "character_skill_node_sets_enc_title_wh_main_skill_node_set_chs_cha_bull_lord",
+      "value_original": "Bull Centaur Lord Skills",
+      "value_translated": "Habilidades del Señor Centauro Enano",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_bull_centaur_skill_1": {
+      "key": "character_skills_localised_description_deco_bull_centaur_skill_1",
+      "value_original": "Able to move a horde in ways and at speeds unlike any Chaos Dwarf leader, Bull Centaurs excel at catching enemies off guard.",
+      "value_translated": "Capaces de mover una horda de maneras y a velocidades diferentes a las de cualquier líder de los Enanos del Caos, los Centauros Enanos destacan por tomar a los enemigos con la guardia baja.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_bull_centaur_skill_2": {
+      "key": "character_skills_localised_description_deco_bull_centaur_skill_2",
+      "value_original": "Fearsome blessings of strength that often come with extra fangs or horns.",
+      "value_translated": "Temibles bendiciones de fuerza que a menudo vienen con colmillos o cuernos adicionales.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_bull_centaur_skill_3": {
+      "key": "character_skills_localised_description_deco_bull_centaur_skill_3",
+      "value_original": "The loyalty that gifts of change buy is almost incomprehensible by the innocent.",
+      "value_translated": "La lealtad que se compra con regalos de cambio es casi incomprensible para los inocentes.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_bull_centaur_skill_4": {
+      "key": "character_skills_localised_description_deco_bull_centaur_skill_4",
+      "value_original": "Hashut protects his champions well, all the better to spread his dominion.",
+      "value_translated": "Hashut protege bien a sus campeones, mientras que sirvan para extender su dominio.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_bull_centaur_start_skill_1": {
+      "key": "character_skills_localised_description_deco_bull_centaur_start_skill_1",
+      "value_original": "The children of the Dark Father will seek his vengeance eternally.",
+      "value_translated": "Los hijos del Padre Oscuro buscarán su venganza eternamente.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_bull_centaur_start_skill_2": {
+      "key": "character_skills_localised_description_deco_bull_centaur_start_skill_2",
+      "value_original": "A penchant for killing via trampling under hoof.",
+      "value_translated": "Una inclinación por matar pisoteando bajo la herradura.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_bull_centaur_start_skill_3": {
+      "key": "character_skills_localised_description_deco_bull_centaur_start_skill_3",
+      "value_original": "Bull Centaurs are often considered the chosen of Hashut, and as such gain his favour in many ways.",
+      "value_translated": "Los Centauros Enanos a menudo son considerados los elegidos de Hashut y, como tales, se ganan su favor de muchas maneras.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_great_khan_skill_1": {
+      "key": "character_skills_localised_description_deco_great_khan_skill_1",
+      "value_original": "Dis greenie knows how to shoot.",
+      "value_translated": "Ezte novato zabe dizparar.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_great_khan_skill_2": {
+      "key": "character_skills_localised_description_deco_great_khan_skill_2",
+      "value_original": "All the followers of the dark gods can be deserving of their blessings, no matter their size.",
+      "value_translated": "Todos los seguidores de los dioses oscuros pueden ser merecedores de sus bendiciones, sin importar su tamaño.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_great_khan_skill_3": {
+      "key": "character_skills_localised_description_deco_great_khan_skill_3",
+      "value_original": "\"Slaves to the darkness, beasts of prey, arise!!\"",
+      "value_translated": "\"¡¡Esclavos de la oscuridad, bestias de presa, levantaos!!\"",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_great_khan_skill_4": {
+      "key": "character_skills_localised_description_deco_great_khan_skill_4",
+      "value_original": "The Dark Father's dominance is absolute.",
+      "value_translated": "El dominio del Padre Oscuro es absoluto.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_great_khan_skill_5": {
+      "key": "character_skills_localised_description_deco_great_khan_skill_5",
+      "value_original": "These lands are home to the cunning Hobgoblins; no-one dares to pass unprepared.",
+      "value_translated": "Estas tierras son el hogar de los astutos Hobgoblins. Nadie se atreve a pasar sin prepararse con antelación.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_great_khan_skill_6": {
+      "key": "character_skills_localised_description_deco_great_khan_skill_6",
+      "value_original": "This Khan and his followers have excelled in hiding in plain sight.",
+      "value_translated": "Este Khan y sus seguidores se han destacado por ocultarse a plena vista.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_hob_great_khan_skill_0": {
+      "key": "character_skills_localised_description_deco_hob_great_khan_skill_0",
+      "value_original": "Respect can be hard enough to earn when you aren't 4 feet tall, but from small beginnings can come great things.",
+      "value_translated": "El respeto puede ser bastante difícil de ganar cuando no mides más de un metro de altura, pero desde pequeños comienzos pueden surgir grandes cosas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_hob_khan_elite_skill_1": {
+      "key": "character_skills_localised_description_deco_hob_khan_elite_skill_1",
+      "value_original": "Scouting just becomes second nature to those experienced in it.",
+      "value_translated": "Explorar se convierte en una segunda naturaleza para quienes lo hacen a menudo.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_hob_khan_elite_skill_2": {
+      "key": "character_skills_localised_description_deco_hob_khan_elite_skill_2",
+      "value_original": "Often tasked with suicidal assassination missions, many Hobgolins spend their time training for ways to live through such tasks.",
+      "value_translated": "A menudo encargados de misiones de asesinatos suicidas, muchos Hobgolins dedican su tiempo a entrenar formas de vivir entre asesinatos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_hob_khan_elite_skill_3": {
+      "key": "character_skills_localised_description_deco_hob_khan_elite_skill_3",
+      "value_original": "Hobgoblins are capable of enslaving or taming monsters of various types, learning how to lose the least amount of soldiers in the process is the key.",
+      "value_translated": "Los hobgoblins son capaces de esclavizar o domesticar monstruos de varios tipos, la clave es aprender a perder la menor cantidad de soldados en el proceso.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_hob_khan_elite_skill_4": {
+      "key": "character_skills_localised_description_deco_hob_khan_elite_skill_4",
+      "value_original": "Respected and feared... By other Hobgoblins of course.",
+      "value_translated": "Respetado y temido... Por otros Hobgoblins, por supuesto.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_deco_hob_khan_elite_skill_5": {
+      "key": "character_skills_localised_description_deco_hob_khan_elite_skill_5",
+      "value_original": "Often having been slaves themselves, Hobgoblins are known to employ various tactics in the Dawi Zharr armies.",
+      "value_translated": "Habiendo sido a menudo esclavos, se sabe que los Hobgoblins emplean diversas tácticas en los ejércitos de los Dawi Zharr.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_hob_great_khan_skills_1": {
+      "key": "character_skills_localised_description_hob_great_khan_skills_1",
+      "value_original": "All finally know your worth, but much more is still to be proven.",
+      "value_translated": "Todos finalmente saben lo que vales, pero aún queda mucho por demostrar.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_hob_great_khan_skills_2": {
+      "key": "character_skills_localised_description_hob_great_khan_skills_2",
+      "value_original": "Maintaining power can be done in various ways, fear of assassination and torture is certainly one way.",
+      "value_translated": "Mantener el poder se puede lograr de varias maneras; el miedo al asesinato y la tortura es sin duda una de ellas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_hob_great_khan_skills_3": {
+      "key": "character_skills_localised_description_hob_great_khan_skills_3",
+      "value_original": "The secret and rare magics of the greenskin slaves can somewhat harnessed by those ascertain respect and admiration, and with the patience to learn.",
+      "value_translated": "Las magias secretas y raras de los esclavos pieles verdes pueden ser aprovechadas de alguna manera por aquellos que obtienen respeto y admiración, y con la paciencia para aprender.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_hob_great_khan_skills_4": {
+      "key": "character_skills_localised_description_hob_great_khan_skills_4",
+      "value_original": "A Khan of the volcano tribes, well known and well respected by the Dawi-Zharr and the Dark Father.",
+      "value_translated": "Un Khan de las tribus volcánicas, muy conocido y respetado por los Dawi-Zharr y el Padre Oscuro.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_wh_main_skill_chd_unique_deco_chd_hobgoblin_khan_sneaky_git": {
+      "key": "character_skills_localised_description_wh_main_skill_chd_unique_deco_chd_hobgoblin_khan_sneaky_git",
+      "value_original": "Like all sneaky gits, dis Khan is \"a bad piece o' work\" – when he stabs he really means it.",
+      "value_translated": "Como tos los ezcurridizoz, ezte Khan ez \"una mala pieza\": cuando apuñala, lo haze en zerio.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_wh_main_skill_deco_chd_hobgoblin_khan_wolf": {
+      "key": "character_skills_localised_description_wh_main_skill_deco_chd_hobgoblin_khan_wolf",
+      "value_original": "\"Da Khan getz da biggest barka', nuff sed.\"",
+      "value_translated": "\"Er Khan conzigue al que maz ladra, y zacabó\".",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_bull_centaur_skill_1": {
+      "key": "character_skills_localised_name_deco_bull_centaur_skill_1",
+      "value_original": "Shifting Legion",
+      "value_translated": "Legión Cambiante",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_bull_centaur_skill_2": {
+      "key": "character_skills_localised_name_deco_bull_centaur_skill_2",
+      "value_original": "Mutations of Malice",
+      "value_translated": "Mutaciones de Malicia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_bull_centaur_skill_3": {
+      "key": "character_skills_localised_name_deco_bull_centaur_skill_3",
+      "value_original": "Pacts of the Changed",
+      "value_translated": "Pactos de los Cambiados",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_bull_centaur_skill_4": {
+      "key": "character_skills_localised_name_deco_bull_centaur_skill_4",
+      "value_original": "Blessings of Fortitude",
+      "value_translated": "Bendiciones de Fortaleza",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_bull_centaur_start_skill_1": {
+      "key": "character_skills_localised_name_deco_bull_centaur_start_skill_1",
+      "value_original": "Revenge of the Betrayed",
+      "value_translated": "Venganza de los Traicionados",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_bull_centaur_start_skill_2": {
+      "key": "character_skills_localised_name_deco_bull_centaur_start_skill_2",
+      "value_original": "Bull's Charge",
+      "value_translated": "Carga de Toro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_bull_centaur_start_skill_3": {
+      "key": "character_skills_localised_name_deco_bull_centaur_start_skill_3",
+      "value_original": "Gifts of the Favoured",
+      "value_translated": "Regalos de los Favorecidos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_great_khan_skill_1": {
+      "key": "character_skills_localised_name_deco_great_khan_skill_1",
+      "value_original": "Keen Eye",
+      "value_translated": "Ojo Avizor",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_great_khan_skill_2": {
+      "key": "character_skills_localised_name_deco_great_khan_skill_2",
+      "value_original": "Dark Blessings to the Faithless",
+      "value_translated": "Bendiciones Oscuras para los Infieles",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_great_khan_skill_3": {
+      "key": "character_skills_localised_name_deco_great_khan_skill_3",
+      "value_original": "Beast Master",
+      "value_translated": "Maestro de las Bestias",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_great_khan_skill_4": {
+      "key": "character_skills_localised_name_deco_great_khan_skill_4",
+      "value_original": "Dawi-Zharr Legion",
+      "value_translated": "Legión Dawi-Zharr",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_great_khan_skill_5": {
+      "key": "character_skills_localised_name_deco_great_khan_skill_5",
+      "value_original": "Hobgoblin Tribes",
+      "value_translated": "Tribus Hobgoblins",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_great_khan_skill_6": {
+      "key": "character_skills_localised_name_deco_great_khan_skill_6",
+      "value_original": "Silent But Deadly",
+      "value_translated": "Silencioso pero letal",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_hob_great_khan_skill_0": {
+      "key": "character_skills_localised_name_deco_hob_great_khan_skill_0",
+      "value_original": "Burden of the Meek",
+      "value_translated": "Carga de los Mansos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_hob_khan_elite_skill_1": {
+      "key": "character_skills_localised_name_deco_hob_khan_elite_skill_1",
+      "value_original": "Veteran Scouter",
+      "value_translated": "Explorador veterano",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_hob_khan_elite_skill_2": {
+      "key": "character_skills_localised_name_deco_hob_khan_elite_skill_2",
+      "value_original": "Master Cutthroat",
+      "value_translated": "Maestro asesino",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_hob_khan_elite_skill_3": {
+      "key": "character_skills_localised_name_deco_hob_khan_elite_skill_3",
+      "value_original": "Monster Tamer",
+      "value_translated": "Domador de monstruos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_hob_khan_elite_skill_4": {
+      "key": "character_skills_localised_name_deco_hob_khan_elite_skill_4",
+      "value_original": "High Khan",
+      "value_translated": "Alto Khan",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_deco_hob_khan_elite_skill_5": {
+      "key": "character_skills_localised_name_deco_hob_khan_elite_skill_5",
+      "value_original": "Champion of Slaves",
+      "value_translated": "Campeón de esclavos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_hob_great_khan_skills_1": {
+      "key": "character_skills_localised_name_hob_great_khan_skills_1",
+      "value_original": "Greatest of Khans",
+      "value_translated": "El más grande de los Khan",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_hob_great_khan_skills_2": {
+      "key": "character_skills_localised_name_hob_great_khan_skills_2",
+      "value_original": "Cutthroat Khan",
+      "value_translated": "Khan asesino",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_hob_great_khan_skills_3": {
+      "key": "character_skills_localised_name_hob_great_khan_skills_3",
+      "value_original": "Great Shamanic Khan",
+      "value_translated": "Gran Khan Chamánico",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_hob_great_khan_skills_4": {
+      "key": "character_skills_localised_name_hob_great_khan_skills_4",
+      "value_original": "Zharr-Shaman Khan",
+      "value_translated": "Khan Zharr-Chamán",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_wh_main_skill_chd_unique_deco_chd_hobgoblin_khan_sneaky_git": {
+      "key": "character_skills_localised_name_wh_main_skill_chd_unique_deco_chd_hobgoblin_khan_sneaky_git",
+      "value_original": "Da Sneaky Git",
+      "value_translated": "Er Ezcurridizo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_wh_main_skill_deco_chd_hobgoblin_khan_wolf": {
+      "key": "character_skills_localised_name_wh_main_skill_deco_chd_hobgoblin_khan_wolf",
+      "value_original": "Giant Wolf",
+      "value_translated": "Lobo Gigante",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_deco_chd_monsters_phys": {
+      "key": "effects_description_deco_chd_monsters_phys",
+      "value_original": "Physical Resistance: %+n% for Lava Trolls, Taurus, Lammasu and Siege Giant units",
+      "value_translated": "Resistencia física: %+n% para unidades de Trolls de Lava, Grandes Tauros, Lammasu y Gigantes de Asedio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_deco_chd_monsters_upkeep": {
+      "key": "effects_description_deco_chd_monsters_upkeep",
+      "value_original": "Upkeep: %+n% for Lava Trolls, Taurus, Lammasu and Siege Giant units",
+      "value_translated": "Mantenimiento: %+n% para unidades de Trolls de Lava, Grandes Tauros, Lammasu y Gigantes de Asedio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_deco_chd_warriors_upkeep": {
+      "key": "effects_description_deco_chd_warriors_upkeep",
+      "value_original": "Upkeep: %+n% for Chaos Dwarf Warriors and Berzerkers units",
+      "value_translated": "Mantenimiento: %+n% para unidades de Guerreros Enanos del Caos y Berzerkers",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_deco_chd_warriors_upkeep_ranged": {
+      "key": "effects_description_deco_chd_warriors_upkeep_ranged",
+      "value_original": "Upkeep: %+n% for Quarrellers, Devastators, Annihilators and Infernal Guard units",
+      "value_translated": "Mantenimiento: %+n% para unidades de Ballesteros, Aniquiladores y Guardia Infernal",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_deco_effect_agent_cap_increase_hobgoblin_khan": {
+      "key": "effects_description_deco_effect_agent_cap_increase_hobgoblin_khan",
+      "value_original": "Hero capacity: %+n for Hobgoblin Khans",
+      "value_translated": "Capacidad de héroe: %+n para Khans Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_deco_effect_agent_enable_recruitment_hobgoblin_khan": {
+      "key": "effects_description_deco_effect_agent_enable_recruitment_hobgoblin_khan",
+      "value_original": "Unlocks [[img:icon_hero]][[/img]]Hero recruitment: Hobgoblin Khan",
+      "value_translated": "Desbloquea el reclutamiento de [[img:icon_hero]][[/img]]héroe: Khan Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_deco_effect_agent_recruitment_xp_hobgoblin_khan": {
+      "key": "effects_description_deco_effect_agent_recruitment_xp_hobgoblin_khan",
+      "value_original": "Hero recruit rank: %+n for Hobgoblin Khans",
+      "value_translated": "Rango de reclutamiento de héroe: %+n para Khans Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_deco_effect_unit_cap_chd_lava_trolls": {
+      "key": "effects_description_deco_effect_unit_cap_chd_lava_trolls",
+      "value_original": "Unit capacity: %+n\\\\nLava Trolls",
+      "value_translated": "Capacidad de la unidad: %+n\\\\nTrolls de Lava",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh3_dlc23_effect_force_stat_weapon_strength_chd_lammasu_taurus": {
+      "key": "effects_description_wh3_dlc23_effect_force_stat_weapon_strength_chd_lammasu_taurus",
+      "value_original": "Weapon strength: %+n% for Lava Trolls, Taurus, Lammasu and Siege Giant units",
+      "value_translated": "Fuerza del arma: %+n% para unidades de Trolls de Lava, Grandes Tauros, Lammasu y Gigantes de Asedio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "initiative_set_categories_display_name_DLC23_CATEGORY_FLYING_BEASTS_INITIATIVES": {
+      "key": "initiative_set_categories_display_name_DLC23_CATEGORY_FLYING_BEASTS_INITIATIVES",
+      "value_original": "Monsters",
+      "value_translated": "Monstruos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_concealed_name_deco_chd_bull_centaur_lord": {
+      "key": "land_units_concealed_name_deco_chd_bull_centaur_lord",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_concealed_name_deco_chd_hobgoblin_great_khan": {
+      "key": "land_units_concealed_name_deco_chd_hobgoblin_great_khan",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_concealed_name_deco_chd_hobgoblin_khan": {
+      "key": "land_units_concealed_name_deco_chd_hobgoblin_khan",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_concealed_name_deco_chd_hobgoblin_khan_wolf": {
+      "key": "land_units_concealed_name_deco_chd_hobgoblin_khan_wolf",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_concealed_name_deco_chd_hobgoblin_pelt_shaman": {
+      "key": "land_units_concealed_name_deco_chd_hobgoblin_pelt_shaman",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_acolytes": {
+      "key": "land_units_onscreen_name_deco_chd_acolytes",
+      "value_original": "Acolytes of Hashut",
+      "value_translated": "Acólitos de Hashut",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_annihilators": {
+      "key": "land_units_onscreen_name_deco_chd_annihilators",
+      "value_original": "Annihilators",
+      "value_translated": "Aniquiladores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_bolt_thrower": {
+      "key": "land_units_onscreen_name_deco_chd_bolt_thrower",
+      "value_original": "Hobgoblin Bolt Thrower",
+      "value_translated": "Lanzavirotes Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_bull_centaur_lord": {
+      "key": "land_units_onscreen_name_deco_chd_bull_centaur_lord",
+      "value_original": "Bull Centaur Lord",
+      "value_translated": "Señor Centauro Enano",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_gnoblar_slaves": {
+      "key": "land_units_onscreen_name_deco_chd_gnoblar_slaves",
+      "value_original": "Gnoblar Labourers",
+      "value_translated": "Trabajadores Gnoblar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_hobgoblin_great_khan": {
+      "key": "land_units_onscreen_name_deco_chd_hobgoblin_great_khan",
+      "value_original": "Hobgoblin Great Khan",
+      "value_translated": "Gran Khan Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_hobgoblin_khan": {
+      "key": "land_units_onscreen_name_deco_chd_hobgoblin_khan",
+      "value_original": "Hobgoblin Khan",
+      "value_translated": "Khan Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_hobgoblin_khan_wolf": {
+      "key": "land_units_onscreen_name_deco_chd_hobgoblin_khan_wolf",
+      "value_original": "Hobgoblin Khan",
+      "value_translated": "Khan Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_hobgoblin_pelt_shaman": {
+      "key": "land_units_onscreen_name_deco_chd_hobgoblin_pelt_shaman",
+      "value_original": "Hobgoblin Pelt Shaman",
+      "value_translated": "Chamán de Piel Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_lava_trolls": {
+      "key": "land_units_onscreen_name_deco_chd_lava_trolls",
+      "value_original": "Lava Trolls",
+      "value_translated": "Trolls de Lava",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_naphtha": {
+      "key": "land_units_onscreen_name_deco_chd_naphtha",
+      "value_original": "Infernal Guard (Naphtha Bombs)",
+      "value_translated": "Guardia Infernal (bombas de nafta)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_ogre_slaves": {
+      "key": "land_units_onscreen_name_deco_chd_ogre_slaves",
+      "value_original": "Ogre Labourers",
+      "value_translated": "Trabajadores Ogros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_quarrellers": {
+      "key": "land_units_onscreen_name_deco_chd_quarrellers",
+      "value_original": "Chaos Dwarf Quarrellers",
+      "value_translated": "Ballesteros Enanos del Caos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_ravagers": {
+      "key": "land_units_onscreen_name_deco_chd_ravagers",
+      "value_original": "Hobhound Ravagers",
+      "value_translated": "Expoliadores Hobsabuesos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_siege_giant": {
+      "key": "land_units_onscreen_name_deco_chd_siege_giant",
+      "value_original": "Siege Giant",
+      "value_translated": "Gigante de Asedio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_deco_chd_zealots": {
+      "key": "land_units_onscreen_name_deco_chd_zealots",
+      "value_original": "Zealot Berzerkers",
+      "value_translated": "Berzerkers Fanáticos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_bulletpoints_deco_chd_bolt_thrower": {
+      "key": "loading_screen_quotes_bulletpoints_deco_chd_bolt_thrower",
+      "value_original": "[[img:icon_ap_ranged]][[/img]]Armour-piercing missiles||[[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]]Anti-large",
+      "value_translated": "[[img:icon_ap_ranged]][[/img]]Proyectiles perforantes||[[img:ui/skins/default/modifier_icon_bonus_vs_large.png]][[/img]]Eficaz contra enemigos grandes",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_bulletpoints_deco_chd_lava_trolls": {
+      "key": "loading_screen_quotes_bulletpoints_deco_chd_lava_trolls",
+      "value_original": "[[img:ui/battle ui/ability_icons/wh_main_unit_passive_regeneration.png]][[/img]]Regeneration||Poor [[img:ui/skins/default/icon_stat_morale.png]][[/img]]leadership",
+      "value_translated": "[[img:ui/battle ui/ability_icons/wh_main_unit_passive_regeneración.png]][[/img]]Regeneración||Pobre [[img:ui/skins/default/icon_stat_morale.png]][[/img]]liderazgo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_bulletpoints_deco_chd_ogre_slaves": {
+      "key": "loading_screen_quotes_bulletpoints_deco_chd_ogre_slaves",
+      "value_original": "[[img:ui/battle ui/ability_icons/ogre_charge.png]][[/img]]Ogre Charge||[[img:ui/battle ui/ability_icons/expendable.png]][[/img]]Expendable||Meat Shield||Poor [[img:ui/skins/default/icon_stat_morale.png]][[/img]]leadership",
+      "value_translated": "[[img:ui/battle ui/ability_icons/ogre_charge.png]][[/img]]Arremetida||[[img:ui/battle ui/ability_icons/expendable.png]][[/img]]Sacrificable||Escudo de carne||Pobre [[img:ui/skins/default/icon_stat_morale.png]][[/img]]liderazgo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_bulletpoints_deco_chd_quarrellers": {
+      "key": "loading_screen_quotes_bulletpoints_deco_chd_quarrellers",
+      "value_original": "[[img:ui/skins/default/icon_stat_armour.png]][[/img]]Armoured",
+      "value_translated": "[[img:ui/skins/default/icon_stat_armour.png]][[/img]]Acorazado",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_bulletpoints_deco_chd_ravagers": {
+      "key": "loading_screen_quotes_bulletpoints_deco_chd_ravagers",
+      "value_original": "[[img:ui/skins/default/modifier_icon_shield.png]][[/img]]Shielded||[[img:ui/skins/default/icon_stat_speed.png]][[/img]]Very fast||[[img:ui/battle ui/ability_icons/guerrilla_deploy.png]][[/img]]Vanguard deployment||[[img:ui/battle ui/ability_icons/expendable.png]][[/img]]Expendable",
+      "value_translated": "[[img:ui/skins/default/modifier_icon_shield.png]][[/img]]Escudado||[[img:ui/skins/default/icon_stat_speed.png]][[/img]]Muy rápido||[[img:ui/battle ui/ability_icons/guerrilla_deploy.png]][[/img]]Despliegue de vanguardia||[[img:ui/battle ui/ability_icons/expendable.png]][[/img]]Sacrificable",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_bulletpoints_deco_chd_siege_giant": {
+      "key": "loading_screen_quotes_bulletpoints_deco_chd_siege_giant",
+      "value_original": "Most Effective in Sieges||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Armour-piercing||[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]Anti-infantry||[[img:ui/battle ui/ability_icons/causes_terror.png]][[/img]]Causes Terror",
+      "value_translated": "Más eficaz en asedios||[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Perforante||[[img:ui/skins/default/modifier_icon_bonus_vs_infantry.png]][[/img]]Eficaz contra infantería||[[img:ui/battle ui/ability_icons/causes_terror.png]][[/img]]Causa terror",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_bulletpoints_wh3_dlc23_chd_mon_lammasu": {
+      "key": "loading_screen_quotes_bulletpoints_wh3_dlc23_chd_mon_lammasu",
+      "value_original": "[[img:ui/battle ui/ability_icons/causes_terror.png]][[/img]]Causes Terror||Honeyed Words||Magical Weapon Negation",
+      "value_translated": "[[img:ui/battle ui/ability_icons/causes_terror.png]][[/img]]Causa terror||Palabras melosas||Negación de armas mágicas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_chd_bolt_thrower": {
+      "key": "loading_screen_quotes_description_deco_chd_bolt_thrower",
+      "value_original": "Although crude and primitive compared to the arsenals of the Chaos Dwarfs, Hobgoblin spear chukkas can provide effective ranged support.",
+      "value_translated": "Aunque toscos y primitivos en comparación con los arsenales de los Enanos del Caos, los Lanzapinchoz Hobgoblin pueden proporcionar un apoyo a distancia eficaz.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_chd_lava_trolls": {
+      "key": "loading_screen_quotes_description_deco_chd_lava_trolls",
+      "value_original": "A rare breed of trolls that have been seen only in the Dark Lands.",
+      "value_translated": "Una raza rara de trolls que sólo se ha visto en las Tierras Oscuras.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_chd_ogre_slaves": {
+      "key": "loading_screen_quotes_description_deco_chd_ogre_slaves",
+      "value_original": "Ogres make good slaves for the Pits, and if needed they can be sent to the battlefield for brute force.",
+      "value_translated": "Los ogros son buenos esclavos para los Pozos y, si es necesario, pueden ser enviados al campo de batalla para usar su fuerza bruta.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_chd_quarrellers": {
+      "key": "loading_screen_quotes_description_deco_chd_quarrellers",
+      "value_original": "Crossbow regiments that provide ranged support to the shock troops and massed slaves that predominate the Dawi Zharr armies.",
+      "value_translated": "Regimientos de ballestas que brindan apoyo a distancia a las tropas de choque y esclavos en masa que predominan en los ejércitos de los Dawi Zharr.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_chd_ravagers": {
+      "key": "loading_screen_quotes_description_deco_chd_ravagers",
+      "value_original": "Also known as Hobyars, the nobles of the Mourngul Khanate are the only ones permitted to ride the carefully domesticated Hobhounds. ",
+      "value_translated": "También conocidos como Hobyars, los nobles del Khanato Fúnebre son los únicos a los que se les permite montar los Hobsabuesos cuidadosamente domesticados.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_description_deco_chd_siege_giant": {
+      "key": "loading_screen_quotes_description_deco_chd_siege_giant",
+      "value_original": "These hulking behemoths combine the strength of the Giant race with the nigh-impenetrable armour of their masters.",
+      "value_translated": "Estos gigantes descomunales combinan la fuerza de la raza Gigante con la armadura casi impenetrable de sus amos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_chd_bolt_thrower": {
+      "key": "loading_screen_quotes_title_deco_chd_bolt_thrower",
+      "value_original": "Hobgoblin Bolt Thrower",
+      "value_translated": "Lanzavirotes Hobgoblin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_chd_lava_trolls": {
+      "key": "loading_screen_quotes_title_deco_chd_lava_trolls",
+      "value_original": "Lava Trolls",
+      "value_translated": "Trolls de Lava",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_chd_ogre_slaves": {
+      "key": "loading_screen_quotes_title_deco_chd_ogre_slaves",
+      "value_original": "Ogre Labourers",
+      "value_translated": "Trabajadores Ogros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_chd_quarrellers": {
+      "key": "loading_screen_quotes_title_deco_chd_quarrellers",
+      "value_original": "Chaos Dwarf Quarrellers",
+      "value_translated": "Ballesteros Enanos del Caos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_chd_ravagers": {
+      "key": "loading_screen_quotes_title_deco_chd_ravagers",
+      "value_original": "Hobhound Ravagers",
+      "value_translated": "Hobsabuesos Expoliadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "loading_screen_quotes_title_deco_chd_siege_giant": {
+      "key": "loading_screen_quotes_title_deco_chd_siege_giant",
+      "value_original": "Siege Giant",
+      "value_translated": "Gigante de Asedio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "pooled_resources_display_name_wh3_dlc23_chd_hellforge_flying_beast_unlocker": {
+      "key": "pooled_resources_display_name_wh3_dlc23_chd_hellforge_flying_beast_unlocker",
+      "value_original": "Total Monsters Capacity",
+      "value_translated": "Capacidad total de monstruos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ritual_categories_display_name_HELLFORGE_CAPS_FLYING_BEASTS": {
+      "key": "ritual_categories_display_name_HELLFORGE_CAPS_FLYING_BEASTS",
+      "value_original": "Monsters",
+      "value_translated": "Monstruos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "rituals_display_name_wh3_dlc23_chd_ritual_unit_cap_bale_taurus": {
+      "key": "rituals_display_name_wh3_dlc23_chd_ritual_unit_cap_bale_taurus",
+      "value_original": "Siege Giant & Bale Taurus",
+      "value_translated": "Gigante de Asedio y Calamitauro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "rituals_display_name_wh3_dlc23_chd_ritual_unit_cap_chaos_dwarf_blunderbusses": {
+      "key": "rituals_display_name_wh3_dlc23_chd_ritual_unit_cap_chaos_dwarf_blunderbusses",
+      "value_original": "Quarrellers & Blunderbusses",
+      "value_translated": "Ballesteros y Trabucos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "rituals_display_name_wh3_dlc23_chd_ritual_unit_cap_chaos_dwarf_warriors": {
+      "key": "rituals_display_name_wh3_dlc23_chd_ritual_unit_cap_chaos_dwarf_warriors",
+      "value_original": "Warriors & Berzerkers",
+      "value_translated": "Guerreros y Berzerkers",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "rituals_display_name_wh3_dlc23_chd_ritual_unit_cap_infernal_guard_fireglaives": {
+      "key": "rituals_display_name_wh3_dlc23_chd_ritual_unit_cap_infernal_guard_fireglaives",
+      "value_original": "Annihilators & Fireglaives",
+      "value_translated": "Aniquiladores y Glaives de Fuego",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "rituals_display_name_wh3_dlc23_chd_ritual_unit_cap_infernal_ironsworn": {
+      "key": "rituals_display_name_wh3_dlc23_chd_ritual_unit_cap_infernal_ironsworn",
+      "value_original": "Acolytes & Infernal Ironsworn",
+      "value_translated": "Acólitos y Juramentados de Hierro Infernales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_onscreen_name_darkforged": {
+      "key": "ui_unit_bullet_point_enums_onscreen_name_darkforged",
+      "value_original": "Darkforged Weapon",
+      "value_translated": "Arma forjada en la oscuridad",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_onscreen_name_deco_siege_giant": {
+      "key": "ui_unit_bullet_point_enums_onscreen_name_deco_siege_giant",
+      "value_original": "Siege Giant",
+      "value_translated": "Gigante de Asedio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_onscreen_name_honeyed_words": {
+      "key": "ui_unit_bullet_point_enums_onscreen_name_honeyed_words",
+      "value_original": "Honeyed Words",
+      "value_translated": "Palabras melosas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_tooltip_darkforged": {
+      "key": "ui_unit_bullet_point_enums_tooltip_darkforged",
+      "value_original": "The Daemonsmiths have infused twisted runes and malign spirits in these weapons.",
+      "value_translated": "Los Herreros Demoníacos han infundido runas retorcidas y espíritus malignos en estas armas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_tooltip_deco_siege_giant": {
+      "key": "ui_unit_bullet_point_enums_tooltip_deco_siege_giant",
+      "value_original": "Most effective in sieges, the Chaos Siege Giants can bring down even the most fortified gates and walls.",
+      "value_translated": "Más eficaces en asedios, los Gigantes de Asedio del Caos pueden derribar incluso las puertas y muros más fortificados.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_tooltip_honeyed": {
+      "key": "ui_unit_bullet_point_enums_tooltip_honeyed",
+      "value_original": "The Lammasu can call out other creatures to do its bidding.",
+      "value_translated": "El Lammasu puede llamar a otras criaturas para que cumplan sus órdenes.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_groupings_onscreen_deco_chd_bull_centaur_lord": {
+      "key": "ui_unit_groupings_onscreen_deco_chd_bull_centaur_lord",
+      "value_original": "Bull Centaur",
+      "value_translated": "Centauro Enano",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_groupings_onscreen_deco_chd_hobgoblin_khan": {
+      "key": "ui_unit_groupings_onscreen_deco_chd_hobgoblin_khan",
+      "value_original": "Melee Specialist",
+      "value_translated": "Especialista cuerpo a cuerpo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_groupings_tooltip_deco_chd_bull_centaur_lord": {
+      "key": "ui_unit_groupings_tooltip_deco_chd_bull_centaur_lord",
+      "value_original": "Brutal and bloodthirsty beasts, striding into battle to wreak havoc.\r",
+      "value_translated": "Bestias brutales y sedientas de sangre que se lanzan a la batalla para sembrar el caos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_unit_groupings_tooltip_deco_chd_hobgoblin_khan": {
+      "key": "ui_unit_groupings_tooltip_deco_chd_hobgoblin_khan",
+      "value_original": "A successful and feared killer risen to prominence.",
+      "value_translated": "Un asesino exitoso y temido que se hizo famoso.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_additional_ui_effects_localised_text_wh_main_all_summon_wyvern": {
+      "key": "unit_abilities_additional_ui_effects_localised_text_wh_main_all_summon_wyvern",
+      "value_original": "[[col:green]][[img:ui/skins/default/ua_arrow_increase_1.png]][[/img]] Spawns a Feral Wyvern[[/col]]",
+      "value_translated": "[[col:green]][[img:ui/skins/default/ua_arrow_increase_1.png]][[/img]]Convoca una Serpiente Alada Salvaje[[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_chd_bound_spell_honeyed_words": {
+      "key": "unit_abilities_onscreen_name_chd_bound_spell_honeyed_words",
+      "value_original": "Honeyed Words",
+      "value_translated": "Palabras melosas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_chd_bound_spell_honeyed_words": {
+      "key": "unit_abilities_tooltip_text_chd_bound_spell_honeyed_words",
+      "value_original": "The Lammasu calls out to a creature of the Dark Lands with an insidious charisma, leaving it befuddled and suggestible to its cunning manipulations.",
+      "value_translated": "El Lammasu llama a una criatura de las Tierras Oscuras con un carisma insidioso, dejándola desconcertada y sugestionable ante sus astutas manipulaciones.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_acolytes": {
+      "key": "unit_description_short_texts_text_deco_chd_acolytes",
+      "value_original": "The most elite fighting units of religious fanatics among the Dawi Zharr.",
+      "value_translated": "Las unidades de combate de élite de fanáticos religiosos de entre los Dawi Zharr.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_annihilators": {
+      "key": "unit_description_short_texts_text_deco_chd_annihilators",
+      "value_original": "Weapons teams carrying pyrotechnic marvels of mass destruction. They are usually volunteers who are either exceptionally brave or slightly insane.",
+      "value_translated": "Equipos de armas portando maravillas pirotécnicas de destrucción masiva. Normalmente son voluntarios extremadamente valientes, o un poco chiflados.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_bolt_thrower": {
+      "key": "unit_description_short_texts_text_deco_chd_bolt_thrower",
+      "value_original": "Although crude and primitive compared to the arsenals of the Chaos Dwarfs, Hobgoblin spear chukkas can provide effective ranged support.",
+      "value_translated": "Aunque toscos y primitivos en comparación con los arsenales de los Enanos del Caos, los Lanzapinchoz Hobgoblin pueden proporcionar un apoyo a distancia eficaz.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_bull_centaur_lord": {
+      "key": "unit_description_short_texts_text_deco_chd_bull_centaur_lord",
+      "value_original": "The bigger and nastier Bull Centaurs lead the stampede into battle.",
+      "value_translated": "Los Centauros Enanos más grandes y desagradables lideran la estampida hacia la batalla.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_gnoblar_slaves": {
+      "key": "unit_description_short_texts_text_deco_chd_gnoblar_slaves",
+      "value_original": "Gnoblars are often enslaved by the Dawi-Zharr. In battle they throw small, spiked metal balls at the enemy, before inevitably getting slaughtered.",
+      "value_translated": "Los Gnoblars suelen ser esclavizados por los Dawi-Zharr. En batalla lanzan pequeñas bolas de metal con pinchos al enemigos, antes de que dicho enemigo los aniquile.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_hobgoblin_great_khan": {
+      "key": "unit_description_short_texts_text_deco_chd_hobgoblin_great_khan",
+      "value_original": "Only a few Khans grow strong enough to lead an army of Hobgoblins; even less those that manage to command Chaos Dwarf warriors as well.",
+      "value_translated": "Sólo unos pocos Khan se vuelven lo suficientemente fuertes como para liderar un ejército de Hobgoblins; y muchos menos son además capaces de comandar un ejército de los Enanos del Caos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_hobgoblin_khan": {
+      "key": "unit_description_short_texts_text_deco_chd_hobgoblin_khan",
+      "value_original": "Occasionally the spiteful infighting within the ranks of the Hobgoblins will give birth to a successful and feared killer who will rise to prominence and be known as Khan.",
+      "value_translated": "Ocasionalmente, las rencorosas luchas internas dentro de las filas de los Hobgoblins darán origen a un exitoso y temido asesino que se alzará y será conocido como Khan.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_hobgoblin_pelt_shaman": {
+      "key": "unit_description_short_texts_text_deco_chd_hobgoblin_pelt_shaman",
+      "value_original": "Great Sorcerers of the Hobgoblin race. Merciless, bitter and cunning like all their kin.",
+      "value_translated": "Grandes Hechiceros de la raza Hobgoblin. Despiadados, amargados y astutos como toda su raza.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_lava_trolls": {
+      "key": "unit_description_short_texts_text_deco_chd_lava_trolls",
+      "value_original": "A rare breed of trolls that have been seen only in the Dark Lands.",
+      "value_translated": "Una raza rara de trolls que sólo se ha visto en las Tierras Oscuras.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_naphtha": {
+      "key": "unit_description_short_texts_text_deco_chd_naphtha",
+      "value_original": "Naphtha bombs are made of sorcerous concoctions of sulphurous chemicals filtered through the essence of fire-daemons.",
+      "value_translated": "Las bombas de nafta están hechas con brebajes mágicos de sustancias químicas sulfurosas filtradas a través de la esencia de demonios de fuego.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_ogre_slaves": {
+      "key": "unit_description_short_texts_text_deco_chd_ogre_slaves",
+      "value_original": "Ogres make good slaves for the Pits, and if needed they can be sent to the battlefield for brute force.",
+      "value_translated": "Los ogros son buenos esclavos para los Pozos y, si es necesario, pueden ser enviados al campo de batalla para usar su fuerza bruta.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_quarrellers": {
+      "key": "unit_description_short_texts_text_deco_chd_quarrellers",
+      "value_original": "Crossbow regiments that provide ranged support to the shock troops and massed slaves that predominate the Dawi Zharr armies.",
+      "value_translated": "Regimientos de ballestas que brindan apoyo a distancia a las tropas de choque y esclavos en masa que predominan en los ejércitos de los Dawi Zharr.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_ravagers": {
+      "key": "unit_description_short_texts_text_deco_chd_ravagers",
+      "value_original": "Also known as Hobyars, the nobles of the Mourngul Khanate are the only ones permitted to ride the carefully domesticated Hobhounds. ",
+      "value_translated": "También conocidos como Hobyars, los nobles del Khanato Fúnebre son los únicos a los que se les permite montar los Hobsabuesos cuidadosamente domesticados.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_siege_giant": {
+      "key": "unit_description_short_texts_text_deco_chd_siege_giant",
+      "value_original": "These hulking behemoths combine the strength of the Giant race with the nigh-impenetrable armour of their masters.",
+      "value_translated": "Estos gigantes descomunales combinan la fuerza de la raza Gigante con la armadura casi impenetrable de sus amos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_deco_chd_zealots": {
+      "key": "unit_description_short_texts_text_deco_chd_zealots",
+      "value_original": "The Berzerkers work themselves into a frenzy before going into battle with the use of potent drugs mixed with blood.",
+      "value_translated": "Los Berzerkers se vuelven frenéticos antes de entrar en batalla con el uso de potentes drogas mezcladas con sangre.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_wh3_dlc23_unit_short_text_chd_inf_infernal_ironsworn_ror": {
+      "key": "unit_description_short_texts_text_wh3_dlc23_unit_short_text_chd_inf_infernal_ironsworn_ror",
+      "value_original": "\"You are the Immortals. You are without pain. You are without fear. You are without death.\"",
+      "value_translated": "\"Vosotros sois los Inmortales. No sufrís dolor. No tenéis miedo. No conoceis la muerte\".",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_localised_description_deco_chd_hobgoblin_khandeco_chd_hobgoblin_khan_wolf": {
+      "key": "units_custom_battle_mounts_localised_description_deco_chd_hobgoblin_khandeco_chd_hobgoblin_khan_wolf",
+      "value_original": "\"Da Khan getz da biggest barka', nuff sed.\"",
+      "value_translated": "\"Er Khan conzigue al que maz ladra, y zacabó\".",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_mount_name_deco_chd_hobgoblin_khandeco_chd_hobgoblin_khan_wolf": {
+      "key": "units_custom_battle_mounts_mount_name_deco_chd_hobgoblin_khandeco_chd_hobgoblin_khan_wolf",
+      "value_original": "Giant Wolf",
+      "value_translated": "Lobo Gigante",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "update1": {
+      "key": "update1",
+      "value_original": "update1",
+      "value_translated": "update1",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "update2": {
+      "key": "update2",
+      "value_original": "update2",
+      "value_translated": "update2",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "update3": {
+      "key": "update3",
+      "value_original": "update3",
+      "value_translated": "update3",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}

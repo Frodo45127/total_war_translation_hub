@@ -1,0 +1,391 @@
+{
+  "language": "SP",
+  "pack_name": "@exp_roster_vcounts.pack",
+  "translations": {
+    "effects_description_wh2_dlc10_effect_skill_melee_attack_increase_fell_bats_crypt_ghoul": {
+      "key": "effects_description_wh2_dlc10_effect_skill_melee_attack_increase_fell_bats_crypt_ghoul",
+      "value_original": "Melee attack: %+n for Fell Bats, Crypt Ghouls and Handmaiden units",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para las unidades de Murciélagos Vampiro, Necrófagos de la Cripta y Doncellas de Lahmia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc10_effect_skill_rank_increase_fell_bats_crypt_ghoul_dire_wolves_hexwraiths": {
+      "key": "effects_description_wh2_dlc10_effect_skill_rank_increase_fell_bats_crypt_ghoul_dire_wolves_hexwraiths",
+      "value_original": "Recruit rank: %+n for Fell Bats, Dire Wolves, Crypt Ghouls, Handmaidens and Hexwraiths units",
+      "value_translated": "Rango de reclutamiento: %+n para unidades Murciélagos Vampiro, Lobos Espectrales, Necrófagos de la Cripta, Doncellas de Lahmia y Espectros Condenadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_skill_morale_increase_crypt_ghouls_horrors": {
+      "key": "effects_description_wh2_dlc11_effect_skill_morale_increase_crypt_ghouls_horrors",
+      "value_original": "Leadership: %+n for Crypt Ghouls, Handmaidens and Crypt Horrors units",
+      "value_translated": "Liderazgo: %+n para las unidades de Necrófagos de la Cripta, Horrores de la Cripta y Doncellas de Lahmia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_skill_physical_resistance_crypt_ghouls_horrors": {
+      "key": "effects_description_wh2_dlc11_effect_skill_physical_resistance_crypt_ghouls_horrors",
+      "value_original": "Physical resistance: %n% Crypt Ghouls, Crypt Horrors and Handmaiden units",
+      "value_translated": "Resistencia física: %n% para las unidades de Necrófagos de la Cripta, Horrores de la Cripta y Doncellas de Lahmia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_skill_rank_increase_crypt_ghouls": {
+      "key": "effects_description_wh2_dlc11_effect_skill_rank_increase_crypt_ghouls",
+      "value_original": "Recruit rank: %+n for Crypt Ghouls and Handmaiden units",
+      "value_translated": "Rango de reclutamiento: %+n para las unidades de Necrófagos de la Cripta y Doncellas de Lahmia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_skill_upkeep_cost_reduction_crypt_ghouls": {
+      "key": "effects_description_wh2_dlc11_effect_skill_upkeep_cost_reduction_crypt_ghouls",
+      "value_original": "Upkeep: %+n% for Crypt Ghouls and Handmaiden units",
+      "value_translated": "Mantenimiento: %+n% para las unidades de Necrófagos de la Cripta y Doncellas de Lahmia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_armour_black_knights_blood_knights": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_armour_black_knights_blood_knights",
+      "value_original": "Armour: %+n for Black Knights, Hell Knights and Blood Knights units",
+      "value_translated": "Armadura: %+n para las unidades de Caballeros Negros, Caballeros Infernales y Caballeros Sangrientos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_charge_black_knights_blood_knights": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_charge_black_knights_blood_knights",
+      "value_original": "Charge bonus: %+n for Black Knights, Hell Knights and Blood Knights units",
+      "value_translated": "Bonificación de carga: %+n para las unidades de Caballeros Negros, Caballeros Infernales y Caballeros Sangrientos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_charge_zombies_skeletons_ghouls_grave_guard": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_charge_zombies_skeletons_ghouls_grave_guard",
+      "value_original": "Charge bonus: %+n for Zombies, Skeletons, Crypt Ghouls, Handmaidens and Grave Guard units",
+      "value_translated": "Bonificación de carga: %+n para Zombis, Esqueletos, Necrófagos de la Cripta, Doncellas de Lahmia y Guardia de los Túmulos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_magic_resist_cairn_wraith_hex_wraith": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_magic_resist_cairn_wraith_hex_wraith",
+      "value_original": "Magic resistance: %n% for Spirit Hosts, Cairn Wraiths and Hex Wraiths units",
+      "value_translated": "Resistencia mágica: %n% para las unidades de Huestes Espectrales, Espectros y Espectros Condenadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_magic_resist_vets_zombies_skeletons_grave_guard_cairn_wraiths": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_magic_resist_vets_zombies_skeletons_grave_guard_cairn_wraiths",
+      "value_original": "Magic resistance: %n% for Zombies, Skeletons, Grave Guard, Spirit Hosts and Cairn Wraiths units {{tr:rank7}}",
+      "value_translated": "Resistencia mágica: %n% para las unidades de Zombis, Esqueletos, Guardia de los Túmulos, Huestes Espectrales y Espectros {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_black_knights_blood_knights": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_black_knights_blood_knights",
+      "value_original": "Melee attack: %+n for Black Knights, Hell Knights and Blood Knights units",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para unidades de Caballeros Negros, Caballeros Infernales y Caballeros Sangrientos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_cairn_wraith_hex_wraith": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_cairn_wraith_hex_wraith",
+      "value_original": "Melee attack: %+n for Spirit Hosts, Cairn Wraiths and Hex Wraiths units",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para las unidades de Huestes Espectrales, Espectros y Espectros Condenadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_vets_crypt_horrors_ghouls_dire_wolves_varghulfs": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_vets_crypt_horrors_ghouls_dire_wolves_varghulfs",
+      "value_original": "Melee attack: %+n for Crypt Ghouls, Crypt Horrors, Handmaidens, Dire Wolves and Varghulfs units {{tr:rank7}}",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para Necrófagos de la Cripta, Horrores de la Cripta, Doncellas de Lahmia, Lobos Espectrales y Varghulfs {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_vets_zombies_skeletons_grave_guard_cairn_wraiths": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_vets_zombies_skeletons_grave_guard_cairn_wraiths",
+      "value_original": "Melee attack: %+n for Zombies, Skeletons, Grave Guard, Spirit Hosts and Cairn Wraiths units {{tr:rank7}}",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para las unidades de Zombis, Esqueletos, Guardia de los Túmulos, Huestes Espectrales y Espectros {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_zombies_skeletons_ghouls_grave_guard": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_zombies_skeletons_ghouls_grave_guard",
+      "value_original": "Melee attack: %+n for Zombies, Skeletons, Crypt Ghouls, Handmaidens and Grave Guard units",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para Zombis, Esqueletos, Necrófagos de la Cripta, Doncellas de Lahmia y Guardia de los Túmulos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_melee_defence_zombies_skeletons_ghouls_grave_guard": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_melee_defence_zombies_skeletons_ghouls_grave_guard",
+      "value_original": "Melee defence: %+n for Zombies, Skeletons, Crypt Ghouls, Handmaidens and Grave Guard units",
+      "value_translated": "Defensa cuerpo a cuerpo: %+n para Zombis, Esqueletos, Necrófagos de la Cripta, Doncellas de Lahmia y Guardia de los Túmulos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_physical_resist_vets_crypt_horrors_ghouls_dire_wolves_varghulfs": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_physical_resist_vets_crypt_horrors_ghouls_dire_wolves_varghulfs",
+      "value_original": "Physical resistance: %n% for Crypt Ghouls, Crypt Horrors, Handmaidens, Dire Wolves and Varghulfs units {{tr:rank7}}",
+      "value_translated": "Resistencia física: %n% para Necrófagos de la Cripta, Horrores de la Cripta, Doncellas de Lahmia, Lobos Espectrales y Varghulfs {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_speed_black_knights_blood_knights": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_speed_black_knights_blood_knights",
+      "value_original": "Speed: %+n% for Black Knights, Hell Knights and Blood Knights units",
+      "value_translated": "Velocidad: %+n% para las unidades de Caballeros Negros, Caballeros Infernales y Caballeros Sangrientos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_speed_zombies_skeletons_ghouls_grave_guard": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_speed_zombies_skeletons_ghouls_grave_guard",
+      "value_original": "Speed: %+n% for Zombies, Skeletons, Crypt Ghouls, Handmaidens and Grave Guard units",
+      "value_translated": "Velocidad: %+n% para las unidades de Zombis, Esqueletos, Necrófagos de la Cripta, Doncellas de Lahmia y Guardia de los Túmulos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_weapon_strength_vets_crypt_horrors_ghouls_dire_wolves_varghulfs": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_weapon_strength_vets_crypt_horrors_ghouls_dire_wolves_varghulfs",
+      "value_original": "Weapon strength: %+n% for Crypt Ghouls, Crypt Horrors, Handmaidens, Dire Wolves and Varghulfs units {{tr:rank7}}",
+      "value_translated": "Fuerza del arma: %+n% para Necrófagos de la Cripta, Horrores de la Cripta, Doncellas de Lahmia, Lobos Espectrales y Varghulfs {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_battle_units_weapon_strength_vets_zombies_skeletons_grave_guard_cairn_wraiths": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_battle_units_weapon_strength_vets_zombies_skeletons_grave_guard_cairn_wraiths",
+      "value_original": "Weapon strength: %+n% for Zombies, Skeletons, Grave Guard, Spirit Hosts and Cairn Wraiths units {{tr:rank7}}",
+      "value_translated": "Fuerza del arma: %+n% para las unidades de Zombis, Esqueletos, Guardia de los Túmulos, Huestes Espectrales y Espectros {{tr:rank7}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_vmp_skill_special_blood_dragon_unit_upkeep_reduction_black_knights": {
+      "key": "effects_description_wh2_dlc11_vmp_skill_special_blood_dragon_unit_upkeep_reduction_black_knights",
+      "value_original": "Upkeep: %+n% for Black Knights and Hell Knight units",
+      "value_translated": "Mantenimiento: %+n% para las unidades de Caballeros Negros y Caballeros Infernales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_resource_recruitment_cost_reduction_vmp_graveguard_knights": {
+      "key": "effects_description_wh2_main_effect_resource_recruitment_cost_reduction_vmp_graveguard_knights",
+      "value_original": "Recruitment cost: %+n% for Grave Guard, Black Knights, Hell Knights and Blood Knights units",
+      "value_translated": "Coste de reclutamiento: %+n% para las unidades de Guardia de los Túmulos, Caballeros Negros, Caballeros Infernales y Caballeros Sangrientos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_resource_unit_xp_levels_vmp_graveguard_knights": {
+      "key": "effects_description_wh2_main_effect_resource_unit_xp_levels_vmp_graveguard_knights",
+      "value_original": "Recruit rank: %+n for Grave Guard, Black Knights, Hell Knights and Blood Knights units",
+      "value_translated": "Rango de reclutamiento: %+n para las unidades de Guardia de los Túmulos, Caballeros Negros, Caballeros Infernales y Caballeros Sangrientos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_resource_upkeep_cost_reduction_vmp_graveguard_knights": {
+      "key": "effects_description_wh2_main_effect_resource_upkeep_cost_reduction_vmp_graveguard_knights",
+      "value_original": "Upkeep: %+n% for Grave Guard, Black Knights, Hell Knights and Blood Knights units",
+      "value_translated": "Mantenimiento: %+n% para las unidades de Guardia de los Túmulos, Caballeros Negros, Caballeros Infernales y Caballeros Sangrientos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_barrier_health_cairn_wraith_hexwraith": {
+      "key": "effects_description_wh3_main_effect_barrier_health_cairn_wraith_hexwraith",
+      "value_original": "Barrier hit points: %+n for Spirit Hosts, Cairn Wraiths, Mourngul and Hexwraiths units",
+      "value_translated": "Barrera: %+n para las unidades de Huestes Espectrales, Espectros, Fúnebres y Espectros Condenadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_healing_cap_wraiths": {
+      "key": "effects_description_wh3_main_effect_healing_cap_wraiths",
+      "value_original": "Battle healing cap: %+n% for Spirit Hosts, Cairn Wraiths, Mournguls and Hexwraiths",
+      "value_translated": "Límite de sanación en batalla: %+n% para las unidades de Huestes Espectrales, Espectros, Fúnebres y Espectros Condenadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_province_merc_capacity_skeletons": {
+      "key": "effects_description_wh3_main_effect_province_merc_capacity_skeletons",
+      "value_original": "Raise Dead pool capacity: %+n for Skeleton units",
+      "value_translated": "Capacidad de reserva de Alzar a los muertos: %+n para las unidades de Esqueletos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_skill_charge_bonus_increase_vmp_tier_1": {
+      "key": "effects_description_wh_main_effect_skill_charge_bonus_increase_vmp_tier_1",
+      "value_original": "Charge bonus: %+n for Zombies, Skeletons, Crypt Ghouls and Handmaiden units",
+      "value_translated": "Bonificación de carga: %+n para las unidades de Zombis, Esqueletos, Necrófagos de la Cripta y Doncellas de Lahmia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_skill_melee_attack_increase_vmp_tier_1": {
+      "key": "effects_description_wh_main_effect_skill_melee_attack_increase_vmp_tier_1",
+      "value_original": "Melee attack: %+n for Zombies, Skeletons, Crypt Ghouls and Handmaiden units",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para las unidades de Zombis, Esqueletos, Necrófagos de la Cripta y Doncellas de Lahmia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_armour_increase_grave_guard_black_knights": {
+      "key": "effects_description_wh_main_effect_tech_armour_increase_grave_guard_black_knights",
+      "value_original": "Armour: %+n for Grave Guard, Black Knights and Hell Knight units",
+      "value_translated": "Armadura: %+n para las unidades de Guardia de los Túmulos, Caballeros Negros y Caballeros Infernales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_melee_damage_increase_crypt_ghouls_horrors": {
+      "key": "effects_description_wh_main_effect_tech_melee_damage_increase_crypt_ghouls_horrors",
+      "value_original": "Weapon strength: %+n% for Crypt Ghouls, Crypt Horrors and Handmaiden units",
+      "value_translated": "Fuerza del arma: %+n% para las unidades de Necrófagos de la Cripta, Horrores de la Cripta y Doncellas de Lahmia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_melee_damage_increase_graveguard_black_knights": {
+      "key": "effects_description_wh_main_effect_tech_melee_damage_increase_graveguard_black_knights",
+      "value_original": "Weapon strength: %+n% for Grave Guard, Black Knights and Hell Knight units",
+      "value_translated": "Fuerza del arma: %+n% para las unidades de Guardia de los Túmulos, Caballeros Negros y Caballeros Infernales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_melee_damage_increase_wraiths": {
+      "key": "effects_description_wh_main_effect_tech_melee_damage_increase_wraiths",
+      "value_original": "Weapon strength: %+n% for Spirit Hosts, Cairn Wraiths and Hex Wraiths units",
+      "value_translated": "Fuerza del arma: %+n% para las unidades de Huestes Espectrales, Espectros y Espectros Condenadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_recruitment_cost_reduction_crypt_ghouls_horrors": {
+      "key": "effects_description_wh_main_effect_tech_recruitment_cost_reduction_crypt_ghouls_horrors",
+      "value_original": "Recruitment cost: %+n% for Crypt Ghouls, Crypt Horrors and Handmaiden units",
+      "value_translated": "Coste de reclutamiento: %+n% para las unidades de Necrófagos de la Cripta, Horrores de la Cripta y Doncellas de Lahmia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_recruitment_cost_reduction_graveguard_black_knights": {
+      "key": "effects_description_wh_main_effect_tech_recruitment_cost_reduction_graveguard_black_knights",
+      "value_original": "Recruitment cost: %+n% for Grave Guard, Black Knights and Hell Knight units",
+      "value_translated": "Coste de reclutamiento: %+n% para las unidades de Guardia de los Túmulos, Caballeros Negros y Caballeros Infernales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_recruitment_cost_reduction_wraiths": {
+      "key": "effects_description_wh_main_effect_tech_recruitment_cost_reduction_wraiths",
+      "value_original": "Recruitment cost: %+n% for Spirit Hosts, Cairn Wraiths and Hex Wraiths units",
+      "value_translated": "Coste de reclutamiento: %+n% para las unidades de Huestes Espectrales, Espectros y Espectros Condenadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_unit_xp_levels_crypt_ghouls_horrors": {
+      "key": "effects_description_wh_main_effect_tech_unit_xp_levels_crypt_ghouls_horrors",
+      "value_original": "Recruit rank: %+n for Crypt Ghouls, Crypt Horrors and Handmaiden units",
+      "value_translated": "Rango de reclutamiento: %+n para Necrófagos de la Cripta, Horrores de la Cripta y Doncellas de Lahmia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_unit_xp_levels_graveguard_black_knights": {
+      "key": "effects_description_wh_main_effect_tech_unit_xp_levels_graveguard_black_knights",
+      "value_original": "Recruit rank: %+n for Grave Guard, Black Knights and Hell Knight units",
+      "value_translated": "Rango de reclutamiento: %+n para las unidades de Guardia de los Túmulos, Caballeros Negros y Caballeros Infernales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_unit_xp_levels_wraiths": {
+      "key": "effects_description_wh_main_effect_tech_unit_xp_levels_wraiths",
+      "value_original": "Recruit rank: %+n for Spirit Hosts, Cairn Wraiths and Hex Wraiths units",
+      "value_translated": "Rango de reclutamiento: %+n para las unidades de Huestes Espectrales, Espectros y Espectros Condenadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_upkeep_cost_reduction_crypt_ghouls_horrors": {
+      "key": "effects_description_wh_main_effect_tech_upkeep_cost_reduction_crypt_ghouls_horrors",
+      "value_original": "Upkeep: %+n% for Crypt Ghouls, Crypt Horrors and Handmaiden units",
+      "value_translated": "Mantenimiento: %+n% para las unidades de Necrófagos de la Cripta, Horrores de la Cripta y Doncellas de Lahmia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_upkeep_reduction_black_knights_grave_guard": {
+      "key": "effects_description_wh_main_effect_tech_upkeep_reduction_black_knights_grave_guard",
+      "value_original": "Upkeep: %+n% for Grave Guard, Black Knights and Hell Knight units",
+      "value_translated": "Mantenimiento: %+n% para las unidades de Guardia de los Túmulos, Caballeros Negros y Caballeros Infernales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_upkeep_reduction_wraiths": {
+      "key": "effects_description_wh_main_effect_tech_upkeep_reduction_wraiths",
+      "value_original": "Upkeep: %+n% for Spirit Hosts, Cairn Wraiths and Hex Wraiths units",
+      "value_translated": "Mantenimiento: %+n% para las unidades de Huestes Espectrales, Espectros y Espectros Condenadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_grave_halbs": {
+      "key": "land_units_onscreen_name_dec_grave_halbs",
+      "value_original": "Grave Guard (Halberds)",
+      "value_translated": "Guardia de los Túmulos (Alabardas)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_hell_knights": {
+      "key": "land_units_onscreen_name_dec_hell_knights",
+      "value_original": "Hell Knights",
+      "value_translated": "Caballeros Infernales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_kastellans": {
+      "key": "land_units_onscreen_name_dec_kastellans",
+      "value_original": "Blood Knight Kastellans",
+      "value_translated": "Caballeros Sangrientos Castellanos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_lahmian": {
+      "key": "land_units_onscreen_name_dec_lahmian",
+      "value_original": "Lahmian Handmaidens",
+      "value_translated": "Doncellas de Lahmia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_reapers": {
+      "key": "land_units_onscreen_name_dec_reapers",
+      "value_original": "Skeleton Reapers",
+      "value_translated": "Segadores Esqueleto",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_dec_spirit_host": {
+      "key": "land_units_onscreen_name_dec_spirit_host",
+      "value_original": "Spirit Hosts",
+      "value_translated": "Huestes Espectrales ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dec_hell_knights": {
+      "key": "unit_description_short_texts_text_dec_hell_knights",
+      "value_original": "The elite of the Black Knights bringing death from the skies on top of their skeletal hellsteeds. ",
+      "value_translated": "La élite de los Caballeros Negros que traen la muerte desde los cielos sobre sus esqueléticos corceles infernales.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dec_kastellans": {
+      "key": "unit_description_short_texts_text_dec_kastellans",
+      "value_original": "Champions of the Blood Knights, the Kastellans are nigh indestructible, riding with fangs bared through storms of arrow and shot.",
+      "value_translated": "Campeones de los Caballeros Sangrientos, los Castellanos son casi indestructibles, cabalgando con los colmillos al descubierto a través de tormentas de flechas y disparos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dec_lahmian": {
+      "key": "unit_description_short_texts_text_dec_lahmian",
+      "value_original": "The handmaidens of Queen Neferata herself; as beautiful as deadly.",
+      "value_translated": "Las doncellas de la mismísima Reina Neferata, tan bellas como letales.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dec_reapers": {
+      "key": "unit_description_short_texts_text_dec_reapers",
+      "value_original": "The animated remains of long dead warriors, Skeletons rise from the grave to serve their Master. They are slow, but relentless, marching ever on and on.",
+      "value_translated": "Los restos animados de guerreros muertos hace mucho tiempo, los esqueletos se levantan de sus tumbas para servir a su Maestro. Son lentos, pero implacables, y marchan sin cesar.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_dec_spirit_host": {
+      "key": "unit_description_short_texts_text_dec_spirit_host",
+      "value_original": "A horde of ethereal ghosts and vengeful apparitions that drift towards their warm-blooded victims with terrible inevitability.",
+      "value_translated": "Una horda de fantasmas etéreos y apariciones vengativas que se dirigen hacia sus víctimas de sangre caliente con terrible inevitabilidad.",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}

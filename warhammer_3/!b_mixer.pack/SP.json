@@ -1,0 +1,3898 @@
+{
+  "language": "SP",
+  "pack_name": "!b_mixer.pack",
+  "translations": {
+    "building_culture_variants_name_wh_dlc05_wef_office_starlight_forge_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elvesmixer_wef_wychwethyl": {
+      "key": "building_culture_variants_name_wh_dlc05_wef_office_starlight_forge_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elvesmixer_wef_wychwethyl",
+      "value_original": "Starlight Forge",
+      "value_translated": "Forja de Luz Estelar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc05_wef_office_starlight_forge_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_torgovann": {
+      "key": "building_culture_variants_name_wh_dlc05_wef_office_starlight_forge_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_torgovann",
+      "value_original": "Starlight Forge",
+      "value_translated": "Forja de Luz Estelar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc05_wef_office_starlight_forge_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_wydrioth": {
+      "key": "building_culture_variants_name_wh_dlc05_wef_office_starlight_forge_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_wydrioth",
+      "value_original": "Starlight Forge",
+      "value_translated": "Forja de Luz Estelar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc05_wef_office_the_wild_heath_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elvesmixer_wef_wychwethyl": {
+      "key": "building_culture_variants_name_wh_dlc05_wef_office_the_wild_heath_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elvesmixer_wef_wychwethyl",
+      "value_original": "Crag Halls",
+      "value_translated": "Salón del Risco",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc05_wef_office_the_wild_heath_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_torgovann": {
+      "key": "building_culture_variants_name_wh_dlc05_wef_office_the_wild_heath_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_torgovann",
+      "value_original": "Crag Halls",
+      "value_translated": "Salón del Risco",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc05_wef_office_the_wild_heath_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_wydrioth": {
+      "key": "building_culture_variants_name_wh_dlc05_wef_office_the_wild_heath_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_wydrioth",
+      "value_original": "Crag Halls",
+      "value_translated": "Salón del Risco",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc05_wef_office_wardancer_feast_halls_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elvesmixer_wef_wychwethyl": {
+      "key": "building_culture_variants_name_wh_dlc05_wef_office_wardancer_feast_halls_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elvesmixer_wef_wychwethyl",
+      "value_original": "Moonspring Archives",
+      "value_translated": "Archivos de Luna Primaveral",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc05_wef_office_wardancer_feast_halls_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_torgovann": {
+      "key": "building_culture_variants_name_wh_dlc05_wef_office_wardancer_feast_halls_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_torgovann",
+      "value_original": "Moonspring Archives",
+      "value_translated": "Archivos de Luna Primaveral",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc05_wef_office_wardancer_feast_halls_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_wydrioth": {
+      "key": "building_culture_variants_name_wh_dlc05_wef_office_wardancer_feast_halls_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_wydrioth",
+      "value_original": "Moonspring Archives",
+      "value_translated": "Archivos de Luna Primaveral",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc05_wef_office_wildwood_waystones_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elvesmixer_wef_wychwethyl": {
+      "key": "building_culture_variants_name_wh_dlc05_wef_office_wildwood_waystones_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elvesmixer_wef_wychwethyl",
+      "value_original": "Wildwood Waystones",
+      "value_translated": "Monolitos del Bosque Salvaje",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc05_wef_office_wildwood_waystones_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_torgovann": {
+      "key": "building_culture_variants_name_wh_dlc05_wef_office_wildwood_waystones_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_torgovann",
+      "value_original": "Wildwood Waystones",
+      "value_translated": "Monolitos del Bosque Salvaje",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc05_wef_office_wildwood_waystones_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_wydrioth": {
+      "key": "building_culture_variants_name_wh_dlc05_wef_office_wildwood_waystones_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_wydrioth",
+      "value_original": "Wildwood Waystones",
+      "value_translated": "Monolitos del Bosque Salvaje",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_carpenter_2wh_main_brt_bretonniawh2_main_brt_knights_of_origo": {
+      "key": "building_culture_variants_name_wh_main_brt_carpenter_2wh_main_brt_bretonniawh2_main_brt_knights_of_origo",
+      "value_original": "Siege Workshop",
+      "value_translated": "Taller de asedio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_carpenter_2wh_main_brt_bretonniawh2_main_brt_knights_of_the_flame": {
+      "key": "building_culture_variants_name_wh_main_brt_carpenter_2wh_main_brt_bretonniawh2_main_brt_knights_of_the_flame",
+      "value_original": "Siege Workshop",
+      "value_translated": "Taller de asedio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_carpenter_2wh_main_brt_bretonniawh2_main_brt_thegans_crusaders": {
+      "key": "building_culture_variants_name_wh_main_brt_carpenter_2wh_main_brt_bretonniawh2_main_brt_thegans_crusaders",
+      "value_original": "Siege Workshop",
+      "value_translated": "Taller de asedio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_stables_4wh_main_brt_bretonniawh2_main_brt_knights_of_origo": {
+      "key": "building_culture_variants_name_wh_main_brt_stables_4wh_main_brt_bretonniawh2_main_brt_knights_of_origo",
+      "value_original": "Pegasus Aerie",
+      "value_translated": "Nido de Pegaso",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_stables_4wh_main_brt_bretonniawh2_main_brt_knights_of_the_flame": {
+      "key": "building_culture_variants_name_wh_main_brt_stables_4wh_main_brt_bretonniawh2_main_brt_knights_of_the_flame",
+      "value_original": "Pegasus Aerie",
+      "value_translated": "Nido de Pegaso",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_stables_4wh_main_brt_bretonniawh2_main_brt_thegans_crusaders": {
+      "key": "building_culture_variants_name_wh_main_brt_stables_4wh_main_brt_bretonniawh2_main_brt_thegans_crusaders",
+      "value_original": "Pegasus Aerie",
+      "value_translated": "Nido de Pegaso",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_stables_5wh_main_brt_bretonniawh2_main_brt_knights_of_origo": {
+      "key": "building_culture_variants_name_wh_main_brt_stables_5wh_main_brt_bretonniawh2_main_brt_knights_of_origo",
+      "value_original": "Royal Menagerie",
+      "value_translated": "Casa real de fieras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_stables_5wh_main_brt_bretonniawh2_main_brt_knights_of_the_flame": {
+      "key": "building_culture_variants_name_wh_main_brt_stables_5wh_main_brt_bretonniawh2_main_brt_knights_of_the_flame",
+      "value_original": "Royal Menagerie",
+      "value_translated": "Casa real de fieras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_stables_5wh_main_brt_bretonniawh2_main_brt_thegans_crusaders": {
+      "key": "building_culture_variants_name_wh_main_brt_stables_5wh_main_brt_bretonniawh2_main_brt_thegans_crusaders",
+      "value_original": "Royal Menagerie",
+      "value_translated": "Casa real de fieras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_worship_2wh_main_brt_bretonniawh2_main_brt_knights_of_origo": {
+      "key": "building_culture_variants_name_wh_main_brt_worship_2wh_main_brt_bretonniawh2_main_brt_knights_of_origo",
+      "value_original": "Grail Chapel",
+      "value_translated": "Capilla del Grial",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_worship_2wh_main_brt_bretonniawh2_main_brt_knights_of_the_flame": {
+      "key": "building_culture_variants_name_wh_main_brt_worship_2wh_main_brt_bretonniawh2_main_brt_knights_of_the_flame",
+      "value_original": "Grail Chapel",
+      "value_translated": "Capilla del Grial",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_worship_2wh_main_brt_bretonniawh2_main_brt_thegans_crusaders": {
+      "key": "building_culture_variants_name_wh_main_brt_worship_2wh_main_brt_bretonniawh2_main_brt_thegans_crusaders",
+      "value_original": "Grail Chapel",
+      "value_translated": "Capilla del Grial",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_worship_3wh_main_brt_bretonniawh2_main_brt_knights_of_origo": {
+      "key": "building_culture_variants_name_wh_main_brt_worship_3wh_main_brt_bretonniawh2_main_brt_knights_of_origo",
+      "value_original": "Cathedral of the Lady",
+      "value_translated": "Catedral de la Dama",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_worship_3wh_main_brt_bretonniawh2_main_brt_knights_of_the_flame": {
+      "key": "building_culture_variants_name_wh_main_brt_worship_3wh_main_brt_bretonniawh2_main_brt_knights_of_the_flame",
+      "value_original": "Cathedral of the Lady",
+      "value_translated": "Catedral de la Dama",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_main_brt_worship_3wh_main_brt_bretonniawh2_main_brt_thegans_crusaders": {
+      "key": "building_culture_variants_name_wh_main_brt_worship_3wh_main_brt_bretonniawh2_main_brt_thegans_crusaders",
+      "value_original": "Cathedral of the Lady",
+      "value_translated": "Catedral de la Dama",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_minor_bretonnian_factions_title": {
+      "key": "campaign_localised_strings_string_mixer_minor_bretonnian_factions_title",
+      "value_original": "Enable extra bretonnian factions",
+      "value_translated": "Activar facciones de Bretonia adicionales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_minor_bretonnian_factions_tooltip": {
+      "key": "campaign_localised_strings_string_mixer_minor_bretonnian_factions_tooltip",
+      "value_original": "Should Montfort, Gisoreux and Quenelles appear in the Immortal Empires campaign map.\\\\nThis setting might be disabled by other mods that need these factions.",
+      "value_translated": "¿Deberían Montfort, Gisoreux y Quenelles aparecer en el mapa de campaña de Immortal Empires?\\\\nEste ajuste podría ser desactivado por otros mods que necesiten estas facciones.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_minor_faction_toggle": {
+      "key": "campaign_localised_strings_string_mixer_minor_faction_toggle",
+      "value_original": "Toggle Minor Factions",
+      "value_translated": "Alternar facciones menores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_minor_faction_toggle_tooltip": {
+      "key": "campaign_localised_strings_string_mixer_minor_faction_toggle_tooltip",
+      "value_original": "Hide all minor factions from the lord selection screen.\\\\nClicking the button again makes them visible again.\\\\n\\\\nIf you wish to have minor factions permanently gone from the lord selection screen, it is recommended to use MCT and set the \"Show minor factions\" setting to \"false\".",
+      "value_translated": "Oculta todas las facciones menores de la pantalla de selección de señor. \\\\nSi haces clic de nuevo en el botón, volverán a ser visibles.\\\\n\\\\nSi deseas que las facciones menores desaparezcan permanentemente de la pantalla de selección de señor, es recomendable utilizar el MCT y establecer el ajuste \"Mostrar facciones menores\" a \"falso\".",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_mod_desc": {
+      "key": "campaign_localised_strings_string_mixer_mod_desc",
+      "value_original": "Settings for the unlocker mod.",
+      "value_translated": "Ajustes para el mod de desbloqueos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_mod_title": {
+      "key": "campaign_localised_strings_string_mixer_mod_title",
+      "value_original": "Mixu's Unlocker",
+      "value_translated": "Desbloqueador de Mixu",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_random_race_selection_title": {
+      "key": "campaign_localised_strings_string_mixer_random_race_selection_title",
+      "value_original": "Select a random faction leader",
+      "value_translated": "Selecciona un líder de facción al azar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_random_race_selection_tooltip": {
+      "key": "campaign_localised_strings_string_mixer_random_race_selection_tooltip",
+      "value_original": "Select a random faction leader when opening the campaign select screen. Enabling this option skips the culture selection UI when entering campaign selection screen.\\\\nMight cause a wrong voiceover to play when selected, but that's harmless really.",
+      "value_translated": "Selecciona un líder de facción al azar al abrir la pantalla de selección de campaña. Activando esta opción, se omite la selección de cultura al abrir la pantalla de selección de campaña.\\\\nPuede provocar que se reproduzca una voz incorrecta al seleccionarlo, pero eso es inofensivo en realidad.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_reikland_title": {
+      "key": "campaign_localised_strings_string_mixer_reikland_title",
+      "value_original": "AI Reikland starts with entire province",
+      "value_translated": "La IA de Reikland comienza con una provincia completa",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_reikland_tooltip": {
+      "key": "campaign_localised_strings_string_mixer_reikland_tooltip",
+      "value_original": "Should AI controlled Reikland start with a full province or should Empire Secessionists control the minor settlements around Altdorf?",
+      "value_translated": "¿Debería Reikland controlada por la IA comenzar con una provincia completa o deberían los Secesionistas del Imperio controlar los asentamientos menores alrededor de Altdorf?",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_section_name_generic_menu": {
+      "key": "campaign_localised_strings_string_mixer_section_name_generic_menu",
+      "value_original": "Generic",
+      "value_translated": "Genérico",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_show_minor_factions_title": {
+      "key": "campaign_localised_strings_string_mixer_show_minor_factions_title",
+      "value_original": "Show minor factions",
+      "value_translated": "Mostrar facciones menores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_mixer_show_minor_factions_tooltip": {
+      "key": "campaign_localised_strings_string_mixer_show_minor_factions_tooltip",
+      "value_original": "Do you wish to see ALL(!?) minor factions in the campaign selection screen.\\\\nEnable this then.",
+      "value_translated": "¿Quieres ver TODAS(!?) las facciones menores en la pantalla de selección de campaña?\\\\nEntonces activa esto.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_wh2_dlc11_cst_vampire_coast_rebels_leader": {
+      "key": "campaign_localised_strings_string_wh2_dlc11_cst_vampire_coast_rebels_leader",
+      "value_original": "Count Gyula",
+      "value_translated": "Conde Gyula",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_wh3_dlc21_cst_dead_flag_fleet_leader": {
+      "key": "campaign_localised_strings_string_wh3_dlc21_cst_dead_flag_fleet_leader",
+      "value_original": "Zheng Shih",
+      "value_translated": "Zheng Shih",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_torgovann_minister_faction_leader": {
+      "key": "effect_bundles_localised_title_mixer_wef_torgovann_minister_faction_leader",
+      "value_original": "Lord of Torgovann",
+      "value_translated": "Señor de Torgovann",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_torgovann_minister_master_armoursmith": {
+      "key": "effect_bundles_localised_title_mixer_wef_torgovann_minister_master_armoursmith",
+      "value_original": "Master Armoursmith",
+      "value_translated": "Maestro Herrero",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_torgovann_minister_master_enchanter": {
+      "key": "effect_bundles_localised_title_mixer_wef_torgovann_minister_master_enchanter",
+      "value_original": "Master Enchanter",
+      "value_translated": "Maestro Encantador",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_torgovann_minister_master_of_talismans": {
+      "key": "effect_bundles_localised_title_mixer_wef_torgovann_minister_master_of_talismans",
+      "value_original": "Master of Talismans",
+      "value_translated": "Maestro de Talismanes",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_torgovann_minister_master_weaponsmith": {
+      "key": "effect_bundles_localised_title_mixer_wef_torgovann_minister_master_weaponsmith",
+      "value_original": "Master Weaponsmith",
+      "value_translated": "Maestro Armero",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_deathdancer": {
+      "key": "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_deathdancer",
+      "value_original": "Deathdancer",
+      "value_translated": "Bailarín de la Muerte",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_faction_leader": {
+      "key": "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_faction_leader",
+      "value_original": "Lord of Masques",
+      "value_translated": "Señor de las Máscaras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_feast_master": {
+      "key": "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_feast_master",
+      "value_original": "Feast Master",
+      "value_translated": "Maestro de Ceremonias",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_master_of_drums": {
+      "key": "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_master_of_drums",
+      "value_original": "Master of Drums",
+      "value_translated": "Maestro de Tambores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_mistweaver": {
+      "key": "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_mistweaver",
+      "value_original": "Mistweaver of Loec",
+      "value_translated": "Tejedor de la Niebla de Loec",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_the_tricksters_masque": {
+      "key": "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_the_tricksters_masque",
+      "value_original": "The Tricksters Masque",
+      "value_translated": "La Máscara de los Embaucadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_vernal_equinox": {
+      "key": "effect_bundles_localised_title_mixer_wef_wychwethyl_minister_vernal_equinox",
+      "value_original": "Celebrant of the Vernal Equinox",
+      "value_translated": "Oficiante del Equinoccio de Primavera",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_wydrioth_minister_faction_leader": {
+      "key": "effect_bundles_localised_title_mixer_wef_wydrioth_minister_faction_leader",
+      "value_original": "Prophetess",
+      "value_translated": "Profetisa",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_wef_wydrioth_minister_guardian_of_pine_crags": {
+      "key": "effect_bundles_localised_title_mixer_wef_wydrioth_minister_guardian_of_pine_crags",
+      "value_original": "Guardian of the Pine Crags",
+      "value_translated": "Guardián de los Pinares",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "event_feed_strings_text_mixer_event_feed_string_scripted_event_grn_waaagh_description_generic": {
+      "key": "event_feed_strings_text_mixer_event_feed_string_scripted_event_grn_waaagh_description_generic",
+      "value_original": "The whole world quakes as the great green tide of Orcs and Goblins surges towards its ill-fated victims.",
+      "value_translated": "El mundo entero se estremece cuando la gran marea verde de Orcos y Goblins se dirige hacia sus malogradas víctimas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "event_feed_strings_text_mixer_event_feed_string_scripted_event_grn_waaagh_title_generic": {
+      "key": "event_feed_strings_text_mixer_event_feed_string_scripted_event_grn_waaagh_title_generic",
+      "value_original": "Waaagh!",
+      "value_translated": "¡Waaagh!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_brt_brionne": {
+      "key": "factions_attack_desc_mixer_brt_brionne",
+      "value_original": "You are attacking Brionne!",
+      "value_translated": "¡Estás atacando a Brionne!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_brt_gisoreux": {
+      "key": "factions_attack_desc_mixer_brt_gisoreux",
+      "value_original": "You are attacking Gisoreux!",
+      "value_translated": "¡Estás atacando a Gisoreux!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_brt_languille": {
+      "key": "factions_attack_desc_mixer_brt_languille",
+      "value_original": "You are attacking L'Anguille!",
+      "value_translated": "¡Estás atacando a L'Anguille!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_brt_montfort": {
+      "key": "factions_attack_desc_mixer_brt_montfort",
+      "value_original": "You are attacking Montfort!",
+      "value_translated": "¡Estás atacando a Montfort!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_brt_quenelles": {
+      "key": "factions_attack_desc_mixer_brt_quenelles",
+      "value_original": "You are attacking Quenelles!",
+      "value_translated": "¡Estás atacando a Quenelles!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_cst_vampire_coast_separatists": {
+      "key": "factions_attack_desc_mixer_cst_vampire_coast_separatists",
+      "value_original": "You are attacking Vampire Coast Separatists!",
+      "value_translated": "¡Estás atacando a los Separatistas de la Costa del Vampiro!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_def_dark_elves_separatists": {
+      "key": "factions_attack_desc_mixer_def_dark_elves_separatists",
+      "value_original": "You are attacking Dark Elf Separatists!",
+      "value_translated": "¡Estás atacando a los Separatistas de los Elfos Oscuros!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_emp_van_der_kraal": {
+      "key": "factions_attack_desc_mixer_emp_van_der_kraal",
+      "value_original": "You are attacking Manann's Blades!",
+      "value_translated": "¡Estás atacando a las Espadas de Manann!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_gnob_gnoblar_rebels": {
+      "key": "factions_attack_desc_mixer_gnob_gnoblar_rebels",
+      "value_original": "You are attacking the Gnoblar Rebels!",
+      "value_translated": "¡Estás atacando a los Rebeldes Gnoblar!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_skv_skaven_separatists": {
+      "key": "factions_attack_desc_mixer_skv_skaven_separatists",
+      "value_original": "You are attacking Skaven Separatists!",
+      "value_translated": "¡Estás atacando a los Separatistas Skaven!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_teb_tobaro": {
+      "key": "factions_attack_desc_mixer_teb_tobaro",
+      "value_original": "You are attacking Tobaro!",
+      "value_translated": "¡Estás atacando a Tobaro!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_tze_van_horstmann": {
+      "key": "factions_attack_desc_mixer_tze_van_horstmann",
+      "value_original": "You are attacking the Cabal!",
+      "value_translated": "¡Estás atacando a La Cábala!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_attack_desc_mixer_wef_wychwethyl": {
+      "key": "factions_attack_desc_mixer_wef_wychwethyl",
+      "value_original": "You are attacking the Masque of Loec!",
+      "value_translated": "¡Estás atacando a la Máscara de Loec!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_brt_brionne": {
+      "key": "factions_defend_desc_mixer_brt_brionne",
+      "value_original": "You are defending against Brionne!",
+      "value_translated": "¡Te estás defendiendo de Brionne!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_brt_gisoreux": {
+      "key": "factions_defend_desc_mixer_brt_gisoreux",
+      "value_original": "You are defending against Gisoreux!",
+      "value_translated": "¡Te estás defendiendo de Gisoreux!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_brt_languille": {
+      "key": "factions_defend_desc_mixer_brt_languille",
+      "value_original": "You are defending against L'Anguille!",
+      "value_translated": "¡Te estás defendiendo de L'Anguille!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_brt_montfort": {
+      "key": "factions_defend_desc_mixer_brt_montfort",
+      "value_original": "You are defending against Montfort!",
+      "value_translated": "¡Te estás defendiendo de Montfort!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_brt_quenelles": {
+      "key": "factions_defend_desc_mixer_brt_quenelles",
+      "value_original": "You are defending against Quenelles!",
+      "value_translated": "¡Te estás defendiendo de Quenelles!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_cst_vampire_coast_separatists": {
+      "key": "factions_defend_desc_mixer_cst_vampire_coast_separatists",
+      "value_original": "You are defending against Vampire Coast Separatists!",
+      "value_translated": "¡Te estás defendiendo de los Separatistas de la Costa del Vampiro!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_def_dark_elves_separatists": {
+      "key": "factions_defend_desc_mixer_def_dark_elves_separatists",
+      "value_original": "You are defending against Dark Elf Separatists!",
+      "value_translated": "¡Te estás defendiendo de los Separatistas de los Elfos Oscuros!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_emp_van_der_kraal": {
+      "key": "factions_defend_desc_mixer_emp_van_der_kraal",
+      "value_original": "You are defending against Manann's Blades!",
+      "value_translated": "¡Te estás defendiendo de las Espadas de Manann!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_gnob_gnoblar_rebels": {
+      "key": "factions_defend_desc_mixer_gnob_gnoblar_rebels",
+      "value_original": "You are defending against the Gnoblar Rebels!",
+      "value_translated": "¡Te estás defendiendo de los Rebeldes Gnoblar!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_skv_skaven_separatists": {
+      "key": "factions_defend_desc_mixer_skv_skaven_separatists",
+      "value_original": "You are defending against Skaven Separatists!",
+      "value_translated": "¡Te estás defendiendo de los Separatistas Skaven!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_teb_tobaro": {
+      "key": "factions_defend_desc_mixer_teb_tobaro",
+      "value_original": "You are defending against Tobaro!",
+      "value_translated": "¡Te estás defendiendo de Tobaro!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_tze_van_horstmann": {
+      "key": "factions_defend_desc_mixer_tze_van_horstmann",
+      "value_original": "You are defending against The Cabal!",
+      "value_translated": "¡Te estás defendiendo de La Cábala!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_defend_desc_mixer_wef_wychwethyl": {
+      "key": "factions_defend_desc_mixer_wef_wychwethyl",
+      "value_original": "You are defending against the Masque of Loec!",
+      "value_translated": "¡Te estás defendiendo de la Máscara de Loec!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_brt_brionne": {
+      "key": "factions_screen_adjective_mixer_brt_brionne",
+      "value_original": "Brionne",
+      "value_translated": "Brionne",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_brt_gisoreux": {
+      "key": "factions_screen_adjective_mixer_brt_gisoreux",
+      "value_original": "Gisoreux",
+      "value_translated": "Gisoreux",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_brt_languille": {
+      "key": "factions_screen_adjective_mixer_brt_languille",
+      "value_original": "L'Anguille",
+      "value_translated": "L'Anguille",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_brt_montfort": {
+      "key": "factions_screen_adjective_mixer_brt_montfort",
+      "value_original": "Montfort",
+      "value_translated": "Montfort",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_brt_quenelles": {
+      "key": "factions_screen_adjective_mixer_brt_quenelles",
+      "value_original": "Quenelles",
+      "value_translated": "Quenelles",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_cst_vampire_coast_separatists": {
+      "key": "factions_screen_adjective_mixer_cst_vampire_coast_separatists",
+      "value_original": "Vampire Coast Separatists",
+      "value_translated": "Separatistas de la Costa del Vampiro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_def_dark_elves_separatists": {
+      "key": "factions_screen_adjective_mixer_def_dark_elves_separatists",
+      "value_original": "Dark Elf Separatists",
+      "value_translated": "Separatistas de los Elfos Oscuros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_emp_van_der_kraal": {
+      "key": "factions_screen_adjective_mixer_emp_van_der_kraal",
+      "value_original": "Manann's Blades",
+      "value_translated": "Espadas de Manann",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_gnob_gnoblar_rebels": {
+      "key": "factions_screen_adjective_mixer_gnob_gnoblar_rebels",
+      "value_original": "Gnoblar Rebels",
+      "value_translated": "Rebeldes Gnoblar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_skv_skaven_separatists": {
+      "key": "factions_screen_adjective_mixer_skv_skaven_separatists",
+      "value_original": "Skaven Separatists",
+      "value_translated": "Separatistas Skaven",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_teb_tobaro": {
+      "key": "factions_screen_adjective_mixer_teb_tobaro",
+      "value_original": "Tobaro",
+      "value_translated": "Tobaro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_tze_van_horstmann": {
+      "key": "factions_screen_adjective_mixer_tze_van_horstmann",
+      "value_original": "The Cabal",
+      "value_translated": "La Cábala",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_adjective_mixer_wef_wychwethyl": {
+      "key": "factions_screen_adjective_mixer_wef_wychwethyl",
+      "value_original": "Masque of Loec",
+      "value_translated": "Máscara de Loec",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_brt_brionne": {
+      "key": "factions_screen_name_mixer_brt_brionne",
+      "value_original": "Brionne",
+      "value_translated": "Brionne",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_brt_gisoreux": {
+      "key": "factions_screen_name_mixer_brt_gisoreux",
+      "value_original": "Gisoreux",
+      "value_translated": "Gisoreux",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_brt_languille": {
+      "key": "factions_screen_name_mixer_brt_languille",
+      "value_original": "L'Anguille",
+      "value_translated": "L'Anguille",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_brt_montfort": {
+      "key": "factions_screen_name_mixer_brt_montfort",
+      "value_original": "Montfort",
+      "value_translated": "Montfort",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_brt_peasantry": {
+      "key": "factions_screen_name_mixer_brt_peasantry",
+      "value_original": "Peasants",
+      "value_translated": "Campesinos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_brt_quenelles": {
+      "key": "factions_screen_name_mixer_brt_quenelles",
+      "value_original": "Quenelles",
+      "value_translated": "Quenelles",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_brt_uprising": {
+      "key": "factions_screen_name_mixer_brt_uprising",
+      "value_original": "Peasant Uprising",
+      "value_translated": "Levantamiento Campesino",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_cst_vampire_coast_separatists": {
+      "key": "factions_screen_name_mixer_cst_vampire_coast_separatists",
+      "value_original": "Vampire Coast Separatists",
+      "value_translated": "Separatistas de la Costa del Vampiro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_def_dark_elves_separatists": {
+      "key": "factions_screen_name_mixer_def_dark_elves_separatists",
+      "value_original": "Dark Elf Separatists",
+      "value_translated": "Separatistas de los Elfos Oscuros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_emp_van_der_kraal": {
+      "key": "factions_screen_name_mixer_emp_van_der_kraal",
+      "value_original": "Manann's Blades",
+      "value_translated": "Espadas de Manann",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_gnob_bezer": {
+      "key": "factions_screen_name_mixer_gnob_bezer",
+      "value_original": "Gnoblar County",
+      "value_translated": "Condado Gnoblar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_gnob_gnobbo": {
+      "key": "factions_screen_name_mixer_gnob_gnobbo",
+      "value_original": "The Lost Gnoblars",
+      "value_translated": "Los Gnoblars Perdidos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_gnob_gnoblar_rebels": {
+      "key": "factions_screen_name_mixer_gnob_gnoblar_rebels",
+      "value_original": "Gnoblar Rebels",
+      "value_translated": "Rebeldes Gnoblar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_gnob_gutsman": {
+      "key": "factions_screen_name_mixer_gnob_gutsman",
+      "value_original": "Gutsman's Horde",
+      "value_translated": "Horda del Desollador",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_nag_nagash": {
+      "key": "factions_screen_name_mixer_nag_nagash",
+      "value_original": "Nagash",
+      "value_translated": "Nagash",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_skv_skaven_separatists": {
+      "key": "factions_screen_name_mixer_skv_skaven_separatists",
+      "value_original": "Skaven Separatists",
+      "value_translated": "Separatistas Skaven",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_teb_bilbali": {
+      "key": "factions_screen_name_mixer_teb_bilbali",
+      "value_original": "Bilbali",
+      "value_translated": "Bilbali",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_teb_catrazza": {
+      "key": "factions_screen_name_mixer_teb_catrazza",
+      "value_original": "Catrazza",
+      "value_translated": "Catrazza",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_teb_colombo": {
+      "key": "factions_screen_name_mixer_teb_colombo",
+      "value_original": "Colombo",
+      "value_translated": "Colombo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_teb_gashnag": {
+      "key": "factions_screen_name_mixer_teb_gashnag",
+      "value_original": "Gashnag",
+      "value_translated": "Gashnag",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_teb_tobaro": {
+      "key": "factions_screen_name_mixer_teb_tobaro",
+      "value_original": "Tobaro",
+      "value_translated": "Tobaro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_tze_van_horstmann": {
+      "key": "factions_screen_name_mixer_tze_van_horstmann",
+      "value_original": "The Cabal",
+      "value_translated": "La Cábala",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_vmp_helsnicht": {
+      "key": "factions_screen_name_mixer_vmp_helsnicht",
+      "value_original": "The Doom Legion",
+      "value_translated": "La Legión de la Condenación",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_mixer_wef_wychwethyl": {
+      "key": "factions_screen_name_mixer_wef_wychwethyl",
+      "value_original": "Masque of Loec",
+      "value_translated": "Máscara de Loec",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_alb_host_ravenqueen": {
+      "key": "factions_screen_name_ovn_alb_host_ravenqueen",
+      "value_original": "Ravenqueen's Host",
+      "value_translated": "Hueste de la Reina Cuervo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_alb_order_of_the_truthsayers": {
+      "key": "factions_screen_name_ovn_alb_order_of_the_truthsayers",
+      "value_original": "Order of the Truthsayers",
+      "value_translated": "Orden de los Arúspices",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_amz_coven_of_the_blue_stumps": {
+      "key": "factions_screen_name_ovn_amz_coven_of_the_blue_stumps",
+      "value_original": "Coven of the Blue Stumps",
+      "value_translated": "Aquelarre de las Cepas Azules",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_amz_serpents_mark": {
+      "key": "factions_screen_name_ovn_amz_serpents_mark",
+      "value_original": "Serpent's Mark",
+      "value_translated": "Marca de la Serpiente",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_arb_aswad_scythans": {
+      "key": "factions_screen_name_ovn_arb_aswad_scythans",
+      "value_original": "Aswad Scythans",
+      "value_translated": "Escitas Aswad",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_arb_golden_fleet": {
+      "key": "factions_screen_name_ovn_arb_golden_fleet",
+      "value_original": "The Golden Fleet",
+      "value_translated": "La Flota Dorada",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_arb_sultanate_of_all_araby": {
+      "key": "factions_screen_name_ovn_arb_sultanate_of_all_araby",
+      "value_original": "Sultanate of Araby",
+      "value_translated": "Sultanato de Arabia",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_arb_sultanate_of_el_kalabad": {
+      "key": "factions_screen_name_ovn_arb_sultanate_of_el_kalabad",
+      "value_original": "Sultanate of El-Kalabad",
+      "value_translated": "Sultanato de El-Kalabad",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_emp_grudgebringers": {
+      "key": "factions_screen_name_ovn_emp_grudgebringers",
+      "value_original": "Grudgebringers",
+      "value_translated": "Portaagravios",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_fim_marsh_hornets": {
+      "key": "factions_screen_name_ovn_fim_marsh_hornets",
+      "value_original": "Marsh Hornets",
+      "value_translated": "Avispones del Pantano",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_fim_mist_dragons": {
+      "key": "factions_screen_name_ovn_fim_mist_dragons",
+      "value_original": "Mist Dragons",
+      "value_translated": "Dragones de la Niebla",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_fim_rancor_hold": {
+      "key": "factions_screen_name_ovn_fim_rancor_hold",
+      "value_original": "Rancor Hold",
+      "value_translated": "Fortaleza Rencor",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_fim_tendrils_of_doom": {
+      "key": "factions_screen_name_ovn_fim_tendrils_of_doom",
+      "value_original": "Tendrils of Doom",
+      "value_translated": "Zarzillos de la Perdición",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_hlf_the_comradeship": {
+      "key": "factions_screen_name_ovn_hlf_the_comradeship",
+      "value_original": "The Comradeship",
+      "value_translated": "La Cofradía",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_hlf_the_moot": {
+      "key": "factions_screen_name_ovn_hlf_the_moot",
+      "value_original": "The Moot",
+      "value_translated": "La Asamblea",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_mar_house_den_euwe": {
+      "key": "factions_screen_name_ovn_mar_house_den_euwe",
+      "value_original": "House den Euwe",
+      "value_translated": "Casa den Euwe",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_mar_the_wasteland": {
+      "key": "factions_screen_name_ovn_mar_the_wasteland",
+      "value_original": "The Wasteland",
+      "value_translated": "Las Tierras Desoladas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_tmb_dread_king": {
+      "key": "factions_screen_name_ovn_tmb_dread_king",
+      "value_original": "Dread King",
+      "value_translated": "Rey del Terror",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_troll_gobblers": {
+      "key": "factions_screen_name_ovn_troll_gobblers",
+      "value_original": "Gobblers",
+      "value_translated": "Devoradores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_troll_stoneshatterer": {
+      "key": "factions_screen_name_ovn_troll_stoneshatterer",
+      "value_original": "Stoneshatterer",
+      "value_translated": "Rompepiedras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_troll_ugma_tribe": {
+      "key": "factions_screen_name_ovn_troll_ugma_tribe",
+      "value_original": "Ugma",
+      "value_translated": "Ugma",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_ovn_vmp_blood_dragons": {
+      "key": "factions_screen_name_ovn_vmp_blood_dragons",
+      "value_original": "Blood Dragons",
+      "value_translated": "Dragones Sangrientos",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_brt_brionne": {
+      "key": "factions_screen_name_when_rebels_mixer_brt_brionne",
+      "value_original": "Brionne Rebels",
+      "value_translated": "Rebeldes de Brionne",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_brt_gisoreux": {
+      "key": "factions_screen_name_when_rebels_mixer_brt_gisoreux",
+      "value_original": "Gisoreux Rebels",
+      "value_translated": "Rebeldes de Gisoreux",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_brt_languille": {
+      "key": "factions_screen_name_when_rebels_mixer_brt_languille",
+      "value_original": "L'Anguille Rebels",
+      "value_translated": "Rebeldes de L'Anguille",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_brt_montfort": {
+      "key": "factions_screen_name_when_rebels_mixer_brt_montfort",
+      "value_original": "Montfort Rebels",
+      "value_translated": "Rebeldes de Montfort",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_brt_quenelles": {
+      "key": "factions_screen_name_when_rebels_mixer_brt_quenelles",
+      "value_original": "Quenelles Rebels",
+      "value_translated": "Rebeldes de Quenelles",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_cst_vampire_coast_separatists": {
+      "key": "factions_screen_name_when_rebels_mixer_cst_vampire_coast_separatists",
+      "value_original": "Vampire Coast Separatists",
+      "value_translated": "Separatistas de la Costa del Vampiro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_def_dark_elves_separatists": {
+      "key": "factions_screen_name_when_rebels_mixer_def_dark_elves_separatists",
+      "value_original": "Dark Elf Separatists",
+      "value_translated": "Separatistas de los Elfos Oscuros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_emp_van_der_kraal": {
+      "key": "factions_screen_name_when_rebels_mixer_emp_van_der_kraal",
+      "value_original": "Manann's Blades Rebels",
+      "value_translated": "Rebeldes de las Espadas de Manann",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_gnob_gnoblar_rebels": {
+      "key": "factions_screen_name_when_rebels_mixer_gnob_gnoblar_rebels",
+      "value_original": "Gnoblar Rebels",
+      "value_translated": "Rebeldes Gnoblar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_skv_skaven_separatists": {
+      "key": "factions_screen_name_when_rebels_mixer_skv_skaven_separatists",
+      "value_original": "Skaven Separatists",
+      "value_translated": "Separatistas Skaven",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_teb_tobaro": {
+      "key": "factions_screen_name_when_rebels_mixer_teb_tobaro",
+      "value_original": "Tobaro Rebels",
+      "value_translated": "Rebeldes de Tobaro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_tze_van_horstmann": {
+      "key": "factions_screen_name_when_rebels_mixer_tze_van_horstmann",
+      "value_original": "The Cabal Rebels",
+      "value_translated": "Rebeldes de La Cábala",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "factions_screen_name_when_rebels_mixer_wef_wychwethyl": {
+      "key": "factions_screen_name_when_rebels_mixer_wef_wychwethyl",
+      "value_original": "Masque of Loec Rebels",
+      "value_translated": "Rebeldes de la Máscara de Loec",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_brt_uprising": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_brt_uprising",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_gnob_bezer": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_gnob_bezer",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_gnob_gnobbo": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_gnob_gnobbo",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_gnob_gutsman": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_gnob_gutsman",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_aquitaine": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_aquitaine",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_artois": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_artois",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_bastonne": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_bastonne",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_gisoreux": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_gisoreux",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_knights_of_origo": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_knights_of_origo",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_knights_of_the_flame": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_knights_of_the_flame",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_lyonesse": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_lyonesse",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_montfort": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_montfort",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_parravon": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_parravon",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_quenelles": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_quenelles",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_thegans_crusaders": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_brt_thegans_crusaders",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_bst_blooded_axe": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_bst_blooded_axe",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_bst_jagged_horn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_bst_jagged_horn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_bst_manblight": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_bst_manblight",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_bst_redhorn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_bst_redhorn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_bst_ripper_horn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_bst_ripper_horn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_bst_shadowgor": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_bst_shadowgor",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_chs_khazag": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_chs_khazag",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_cst_dead_flag_fleet": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_cst_dead_flag_fleet",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_cst_vampire_coast_rebels": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_cst_vampire_coast_rebels",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_burning_wind_nomads": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_burning_wind_nomads",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_celestial_loyalists": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_celestial_loyalists",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_dissenter_lords_of_jinshen": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_dissenter_lords_of_jinshen",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_eastern_river_lords": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_eastern_river_lords",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_imperial_wardens": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_imperial_wardens",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_rebel_lords_of_nan_yang": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_rebel_lords_of_nan_yang",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_the_jade_custodians": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_cth_the_jade_custodians",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_def_bleak_holds": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_def_bleak_holds",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_def_blood_hall_coven": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_def_blood_hall_coven",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_def_clar_karond": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_def_clar_karond",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_def_cult_of_excess": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_def_cult_of_excess",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_def_deadwood_sentinels": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_def_deadwood_sentinels",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_def_drackla_coven": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_def_drackla_coven",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_def_ghrond": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_def_ghrond",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_def_karond_kar": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_def_karond_kar",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_def_scourge_of_khaine": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_def_scourge_of_khaine",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_def_ssildra_tor": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_def_ssildra_tor",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_def_the_forgebound": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_def_the_forgebound",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_barak_varr": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_barak_varr",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_clan_helhein": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_clan_helhein",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_greybeards_prospectors": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_greybeards_prospectors",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_karak_azorn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_karak_azorn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_karak_azul": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_karak_azul",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_karak_hirn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_karak_hirn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_karak_norn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_karak_norn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_karak_ziflin": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_karak_ziflin",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_kraka_drak": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_kraka_drak",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_spine_of_sotek_dwarfs": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_spine_of_sotek_dwarfs",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_zhufbar": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_dwf_zhufbar",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_averland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_averland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_empire_separatists": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_empire_separatists",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_hochland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_hochland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_marienburg": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_marienburg",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_middenland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_middenland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_new_world_colonies": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_new_world_colonies",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_nordland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_nordland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_ostermark": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_ostermark",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_ostland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_ostland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_stirland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_stirland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_talabecland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_talabecland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_van_der_kraal": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_van_der_kraal",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_wissenland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_emp_wissenland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_arachnos": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_arachnos",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_black_pit": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_black_pit",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_black_venom": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_black_venom",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_bloody_spearz": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_bloody_spearz",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_blue_vipers": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_blue_vipers",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_broken_nose": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_broken_nose",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_creeping_death": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_creeping_death",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_da_cage_breakaz": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_da_cage_breakaz",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_dark_land_orcs": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_dark_land_orcs",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_dimned_sun": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_dimned_sun",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_leaf_cutterz_tribe": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_leaf_cutterz_tribe",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_moon_howlerz": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_moon_howlerz",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_naggaroth_orcs": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_naggaroth_orcs",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_necksnappers": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_necksnappers",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_red_cloud": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_red_cloud",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_red_eye": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_red_eye",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_red_fangs": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_red_fangs",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_scabby_eye": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_scabby_eye",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_skull-takerz": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_skull-takerz",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_skull_crag": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_skull_crag",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_skullsmasherz": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_skullsmasherz",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_slaves_of_zharr": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_slaves_of_zharr",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_teef_snatchaz": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_teef_snatchaz",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_top_knotz": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_top_knotz",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_tusked_sunz": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_grn_tusked_sunz",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_caledor": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_caledor",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_chrace": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_chrace",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_citadel_of_dusk": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_citadel_of_dusk",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_cothique": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_cothique",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_ellyrion": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_ellyrion",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_fortress_of_dawn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_fortress_of_dawn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_saphery": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_saphery",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_tiranoc": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_tiranoc",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_tor_elasor": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_tor_elasor",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_kho_blood_keepers": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_kho_blood_keepers",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_kho_bloody_sword": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_kho_bloody_sword",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_kho_brazen_throne": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_kho_brazen_throne",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_kho_crimson_skull": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_kho_crimson_skull",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ksl_brotherhood_of_the_bear": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ksl_brotherhood_of_the_bear",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ksl_druzhina_enclave": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ksl_druzhina_enclave",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ksl_ropsmenn_clan": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ksl_ropsmenn_clan",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ksl_ungol_kindred": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ksl_ungol_kindred",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_sentinels_of_xeti": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_sentinels_of_xeti",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_southern_sentinels": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_southern_sentinels",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_tepoks_spawn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_tepoks_spawn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_tlaxtlan": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_tlaxtlan",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_wardens_of_the_living_pools": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_wardens_of_the_living_pools",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_xlanhuapec": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_xlanhuapec",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_zlatan": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_lzd_zlatan",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_aesling": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_aesling",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_aghol": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_aghol",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_baersonling": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_baersonling",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_bjornling": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_bjornling",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_dolgan": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_dolgan",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_goromadny_tribe": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_goromadny_tribe",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_kul": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_kul",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_mung": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_mung",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_naglfarlings": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_naglfarlings",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_sarl": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_sarl",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_skaeling": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_skaeling",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_skeggi": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_skeggi",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_vanaheimlings": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_vanaheimlings",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_varg": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_varg",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_wyrmkins": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_wyrmkins",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_yusak": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nor_yusak",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nur_bubonic_swarm": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nur_bubonic_swarm",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nur_maggoth_kin": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nur_maggoth_kin",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nur_pallid_nurslings": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nur_pallid_nurslings",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_nur_septic_claw": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_nur_septic_claw",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_blood_guzzlers": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_blood_guzzlers",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_crossed_clubs": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_crossed_clubs",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_eyebiter": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_eyebiter",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_feastmaster": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_feastmaster",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_fleshgreeders": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_fleshgreeders",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_fulg": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_fulg",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_lazarghs": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_lazarghs",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_mountaineaters": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_mountaineaters",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_rock_skulls": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_rock_skulls",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_sabreskin": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_sabreskin",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_sons_of_the_mountain": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_sons_of_the_mountain",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_thunderguts": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_thunderguts",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_treehammers": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogr_treehammers",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogre_flamegullets": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogre_flamegullets",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogre_sharktooth": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogre_sharktooth",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_ogre_the_famished": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_ogre_the_famished",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_carrion": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_carrion",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_ferrik": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_ferrik",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_gritus": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_gritus",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_kreepus": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_kreepus",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_krizzor": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_krizzor",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_mange": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_mange",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_morbidus": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_morbidus",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_mordkin": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_mordkin",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_septik": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_septik",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_skrat": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_skrat",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_spittel": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_spittel",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_treecherik": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_treecherik",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_verms": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_skv_clan_verms",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_sla_exquisite_pain": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_sla_exquisite_pain",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_sla_keepers_of_bliss": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_sla_keepers_of_bliss",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_sla_rapturous_excess": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_sla_rapturous_excess",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_sla_subtle_torture": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_sla_subtle_torture",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_teb_border_princes": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_teb_border_princes",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_teb_estalia": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_teb_estalia",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_teb_tilea": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_teb_tilea",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_tmb_deserters_of_khatep": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_tmb_deserters_of_khatep",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_tmb_dune_kingdoms": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_tmb_dune_kingdoms",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_tmb_numas": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_tmb_numas",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_tmb_rakaph_dynasty": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_tmb_rakaph_dynasty",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_tmb_the_sentinels": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_tmb_the_sentinels",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_tze_all_seeing_eye": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_tze_all_seeing_eye",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_tze_apostles_of_change": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_tze_apostles_of_change",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_tze_broken_wheel": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_tze_broken_wheel",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_tze_flaming_scribes": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_tze_flaming_scribes",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_tze_the_sightless": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_tze_the_sightless",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_tze_van_horstmann": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_tze_van_horstmann",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_helsnicht": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_helsnicht",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_jiangshi_rebels": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_jiangshi_rebels",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_lahmian_sisterhood": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_lahmian_sisterhood",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_mousillon": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_mousillon",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_necrarch_brotherhood": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_necrarch_brotherhood",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_rival_sylvanian_vamps": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_rival_sylvanian_vamps",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_sires_of_mourkain": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_sires_of_mourkain",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_strygos_empire": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_strygos_empire",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_the_silver_host": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_vmp_the_silver_host",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_wef_bowmen_of_oreon": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_wef_bowmen_of_oreon",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_wef_laurelorn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_wef_laurelorn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_wef_spirits_of_shanlin": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_wef_spirits_of_shanlin",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_wef_torgovann": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_wef_torgovann",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_wef_wychwethyl": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_wef_wychwethyl",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_wef_wydrioth": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_wef_wydrioth",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_nag_nagash": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_nag_nagash",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_alb_host_ravenqueen": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_alb_host_ravenqueen",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_alb_order_of_the_truthsayers": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_alb_order_of_the_truthsayers",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_amz_coven_of_the_blue_stumps": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_amz_coven_of_the_blue_stumps",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_amz_serpents_mark": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_amz_serpents_mark",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_arb_aswad_scythans": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_arb_aswad_scythans",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_arb_golden_fleet": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_arb_golden_fleet",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_arb_sultanate_of_all_araby": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_arb_sultanate_of_all_araby",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_emp_grudgebringers": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_emp_grudgebringers",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_fim_rancor_hold": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_fim_rancor_hold",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_fim_tendrils_of_doom": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_fim_tendrils_of_doom",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_hlf_the_comradeship": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_hlf_the_comradeship",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_hlf_the_moot": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_hlf_the_moot",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_mar_house_den_euwe": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_mar_house_den_euwe",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_mar_the_wasteland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_mar_the_wasteland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_tmb_dread_king": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_tmb_dread_king",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_troll_ugma_tribe": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_troll_ugma_tribe",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ovn_vmp_blood_dragons": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ovn_vmp_blood_dragons",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_brt_march_of_couronne": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_brt_march_of_couronne",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_blooded_axe": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_blooded_axe",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_jagged_horn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_jagged_horn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_manblight": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_manblight",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_redhorn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_redhorn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_ripper_horn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_ripper_horn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_shadowgor": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_shadowgor",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_skrinderkin": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_skrinderkin",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_stone_horn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_bst_stone_horn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_chs_dreaded_wo": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_chs_dreaded_wo",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_chs_gharhar": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_chs_gharhar",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_chs_khazag": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_chs_khazag",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_chs_kvellig": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_chs_kvellig",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_chs_tong": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_chs_tong",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_cth_burning_wind_nomads": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_cth_burning_wind_nomads",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_cth_celestial_loyalists": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_cth_celestial_loyalists",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_cth_dissenter_lords_of_jinshen": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_cth_dissenter_lords_of_jinshen",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_cth_imperial_wardens": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_cth_imperial_wardens",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_cth_rebel_lords_of_nan_yang": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_cth_rebel_lords_of_nan_yang",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_cth_the_jade_custodians": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_cth_the_jade_custodians",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_dwf_clan_helhein": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_dwf_clan_helhein",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_dwf_karak_azorn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_dwf_karak_azorn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_dwf_karak_kadrin": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_dwf_karak_kadrin",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_dwf_karak_ziflin": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_dwf_karak_ziflin",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_dwf_kraka_drak": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_dwf_kraka_drak",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_dwf_zhufbar": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_dwf_zhufbar",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_empire": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_empire",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_hochland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_hochland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_marienburg": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_marienburg",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_middenland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_middenland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_nordland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_nordland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_ostermark": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_ostermark",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_ostland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_ostland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_stirland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_stirland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_talabecland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_talabecland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_wissenland": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_emp_wissenland",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_black_pit": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_black_pit",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_black_venom": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_black_venom",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_blue_vipers": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_blue_vipers",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_dark_land_orcs": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_dark_land_orcs",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_drippin_fangs": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_drippin_fangs",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_leaf_cutterz_tribe": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_leaf_cutterz_tribe",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_moon_howlerz": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_moon_howlerz",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_red_eye": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_red_eye",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_skull-takerz": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_skull-takerz",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_skullsmasherz": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_skullsmasherz",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_tusked_sunz": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_grn_tusked_sunz",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_kho_bloody_sword": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_kho_bloody_sword",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_kho_crimson_skull": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_kho_crimson_skull",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_kho_karneths_sons": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_kho_karneths_sons",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ksl_brotherhood_of_the_bear": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ksl_brotherhood_of_the_bear",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ksl_druzhina_enclave": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ksl_druzhina_enclave",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ksl_ropsmenn_clan": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ksl_ropsmenn_clan",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ksl_ungol_kindred": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ksl_ungol_kindred",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_lzd_tepoks_spawn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_lzd_tepoks_spawn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_aesling": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_aesling",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_baersonling": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_baersonling",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_bjornling": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_bjornling",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_dolgan": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_dolgan",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_goromadny_tribe": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_goromadny_tribe",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_graeling": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_graeling",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_kul": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_kul",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_sarl": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_sarl",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_skaeling": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_skaeling",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_vanaheimlings": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_vanaheimlings",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_varg": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nor_varg",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nur_maggoth_kin": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nur_maggoth_kin",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_nur_septic_claw": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_nur_septic_claw",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_blood_guzzlers": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_blood_guzzlers",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_bloodmaw": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_bloodmaw",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_crossed_clubs": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_crossed_clubs",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_eyebiter": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_eyebiter",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_feastmaster": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_feastmaster",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_fleshgreeders": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_fleshgreeders",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_fulg": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_fulg",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_lazarghs": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_lazarghs",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_loose_tooth": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_loose_tooth",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_mountaineaters": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_mountaineaters",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_rock_skulls": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_rock_skulls",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_sabreskin": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_sabreskin",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_sons_of_the_mountain": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_sons_of_the_mountain",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_thunderguts": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_thunderguts",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_treehammers": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_ogr_treehammers",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_eshin": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_eshin",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_gnaw": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_gnaw",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_gritus": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_gritus",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_krizzor": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_krizzor",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_mange": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_mange",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_morbidus": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_morbidus",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_mordkin": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_mordkin",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_moulder": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_moulder",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_rictus": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_rictus",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_spittel": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_skv_clan_spittel",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_sla_exquisite_pain": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_sla_exquisite_pain",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_sla_subtle_torture": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_sla_subtle_torture",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_tze_broken_wheel": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_tze_broken_wheel",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_tze_flaming_scribes": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_tze_flaming_scribes",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_tze_sarthoraels_watchers": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_tze_sarthoraels_watchers",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_tze_the_sightless": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_tze_the_sightless",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_tze_van_horstmann": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_tze_van_horstmann",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_vmp_helsnicht": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_vmp_helsnicht",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_vmp_lahmian_sisterhood": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_vmp_lahmian_sisterhood",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_vmp_vampire_counts": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_vmp_vampire_counts",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_vmp_waldenhof": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_vmp_waldenhof",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_roc_wef_laurelorn": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_roc_wef_laurelorn",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_teb_bilbali": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_teb_bilbali",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_teb_catrazza": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_teb_catrazza",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_teb_colombo": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_teb_colombo",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_teb_gashnag": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_teb_gashnag",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_faction_leader_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_faction_leader_desc",
+      "value_original": "Lord Daith, most celebrated of all the elven smiths, is the Master of Torgovann, and has been for as long as any elf can recall.",
+      "value_translated": "Lord Daith, el más célebre de todos los herreros elfos, es el Maestro de Torgovann, y lo ha sido desde que cualquier elfo puede recordar.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_faction_leader_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_faction_leader_title",
+      "value_original": "Lord of Torgovann",
+      "value_translated": "Señor de Torgovann",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_armoursmith_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_armoursmith_desc",
+      "value_original": "Expert in armour crafting.",
+      "value_translated": "Experto en la fabricación de armaduras.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_armoursmith_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_armoursmith_title",
+      "value_original": "Master Armoursmith",
+      "value_translated": "Maestro Herrero",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_enchanter_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_enchanter_desc",
+      "value_original": "Expert in enchantments and enchanted item crafting.",
+      "value_translated": "Experto en encantamientos y fabricación de objetos encantados.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_enchanter_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_enchanter_title",
+      "value_original": "Master Enchanter",
+      "value_translated": "Maestro Encantador",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_of_talismans_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_of_talismans_desc",
+      "value_original": "Expert in talisman crafting.",
+      "value_translated": "Experto en la elaboración de talismanes.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_of_talismans_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_of_talismans_title",
+      "value_original": "Master of Talismans",
+      "value_translated": "Maestro de Talismanes",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_weaponsmith_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_weaponsmith_desc",
+      "value_original": "Expert in weapon crafting.",
+      "value_translated": "Experto en la fabricación de armas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_weaponsmith_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_torgovann_minister_master_weaponsmith_title",
+      "value_original": "Master Weaponsmith",
+      "value_translated": "Maestro Armero",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_deathdancer_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_deathdancer_desc",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_deathdancer_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_deathdancer_title",
+      "value_original": "Deathdancer",
+      "value_translated": "Bailarín de la Muerte",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_faction_leader_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_faction_leader_desc",
+      "value_original": "Wychwethyl the Wild is a Wardancer of exceptional skill and agility. It is he who performs the ritual dance at the beginning of spring which awakens the King and Queen in the Wood after their long sleep in the Oak of Ages.",
+      "value_translated": "Wychwethyl el Salvaje es un Bailarín Guerrero de excepcional habilidad y agilidad. Es él quien al comienzo de la primavera, realiza la danza ritual que despierta al Rey y a la Reina en el bosque después de su largo sueño en el Roble Eterno.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_faction_leader_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_faction_leader_title",
+      "value_original": "Lord of Masques",
+      "value_translated": "Señor de las Máscaras",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_feast_master_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_feast_master_desc",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_feast_master_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_feast_master_title",
+      "value_original": "Feast Master",
+      "value_translated": "Maestro de Ceremonias",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_master_of_drums_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_master_of_drums_desc",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_master_of_drums_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_master_of_drums_title",
+      "value_original": "Master of Drums",
+      "value_translated": "Maestro de Tambores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_mistweaver_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_mistweaver_desc",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_mistweaver_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_mistweaver_title",
+      "value_original": "Mistweaver of Loec",
+      "value_translated": "Tejedor de la Niebla de Loec",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_the_tricksters_masque_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_the_tricksters_masque_desc",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_the_tricksters_masque_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_the_tricksters_masque_title",
+      "value_original": "The Tricksters Masque",
+      "value_translated": "La Máscara de los Embaucadores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_vernal_equinox_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_vernal_equinox_desc",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_vernal_equinox_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wychwethyl_minister_vernal_equinox_title",
+      "value_original": "Celebrant of the Vernal Equinox",
+      "value_translated": "Oficiante del Equinoccio de Primavera",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wydrioth_minister_faction_leader_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wydrioth_minister_faction_leader_desc",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wydrioth_minister_faction_leader_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wydrioth_minister_faction_leader_title",
+      "value_original": "Prophetess",
+      "value_translated": "Profetisa",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wydrioth_minister_guardian_of_pine_crags_desc": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wydrioth_minister_guardian_of_pine_crags_desc",
+      "value_original": "Wydrioth is an embattled region, ever beset by the Dwarfs and Greenskins of the Grey Mountains, thus it needs its guardians.",
+      "value_translated": "Wydrioth es una región en conflicto, siempre acosada por los Enanos y Pieles Verdes de las Montañas Grises, por lo que necesita sus guardianes.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ministerial_positions_strings_on_screen_mixer_wef_wydrioth_minister_guardian_of_pine_crags_title": {
+      "key": "ministerial_positions_strings_on_screen_mixer_wef_wydrioth_minister_guardian_of_pine_crags_title",
+      "value_original": "Guardian of the Pine Crags",
+      "value_translated": "Guardián de los Pinares",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_description_mixer_generic_qb_gotrek_felix_ie_bretonnia": {
+      "key": "missions_localised_description_mixer_generic_qb_gotrek_felix_ie_bretonnia",
+      "value_original": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_description_mixer_generic_qb_gotrek_felix_ie_cathay": {
+      "key": "missions_localised_description_mixer_generic_qb_gotrek_felix_ie_cathay",
+      "value_original": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_description_mixer_generic_qb_gotrek_felix_ie_dwarf": {
+      "key": "missions_localised_description_mixer_generic_qb_gotrek_felix_ie_dwarf",
+      "value_original": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_description_mixer_generic_qb_gotrek_felix_ie_empire": {
+      "key": "missions_localised_description_mixer_generic_qb_gotrek_felix_ie_empire",
+      "value_original": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_description_mixer_generic_qb_gotrek_felix_ie_kislev": {
+      "key": "missions_localised_description_mixer_generic_qb_gotrek_felix_ie_kislev",
+      "value_original": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_description_mixer_generic_qb_gotrek_felix_roc_bretonnia": {
+      "key": "missions_localised_description_mixer_generic_qb_gotrek_felix_roc_bretonnia",
+      "value_original": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_description_mixer_generic_qb_gotrek_felix_roc_cathay": {
+      "key": "missions_localised_description_mixer_generic_qb_gotrek_felix_roc_cathay",
+      "value_original": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_description_mixer_generic_qb_gotrek_felix_roc_dwarf": {
+      "key": "missions_localised_description_mixer_generic_qb_gotrek_felix_roc_dwarf",
+      "value_original": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_description_mixer_generic_qb_gotrek_felix_roc_empire": {
+      "key": "missions_localised_description_mixer_generic_qb_gotrek_felix_roc_empire",
+      "value_original": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_description_mixer_generic_qb_gotrek_felix_roc_kislev": {
+      "key": "missions_localised_description_mixer_generic_qb_gotrek_felix_roc_kislev",
+      "value_original": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_description_mixer_lzd_generic_lord_kroak": {
+      "key": "missions_localised_description_mixer_lzd_generic_lord_kroak",
+      "value_original": "After a considerable amount of searching high and low right across Lustria, Lord Kroak’s Skink scouts finally locate the overgrown temple-tomb in which the ancient Relic Priest is meditating, as ever, upon the fine details of the Great Plan. However, in their haste it would appear that the scouts were somewhat careless, as they have been followed to Kroak’s location by a force of those insidious ratmen, the Skaven! They plan to destroy him, once and for all, by incinerating his physical remains that anchor him to the world. This must not come to pass – defend Kroak from harm whilst his priests awaken him!",
+      "value_translated": "Después de una considerable búsqueda por toda Lustria, los exploradores eslizones del Cacique Kroak finalmente encuentran el templo tumba cubierto de vegetación en el que el antiguo Sacerdote Reliquia está meditando, como siempre, sobre los detalles del Gran Plan. Sin embargo, en su esfuerzo parece que los exploradores fueron un poco descuidados, ya que han sido seguidos hasta Kroak por una fuerza de esos insidiosos hombres rata, ¡los Skaven! Planean destruirlo, de una vez por todas, incinerando sus restos físicos que lo anclan al mundo. Esto no debe suceder: ¡defiende a Kroak de cualquier daño mientras sus sacerdotes lo despiertan!",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_title_mixer_generic_qb_gotrek_felix_ie_bretonnia": {
+      "key": "missions_localised_title_mixer_generic_qb_gotrek_felix_ie_bretonnia",
+      "value_original": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_title_mixer_generic_qb_gotrek_felix_ie_cathay": {
+      "key": "missions_localised_title_mixer_generic_qb_gotrek_felix_ie_cathay",
+      "value_original": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_title_mixer_generic_qb_gotrek_felix_ie_dwarf": {
+      "key": "missions_localised_title_mixer_generic_qb_gotrek_felix_ie_dwarf",
+      "value_original": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_title_mixer_generic_qb_gotrek_felix_ie_empire": {
+      "key": "missions_localised_title_mixer_generic_qb_gotrek_felix_ie_empire",
+      "value_original": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_title_mixer_generic_qb_gotrek_felix_ie_kislev": {
+      "key": "missions_localised_title_mixer_generic_qb_gotrek_felix_ie_kislev",
+      "value_original": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_title_mixer_generic_qb_gotrek_felix_roc_bretonnia": {
+      "key": "missions_localised_title_mixer_generic_qb_gotrek_felix_roc_bretonnia",
+      "value_original": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_title_mixer_generic_qb_gotrek_felix_roc_cathay": {
+      "key": "missions_localised_title_mixer_generic_qb_gotrek_felix_roc_cathay",
+      "value_original": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_title_mixer_generic_qb_gotrek_felix_roc_dwarf": {
+      "key": "missions_localised_title_mixer_generic_qb_gotrek_felix_roc_dwarf",
+      "value_original": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_title_mixer_generic_qb_gotrek_felix_roc_empire": {
+      "key": "missions_localised_title_mixer_generic_qb_gotrek_felix_roc_empire",
+      "value_original": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_title_mixer_generic_qb_gotrek_felix_roc_kislev": {
+      "key": "missions_localised_title_mixer_generic_qb_gotrek_felix_roc_kislev",
+      "value_original": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "value_translated": "{{tr:missions_localised_title_wh3_dlc25_qb_gotrek_felix_chaos_katarin}} ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_title_mixer_lzd_generic_lord_kroak": {
+      "key": "missions_localised_title_mixer_lzd_generic_lord_kroak",
+      "value_original": "Lord Kroak",
+      "value_translated": "Cacique Kroak",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "provinces_onscreen_mixer_combi_province_numas": {
+      "key": "provinces_onscreen_mixer_combi_province_numas",
+      "value_original": "Ash River",
+      "value_translated": "Rio Ceniza",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_onscreen_name_emp_marienburg_tech_unique_1": {
+      "key": "technologies_onscreen_name_emp_marienburg_tech_unique_1",
+      "value_original": "Stadsraad",
+      "value_translated": "Stadsraad",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_onscreen_name_emp_marienburg_tech_unique_2": {
+      "key": "technologies_onscreen_name_emp_marienburg_tech_unique_2",
+      "value_original": "The Directorate",
+      "value_translated": "El Directorio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_onscreen_name_tech_emp_middenland_worship_1": {
+      "key": "technologies_onscreen_name_tech_emp_middenland_worship_1",
+      "value_original": "Purge Dark Cults",
+      "value_translated": "Purga de Cultos Oscuros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_onscreen_name_tech_emp_middenland_worship_2": {
+      "key": "technologies_onscreen_name_tech_emp_middenland_worship_2",
+      "value_original": "Divine Sanction",
+      "value_translated": "Sanción Divina",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_onscreen_name_tech_emp_middenland_worship_3": {
+      "key": "technologies_onscreen_name_tech_emp_middenland_worship_3",
+      "value_original": "Ecclesial Writ",
+      "value_translated": "Mandato Eclesiástico",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_onscreen_name_tech_emp_talabecland_worship_1": {
+      "key": "technologies_onscreen_name_tech_emp_talabecland_worship_1",
+      "value_original": "Purge Dark Cults",
+      "value_translated": "Purga de Cultos Oscuros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_onscreen_name_tech_emp_talabecland_worship_2": {
+      "key": "technologies_onscreen_name_tech_emp_talabecland_worship_2",
+      "value_original": "Divine Sanction",
+      "value_translated": "Sanción Divina",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_onscreen_name_tech_emp_talabecland_worship_3": {
+      "key": "technologies_onscreen_name_tech_emp_talabecland_worship_3",
+      "value_original": "Ecclesial Writ",
+      "value_translated": "Mandato Eclesiástico",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_short_description_emp_marienburg_tech_unique_1": {
+      "key": "technologies_short_description_emp_marienburg_tech_unique_1",
+      "value_original": "It's always good to talk, especially when not doing so can lead to a cataclysmic war.",
+      "value_translated": "Siempre es bueno hablar, sobre todo cuando no hacerlo puede conducir a una guerra cataclísmica.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_short_description_emp_marienburg_tech_unique_2": {
+      "key": "technologies_short_description_emp_marienburg_tech_unique_2",
+      "value_original": "\"Amazing, isn't it? Rulers of the most complex city in the world, and yet their meetings are models of efficiency and unity. It's almost as if they knew in advance what the decisions would be... but that would be dishonest, of course.\"",
+      "value_translated": "\"Asombroso, ¿verdad? Son los gobernantes de la ciudad más compleja del mundo y no obstante sus sesiones son modelos de eficiencia y armonía. Es casi como si supieran de antemano qué decisión van a tomar... pero por supuesto eso sería poco honesto.\"",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_short_description_tech_emp_middenland_worship_1": {
+      "key": "technologies_short_description_tech_emp_middenland_worship_1",
+      "value_original": "The Witch Hunters can be sent under the Ar-Ulric's order to purge vile cults. ",
+      "value_translated": "Los Cazadores de Brujas pueden ser enviados por orden de Ar-Ulric para purgar los viles cultos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_short_description_tech_emp_middenland_worship_2": {
+      "key": "technologies_short_description_tech_emp_middenland_worship_2",
+      "value_original": "The Ar-Ulric himself has judged this region and declared it pure and free from fell taint.",
+      "value_translated": "El propio Ar-Ulric ha juzgado esta región y la ha declarado pura y libre de la mancha de los caídos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_short_description_tech_emp_middenland_worship_3": {
+      "key": "technologies_short_description_tech_emp_middenland_worship_3",
+      "value_original": "When the Dark Powers gather, the Cult of Ulric sends its champions to rid the realm of its taint. ",
+      "value_translated": "Cuando los Poderes Oscuros se reúnen, el Culto de Ulric envía a sus campeones para librar al reino de su mancha.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_short_description_tech_emp_talabecland_worship_1": {
+      "key": "technologies_short_description_tech_emp_talabecland_worship_1",
+      "value_original": "The Witch Hunters can be sent under the Hierarch's order to purge vile cults. ",
+      "value_translated": "Los Cazadores de Brujas pueden ser enviados por orden de Jerarca para purgar los viles cultos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_short_description_tech_emp_talabecland_worship_2": {
+      "key": "technologies_short_description_tech_emp_talabecland_worship_2",
+      "value_original": "The Hierarch of Taal himself has judged this region and declared it pure and free from fell taint.",
+      "value_translated": "El propio Jerarca de Taal ha juzgado esta región y la ha declarado pura y libre de la mancha de los caídos.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_short_description_tech_emp_talabecland_worship_3": {
+      "key": "technologies_short_description_tech_emp_talabecland_worship_3",
+      "value_original": "When the Dark Powers gather, the Cult of Taal sends its champions to rid the realm of its taint. ",
+      "value_translated": "Cuando los Poderes Oscuros se reúnen, el Culto de Taal envía a sus campeones para librar al reino de su mancha.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technology_ui_groups_optional_display_name_emp_state_troops_averland": {
+      "key": "technology_ui_groups_optional_display_name_emp_state_troops_averland",
+      "value_original": "State Troops",
+      "value_translated": "Tropas estatales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technology_ui_groups_optional_display_name_emp_state_troops_hochland": {
+      "key": "technology_ui_groups_optional_display_name_emp_state_troops_hochland",
+      "value_original": "State Troops",
+      "value_translated": "Tropas estatales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technology_ui_groups_optional_display_name_emp_state_troops_middenland": {
+      "key": "technology_ui_groups_optional_display_name_emp_state_troops_middenland",
+      "value_original": "State Troops",
+      "value_translated": "Tropas estatales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technology_ui_groups_optional_display_name_emp_state_troops_nordland": {
+      "key": "technology_ui_groups_optional_display_name_emp_state_troops_nordland",
+      "value_original": "State Troops",
+      "value_translated": "Tropas estatales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technology_ui_groups_optional_display_name_emp_state_troops_ostermark": {
+      "key": "technology_ui_groups_optional_display_name_emp_state_troops_ostermark",
+      "value_original": "State Troops",
+      "value_translated": "Tropas estatales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technology_ui_groups_optional_display_name_emp_state_troops_ostland": {
+      "key": "technology_ui_groups_optional_display_name_emp_state_troops_ostland",
+      "value_original": "State Troops",
+      "value_translated": "Tropas estatales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technology_ui_groups_optional_display_name_emp_state_troops_stirland": {
+      "key": "technology_ui_groups_optional_display_name_emp_state_troops_stirland",
+      "value_original": "State Troops",
+      "value_translated": "Tropas estatales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "technology_ui_groups_optional_display_name_emp_state_troops_talabecland": {
+      "key": "technology_ui_groups_optional_display_name_emp_state_troops_talabecland",
+      "value_original": "State Troops",
+      "value_translated": "Tropas estatales",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "uied_component_texts_localised_string_mixer_button_txt_active_Text_546070": {
+      "key": "uied_component_texts_localised_string_mixer_button_txt_active_Text_546070",
+      "value_original": "Toggle Minor Factions||Hide all minor factions from the lord selection screen.\\\\nClicking the button again makes them visible again.\\\\n\\\\nIf you wish to have minor factions permanently gone from the lord selection screen, it is recommended to use MCT and set the \"Show minor factions\" setting to \"false\".",
+      "value_translated": "Alternar facciones menores||Ocultar todas las facciones menores de la pantalla de selección de señor.\\\\nAl hacer clic en el botón nuevamente, volverán a estar visibles.\\\\n\\\\nSi deseas que las facciones menores desaparezcan permanentemente de la pantalla de selección de señor, se recomienda usar MCT y establecer la configuración \"Mostrar facciones menores\" a \"falso\".",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}
