@@ -1,0 +1,797 @@
+{
+  "language": "SP",
+  "pack_name": "zzz_community_bugfix_mod.pack",
+  "translations": {
+    "campaign_areas_of_interest_description_wh3_main_ie_marbads_tomb": {
+      "key": "campaign_areas_of_interest_description_wh3_main_ie_marbads_tomb",
+      "value_original": "The Endal king was afforded the funeral rites of the greatest heroes, for such was his bravery in saving Sigmar from the Greenskin horde at Black Fire Pass.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "campaign_effect_scopes_localised_text_building_to_forces_enemy_regionwide": {
+      "key": "campaign_effect_scopes_localised_text_building_to_forces_enemy_regionwide",
+      "value_original": "\\\\n(enemy forces in local region)",
+      "value_translated": "\\\\n(fuerzas enemigas en la región local)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_effect_scopes_localised_text_force_to_general_own_provincetext": {
+      "key": "campaign_effect_scopes_localised_text_force_to_general_own_provincetext",
+      "value_original": "\\\\n(local province)",
+      "value_translated": "\\\\n(provincia local)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_effect_scopes_localised_text_foreign_building_to_character_own": {
+      "key": "campaign_effect_scopes_localised_text_foreign_building_to_character_own",
+      "value_original": "\\\\n(own characters in local region)",
+      "value_translated": "\\\\n(personajes propios en la región local)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_effect_scopes_localised_text_foreign_building_to_character_own_regionwide": {
+      "key": "campaign_effect_scopes_localised_text_foreign_building_to_character_own_regionwide",
+      "value_original": "\\\\n(characters in local region)",
+      "value_translated": "\\\\n(personajes en la región local)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_effect_scopes_localised_text_province_to_character_enemy": {
+      "key": "campaign_effect_scopes_localised_text_province_to_character_enemy",
+      "value_original": "\\\\n(enemy characters in local province)",
+      "value_translated": "\\\\n(personajes enemigos en la provincia local)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_effect_scopes_localised_text_province_to_force_own_provincewide": {
+      "key": "campaign_effect_scopes_localised_text_province_to_force_own_provincewide",
+      "value_original": "\\\\n(forces in local province)",
+      "value_translated": "\\\\n(fuerzas en la provincia local)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_effect_scopes_localised_text_region_to_character_enemy_text": {
+      "key": "campaign_effect_scopes_localised_text_region_to_character_enemy_text",
+      "value_original": "\\\\n(enemy characters in local region)",
+      "value_translated": "\\\\n(personajes enemigos en la región local)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_effect_scopes_localised_text_region_to_character_own_text": {
+      "key": "campaign_effect_scopes_localised_text_region_to_character_own_text",
+      "value_original": "\\\\n(characters in local region)",
+      "value_translated": "\\\\n(personajes en la región local)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_localised_strings_string_units_of_renown_tooltip_locked": {
+      "key": "campaign_localised_strings_string_units_of_renown_tooltip_locked",
+      "value_original": "[[col:red]]This unit will unlock after one of your [[img:icon_general]][[/img]]Lords or [[img:icon_hero]]Heroes[[/img]] reaches the required rank.[[/col]]",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "campaign_map_attritions_campaign_map_tooltip_hostile_territory_quicksand": {
+      "key": "campaign_map_attritions_campaign_map_tooltip_hostile_territory_quicksand",
+      "value_original": "This army will suffer losses due to [[img:icon_attrition]][[/img]]attrition while in Tomb Kings territory due to recent events.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "campaign_map_attritions_campaign_map_tooltip_hostile_territory_sotek": {
+      "key": "campaign_map_attritions_campaign_map_tooltip_hostile_territory_sotek",
+      "value_original": "This army will suffer losses due to [[img:icon_attrition]][[/img]]attrition while in Lizardmen territory when the Rite of Sotek is active.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "campaign_map_attritions_campaign_map_tooltip_hostile_territory_volkmar": {
+      "key": "campaign_map_attritions_campaign_map_tooltip_hostile_territory_volkmar",
+      "value_original": "This army will suffer losses due to [[img:icon_attrition]][[/img]]attrition while in Cult of Sigmar territory when the Sixth Book of Nagash is sealed.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "campaign_map_attritions_unit_card_tooltip_hostile_territory_quicksand": {
+      "key": "campaign_map_attritions_unit_card_tooltip_hostile_territory_quicksand",
+      "value_original": "Following a sudden rain, treacherous quicksand has erupted in this area - many warriors are being dragged down to an early grave beneath the desert.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "campaign_map_attritions_unit_card_tooltip_hostile_territory_sotek": {
+      "key": "campaign_map_attritions_unit_card_tooltip_hostile_territory_sotek",
+      "value_original": "The Lizardmen in this area have performed the Rite of Sotek - many warriors are losing their lives to this environment.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "campaign_map_attritions_unit_card_tooltip_hostile_territory_volkmar": {
+      "key": "campaign_map_attritions_unit_card_tooltip_hostile_territory_volkmar",
+      "value_original": "The Cult of Sigmar has sealed the Sixth Book of Nagash - many warriors are suffering from magical attrition as a result of this ritual.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "campaign_map_attritions_unit_immunity_text_hostile_territory_quicksand": {
+      "key": "campaign_map_attritions_unit_immunity_text_hostile_territory_quicksand",
+      "value_original": "Quicksand (Tomb Kings territory)",
+      "value_translated": "Arenas movedizas (territorio de los Reyes Funerarios)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_map_attritions_unit_immunity_text_hostile_territory_sotek": {
+      "key": "campaign_map_attritions_unit_immunity_text_hostile_territory_sotek",
+      "value_original": "Rite of Sotek (Lizardmen territory)",
+      "value_translated": "Rito de Sotek (territorio de Hombres Lagarto)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_map_attritions_unit_immunity_text_hostile_territory_volkmar": {
+      "key": "campaign_map_attritions_unit_immunity_text_hostile_territory_volkmar",
+      "value_original": "Sixth Book of Nagash sealed (Cult of Sigmar territory)",
+      "value_translated": "Sexto Libro de Nagash sellado (territorio del Culto de Sigmar)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_master_assassin_looming_dread": {
+      "key": "character_skills_localised_description_master_assassin_looming_dread",
+      "value_original": "Rather paradoxically, afflicting an enemy with profound paranoia can cause them to drop their guard.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_zzz_cbfm_daemon_slayer_physres": {
+      "key": "character_skills_localised_description_zzz_cbfm_daemon_slayer_physres",
+      "value_original": "Many blows over many battles have hardened this warrior beyond compare, making his hide as tough as Dragon scales.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_master_assassin_looming_dread": {
+      "key": "character_skills_localised_name_master_assassin_looming_dread",
+      "value_original": "Looming Dread",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_zzz_cbfm_daemon_slayer_physres": {
+      "key": "character_skills_localised_name_zzz_cbfm_daemon_slayer_physres",
+      "value_original": "Stubborn Defiance",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_trait_levels_explanation_text_wh3_trait_sister_swords_1": {
+      "key": "character_trait_levels_explanation_text_wh3_trait_sister_swords_1",
+      "value_original": "Gained from equipping {{tr:weapon_cynatcian}} and {{tr:weapon_elthraician}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_bugfix_bundle_stance_army_tunnelling_belegar": {
+      "key": "effect_bundles_localised_description_bugfix_bundle_stance_army_tunnelling_belegar",
+      "value_original": "{{tr:effect_bundles_localised_description_wh_dlc06_bundle_stance_army_tunnelling_belegar}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_bugfix_bundle_stance_army_tunnelling_belegar": {
+      "key": "effect_bundles_localised_title_bugfix_bundle_stance_army_tunnelling_belegar",
+      "value_original": "Stance: {{tr:ui_text_replacements_localised_text_tunnelling_stance}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_accursed_horrors_barrier_horrors": {
+      "key": "effects_description_accursed_horrors_barrier_horrors",
+      "value_original": "Barrier: %+n% for Blue Horrors of Tzeentch, Pink Horrors of Tzeentch and Exalted Pink Horrors of Tzeentch units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_bugfix_effect_attribute_vanguard_deploy_during_subterranean_hidden": {
+      "key": "effects_description_bugfix_effect_attribute_vanguard_deploy_during_subterranean_hidden",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_bugfix_effect_attribute_vanguard_deploy_during_subterranean_siege_hidden": {
+      "key": "effects_description_bugfix_effect_attribute_vanguard_deploy_during_subterranean_siege_hidden",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_enable_looming_dread": {
+      "key": "effects_description_enable_looming_dread",
+      "value_original": "Ability: \"Looming Dread\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_HV_lzd_melee_attack_redcrested_skink": {
+      "key": "effects_description_wh2_HV_lzd_melee_attack_redcrested_skink",
+      "value_original": "Melee attack: %+n for Skink, Chameleon Skink and Red Crested Skink units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_cbf_effect_global_recruitment_duration_cold_one_spears": {
+      "key": "effects_description_wh2_cbf_effect_global_recruitment_duration_cold_one_spears",
+      "value_original": "Global recruitment duration: %+n additional turn for Cold One Spear-Rider units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_cbf_effect_global_recruitment_duration_feral_dread_saurian_stegadon_engine": {
+      "key": "effects_description_wh2_cbf_effect_global_recruitment_duration_feral_dread_saurian_stegadon_engine",
+      "value_original": "Global recruitment duration: %+n additional turn for Ancient Stegadon (Engine of the Gods) and Feral Dread Saurian units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc09_effect_force_stat_melee_attack_monsters_monstrous_cbfm": {
+      "key": "effects_description_wh2_dlc09_effect_force_stat_melee_attack_monsters_monstrous_cbfm",
+      "value_original": "Melee attack: %+n for Monster units",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n a las unidades monstruosas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc09_effect_force_stat_melee_defence_monsters_monstrous_cbfm": {
+      "key": "effects_description_wh2_dlc09_effect_force_stat_melee_defence_monsters_monstrous_cbfm",
+      "value_original": "Melee defence %+n for Monster units",
+      "value_translated": "Defensa cuerpo a cuerpo: %+n a las unidades monstruosas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_ammunition_grn_rock_lobber_doom_diver": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_ammunition_grn_rock_lobber_doom_diver",
+      "value_original": "Ammunition: %+n% for Goblin Rock Lobber, Goblin Bolt Throwa and Doom Diver Catapult units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_ammunition_grn_rock_lobber_doom_diver_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_ammunition_grn_rock_lobber_doom_diver_rank7",
+      "value_original": "Ammunition: %+n% for Goblin Rock Lobber, Goblin Bolt Throwah and Doom Diver Catapult units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_charge_bonus_add_grn_all_melee_cav_orc_boar_chariot_squig_herd": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_charge_bonus_add_grn_all_melee_cav_orc_boar_chariot_squig_herd",
+      "value_original": "Charge bonus: %+n for Melee Cavalry, Orc Boar Chariot, Mangler Squig and Squig Herd units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_leadership_goblin_squig_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_leadership_goblin_squig_rank7",
+      "value_original": "Leadership: %+n for all Goblin, Pump Wagon, Night Goblin, Mangler Squig and Squig Herd units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_leadership_skeletons_zombies": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_leadership_skeletons_zombies",
+      "value_original": "Leadership: %+n for Zombies, Skeleton Warriors, Skeleton Spearmen and Grave Guard units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_melee_attack_trolls_giant_arachnarok": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_melee_attack_trolls_giant_arachnarok",
+      "value_original": "Melee attack: %+n for Trolls, Giant, Rogue Idol, Arachnarok Spider, Feral Hydra, Colossal Squig and Feral Wyvern units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_melee_defence_grn_trolls_giant_arachnarok_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_melee_defence_grn_trolls_giant_arachnarok_rank7",
+      "value_original": "Melee defence: %+n for Trolls, Giant, Rogue Idol, Arachnarok Spider, Feral Hydra, Colossal Squig and Feral Wyvern units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_missile_damage_grn_rock_lobber_doom_diver": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_missile_damage_grn_rock_lobber_doom_diver",
+      "value_original": "Missile strength: %+n% for Goblin Rock Lobber, Goblin Bolt Throwa and Doom Diver Catapult units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_missile_damage_grn_rock_lobber_doom_diver_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_missile_damage_grn_rock_lobber_doom_diver_rank7",
+      "value_original": "Missile strength: %+n% for Goblin Rock Lobber, Goblin Bolt Throwah and Doom Diver Catapult units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_missile_resistance_grn_trolls_giant_arachnarok_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_missile_resistance_grn_trolls_giant_arachnarok_rank7",
+      "value_original": "Missile resistance: %n% for Trolls, Giant, Rogue Idol, Arachnarok Spider, Feral Hydra, Colossal Squig and Feral Wyvern units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_physical_resistance_grn_all_goblin_squig_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_physical_resistance_grn_all_goblin_squig_rank7",
+      "value_original": "Physical resistance: %n% for all Goblin, Pump Wagon, Night Goblin, Mangler Squig and Squig Herd units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_reload_time_reduction_grn_rock_lobber_doom_diver_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_reload_time_reduction_grn_rock_lobber_doom_diver_rank7",
+      "value_original": "Reload time reduction: %+n% for Goblin Rock Lobber, Goblin Bolt Throwah and Doom Diver Catapult units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_speed_grn_all_melee_cav_orc_boar_chariot_squig_herd": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_speed_grn_all_melee_cav_orc_boar_chariot_squig_herd",
+      "value_original": "Speed: %+n% for Melee Cavalry, Orc Boar Chariot, Mangler Squig and Squig Herd units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_vigour_loss_reduction_skeletons_zombies": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_vigour_loss_reduction_skeletons_zombies",
+      "value_original": "Vigour loss reduction for Zombies, Skeleton Warriors and Skeleton Spearmen and Grave Guard units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_weapon_strength_grn_all_goblin_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_weapon_strength_grn_all_goblin_rank7",
+      "value_original": "Weapon strength: %+n% for all Goblin, Pump Wagon, Night Goblin, Mangler Squig and Squig Herd units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_weapon_strength_grn_trolls_gaint_arachnarok": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_weapon_strength_grn_trolls_gaint_arachnarok",
+      "value_original": "Weapon strength: %+n% for Trolls, Giant, Rogue Idol, Arachnarok Spider, Feral Hydra, Colossal Squig and Feral Wyvern units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_force_stat_weapon_strength_grn_trolls_giant_arachnarok_rank7": {
+      "key": "effects_description_wh2_dlc11_effect_force_stat_weapon_strength_grn_trolls_giant_arachnarok_rank7",
+      "value_original": "Weapon strength: %+n% for Trolls, Giant, Rogue Idol, Arachnarok Spider, Feral Hydra, Colossal Squig and Feral Wyvern units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc13_ability_enable_endurance_aura": {
+      "key": "effects_description_wh2_dlc13_ability_enable_endurance_aura",
+      "value_original": "Passive ability: \"Aura of Endurance\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc13_effect_lzd_xholankha_wom_costs_lore_life_high_light_fire_heavens_beasts": {
+      "key": "effects_description_wh2_dlc13_effect_lzd_xholankha_wom_costs_lore_life_high_light_fire_heavens_beasts",
+      "value_original": "Winds of Magic cost: %+n% for Lores of Life, Death, Shadows, Metal, Heavens, Fire, Light, Beasts and High Magic",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc15_effect_army_enable_ability_frenzy_boyz_big_uns": {
+      "key": "effects_description_wh2_dlc15_effect_army_enable_ability_frenzy_boyz_big_uns",
+      "value_original": "Passive ability: \"Frenzy\" for all Orc Boyz and Big ‘Uns infantry and cavalry units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc15_effect_army_grn_vanguard_deployment_boyz_big_uns": {
+      "key": "effects_description_wh2_dlc15_effect_army_grn_vanguard_deployment_boyz_big_uns",
+      "value_original": "Attribute: Vanguard Deployment for all Orc Boyz and Big ‘Uns infantry and cavalry units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc15_effect_force_army_battle_enemy_unit_morale_xef": {
+      "key": "effects_description_wh2_dlc15_effect_force_army_battle_enemy_unit_morale_xef",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc15_effect_force_army_battle_enemy_unit_morale_xef2": {
+      "key": "effects_description_wh2_dlc15_effect_force_army_battle_enemy_unit_morale_xef2",
+      "value_original": "Enemy leadership: %+n for Elven units",
+      "value_translated": "Liderazgo enemigo: %+n a las unidades élficas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc15_effect_melee_defence_boyz_big_uns": {
+      "key": "effects_description_wh2_dlc15_effect_melee_defence_boyz_big_uns",
+      "value_original": "Melee defence: %+n for all Orc Boyz and Big ‘Uns infantry and cavalry units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc15_effect_movement_speed_boyz_big_uns": {
+      "key": "effects_description_wh2_dlc15_effect_movement_speed_boyz_big_uns",
+      "value_original": "Speed: %+n% for all Orc Boyz and Big ‘Uns infantry and cavalry units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc15_effect_recruitment_xp_hef_loremaster_mages_archmages_cataph_hordes": {
+      "key": "effects_description_wh2_dlc15_effect_recruitment_xp_hef_loremaster_mages_archmages_cataph_hordes",
+      "value_original": "[HIDDEN - USED TO FIX LORD REPLACEMENT AND HORDES IF MODDED] Recruit rank: %+n for Loremasters of Hoeth, Mages and Archmages",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc15_effect_upkeep_reduction_boyz_big_uns": {
+      "key": "effects_description_wh2_dlc15_effect_upkeep_reduction_boyz_big_uns",
+      "value_original": "Upkeep: %+n% for all Orc Boyz and Big ‘Uns infantry and cavalry units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_blark_soi_replenishment": {
+      "key": "effects_description_wh2_main_effect_blark_soi_replenishment",
+      "value_original": "Casualty replenishment rate: %+n%",
+      "value_translated": "Reemplazo de bajas: %+n%",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_building_recruitment_cost_reduction_hef_resource_wood": {
+      "key": "effects_description_wh2_main_effect_building_recruitment_cost_reduction_hef_resource_wood",
+      "value_original": "Recruitment cost: %+n% for Archers, Spearmen, Silverin Guard, Lothern Sea Guard, Shadow Warriors, Shadow-walkers, Sisters of Avelorn and Bolt Thrower units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_building_recruitment_cost_reduction_lzd_bastiladon_stegadon_carnosur_terradon_dread_saurian": {
+      "key": "effects_description_wh2_main_effect_building_recruitment_cost_reduction_lzd_bastiladon_stegadon_carnosur_terradon_dread_saurian",
+      "value_original": "Recruitment cost: %+n% for Terradon Riders, Ripperdactyl Riders, Bastiladon, Stegadon, Feral Carnosaur, Feral Troglodon and Dread Saurian units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_building_unit_xp_levels_hef_resource_wood": {
+      "key": "effects_description_wh2_main_effect_building_unit_xp_levels_hef_resource_wood",
+      "value_original": "Recruit rank: %+n for Archers, Spearmen, Silverin Guard, Lothern Sea Guard, Shadow Warriors, Shadow-walkers, Sisters of Avelorn and Bolt Thrower units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_building_unit_xp_levels_lzd_bastiladon_stegadon_carnosur_terradon_dread_saurian": {
+      "key": "effects_description_wh2_main_effect_building_unit_xp_levels_lzd_bastiladon_stegadon_carnosur_terradon_dread_saurian",
+      "value_original": "Recruit rank: %+n for Terradon Riders, Ripperdactyls, Bastiladon, Stegadon, Feral Carnosaur, Feral Troglodon and Dread Saurian units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_building_upkeep_reduction_lzd_bastiladon_stegadon_carnosur_terradon_dread_saurian": {
+      "key": "effects_description_wh2_main_effect_building_upkeep_reduction_lzd_bastiladon_stegadon_carnosur_terradon_dread_saurian",
+      "value_original": "Upkeep: %+n% for Terradon Riders, Ripperdactyls, Bastiladon, Stegadon, Feral Carnosaur, Feral Troglodon and Dread Saurian units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_ammunition_skv_infantry": {
+      "key": "effects_description_wh2_main_effect_force_stat_ammunition_skv_infantry",
+      "value_original": "Ammunition: %+n% for Missile Infantry and Skaven Weapon Team units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_armour_skv_weaponteam": {
+      "key": "effects_description_wh2_main_effect_force_stat_armour_skv_weaponteam",
+      "value_original": "Armour: %+n for Skaven Weapon Team, Poison Wind Globadiers and Death Globe Bombardiers units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_charge_bonus_add_skv_deathrunners": {
+      "key": "effects_description_wh2_main_effect_force_stat_charge_bonus_add_skv_deathrunners",
+      "value_original": "Charge bonus: %+n for Death Runners and Eshin Triads units",
+      "value_translated": "Bonificación de carga: %+n a las unidades de Acechantes Mortales y Tríadas Eshin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_leadership_skv_deathrunners": {
+      "key": "effects_description_wh2_main_effect_force_stat_leadership_skv_deathrunners",
+      "value_original": "Leadership: %+n for Death Runners and Eshin Triads units",
+      "value_translated": "Liderazgo: %+n a las unidades de Acechantes Mortales y Tríadas Eshin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_missile_damage_skv_weaponteams": {
+      "key": "effects_description_wh2_main_effect_force_stat_missile_damage_skv_weaponteams",
+      "value_original": "Missile strength: %+n% for Skaven Weapon Team, Poison Wind Globadiers and Death Globe Bombardiers units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_range_skv_weaponteams": {
+      "key": "effects_description_wh2_main_effect_force_stat_range_skv_weaponteams",
+      "value_original": "Range: %+n% for Skaven Weapon Team, Poison Wind Globadiers and Death Globe Bombardiers units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_force_stat_weapon_strength_skv_deathrunner": {
+      "key": "effects_description_wh2_main_effect_force_stat_weapon_strength_skv_deathrunner",
+      "value_original": "Weapon strength: %+n% for Death Runners and Eshin Triads units",
+      "value_translated": "Fuerza del arma: %+n% a las unidades de Acechantes Mortales y Tríadas Eshin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_region_enable_hostile_territory_attrition": {
+      "key": "effects_description_wh2_main_effect_region_enable_hostile_territory_attrition",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_region_enable_hostile_territory_attrition_quicksand": {
+      "key": "effects_description_wh2_main_effect_region_enable_hostile_territory_attrition_quicksand",
+      "value_original": "Causes attrition to enemy armies within your territory",
+      "value_translated": "Provoca desgaste a los ejércitos enemigos dentro de tu territorio.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_region_enable_hostile_territory_attrition_sotek": {
+      "key": "effects_description_wh2_main_effect_region_enable_hostile_territory_attrition_sotek",
+      "value_original": "Causes attrition to enemy armies within your territory",
+      "value_translated": "Provoca desgaste a los ejércitos enemigos dentro de tu territorio.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_region_enable_hostile_territory_attrition_volkmar": {
+      "key": "effects_description_wh2_main_effect_region_enable_hostile_territory_attrition_volkmar",
+      "value_original": "Causes attrition to enemy armies within your territory",
+      "value_translated": "Provoca desgaste a los ejércitos enemigos dentro de tu territorio.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_resource_upkeep_reduction_greenskin_spearmen_archers_chariots": {
+      "key": "effects_description_wh2_main_effect_resource_upkeep_reduction_greenskin_spearmen_archers_chariots",
+      "value_original": "Upkeep: %+n% for Goblin Melee infantry, Bow infantry, Chariot and Ppump wagon units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_tech_unit_xp_levels_skv_stormvermin_deathrunners": {
+      "key": "effects_description_wh2_main_effect_tech_unit_xp_levels_skv_stormvermin_deathrunners",
+      "value_original": "Recruit rank: %+n for Stormvermin, Death Runners and Eshin Triads units",
+      "value_translated": "Rango al reclutar: %+n a las unidades de Alimañas, Acechantes Mortales y Tríadas Eshin",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_tech_unit_xp_levels_skv_weaponteams": {
+      "key": "effects_description_wh2_main_effect_tech_unit_xp_levels_skv_weaponteams",
+      "value_original": "Recruit rank: %+n for Skaven Weapon Team, Poison Wind Globadiers and Death Globe Bombardiers units ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_tech_upkeep_reduction_skv_weaponteams": {
+      "key": "effects_description_wh2_main_effect_tech_upkeep_reduction_skv_weaponteams",
+      "value_original": "Upkeep: %+n% for Skaven Weapon Team, Poison Wind Globadiers and Death Globe Bombardiers units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_upkeep_cost_reduction_lzd_beasts": {
+      "key": "effects_description_wh2_main_effect_upkeep_cost_reduction_lzd_beasts",
+      "value_original": "Upkeep: %+n% for Beasts, Terradon Riders, Ripperdactyl riders and Cold One Cavalry units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_twa03_effect_leadership_monsters_monstrous_cbfm": {
+      "key": "effects_description_wh2_twa03_effect_leadership_monsters_monstrous_cbfm",
+      "value_original": "Leadership: %+n for enemy monstrous units",
+      "value_translated": "Liderazgo: %+n a las unidades monstruosas enemigas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh3_dlc20_effect_building_upgrade_kho_corruption_context_dummy": {
+      "key": "effects_description_wh3_dlc20_effect_building_upgrade_kho_corruption_context_dummy",
+      "value_original": "Khorne corruption: %+n from Chaos Altar Ritual Huts and +1 from Dark Fortress Chaos Shrines (+2 once fully upgraded)",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh3_dlc20_effect_building_upgrade_nur_corruption_context_dummy": {
+      "key": "effects_description_wh3_dlc20_effect_building_upgrade_nur_corruption_context_dummy",
+      "value_original": "Nurgle corruption: %+n from Chaos Altar Ritual Huts and +1 from Dark Fortress Chaos Shrines (+2 once fully upgraded)",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh3_dlc20_effect_building_upgrade_sla_corruption_context_dummy": {
+      "key": "effects_description_wh3_dlc20_effect_building_upgrade_sla_corruption_context_dummy",
+      "value_original": "Slaanesh corruption: %+n from Chaos Altar Ritual Huts and +1 from Dark Fortress Chaos Shrines (+2 once fully upgraded)",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh3_dlc20_effect_building_upgrade_tze_corruption_context_dummy": {
+      "key": "effects_description_wh3_dlc20_effect_building_upgrade_tze_corruption_context_dummy",
+      "value_original": "Tzeentch corruption: %+n from Chaos Altar Ritual Huts and +1 from Dark Fortress Chaos Shrines (+2 once fully upgraded)",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_force_stat_charge_bonus_tze_forsaken_spawn": {
+      "key": "effects_description_wh3_main_effect_force_stat_charge_bonus_tze_forsaken_spawn",
+      "value_original": "Charge bonus: %+n for Chaos Furies, Screamers of Tzeentch, Forsaken of Tzeentch, Tzaangors, Centigors of Tzeentch, Marauders of Tzeentch, Chaos Warriors of Tzeentch, Chosen of Tzeentch and Spawn of Tzeentch units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_force_stat_melee_attack_tze_furies_screamers_forsaken_spawn": {
+      "key": "effects_description_wh3_main_effect_force_stat_melee_attack_tze_furies_screamers_forsaken_spawn",
+      "value_original": "Melee attack: %+n for Chaos Furies, Screamers of Tzeentch, Forsaken of Tzeentch, Tzaangors, Centigors of Tzeentch, Marauders of Tzeentch, Chaos Warriors of Tzeentch, Chosen of Tzeentch and Spawn of Tzeentch units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_force_stat_speed_tze_furies_screamers": {
+      "key": "effects_description_wh3_main_effect_force_stat_speed_tze_furies_screamers",
+      "value_original": "Speed: %+n% for Chaos Furies, Screamers of Tzeentch, Forsaken of Tzeentch, Tzaangors, Centigors of Tzeentch, Marauders of Tzeentch, Chaos Warriors of Tzeentch, Chosen of Tzeentch and Spawn of Tzeentch units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_stance_ap_percentage_increase": {
+      "key": "effects_description_wh3_main_effect_stance_ap_percentage_increase",
+      "value_original": "Campaign movement range: %+n",
+      "value_translated": "Capacidad de movimiento en campaña: %+n",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_dlc08_effect_force_stat_vigour_loss_reduction_marauder_infantry": {
+      "key": "effects_description_wh_dlc08_effect_force_stat_vigour_loss_reduction_marauder_infantry",
+      "value_original": "Vigour loss reduction: %+n% for Marauder Infantry units",
+      "value_translated": "Reducción de la pérdida de vigor: %+n% a las unidades de infantería de Bárbaros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_dlc08_effect_force_stat_vigour_loss_reduction_warhounds": {
+      "key": "effects_description_wh_dlc08_effect_force_stat_vigour_loss_reduction_warhounds",
+      "value_original": "Vigour loss reduction: %+n% for Warhound units",
+      "value_translated": "Reducción de la pérdida de vigor: %+n% a las unidades de Mastines",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_force_all_campaign_stance_ap_cost": {
+      "key": "effects_description_wh_main_effect_force_all_campaign_stance_ap_cost",
+      "value_original": "[[col:yellow]]Campaign movement range penalty: %n[[/col]]",
+      "value_translated": "[[col:yellow]]Penalización de capacidad de movimiento en campaña: %n[[/col]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_force_campaign_stance_can_move_extra_stance_display": {
+      "key": "effects_description_wh_main_effect_force_campaign_stance_can_move_extra_stance_display",
+      "value_original": "Campaign movement: [[b]]%+n[[/b]]",
+      "value_translated": "Capacidad de movimiento en campaña: [[b]]%+n[[/b]]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_force_navy_campaign_local_piracy": {
+      "key": "effects_description_wh_main_effect_force_navy_campaign_local_piracy",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_force_stat_vigour_loss_reduction_cavalry": {
+      "key": "effects_description_wh_main_effect_force_stat_vigour_loss_reduction_cavalry",
+      "value_original": "Vigour loss reduction: %+n% for Cavalry units",
+      "value_translated": "Reducción de la pérdida de vigor: %+n% a las unidades de caballería",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_tech_recruitment_cost_reduction_greenskin_spearmen_archers_chariots": {
+      "key": "effects_description_wh_main_effect_tech_recruitment_cost_reduction_greenskin_spearmen_archers_chariots",
+      "value_original": "Recruitment cost: %+n% for Goblin Melee infantry, Archer infantry, Chariot and Pump wagon units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "event_feed_strings_text_wh2_event_feed_string_scripted_event_rite_expired_primary_detail": {
+      "key": "event_feed_strings_text_wh2_event_feed_string_scripted_event_rite_expired_primary_detail",
+      "value_original": "Rite Available",
+      "value_translated": "Rito disponible",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_wh_dlc04_vmp_mon_devils_swartzhafen_0": {
+      "key": "land_units_onscreen_name_wh_dlc04_vmp_mon_devils_swartzhafen_0",
+      "value_original": "The Devils of Schwartzhafen (Vargheists)",
+      "value_translated": "Los Diablos de Schwartzhafen (Vargheists)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "mission_text_text_mis_activity_eliminate_in_battle_any": {
+      "key": "mission_text_text_mis_activity_eliminate_in_battle_any",
+      "value_original": "Eliminate any [[img:icon_general]][[/img]]Lord or [[img:icon_hero]][[/img]]Hero in battle.",
+      "value_translated": "Elimina a cualquier [[img:icon_general]][[/img]]Señor o [[img:icon_hero]][[/img]]Héroe en batalla.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin": {
+      "key": "missions_localised_description_wh3_dlc25_qb_gotrek_felix_chaos_katarin",
+      "value_original": "Geheimnistag, or the Floating Holiday as it is known among citizens of the Empire, marks that rarest of occasions: when both the twin moons of Morrslieb and Mannslieb are risen and bright in the night, thinning the veil that separates the mortal realm from the other planes of existence. It is no coincidence that on one such Geheimnisnacht Eve, the hallowed Dwarf Slayer Gotrek and his mannish companion and chronicler Felix Jaeger detected and defeated a Slaaneshi cult, only to find themselves transported to the Realm of Chaos to face more horrors at the whim of the insidious Prince of Pleasure. His gamesmaster – a Keeper of Secrets – must be found and killed for Slaanesh’s foul game to finally end.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "regions_battle_name_wh3_main_combi_region_swartzhafen": {
+      "key": "regions_battle_name_wh3_main_combi_region_swartzhafen",
+      "value_original": "Schwartzhafen",
+      "value_translated": "Schwartzhafen",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "regions_onscreen_wh3_main_combi_region_swartzhafen": {
+      "key": "regions_onscreen_wh3_main_combi_region_swartzhafen",
+      "value_original": "Schwartzhafen",
+      "value_translated": "Schwartzhafen",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "rituals_description_wh2_dlc14_eshin_actions_sewer_pestilence": {
+      "key": "rituals_description_wh2_dlc14_eshin_actions_sewer_pestilence",
+      "value_original": "Snikch has all sorts of heinous weapons at his disposal, including a virulent, incurable contagion that can cripple a land’s population for an extended period.\\\\n\\\\n[[col:yellow]]Snikch's contagion limits recruitment, reduces [[img:icon_growth]][[/img]]growth and causes [[img:icon_attrition]][[/img]]attrition to local forces in a region.\\\\n\\\\n[[col:red]][[img:icon_turns]][[/img]]Snikch recovery time: 5 turns\\\\n[[img:icon_turns]][[/img]]Action cooldown time: 50 turns[[/col]]",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "start_pos_settlements_onscreen_name_settlement:wh3_main_combi_region_swartzhafen748250714": {
+      "key": "start_pos_settlements_onscreen_name_settlement:wh3_main_combi_region_swartzhafen748250714",
+      "value_original": "Schwartzhafen",
+      "value_translated": "Schwartzhafen",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "uied_component_texts_localised_string_ComponentTooltip_befb1452f": {
+      "key": "uied_component_texts_localised_string_ComponentTooltip_befb1452f",
+      "value_original": "Lua has failed since last campaign load – many features are likely to be broken until the campaign is reloaded! These warnings can be disabled by deactivating the Enable Context Viewer setting in the Options menu.",
+      "value_translated": "Lua ha fallado desde la última carga de la campaña; es probable que muchas funciones no funcionen hasta que se recargue la campaña. Estas advertencias se pueden desactivar desactivando la configuración \"Activar visor de contexto\" en el menú Opciones.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_wh3_dlc25_unit_short_text_nur_cha_chaos_sorcerer_of_nurgle": {
+      "key": "unit_description_short_texts_text_wh3_dlc25_unit_short_text_nur_cha_chaos_sorcerer_of_nurgle",
+      "value_original": "The Plague Lord's watchmen oversee His beloved children, spreading malaise and invigorating the sickly masses.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_wh3_dlc25_unit_short_text_nur_cha_chaos_sorcerer_of_nurgle_death": {
+      "key": "unit_description_short_texts_text_wh3_dlc25_unit_short_text_nur_cha_chaos_sorcerer_of_nurgle_death",
+      "value_original": "Nurgle wields the ways of death; through His conjurers, leeching the souls of His foes.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_set_to_mp_unit_caps_localised_name_mp_cap_unit_vmp_mon_devils_swartzhafen_0": {
+      "key": "unit_set_to_mp_unit_caps_localised_name_mp_cap_unit_vmp_mon_devils_swartzhafen_0",
+      "value_original": "Devils of Schwartzhafen",
+      "value_translated": "Diablos de Schwartzhafen",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "wh_main_effect_tech_unit_xp_levels_greenskin_spearmen_archers_chariots": {
+      "key": "wh_main_effect_tech_unit_xp_levels_greenskin_spearmen_archers_chariots",
+      "value_original": "Recruit rank: %+n for Goblin Melee infantry, Bow infantry, Chariot and Pump wagon units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    }
+  }
+}
