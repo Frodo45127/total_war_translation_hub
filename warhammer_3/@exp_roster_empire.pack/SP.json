@@ -47,8 +47,8 @@
     "ancillaries_onscreen_name_wh_dlc05_anc_mount_deco_battle_wizard_fire_barded_warhorse": {
       "key": "ancillaries_onscreen_name_wh_dlc05_anc_mount_deco_battle_wizard_fire_barded_warhorse",
       "value_original": "Barded Warhorse",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Caballo de Guerra con barda",
+      "needs_retranslation": false,
       "removed": false
     },
     "ancillaries_onscreen_name_wh_dlc05_anc_mount_deco_battle_wizard_fire_imperial_pegasus": {
@@ -131,15 +131,15 @@
     "character_skills_localised_name_wh_main_skill_deco_battle_wizard_fire_barded_warhorse": {
       "key": "character_skills_localised_name_wh_main_skill_deco_battle_wizard_fire_barded_warhorse",
       "value_original": "Barded Warhorse",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Caballo de Guerra con barda",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_name_wh_main_skill_deco_battle_wizard_fire_cost_wizards": {
       "key": "character_skills_localised_name_wh_main_skill_deco_battle_wizard_fire_cost_wizards",
       "value_original": "Magic Alliance",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Alianza mágica",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_name_wh_main_skill_deco_battle_wizard_fire_imperial_pegasus": {
@@ -208,8 +208,8 @@
     "land_units_onscreen_name_deco_knights_lynx": {
       "key": "land_units_onscreen_name_deco_knights_lynx",
       "value_original": "Knights of the Black Lynx",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Caballeros del Lince Negro",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_deco_roadwardens": {
@@ -222,8 +222,8 @@
     "land_units_onscreen_name_deco_shielded_halberdiers": {
       "key": "land_units_onscreen_name_deco_shielded_halberdiers",
       "value_original": "Halberdiers (Shields)",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Alabarderos (escudos)",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_description_deco_doom_prophets": {
@@ -264,8 +264,29 @@
     "loading_screen_quotes_title_deco_knights_lynx": {
       "key": "loading_screen_quotes_title_deco_knights_lynx",
       "value_original": "Knights of the Black Lynx",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Caballeros del Lince Negro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_5.2": {
+      "key": "patch_5.2",
+      "value_original": "patch_5.2",
+      "value_translated": "patch_5.2",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_5.3": {
+      "key": "patch_5.3",
+      "value_original": "patch_5.3",
+      "value_translated": "patch_5.3",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_6.0": {
+      "key": "patch_6.0",
+      "value_original": "patch_6.0",
+      "value_translated": "patch_6.0",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_onscreen_name_wh_dlc04_unit_passive_insensible": {
@@ -341,8 +362,8 @@
     "units_custom_battle_mounts_mount_name_deco_battle_wizard_firedeco_battle_wizard_fire_barded_warhorse": {
       "key": "units_custom_battle_mounts_mount_name_deco_battle_wizard_firedeco_battle_wizard_fire_barded_warhorse",
       "value_original": "Barded Warhorse",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Caballo de Guerra con barda",
+      "needs_retranslation": false,
       "removed": false
     },
     "units_custom_battle_mounts_mount_name_deco_battle_wizard_firedeco_battle_wizard_fire_imperial_pegasus": {
@@ -364,7 +385,7 @@
       "value_original": "update1",
       "value_translated": "update1",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     }
   }
 }

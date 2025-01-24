@@ -520,6 +520,27 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "patch_5.2": {
+      "key": "patch_5.2",
+      "value_original": "patch_5.2",
+      "value_translated": "patch_5.2",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_5.3": {
+      "key": "patch_5.3",
+      "value_original": "patch_5.3",
+      "value_translated": "patch_5.3",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_6.0.3": {
+      "key": "patch_6.0.3",
+      "value_original": "patch_6.0.3",
+      "value_translated": "patch_6.0.3",
+      "needs_retranslation": false,
+      "removed": false
+    },
     "ui_unit_bullet_point_enums_onscreen_name_dragon_breath_magma": {
       "key": "ui_unit_bullet_point_enums_onscreen_name_dragon_breath_magma",
       "value_original": "Magma Dragon's Breath",
@@ -588,14 +609,14 @@
       "value_original": "update1",
       "value_translated": "update1",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "update2": {
       "key": "update2",
       "value_original": "update2",
       "value_translated": "update2",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     }
   }
 }

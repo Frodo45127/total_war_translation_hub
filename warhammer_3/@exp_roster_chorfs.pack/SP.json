@@ -856,6 +856,34 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "patch_5.1": {
+      "key": "patch_5.1",
+      "value_original": "patch_5.1",
+      "value_translated": "patch_5.1",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_5.2": {
+      "key": "patch_5.2",
+      "value_original": "patch_5.2",
+      "value_translated": "patch_5.2",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_5.3": {
+      "key": "patch_5.3",
+      "value_original": "patch_5.3",
+      "value_translated": "patch_5.3",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_6.0": {
+      "key": "patch_6.0",
+      "value_original": "patch_6.0",
+      "value_translated": "patch_6.0",
+      "needs_retranslation": false,
+      "removed": false
+    },
     "pooled_resources_display_name_wh3_dlc23_chd_hellforge_flying_beast_unlocker": {
       "key": "pooled_resources_display_name_wh3_dlc23_chd_hellforge_flying_beast_unlocker",
       "value_original": "Total Monsters Capacity",
@@ -1127,21 +1155,21 @@
       "value_original": "update1",
       "value_translated": "update1",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "update2": {
       "key": "update2",
       "value_original": "update2",
       "value_translated": "update2",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "update3": {
       "key": "update3",
       "value_original": "update3",
       "value_translated": "update3",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     }
   }
 }

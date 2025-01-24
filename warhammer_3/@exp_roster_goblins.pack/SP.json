@@ -436,6 +436,20 @@
       "needs_retranslation": true,
       "removed": false
     },
+    "patch_5.2": {
+      "key": "patch_5.2",
+      "value_original": "patch_5.2",
+      "value_translated": "patch_5.2",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_5.3": {
+      "key": "patch_5.3",
+      "value_original": "patch_5.3",
+      "value_translated": "patch_5.3",
+      "needs_retranslation": false,
+      "removed": false
+    },
     "special_ability_phases_onscreen_name_wh_main_unit_passive_aura_poop": {
       "key": "special_ability_phases_onscreen_name_wh_main_unit_passive_aura_poop",
       "value_original": "",
@@ -609,7 +623,7 @@
       "value_original": "update1",
       "value_translated": "update1",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     }
   }
 }

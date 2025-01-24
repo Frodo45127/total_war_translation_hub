@@ -315,7 +315,7 @@
       "value_original": "Grave Guard (Halberds)",
       "value_translated": "Guardia de los Túmulos (Alabardas)",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "land_units_onscreen_name_dec_hell_knights": {
       "key": "land_units_onscreen_name_dec_hell_knights",
@@ -349,6 +349,27 @@
       "key": "land_units_onscreen_name_dec_spirit_host",
       "value_original": "Spirit Hosts",
       "value_translated": "Huestes Espectrales ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_5.2": {
+      "key": "patch_5.2",
+      "value_original": "patch_5.2",
+      "value_translated": "patch_5.2",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_6.0": {
+      "key": "patch_6.0",
+      "value_original": "patch_6.0",
+      "value_translated": "patch_6.0",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_6.0.3": {
+      "key": "patch_6.0.3",
+      "value_original": "patch_6.0.3",
+      "value_translated": "patch_6.0.3",
       "needs_retranslation": false,
       "removed": false
     },

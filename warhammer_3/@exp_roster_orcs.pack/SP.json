@@ -441,7 +441,7 @@
       "value_original": "Orc Boyz (Spears)",
       "value_translated": "Guerreroz Orcoz (lanzas)",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "land_units_onscreen_name_deco_savage_big_uns_gw": {
       "key": "land_units_onscreen_name_deco_savage_big_uns_gw",
@@ -553,7 +553,7 @@
       "value_original": "Orc Boyz call every weapon a \"choppa\" even the long pointy-ones.",
       "value_translated": "Los Guerreroz Orcoz llaman a todas las armas \"choppa\", incluso las largas y puntiagudas.",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "loading_screen_quotes_description_deco_savage_big_uns_gw": {
       "key": "loading_screen_quotes_description_deco_savage_big_uns_gw",
@@ -602,7 +602,7 @@
       "value_original": "Orc Boyz (Spears)",
       "value_translated": "Guerreroz Orcoz (lanzas)",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "loading_screen_quotes_title_deco_savage_big_uns_gw": {
       "key": "loading_screen_quotes_title_deco_savage_big_uns_gw",
@@ -622,6 +622,20 @@
       "key": "loading_screen_quotes_title_deco_savage_orc_spears",
       "value_original": "Savage Orcs (Spears)",
       "value_translated": "Orcoz Zalvajez (lanzas)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_5.2": {
+      "key": "patch_5.2",
+      "value_original": "patch_5.2",
+      "value_translated": "patch_5.2",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_5.3": {
+      "key": "patch_5.3",
+      "value_original": "patch_5.3",
+      "value_translated": "patch_5.3",
       "needs_retranslation": false,
       "removed": false
     },
@@ -735,7 +749,7 @@
       "value_original": "Orc Boyz call every weapon a \"choppa\" even the long pointy-ones.",
       "value_translated": "Los Guerreroz Orcoz llaman a todas las armas \"choppa\", incluso las largas y puntiagudas.",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "unit_description_short_texts_text_wh_main_unit_short_text_deco_savage_big_uns_gw": {
       "key": "unit_description_short_texts_text_wh_main_unit_short_text_deco_savage_big_uns_gw",
@@ -819,7 +833,7 @@
       "value_original": "update1",
       "value_translated": "update1",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     }
   }
 }

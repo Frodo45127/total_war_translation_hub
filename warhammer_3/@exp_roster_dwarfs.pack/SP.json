@@ -2,6 +2,13 @@
   "language": "SP",
   "pack_name": "@exp_roster_dwarfs.pack",
   "translations": {
+    "effects_description_deco_effect_unit_cap_deco_bugman_thrower": {
+      "key": "effects_description_deco_effect_unit_cap_deco_bugman_thrower",
+      "value_original": "Unit capacity: %+n\\\\nBugman's Thrower",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "effects_description_deco_effect_unit_cap_dwf_kou_dreadnaught": {
       "key": "effects_description_deco_effect_unit_cap_dwf_kou_dreadnaught",
       "value_original": "Unit capacity: %+n\\\\nGrudgecrusher Dreadnaught",
@@ -163,6 +170,27 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "patch_5.2": {
+      "key": "patch_5.2",
+      "value_original": "patch_5.2",
+      "value_translated": "patch_5.2",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_5.3": {
+      "key": "patch_5.3",
+      "value_original": "patch_5.3",
+      "value_translated": "patch_5.3",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "patch_6.0": {
+      "key": "patch_6.0",
+      "value_original": "patch_6.0",
+      "value_translated": "patch_6.0",
+      "needs_retranslation": false,
+      "removed": false
+    },
     "ui_unit_bullet_point_enums_onscreen_name_deco_grungnis_kin": {
       "key": "ui_unit_bullet_point_enums_onscreen_name_deco_grungnis_kin",
       "value_original": "Grungni's Kin",
@@ -238,7 +266,7 @@
       "value_original": "update1",
       "value_translated": "update1",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     }
   }
 }
