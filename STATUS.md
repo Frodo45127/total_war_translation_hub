@@ -1,0 +1,41 @@
+# Status
+
+Note that translations may be incomplete.
+
+- **Empire**: no mods translated nor vanilla loc fixes added.
+- **Napoleon**: no mods translated nor vanilla loc fixes added.
+- **Shogun 2**:
+    - **Spanish**:
+        - **Vanilla fixes**: provided by Frodo45127
+        - **Roots of Japan**: translated by Frodo45127
+- **Rome 2**: no mods translated nor vanilla loc fixes added.
+- **Attila**: no mods translated nor vanilla loc fixes added.
+- **Thrones of Britannia**: no mods translated nor vanilla loc fixes added.
+- **Warhammer**: no mods translated nor vanilla loc fixes added.
+- **Warhammer 2**: no mods translated nor vanilla loc fixes added.
+- **Three Kingdoms**: no mods translated nor vanilla loc fixes added.
+- **Troy**: no mods translated nor vanilla loc fixes added.
+- **Warhammer 3**:
+    - **Spanish**:
+        - **Map Replacer Framework**: translated by Frodo45127.
+        - **Cataph's Kraka Drak (The Norse Dwarfs)**: translated by Akercrombie. Needs revision, as it was imported outdated.
+        - **Cataph's Southern Realms (TEB)**: translated by Gusker. Needs revision, as it was imported outdated.
+        - **Mixer - Mixu's Unlocker**: translated by Akercrombie. 
+        - **Expanded Roster - Beastmen**: translated by Akercrombie. Updated by Frodo45127. 
+        - **Expanded Roster - Chaos Dwarfs**: translated by Frodo45127. 
+        - **Expanded Roster - Compilation**: merged version of the individual Expanded Roster mods. 
+        - **Expanded Roster - Dark Elves**: translated by Akercrombie. Updated by Frodo45127.
+        - **Expanded Roster - Dwarfs**: translated by Frodo45127.
+        - **Expanded Roster - Empire**: translated by Frodo45127.
+        - **Expanded Roster - Goblins**: translated by Akercrombie. Updated by Frodo45127.
+        - **Expanded Roster - Norsca**: translated by Akercrombie. Updated by Frodo45127.
+        - **Expanded Roster - Orcs**: translated by Akercrombie. Updated by Frodo45127.
+        - **Expanded Roster - Vampire Counts**: translated by Akercrombie. Updated by Frodo45127.
+        - **MCT**: translated by Frodo45127.
+        - **OVN Albion**: translated by Akercrombie. Updated by Frodo45127. Still needs revision of the long strings.
+        - **OVN Araby**: translated by Nazgreg.
+        - **OVN Fimir**: translated by Akercrombie. Needs revision, as it was imported outdated.
+        - **OVN Lost World**: translated by Nazgreg.
+        - **Community Patch**: translated by Frodo45127.
+- **Pharaoh**: no mods translated nor vanilla loc fixes added.
+- **Pharaoh Dynasties**: no mods translated nor vanilla loc fixes added.

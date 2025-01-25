@@ -3,6 +3,10 @@ The Total War Translation Hub, the one place to find translations for mods for T
 
 Please note that these translations are community-generated. Don't come asking for translations for specific mods here.
 
+For more info about what mods are translated and their current status, check the [STATUS.md](https://github.com/Frodo45127/total_war_translation_hub/blob/master/STATUS.md) file. 
+
+If you want to contribute fixes for vanilla localisation bugs (yes, this repo also supports fixes for vanilla loc bugs), just export the Loc file with the fixed loc entries, call it "vanilla_fixes_XX.tsv" where XX is the language code the fixes are for (EN for English, SP for Spanish,...) and put it in the game folder, the same place where the vanilla_english.tsv file is. 
+
 # How does this work?
 
 This repo contains translations for mods in a kinda standarized format, so they can be easily used by tools to, for example, automatically translate the mods you download. To explain it more in detail:
