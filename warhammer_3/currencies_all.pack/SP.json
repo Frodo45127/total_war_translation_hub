@@ -1,0 +1,734 @@
+{
+  "language": "SP",
+  "pack_name": "currencies_all.pack",
+  "translations": {
+    "hp_campaign_money_term_wh_main_sc_grn_greenskins": {
+      "key": "hp_campaign_money_term_wh_main_sc_grn_greenskins",
+      "value_original": "Teef",
+      "value_translated": "Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh2_dlc09_sc_tmb_tomb_kings": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh2_dlc09_sc_tmb_tomb_kings",
+      "value_original": "Souls Summary Button",
+      "value_translated": "Botón de resumen de Almas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh2_dlc11_sc_cst_vampire_coast": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh2_dlc11_sc_cst_vampire_coast",
+      "value_original": "Booty Summary Button",
+      "value_translated": "Botón de resumen de Botín",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh2_main_sc_def_dark_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh2_main_sc_def_dark_elves",
+      "value_original": "Druchii Sovereigns Summary Button",
+      "value_translated": "Botón de resumen de Soberanos Druchii",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh2_main_sc_hef_high_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh2_main_sc_hef_high_elves",
+      "value_original": "Asur Sovereigns Summary Button",
+      "value_translated": "Botón de resumen de Soberanos Asur",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh2_main_sc_lzd_lizardmen": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh2_main_sc_lzd_lizardmen",
+      "value_original": "Ancient Plaques Summary Button",
+      "value_translated": "Botón de resumen de Tablillas Antiguas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh2_main_sc_skv_skaven": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh2_main_sc_skv_skaven",
+      "value_original": "Warpstone Tokens Summary Button",
+      "value_translated": "Botón de resumen de Pedazos de Piedra Bruja",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh3_main_sc_cth_cathay": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh3_main_sc_cth_cathay",
+      "value_original": "Jade Yuan Summary Button",
+      "value_translated": "Botón de resumen de Yuanes de Jade",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh3_main_sc_ksl_kislev": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh3_main_sc_ksl_kislev",
+      "value_original": "Gold Ducats Summary Button",
+      "value_translated": "Botón de resumen de Ducados de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_dlc05_sc_wef_wood_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_dlc05_sc_wef_wood_elves",
+      "value_original": "Asrai Sovereigns Summary Button",
+      "value_translated": "Botón de resumen de Soberanos Asrai",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_dlc08_sc_nor_norsca": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_dlc08_sc_nor_norsca",
+      "value_original": "Plunder Summary Button",
+      "value_translated": "Botón de resumen de Saqueo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_main_sc_brt_bretonnia": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_main_sc_brt_bretonnia",
+      "value_original": "Gold Ecu Summary Button",
+      "value_translated": "Botón de resumen de Ecus de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_main_sc_dwf_dwarfs": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_main_sc_dwf_dwarfs",
+      "value_original": "Gorl Summary Button",
+      "value_translated": "Botón de resumen de Gorl",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_main_sc_emp_empire": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_main_sc_emp_empire",
+      "value_original": "Gold Crowns Summary Button",
+      "value_translated": "Botón de resumen de Coronas de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_main_sc_grn_greenskins": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_main_sc_grn_greenskins",
+      "value_original": "Teef Summary Button",
+      "value_translated": "Botón de resumen de Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_main_sc_grn_savage_orcs": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_description_treasury_button_term_wh_main_sc_grn_savage_orcs",
+      "value_original": "Teef Summary Button",
+      "value_translated": "Botón de resumen de Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh2_dlc09_sc_tmb_tomb_kings": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh2_dlc09_sc_tmb_tomb_kings",
+      "value_original": "Souls",
+      "value_translated": "Almas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh2_dlc11_sc_cst_vampire_coast": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh2_dlc11_sc_cst_vampire_coast",
+      "value_original": "Booty",
+      "value_translated": "Botín",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh2_main_sc_def_dark_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh2_main_sc_def_dark_elves",
+      "value_original": "Druchii Sovereigns",
+      "value_translated": "Soberanos Druchii",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh2_main_sc_hef_high_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh2_main_sc_hef_high_elves",
+      "value_original": "Asur Sovereigns",
+      "value_translated": "Soberanos Asur",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh2_main_sc_lzd_lizardmen": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh2_main_sc_lzd_lizardmen",
+      "value_original": "Ancient Plaques",
+      "value_translated": "Tablillas Antiguas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh2_main_sc_skv_skaven": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh2_main_sc_skv_skaven",
+      "value_original": "Warpstone Tokens",
+      "value_translated": "Pedazos de Piedra Bruja",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh3_main_sc_cth_cathay": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh3_main_sc_cth_cathay",
+      "value_original": "Jade Yuan",
+      "value_translated": "Yuanes de Jade",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh3_main_sc_ksl_kislev": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh3_main_sc_ksl_kislev",
+      "value_original": "Gold Ducats",
+      "value_translated": "Ducados de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_dlc05_sc_wef_wood_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_dlc05_sc_wef_wood_elves",
+      "value_original": "Asrai Sovereigns",
+      "value_translated": "Soberanos Asrai",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_dlc08_sc_nor_norsca": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_dlc08_sc_nor_norsca",
+      "value_original": "Plunder",
+      "value_translated": "Saqueo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_main_sc_brt_bretonnia": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_main_sc_brt_bretonnia",
+      "value_original": "Gold Ecu",
+      "value_translated": "Ecus de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_main_sc_dwf_dwarfs": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_main_sc_dwf_dwarfs",
+      "value_original": "Gorl",
+      "value_translated": "Gorl",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_main_sc_emp_empire": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_main_sc_emp_empire",
+      "value_original": "Gold Crowns",
+      "value_translated": "Coronas de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_main_sc_grn_greenskins": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_main_sc_grn_greenskins",
+      "value_original": "Teef",
+      "value_translated": "Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_main_sc_grn_savage_orcs": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_title_wh_main_sc_grn_savage_orcs",
+      "value_original": "Teef",
+      "value_translated": "Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh2_dlc09_sc_tmb_tomb_kings": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh2_dlc09_sc_tmb_tomb_kings",
+      "value_original": "Souls",
+      "value_translated": "Almas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh2_dlc11_sc_cst_vampire_coast": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh2_dlc11_sc_cst_vampire_coast",
+      "value_original": "Booty",
+      "value_translated": "Botín",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh2_main_sc_def_dark_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh2_main_sc_def_dark_elves",
+      "value_original": "Druchii Sovereigns",
+      "value_translated": "Soberanos Druchii",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh2_main_sc_hef_high_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh2_main_sc_hef_high_elves",
+      "value_original": "Asur Sovereigns",
+      "value_translated": "Soberanos Asur",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh2_main_sc_lzd_lizardmen": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh2_main_sc_lzd_lizardmen",
+      "value_original": "Ancient Plaques",
+      "value_translated": "Tablillas Antiguas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh3_main_sc_cth_cathay": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh3_main_sc_cth_cathay",
+      "value_original": "Jade Yuan",
+      "value_translated": "Yuanes de Jade",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh3_main_sc_ksl_kislev": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh3_main_sc_ksl_kislev",
+      "value_original": "Gold Ducats",
+      "value_translated": "Ducados de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh_dlc05_sc_wef_wood_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh_dlc05_sc_wef_wood_elves",
+      "value_original": "Asrai Sovereigns",
+      "value_translated": "Soberanos Asrai",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh_dlc08_sc_nor_norsca": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh_dlc08_sc_nor_norsca",
+      "value_original": "Plunder",
+      "value_translated": "Saqueo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh_main_sc_brt_bretonnia": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh_main_sc_brt_bretonnia",
+      "value_original": "Gold Ecu",
+      "value_translated": "Ecus de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh_main_sc_dwf_dwarfs": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh_main_sc_dwf_dwarfs",
+      "value_original": "Gorl",
+      "value_translated": "Gorl",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh_main_sc_emp_empire": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh_main_sc_emp_empire",
+      "value_original": "Gold Crowns",
+      "value_translated": "Coronas de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_money_term_wh_main_sc_grn_savage_orcs": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_money_term_wh_main_sc_grn_savage_orcs",
+      "value_original": "Teef",
+      "value_translated": "Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh2_dlc09_sc_tmb_tomb_kings": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh2_dlc09_sc_tmb_tomb_kings",
+      "value_original": "Souls Summary Panel",
+      "value_translated": "Panel de resumen de Almas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh2_dlc11_sc_cst_vampire_coast": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh2_dlc11_sc_cst_vampire_coast",
+      "value_original": "Booty Summary Panel",
+      "value_translated": "Panel de resumen de Botín",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh2_main_sc_def_dark_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh2_main_sc_def_dark_elves",
+      "value_original": "Druchii Sovereigns Summary Panel",
+      "value_translated": "Panel de resumen de Soberanos Druchii",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh2_main_sc_hef_high_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh2_main_sc_hef_high_elves",
+      "value_original": "Asur Sovereigns Summary Panel",
+      "value_translated": "Panel de resumen de Soberanos Asur",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh2_main_sc_lzd_lizardmen": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh2_main_sc_lzd_lizardmen",
+      "value_original": "Ancient Plaques Summary Panel",
+      "value_translated": "Panel de resumen de Tablillas Antiguas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh2_main_sc_skv_skaven": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh2_main_sc_skv_skaven",
+      "value_original": "Warpstone Tokens Summary Panel",
+      "value_translated": "Panel de resumen de Pedazos de Piedra Bruja",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh3_main_sc_cth_cathay": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh3_main_sc_cth_cathay",
+      "value_original": "Jade Yuan Summary Panel",
+      "value_translated": "Panel de resumen de Yuanes de Jade",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh3_main_sc_ksl_kislev": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh3_main_sc_ksl_kislev",
+      "value_original": "Gold Ducats Summary Panel",
+      "value_translated": "Panel de resumen de Ducados de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_dlc05_sc_wef_wood_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_dlc05_sc_wef_wood_elves",
+      "value_original": "Asrai Sovereigns Summary Panel",
+      "value_translated": "Panel de resumen de Soberanos Asrai",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_dlc08_sc_nor_norsca": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_dlc08_sc_nor_norsca",
+      "value_original": "Plunder Summary Panel",
+      "value_translated": "Panel de resumen de Saqueo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_main_sc_brt_bretonnia": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_main_sc_brt_bretonnia",
+      "value_original": "Gold Ecu Summary Panel",
+      "value_translated": "Panel de resumen de Ecus de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_main_sc_dwf_dwarfs": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_main_sc_dwf_dwarfs",
+      "value_original": "Gorl Summary Panel",
+      "value_translated": "Panel de resumen de Gorl",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_main_sc_emp_empire": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_main_sc_emp_empire",
+      "value_original": "Gold Crowns Summary Panel",
+      "value_translated": "Panel de resumen de Coronas de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_main_sc_grn_greenskins": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_main_sc_grn_greenskins",
+      "value_original": "Teef Summary Panel",
+      "value_translated": "Panel de resumen de Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_main_sc_grn_savage_orcs": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_title_wh_main_sc_grn_savage_orcs",
+      "value_original": "Teef Summary Panel",
+      "value_translated": "Panel de resumen de Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh2_dlc09_sc_tmb_tomb_kings": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh2_dlc09_sc_tmb_tomb_kings",
+      "value_original": "Souls Summary Panel",
+      "value_translated": "Panel de resumen de Almas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh2_dlc11_sc_cst_vampire_coast": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh2_dlc11_sc_cst_vampire_coast",
+      "value_original": "Booty Summary Panel",
+      "value_translated": "Panel de resumen de Botín",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh2_main_sc_def_dark_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh2_main_sc_def_dark_elves",
+      "value_original": "Druchii Sovereigns Summary Panel",
+      "value_translated": "Panel de resumen de Soberanos Druchii",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh2_main_sc_hef_high_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh2_main_sc_hef_high_elves",
+      "value_original": "Asur Sovereigns Summary Panel",
+      "value_translated": "Panel de resumen de Soberanos Asur",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh2_main_sc_lzd_lizardmen": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh2_main_sc_lzd_lizardmen",
+      "value_original": "Ancient Plaques Summary Panel",
+      "value_translated": "Panel de resumen de Tablillas Antiguas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh2_main_sc_skv_skaven": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh2_main_sc_skv_skaven",
+      "value_original": "Warpstone Tokens Summary Panel",
+      "value_translated": "Panel de resumen de Pedazos de Piedra Bruja",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh3_main_sc_cth_cathay": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh3_main_sc_cth_cathay",
+      "value_original": "Jade Yuan Summary Panel",
+      "value_translated": "Panel de resumen de Yuanes de Jade",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh3_main_sc_ksl_kislev": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh3_main_sc_ksl_kislev",
+      "value_original": "Gold Ducats Summary Panel",
+      "value_translated": "Panel de resumen de Ducados de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_dlc05_sc_wef_wood_elves": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_dlc05_sc_wef_wood_elves",
+      "value_original": "Asrai Sovereigns Summary Panel",
+      "value_translated": "Panel de resumen de Soberanos Asrai",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_dlc08_sc_nor_norsca": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_dlc08_sc_nor_norsca",
+      "value_original": "Plunder Summary Panel",
+      "value_translated": "Panel de resumen de Saqueo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_main_sc_brt_bretonnia": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_main_sc_brt_bretonnia",
+      "value_original": "Gold Ecu Summary Panel",
+      "value_translated": "Panel de resumen de Ecus de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_main_sc_dwf_dwarfs": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_main_sc_dwf_dwarfs",
+      "value_original": "Gorl Summary Panel",
+      "value_translated": "Panel de resumen de Gorl",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_main_sc_emp_empire": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_main_sc_emp_empire",
+      "value_original": "Gold Crwons Summary Panel",
+      "value_translated": "Panel de resumen de Coronas de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_main_sc_grn_greenskins": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_main_sc_grn_greenskins",
+      "value_original": "Teef Summary Panel",
+      "value_translated": "Panel de resumen de Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_main_sc_grn_savage_orcs": {
+      "key": "ui_text_replacements_localised_text_hp_campaign_treasury_panel_term_wh_main_sc_grn_savage_orcs",
+      "value_original": "Teef Summary Panel",
+      "value_translated": "Panel de resumen de Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh2_dlc09_sc_tmb_tomb_kings": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh2_dlc09_sc_tmb_tomb_kings",
+      "value_original": "Souls",
+      "value_translated": "Almas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh2_dlc11_sc_cst_vampire_coast": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh2_dlc11_sc_cst_vampire_coast",
+      "value_original": "Booty",
+      "value_translated": "Botín",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh2_main_sc_def_dark_elves": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh2_main_sc_def_dark_elves",
+      "value_original": "Druchii Sovereigns",
+      "value_translated": "Soberanos Druchii",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh2_main_sc_hef_high_elves": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh2_main_sc_hef_high_elves",
+      "value_original": "Asur Sovereigns",
+      "value_translated": "Soberanos Asur",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh2_main_sc_lzd_lizardmen": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh2_main_sc_lzd_lizardmen",
+      "value_original": "Ancient Plaques",
+      "value_translated": "Tablillas Antiguas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh2_main_sc_skv_skaven": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh2_main_sc_skv_skaven",
+      "value_original": "Warpstone Tokens",
+      "value_translated": "Pedazos de Piedra Bruja",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh3_main_sc_cth_cathay": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh3_main_sc_cth_cathay",
+      "value_original": "Jade Yuan",
+      "value_translated": "Yuanes de Jade",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh3_main_sc_ksl_kislev": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh3_main_sc_ksl_kislev",
+      "value_original": "Gold Ducats",
+      "value_translated": "Ducados de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh_dlc05_sc_wef_wood_elves": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh_dlc05_sc_wef_wood_elves",
+      "value_original": "Asrai Sovereigns",
+      "value_translated": "Soberanos Asrai",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh_dlc08_sc_nor_norsca": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh_dlc08_sc_nor_norsca",
+      "value_original": "Plunder",
+      "value_translated": "Saqueo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh_main_sc_brt_bretonnia": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh_main_sc_brt_bretonnia",
+      "value_original": "Gold Ecu",
+      "value_translated": "Ecus de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh_main_sc_dwf_dwarfs": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh_main_sc_dwf_dwarfs",
+      "value_original": "Gorl",
+      "value_translated": "Gorl",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh_main_sc_emp_empire": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh_main_sc_emp_empire",
+      "value_original": "Gold Crowns",
+      "value_translated": "Coronas de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh_main_sc_grn_greenskins": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh_main_sc_grn_greenskins",
+      "value_original": "Teef",
+      "value_translated": "Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_header_wh_main_sc_grn_savage_orcs": {
+      "key": "ui_text_replacements_localised_text_treasury_header_wh_main_sc_grn_savage_orcs",
+      "value_original": "Teef",
+      "value_translated": "Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh2_dlc09_sc_tmb_tomb_kings": {
+      "key": "ui_text_replacements_localised_text_treasury_wh2_dlc09_sc_tmb_tomb_kings",
+      "value_original": "Souls",
+      "value_translated": "Almas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh2_dlc11_sc_cst_vampire_coast": {
+      "key": "ui_text_replacements_localised_text_treasury_wh2_dlc11_sc_cst_vampire_coast",
+      "value_original": "Booty",
+      "value_translated": "Botín",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh2_main_sc_def_dark_elves": {
+      "key": "ui_text_replacements_localised_text_treasury_wh2_main_sc_def_dark_elves",
+      "value_original": "Druchii Sovereigns",
+      "value_translated": "Soberanos Druchii",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh2_main_sc_hef_high_elves": {
+      "key": "ui_text_replacements_localised_text_treasury_wh2_main_sc_hef_high_elves",
+      "value_original": "Asur Sovereigns",
+      "value_translated": "Soberanos Asur",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh2_main_sc_lzd_lizardmen": {
+      "key": "ui_text_replacements_localised_text_treasury_wh2_main_sc_lzd_lizardmen",
+      "value_original": "Ancient Plaques",
+      "value_translated": "Tablillas Antiguas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh2_main_sc_skv_skaven": {
+      "key": "ui_text_replacements_localised_text_treasury_wh2_main_sc_skv_skaven",
+      "value_original": "Warpstone Tokens",
+      "value_translated": "Pedazos de Piedra Bruja",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh3_main_sc_cth_cathay": {
+      "key": "ui_text_replacements_localised_text_treasury_wh3_main_sc_cth_cathay",
+      "value_original": "Jade Yuan",
+      "value_translated": "Yuanes de Jade",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh3_main_sc_ksl_kislev": {
+      "key": "ui_text_replacements_localised_text_treasury_wh3_main_sc_ksl_kislev",
+      "value_original": "Gold Ducats",
+      "value_translated": "Ducados de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh_dlc05_sc_wef_wood_elves": {
+      "key": "ui_text_replacements_localised_text_treasury_wh_dlc05_sc_wef_wood_elves",
+      "value_original": "Asrai Sovereigns",
+      "value_translated": "Soberanos Asrai",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh_dlc08_sc_nor_norsca": {
+      "key": "ui_text_replacements_localised_text_treasury_wh_dlc08_sc_nor_norsca",
+      "value_original": "Plunder",
+      "value_translated": "Saqueo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh_main_sc_brt_bretonnia": {
+      "key": "ui_text_replacements_localised_text_treasury_wh_main_sc_brt_bretonnia",
+      "value_original": "Gold Ecu",
+      "value_translated": "Ecus de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh_main_sc_dwf_dwarfs": {
+      "key": "ui_text_replacements_localised_text_treasury_wh_main_sc_dwf_dwarfs",
+      "value_original": "Gorl",
+      "value_translated": "Gorl",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh_main_sc_emp_empire": {
+      "key": "ui_text_replacements_localised_text_treasury_wh_main_sc_emp_empire",
+      "value_original": "Gold Crowns",
+      "value_translated": "Coronas de Oro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh_main_sc_grn_greenskins": {
+      "key": "ui_text_replacements_localised_text_treasury_wh_main_sc_grn_greenskins",
+      "value_original": "Teef",
+      "value_translated": "Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_treasury_wh_main_sc_grn_savage_orcs": {
+      "key": "ui_text_replacements_localised_text_treasury_wh_main_sc_grn_savage_orcs",
+      "value_original": "Teef",
+      "value_translated": "Piñoz",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}

@@ -37,5 +37,6 @@ Note that translations may be incomplete.
         - **OVN Fimir**: translated by Akercrombie. Needs revision, as it was imported outdated.
         - **OVN Lost World**: translated by Nazgreg.
         - **Community Patch**: translated by Frodo45127.
+        - **Unique Faction Currencies**: initial translation by Nazgreg. Updated by Frodo45127.
 - **Pharaoh**: no mods translated nor vanilla loc fixes added.
 - **Pharaoh Dynasties**: no mods translated nor vanilla loc fixes added.
