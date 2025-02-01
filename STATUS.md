@@ -31,6 +31,7 @@ Note that translations may be incomplete.
         - **Expanded Roster - Orcs**: translated by Akercrombie. Updated by Frodo45127.
         - **Expanded Roster - Vampire Counts**: translated by Akercrombie. Updated by Frodo45127.
         - **Legendary Lore**: translated by Ferchu.
+        - **Lost Calm: Jurassic Normal**: partial translation, translated by Frodo45127.
         - **Map Replacer Framework**: translated by Frodo45127.
         - **Mixer - Mixu's Unlocker**: translated by Akercrombie. 
         - **Mixu's Legendary Lords**: translation by Nazgreg.
