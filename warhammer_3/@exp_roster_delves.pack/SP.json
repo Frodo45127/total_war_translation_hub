@@ -47,8 +47,8 @@
     "effects_description_wh2_dlc11_effect_buildling_upkeep_reduction_def_black_ark_infantry": {
       "key": "effects_description_wh2_dlc11_effect_buildling_upkeep_reduction_def_black_ark_infantry",
       "value_original": "Upkeep: %+n% for Dreadspears, Darkshards, Hunters, Corsairs and Reaper Bolt Thrower units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Mantenimiento: %+n% para las unidades de Lanzas Siniestras, Saetas Oscuras, Cazadoras, Corsarios y Lanzavirotes Destripadores",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_dlc14_def_black_dragon_recruit_time": {
@@ -75,15 +75,15 @@
     "effects_description_wh2_main_effect_building_recruitment_cost_reduction_def_resource_iron": {
       "key": "effects_description_wh2_main_effect_building_recruitment_cost_reduction_def_resource_iron",
       "value_original": "Recruitment cost: %+n% for Bleakswords, Cold One Knights, Cold One Dread Knights, Cold One Chariot, Black Guard of Naggarond, Har Ganeth Executioners and Tower Master units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Coste de reclutamiento: %+n% para las unidades de Espadas Marchitadoras, Caballeros Gélidos, Caballeros Siniestros Gélidos, Carros de Gélidos, Guardia Negra de Naggarond, Verdugos de Har Ganeth, y Maestros de la Torre",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_building_recruitment_cost_reduction_def_resource_wood": {
       "key": "effects_description_wh2_main_effect_building_recruitment_cost_reduction_def_resource_wood",
       "value_original": "Recruitment cost: %+n% for Dreadspears, Darkshards, Hunters, Shades and Reaper Bolt Thrower units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Coste de reclutamiento: %+n% para las unidades de Lanzas Siniestras, Saetas Oscuras, Cazadoras, Sombras y Lanzavirotes Destripadores",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_building_unit_xp_levels_def_resource_animals": {
@@ -124,22 +124,22 @@
     "effects_description_wh2_main_effect_buildling_upkeep_reduction_def_resource_wood": {
       "key": "effects_description_wh2_main_effect_buildling_upkeep_reduction_def_resource_wood",
       "value_original": "Upkeep: %+n% for Dreadspears, Darkshards, Hunters, Shades and Reaper Bolt Thrower units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Mantenimiento: %+n% para las unidades de Lanzas Siniestras, Saetas Oscuras, Cazadoras, Sombras y Lanzavirotes Destripadores",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_ammunition_def_crossbow_boltthrower_corsair": {
       "key": "effects_description_wh2_main_effect_force_stat_ammunition_def_crossbow_boltthrower_corsair",
       "value_original": "Ammunition: %+n% for Darkshards, Hunters, Black Ark Corsairs and Reaper Bolt Thrower units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Munición: %+n% para las unidades de Saetas Oscuras, Cazadoras, Corsarios del Arca Negra y Lanzavirotes Destripadores",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_ammunition_def_crossbows_corsair_darkrider_shade": {
       "key": "effects_description_wh2_main_effect_force_stat_ammunition_def_crossbows_corsair_darkrider_shade",
       "value_original": "Ammunition: %+n% for Darkshards, Hunters, Black Ark Corsairs, Shades and Dark Riders units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Munición: %+n% para las unidades de Saetas Oscuras, Cazadoras, Corsarios del Arca Negra, Sombras y Jinetes Oscuros",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_armour_blackdragon": {
@@ -152,29 +152,29 @@
     "effects_description_wh2_main_effect_force_stat_armour_blackguard_executioner_coldones_rank7": {
       "key": "effects_description_wh2_main_effect_force_stat_armour_blackguard_executioner_coldones_rank7",
       "value_original": "Armour: %+n for Black Guard of Naggarond, Har Ganeth Executioners, Tower Masters, Cold One Knights, Cold One Dread Knights and Cold One Chariot units {{tr:rank7}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Armadura: %+n para las unidades de Guardia Negra de Naggarond, Verdugos de Har Ganeth, Maestros de la Torre, Caballeros Gélidos, Caballeros Siniestros Gélidos y Carro de Gélidos {{tr:rank7}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_armour_def_militia": {
       "key": "effects_description_wh2_main_effect_force_stat_armour_def_militia",
       "value_original": "Armour: %+n for Dreadspears, Darkshards, Hunters, and Bleaksword units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Armadura: %+n para las unidades de Lanzas Siniestras, Saetas Oscuras, Cazadoras y Espadas Marchitadoras",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_armour_executioners_blackguard": {
       "key": "effects_description_wh2_main_effect_force_stat_armour_executioners_blackguard",
       "value_original": "Armour: %+n for Har Ganeth Executioners, Black Guard of Naggarond and Tower Master units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Armadura: %+n para las unidades de Verdugos de Har Ganeth, Guardia Negra de Naggarond y Maestros de la Torre",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_armour_militia_boltthrower_rank7": {
       "key": "effects_description_wh2_main_effect_force_stat_armour_militia_boltthrower_rank7",
       "value_original": "Armour: %+n for Bleakswords, Dreadspears, Darkshards, Hunters, and Reaper Bolt Thrower units {{tr:rank7}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Armadura: %+n para las unidades de Espadas Marchitadoras, Lanzas Siniestras, Saetas Oscuras, Cazadoras y Lanzavirotes Destripadores {{tr:rank7}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_charge_bonus_add_def_blackguard_executioner_coldones_rank7": {
@@ -187,127 +187,127 @@
     "effects_description_wh2_main_effect_force_stat_charge_bonus_add_def_monsters": {
       "key": "effects_description_wh2_main_effect_force_stat_charge_bonus_add_def_monsters",
       "value_original": "Charge bonus: %+n for Harpies, War Hydra, Kharibdyss, Lords of Oblivion, Dragon, Feral Manticore and Bloodwrack Medusae units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Bonificación de carga: %+n para las unidades de Arpías, Hidra de Guerra, Kharibdyss, Señores del Olvido, Dragón, Mantícora Salvaje y Medusa Drenasangre",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_leadership_def_beasts": {
       "key": "effects_description_wh2_main_effect_force_stat_leadership_def_beasts",
       "value_original": "Leadership: %+n for Harpies, War Hydra, Kharibdyss, Lords of Oblivion and Dragon units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Liderazgo: %+n para las unidades de Arpías, Hidra de Guerra, Kharibdyss, Señores del Olvido y Dragón",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_leadership_def_elite_inf": {
       "key": "effects_description_wh2_main_effect_force_stat_leadership_def_elite_inf",
       "value_original": "Leadership: %+n for Shades, Witch Elves, Har Ganeth Executioners, Black Guard of Naggarond, Tower Masters and Sisters of Slaughter units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Liderazgo: %+n para las unidades de Sombras, Elfas Brujas, Verdugos de Har Ganeth, Guardia Negra de Naggarond, Maestros de la Torre y Hermanas de la Matanza",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_leadership_def_militia_corsair_darkrider": {
       "key": "effects_description_wh2_main_effect_force_stat_leadership_def_militia_corsair_darkrider",
       "value_original": "Leadership: %+n for Dreadspears, Bleakswords, Darkshards, Hunters, Black Ark Corsairs and Dark Riders units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Liderazgo: %+n para las unidades de Lanzas Siniestras, Espadas Marchitadoras, Saetas Oscuras, Cazadoras, Corsarios del Arca Negra y Jinetes Oscuros",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_melee_attack_def_spears_swords_crossbow_corsairs": {
       "key": "effects_description_wh2_main_effect_force_stat_melee_attack_def_spears_swords_crossbow_corsairs",
       "value_original": "Melee attack: %+n for Dreadspears, Bleakswords, Black Ark Corsairs, Darkshards and Hunter units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para las unidades de Lanzas Siniestras, Espadas Marchitadoras, Corsarios del Arca Negra, Saetas Sombrías y Cazadoras",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_melee_attack_executioners": {
       "key": "effects_description_wh2_main_effect_force_stat_melee_attack_executioners",
       "value_original": "Melee attack: %+n for Witch Elves, Har Ganeth Executioners, Tower Masters and Sisters of Slaughter units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para las unidades de Elfas Brujas, Verdugos de Har Ganeth, Maestros de la Torre y Hermanas de la Matanza",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_melee_attack_witchelf_blackguard_executioner": {
       "key": "effects_description_wh2_main_effect_force_stat_melee_attack_witchelf_blackguard_executioner",
       "value_original": "Melee attack: %+n for Witch Elves, Har Ganeth Executioners, Black Guard of Naggarond, Tower Masters and Sisters of Slaughter units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para las unidades de Elfas Brujas, Verdugos de Har Ganeth, Guardia Negra de Naggarond, Maestros de la Torre y Hermanas de la Matanza",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_melee_defence_def_spears_swords_crossbow_corsair": {
       "key": "effects_description_wh2_main_effect_force_stat_melee_defence_def_spears_swords_crossbow_corsair",
       "value_original": "Melee defence: %+n for Dreadspears, Bleakswords, Black Ark Corsairs, Darkshards and Hunter units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Defensa cuerpo a cuerpo: %+n para las unidades de Lanzas Siniestras, Espadas Marchitadoras, Corsarios del Arca Negra, Saetas Sombrías y Cazadoras",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_melee_defence_def_witchelf_blackguard_executioner": {
       "key": "effects_description_wh2_main_effect_force_stat_melee_defence_def_witchelf_blackguard_executioner",
       "value_original": "Melee defence: %+n for Witch Elves, Har Ganeth Executioners, Black Guard of Naggarond, Tower Masters and Sisters of Slaughter units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Defensa cuerpo a cuerpo: %+n para las unidades de Elfas Brujas, Verdugos de Har Ganeth, Guardia Negra de Naggarond, Maestros de la Torre y Hermanas de la Matanza",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_missile_damage_def_darkshard_corsairs": {
       "key": "effects_description_wh2_main_effect_force_stat_missile_damage_def_darkshard_corsairs",
       "value_original": "Missile strength: %+n% for Darkshards, Hunters, and Black Ark Corsairs units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Fuerza del proyectil: %+n% para las unidades de Saetas Oscuras, Cazadoras y Corsarios del Arca Negra",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_missile_damage_def_militia_boltthrower_rank7": {
       "key": "effects_description_wh2_main_effect_force_stat_missile_damage_def_militia_boltthrower_rank7",
       "value_original": "Missile strength: %+n% for Darkshards, Hunters, and Reaper Bolt Thrower units {{tr:rank7}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Fuerza del proyectil: %+n% para las unidades de Saetas Oscuras, Cazadoras y Lanzavirotes Destripadores {{tr:rank7}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_missile_resistance_def_militia_boltthrower_rank7": {
       "key": "effects_description_wh2_main_effect_force_stat_missile_resistance_def_militia_boltthrower_rank7",
       "value_original": "Missile resistance: %n% for Bleakswords, Dreadspears, Darkshards, Hunters, and Reaper Bolt Thrower units {{tr:rank7}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Resistencia a proyectiles: %n% para las unidades de Espadas Marchitadoras, Lanzas Siniestras, Saetas Oscuras, Cazadoras y Lanzavirotes Destripadores {{tr:rank7}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_physical_resistance_def_beasts_witchelfs_rank7": {
       "key": "effects_description_wh2_main_effect_force_stat_physical_resistance_def_beasts_witchelfs_rank7",
       "value_original": "Physical resistance: %n% for Witch Elves, Harpies, War Hydra, Kharibdyss, Lords of Oblivion, Dragon, Feral Manticore, Sisters of Slaughter and Bloodwrack Medusae units {{tr:rank7}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Resistencia física: %+n% para las unidades de Elfas Brujas, Arpías, Hidra de Guerra, Kharibdyss, Señores del Olvido, Dragón, Mantícora Salvaje, Hermanas de la Matanza y Medusa Drenasangre {{tr:rank7}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_range_def_darkshards_shades_darkrider_corsair": {
       "key": "effects_description_wh2_main_effect_force_stat_range_def_darkshards_shades_darkrider_corsair",
       "value_original": "Range: %+n% for Darkshards, Hunters, Black Ark Corsairs, Shades and Dark Riders units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Alcance: %+n% para las unidades de Saetas Oscuras, Cazadoras, Corsarios del Arca Negra, Sombras y Jinetes Oscuros",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_reload_time_reduction_crossbow_boltthrower_corsair": {
       "key": "effects_description_wh2_main_effect_force_stat_reload_time_reduction_crossbow_boltthrower_corsair",
       "value_original": "Reload time reduction: %+n% for Darkshards, Hunters, Black Ark Corsairs and Bolt Thrower units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Reducción de tiempo de recarga: %+n% para las unidades de Saetas Oscuras, Cazadoras, Corsarios del Arca Negra y Lanzavirotes Destripadores",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_speed_def_beasts_witchelfs_rank7": {
       "key": "effects_description_wh2_main_effect_force_stat_speed_def_beasts_witchelfs_rank7",
       "value_original": "Speed: %+n% for Witch Elves, Harpies, War Hydra, Kharibdyss, Lords of Oblivion, Dragon, Feral Manticore, Sisters of Slaughter and Bloodwrack Medusae units {{tr:rank7}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Velocidad: %+n% para las unidades de Elfas Brujas, Arpías, Hidra de Guerra, Kharibdyss, Señores del Olvido, Dragón, Mantícora Salvaje, Hermanas de la Matanza y Medusa Drenasangre {{tr:rank7}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_speed_def_elite_inf": {
       "key": "effects_description_wh2_main_effect_force_stat_speed_def_elite_inf",
       "value_original": "Speed: %+n% for Witch Elves, Black Guard, Har Ganeth Executioners, Tower Master and Sisters of Slaughter units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Velocidad: %+n% para las unidades de Elfas Brujas, Guardia Negra, Verdugos de Har Ganeth, Maestros de la Torre y Hermanas de la Matanza",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_speed_def_militia_corsair": {
       "key": "effects_description_wh2_main_effect_force_stat_speed_def_militia_corsair",
       "value_original": "Speed: %+n% for Dreadspears, Darkshards, Hunters, Bleakswords and Black Ark Corsairs units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Velocidad: %+n% para las unidades de Lanzas Siniestras, Saetas Oscuras, Cazadoras, Espadas Marchitadoras y Corsarios del Arca Negra",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_ward_save_executioners": {
@@ -320,8 +320,8 @@
     "effects_description_wh2_main_effect_force_stat_weapon_strength_def_beasts_witchelfs_rank7": {
       "key": "effects_description_wh2_main_effect_force_stat_weapon_strength_def_beasts_witchelfs_rank7",
       "value_original": "Weapon strength: %+n% for Witch Elves, Harpies, War Hydra, Kharibdyss, Lords of Oblivion, Dragon, Feral Manticore, Sisters of Slaughter and Bloodwrack Medusae units {{tr:rank7}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Fuerza del arma: %+n% para las unidades de Elfas Brujas, Arpías, Hidra de Guerra, Kharibdyss, Señores del Olvido, Dragón, Mantícora Salvaje, Hermanas de la Matanza y Medusa Drenasangre {{tr:rank7}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_weapon_strength_def_blackdragon": {
@@ -334,8 +334,8 @@
     "effects_description_wh2_main_effect_force_stat_weapon_strength_def_blackguard_executioner_coldones_rank7": {
       "key": "effects_description_wh2_main_effect_force_stat_weapon_strength_def_blackguard_executioner_coldones_rank7",
       "value_original": "Weapon strength: %+n% for Black Guard of Naggarond, Har Ganeth Executioners, Tower Masters, Cold One Knights, Cold One Dread Knights and Cold One Chariots units {{tr:rank7}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Fuerza del arma: %+n% para las unidades de Guardia Negra de Naggarond, Verdugos de Har Ganeth, Maestros de la Torre, Caballeros Gélidos, Caballeros Siniestros Gélidos y Carro de Gélidos {{tr:rank7}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh2_main_effect_force_stat_weapon_strength_def_executioners": {

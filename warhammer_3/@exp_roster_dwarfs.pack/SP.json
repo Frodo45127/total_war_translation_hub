@@ -5,15 +5,15 @@
     "effects_description_deco_effect_unit_cap_deco_bugman_thrower": {
       "key": "effects_description_deco_effect_unit_cap_deco_bugman_thrower",
       "value_original": "Unit capacity: %+n\\\\nBugman's Thrower",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Capacidad de unidad: %+n\\\\nLanzadores de Bugman",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_deco_effect_unit_cap_dwf_kou_dreadnaught": {
       "key": "effects_description_deco_effect_unit_cap_dwf_kou_dreadnaught",
       "value_original": "Unit capacity: %+n\\\\nGrudgecrusher Dreadnaught",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Capacidad de unidad: %+n\\\\nAcorazado Aplastagravios",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_concealed_name_deco_bugman_thrower": {
@@ -61,22 +61,22 @@
     "land_units_onscreen_name_deco_bugman_thrower": {
       "key": "land_units_onscreen_name_deco_bugman_thrower",
       "value_original": "Bugman's Thrower",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lanzadores de Bugman",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_deco_hammerers_dual": {
       "key": "land_units_onscreen_name_deco_hammerers_dual",
       "value_original": "Hammerers (Dual Weapons)",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Martilladores (armas dobles)",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_deco_irondrakes_drakefire": {
       "key": "land_units_onscreen_name_deco_irondrakes_drakefire",
       "value_original": "Irondrakes (Drakefire Pistols)",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Dracohierros (pistolas de fuego de dragón)",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_deco_old_guard": {
@@ -96,64 +96,64 @@
     "land_units_onscreen_name_dwf_kou_dreadnaught": {
       "key": "land_units_onscreen_name_dwf_kou_dreadnaught",
       "value_original": "Grudgecrusher Dreadnaught",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Acorazado Aplastagravios",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_description_deco_bugman_thrower": {
       "key": "loading_screen_quotes_description_deco_bugman_thrower",
       "value_original": "Bugman’s Rangers put the tankards of his fine ale to good - albeit sometimes strange - use, like with these hurling machines.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los Exploradores de Bugman hacen un buen uso de sus jarras de cerveza, aunque a veces extraño, como con estas máquinas lanzadoras.",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_description_deco_hammerers_dual": {
       "key": "loading_screen_quotes_description_deco_hammerers_dual",
       "value_original": "Outfitted in heavy, well-polished Dwarf mail, Hammerers wade into combat swinging their hammers in sweeping arcs.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ataviados con una pesada y bien pulida cota de malla enana, los Martilladores entran en combate blandiendo sus martillos en amplios arcos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_description_deco_irondrakes_drakefire": {
       "key": "loading_screen_quotes_description_deco_irondrakes_drakefire",
       "value_original": "Each if these Irondrakes carries a pair of finely tuned Drake Pistols, with mechanisms that are still a mystery to Imperial engineers.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Cada uno de estos Dracohierros lleva un par de pistolas de fuego de dragón finamente afinadas, con mecanismos que aún son un misterio para los ingenieros imperiales.",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_description_deco_old_guard": {
       "key": "loading_screen_quotes_description_deco_old_guard",
       "value_original": "Also known as Great Beards, the Old Guard are the oldest and wisest among the dwarf clans.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "También conocidos como los Grandes Barbas, la Antigua Guardia está formada por los más viejos y sabios de entre todos los clanes enanos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_description_deco_prospectors": {
       "key": "loading_screen_quotes_description_deco_prospectors",
       "value_original": "Experienced miners, the Prospectors can dig tunnels with impressive speed and accuracy.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Mineros experimentados, los Prospectores son capaces de cavar túneles con una velocidad y precisión impresionantes.",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_title_deco_bugman_thrower": {
       "key": "loading_screen_quotes_title_deco_bugman_thrower",
       "value_original": "Bugman's Thrower",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lanzadores de Bugman",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_title_deco_hammerers_dual": {
       "key": "loading_screen_quotes_title_deco_hammerers_dual",
       "value_original": "Hammerers (Dual Weapons)",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Martilladores (armas dobles)",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_title_deco_irondrakes_drakefire": {
       "key": "loading_screen_quotes_title_deco_irondrakes_drakefire",
       "value_original": "Irondrakes (Drakefire Pistols)",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Dracohierros (pistolas de fuego de dragón)",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_title_deco_old_guard": {
@@ -194,71 +194,71 @@
     "ui_unit_bullet_point_enums_onscreen_name_deco_grungnis_kin": {
       "key": "ui_unit_bullet_point_enums_onscreen_name_deco_grungnis_kin",
       "value_original": "Grungni's Kin",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Parientes de Grungni",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_bullet_point_enums_onscreen_name_deco_prospectors_charges": {
       "key": "ui_unit_bullet_point_enums_onscreen_name_deco_prospectors_charges",
       "value_original": "Prospectors' Bombs",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Bombas de Prospectores",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_bullet_point_enums_tooltip_deco_grungnis_kin": {
       "key": "ui_unit_bullet_point_enums_tooltip_deco_grungnis_kin",
       "value_original": "\"We are the true sons of Grungni, young beardlings, remember that!\"",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "\"Somos los verdaderos hijos de Grungni, jóvenes barbudos, ¡recordad eso!\"",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_bullet_point_enums_tooltip_deco_prospectors_charges": {
       "key": "ui_unit_bullet_point_enums_tooltip_deco_prospectors_charges",
       "value_original": "Experts at digging swiftly and bombarding the enemies with special kind of bombs.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Expertos en cavar rápidamente y bombardear a sus enemigos con bombas especiales.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_deco_bugman_thrower": {
       "key": "unit_description_short_texts_text_deco_bugman_thrower",
       "value_original": "Bugman’s Rangers put the tankards of his fine ale to good - albeit sometimes strange - use, like with these hurling machines.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los Exploradores de Bugman hacen un buen uso de sus jarras de cerveza, aunque a veces extraño, como con estas máquinas lanzadoras.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_deco_hammerers_dual": {
       "key": "unit_description_short_texts_text_deco_hammerers_dual",
       "value_original": "Outfitted in heavy, well-polished Dwarf mail, Hammerers wade into combat swinging their hammers in sweeping arcs.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ataviados con una pesada y bien pulida cota de malla enana, los Martilladores entran en combate blandiendo sus martillos en amplios arcos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_deco_irondrakes_drakefire": {
       "key": "unit_description_short_texts_text_deco_irondrakes_drakefire",
       "value_original": "Each if these Irondrakes carries a pair of finely tuned Drake Pistols, with mechanisms that are still a mystery to Imperial engineers.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Cada uno de estos Dracohierros lleva un par de pistolas de fuego de dragón finamente afinadas, con mecanismos que aún son un misterio para los ingenieros imperiales.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_deco_old_guard": {
       "key": "unit_description_short_texts_text_deco_old_guard",
       "value_original": "Also known as Great Beards, the Old Guard are the oldest and wisest among the dwarf clans.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "También conocidos como los Grandes Barbas, la Antigua Guardia está formada por los más viejos y sabios de entre todos los clanes enanos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_deco_prospectors": {
       "key": "unit_description_short_texts_text_deco_prospectors",
       "value_original": "Experienced miners, the Prospectors can dig tunnels with impressive speed and accuracy.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Mineros experimentados, los Prospectores pueden cavar túneles con una velocidad y precisión impresionantes.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_dwf_kou_dreadnaught": {
       "key": "unit_description_short_texts_text_dwf_kou_dreadnaught",
       "value_original": "A true marvel of engineering, the Dreadnaught is the pinnacle of Dawi machinery.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Una verdadera maravilla de la ingeniería, el Acorazado es el pináculo de la maquinaria Dawi.",
+      "needs_retranslation": false,
       "removed": false
     },
     "update1": {

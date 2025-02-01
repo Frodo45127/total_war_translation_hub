@@ -5,43 +5,43 @@
     "agent_recruitment_categories_onscreen_name_deco_battle_wizard_fire": {
       "key": "agent_recruitment_categories_onscreen_name_deco_battle_wizard_fire",
       "value_original": "Battle Wizard Lord",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Señor hechicero",
+      "needs_retranslation": false,
       "removed": false
     },
     "agent_subtypes_description_text_override_deco_battle_wizard_fire": {
       "key": "agent_subtypes_description_text_override_deco_battle_wizard_fire",
       "value_original": "To be a Battle Wizard is to understand the power at the heart of the world, though such power is not weilded lightly.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ser un Hechicero es comprender el poder en el corazón del mundo, aunque dicho poder no se ejerce a la ligera.",
+      "needs_retranslation": false,
       "removed": false
     },
     "agent_subtypes_onscreen_name_override_deco_battle_wizard_fire": {
       "key": "agent_subtypes_onscreen_name_override_deco_battle_wizard_fire",
       "value_original": "Battle Wizard Lord",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Señor hechicero",
+      "needs_retranslation": false,
       "removed": false
     },
     "ancillaries_colour_text_wh_dlc05_anc_mount_deco_battle_wizard_fire_barded_warhorse": {
       "key": "ancillaries_colour_text_wh_dlc05_anc_mount_deco_battle_wizard_fire_barded_warhorse",
       "value_original": "Barded horses offer greater protection, a large horse is needed to support the armour, usually purchased from massive breeds found in the Empire.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los caballos con armadura ofrecen mayor protección, pero se necesita un caballo grande para soportar la armadura, normalmente se adquieren de razas enormes que se encuentran en el Imperio.",
+      "needs_retranslation": false,
       "removed": false
     },
     "ancillaries_colour_text_wh_dlc05_anc_mount_deco_battle_wizard_fire_imperial_pegasus": {
       "key": "ancillaries_colour_text_wh_dlc05_anc_mount_deco_battle_wizard_fire_imperial_pegasus",
       "value_original": "Imperial pegasi are found in Grey Mountains where Bretonnian and Empire hunters fight over capturing the foals.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los pegasos imperiales se encuentran en las Montañas Grises, donde cazadores bretonianos e imperiales se pelean por capturar a los potros.",
+      "needs_retranslation": false,
       "removed": false
     },
     "ancillaries_colour_text_wh_dlc05_anc_mount_deco_battle_wizard_fire_warhorse": {
       "key": "ancillaries_colour_text_wh_dlc05_anc_mount_deco_battle_wizard_fire_warhorse",
       "value_original": "An officer will often require a reliable stallion to transport him across the battlefield to where he is needed most.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Un oficial necesitará a menudo un semental fiable que le transporte por el campo de batalla hasta donde más se le necesite.",
+      "needs_retranslation": false,
       "removed": false
     },
     "ancillaries_onscreen_name_wh_dlc05_anc_mount_deco_battle_wizard_fire_barded_warhorse": {
@@ -89,43 +89,43 @@
     "character_skill_node_sets_enc_title_wh_main_skill_node_set_deco_battle_wizard_fire": {
       "key": "character_skill_node_sets_enc_title_wh_main_skill_node_set_deco_battle_wizard_fire",
       "value_original": "Battle Wizard Skills",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Habilidades del Señor Hechicero",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_description_wh_main_skill_deco_battle_wizard_fire_barded_warhorse": {
       "key": "character_skills_localised_description_wh_main_skill_deco_battle_wizard_fire_barded_warhorse",
       "value_original": "A general's horse can be their most trusted and daring companion. Just don't name him 'Daisy'.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El caballo de un general puede ser su compañero más fiable y audaz. Eso sí, no lo llames «Daisy».",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_description_wh_main_skill_deco_battle_wizard_fire_cost_wizards": {
       "key": "character_skills_localised_description_wh_main_skill_deco_battle_wizard_fire_cost_wizards",
       "value_original": "Dark times call for need of magic forces on the side of light.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los tiempos oscuros exigen fuerzas mágicas del lado de la luz.",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_description_wh_main_skill_deco_battle_wizard_fire_imperial_pegasus": {
       "key": "character_skills_localised_description_wh_main_skill_deco_battle_wizard_fire_imperial_pegasus",
       "value_original": "An Imperial pegasus is a noble, winged steed, intelligent and loyal.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Un pegaso imperial es un noble corcel alado, inteligente y leal.",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_description_wh_main_skill_deco_battle_wizard_fire_warhorse": {
       "key": "character_skills_localised_description_wh_main_skill_deco_battle_wizard_fire_warhorse",
       "value_original": "A general's horse can be their most trusted and daring companion. Just don't name him 'Daisy'.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El caballo de un general puede ser su compañero más fiable y audaz. Eso sí, no lo llames «Daisy».",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_description_wh_main_skill_deco_battle_wizard_fire_xp_wizards": {
       "key": "character_skills_localised_description_wh_main_skill_deco_battle_wizard_fire_xp_wizards",
       "value_original": "The gathering of Wizards brings much needed wisdom, knowledge and vision on the battlefield.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La reunión de hechiceros aporta la sabiduría, el conocimiento y la visión que tanto se necesitan en el campo de batalla.",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_name_wh_main_skill_deco_battle_wizard_fire_barded_warhorse": {
@@ -159,50 +159,50 @@
     "character_skills_localised_name_wh_main_skill_deco_battle_wizard_fire_xp_wizards": {
       "key": "character_skills_localised_name_wh_main_skill_deco_battle_wizard_fire_xp_wizards",
       "value_original": "The Wizard Company",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La Compañía de los Hechiceros",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_deco_battle_wizard_fire": {
       "key": "land_units_onscreen_name_deco_battle_wizard_fire",
       "value_original": "Battle Wizard Lord (Fire)",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Señor hechicero de fuego",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_deco_battle_wizard_fire_barded_warhorse": {
       "key": "land_units_onscreen_name_deco_battle_wizard_fire_barded_warhorse",
       "value_original": "Battle Wizard Lord (Fire)",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Señor hechicero de fuego",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_deco_battle_wizard_fire_imperial_pegasus": {
       "key": "land_units_onscreen_name_deco_battle_wizard_fire_imperial_pegasus",
       "value_original": "Battle Wizard Lord (Fire)",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Señor hechicero de fuego",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_deco_battle_wizard_fire_warhorse": {
       "key": "land_units_onscreen_name_deco_battle_wizard_fire_warhorse",
       "value_original": "Battle Wizard Lord (Fire)",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Señor hechicero de fuego",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_deco_doom_prophets": {
       "key": "land_units_onscreen_name_deco_doom_prophets",
       "value_original": "Prophets of Doom",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Profetas de la Perdición",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_deco_ironsides": {
       "key": "land_units_onscreen_name_deco_ironsides",
       "value_original": "Nuln Ironsides (Repeater Rifles)",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Equipos de Hierro de Nuln (fusiles repetidores)",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_deco_knights_lynx": {
@@ -215,8 +215,8 @@
     "land_units_onscreen_name_deco_roadwardens": {
       "key": "land_units_onscreen_name_deco_roadwardens",
       "value_original": "Roadwardens",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Guardas de Caminos",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_deco_shielded_halberdiers": {
@@ -229,36 +229,36 @@
     "loading_screen_quotes_description_deco_doom_prophets": {
       "key": "loading_screen_quotes_description_deco_doom_prophets",
       "value_original": "With howls of doom on their lips, they throw themselves into the fray, heedless of danger or injury.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Con aullidos de perdición en los labios, se lanzan a la refriega, sin importarles el peligro o las heridas.",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_description_deco_ironsides": {
       "key": "loading_screen_quotes_description_deco_ironsides",
       "value_original": "Clad in heavy plate armour and armed with master-wrought blackpowder firearms, they are one of the most widely respected and well-equipped handgunner regiments.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Vestidos con armaduras de placas pesadas y armados con armas de fuego de pólvora negra forjadas con maestría, son uno de los regimientos de pistoleros más respetados y mejor equipados.",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_description_deco_knights_lynx": {
       "key": "loading_screen_quotes_description_deco_knights_lynx",
       "value_original": "Averlanders consider the Knights Black Lynx the elite of the elite among the Mountain Guard, stationed within Black Fire Pass.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los habitantes de Averland consideran a los Caballeros del Lince Negro la élite de la élite de la Guardia de Montaña, estacionados en el Paso del Fuego Negro.",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_title_deco_doom_prophets": {
       "key": "loading_screen_quotes_title_deco_doom_prophets",
       "value_original": "Prophets of Doom",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Profetas de la Perdición",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_title_deco_ironsides": {
       "key": "loading_screen_quotes_title_deco_ironsides",
       "value_original": "Nuln Ironsides",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Equipos de Hierro de Nuln",
+      "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_title_deco_knights_lynx": {
@@ -292,71 +292,71 @@
     "unit_abilities_onscreen_name_wh_dlc04_unit_passive_insensible": {
       "key": "unit_abilities_onscreen_name_wh_dlc04_unit_passive_insensible",
       "value_original": "Insensible to Pain",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Insensible al dolor",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_wh_dlc04_unit_passive_insensible": {
       "key": "unit_abilities_tooltip_text_wh_dlc04_unit_passive_insensible",
       "value_original": "Having beaten themselves insensible, the Doom Prophets no longer feel mortal injuries, shrugging aside blows that would cripple a sane man!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tras haberse dejado insensibles, los Profetas de la Perdición ya no sienten heridas mortales, ¡y se encogen de hombros ante golpes que paralizarían a un hombre cuerdo!",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_deco_battle_wizard_fire": {
       "key": "unit_description_short_texts_text_deco_battle_wizard_fire",
       "value_original": "To be a Battle Wizard is to understand the power at the heart of the world, though such power is not weilded lightly.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ser un Hechicero es comprender el poder en el corazón del mundo, aunque dicho poder no se ejerce a la ligera.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_deco_doom_prophets": {
       "key": "unit_description_short_texts_text_deco_doom_prophets",
       "value_original": "With howls of doom on their lips, they throw themselves into the fray, heedless of danger or injury.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Con aullidos de perdición en los labios, se lanzan a la refriega, sin importarles el peligro o las heridas.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_deco_ironsides": {
       "key": "unit_description_short_texts_text_deco_ironsides",
       "value_original": "Clad in heavy plate armour and armed with master-wrought blackpowder firearms, they are one of the most widely respected and well-equipped handgunner regiments.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Vestidos con armaduras de placas pesadas y armados con armas de fuego de pólvora negra forjadas con maestría, son uno de los regimientos de pistoleros más respetados y mejor equipados.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_deco_knights_lynx": {
       "key": "unit_description_short_texts_text_deco_knights_lynx",
       "value_original": "Averlanders consider the Knights Black Lynx the elite of the elite among the Mountain Guard, stationed within Black Fire Pass.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los habitantes de Averland consideran a los Caballeros del Lince Negro la élite de la élite de la Guardia de Montaña, estacionados en el Paso del Fuego Negro.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_deco_roadwardens": {
       "key": "unit_description_short_texts_text_deco_roadwardens",
       "value_original": "Roadwardens are the local law-enforcement force created and assigned the important duty of protecting valuable trade and commercial travel within the Empire.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los Guardas de Caminos son las fuerzas del orden locales, a las que se asigna el importante deber de proteger el valioso comercio y los viajes comerciales dentro del Imperio.",
+      "needs_retranslation": false,
       "removed": false
     },
     "units_custom_battle_mounts_localised_description_deco_battle_wizard_firedeco_battle_wizard_fire_barded_warhorse": {
       "key": "units_custom_battle_mounts_localised_description_deco_battle_wizard_firedeco_battle_wizard_fire_barded_warhorse",
       "value_original": "A general's horse can be their most trusted and daring companion. Just don't name him 'Daisy'.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El caballo de un general puede ser su compañero más fiable y audaz. Eso sí, no lo llames «Daisy».",
+      "needs_retranslation": false,
       "removed": false
     },
     "units_custom_battle_mounts_localised_description_deco_battle_wizard_firedeco_battle_wizard_fire_imperial_pegasus": {
       "key": "units_custom_battle_mounts_localised_description_deco_battle_wizard_firedeco_battle_wizard_fire_imperial_pegasus",
       "value_original": "An Imperial pegasus is a noble, winged steed, intelligent and loyal.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Un pegaso imperial es un noble corcel alado, inteligente y leal.",
+      "needs_retranslation": false,
       "removed": false
     },
     "units_custom_battle_mounts_localised_description_deco_battle_wizard_firedeco_battle_wizard_fire_warhorse": {
       "key": "units_custom_battle_mounts_localised_description_deco_battle_wizard_firedeco_battle_wizard_fire_warhorse",
       "value_original": "A general's horse can be their most trusted and daring companion. Just don't name him 'Daisy'.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El caballo de un general puede ser su compañero más fiable y audaz. Eso sí, no lo llames «Daisy».",
+      "needs_retranslation": false,
       "removed": false
     },
     "units_custom_battle_mounts_mount_name_deco_battle_wizard_firedeco_battle_wizard_fire_barded_warhorse": {
