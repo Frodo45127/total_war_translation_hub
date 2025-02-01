@@ -173,15 +173,15 @@
     "agent_subtypes_description_text_override_albion_morrigan": {
       "key": "agent_subtypes_description_text_override_albion_morrigan",
       "value_original": "No one knows the exact origin of the mysterious woman called Morrigan. Most inhabitants of Albion believe that she is a goddess of death and war who will sometimes aid her people when they are in great danger.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Nadie sabe el origen exacto de la misteriosa mujer llamada Morrigan. La mayoría de los habitantes de Albión creen que es una diosa de la muerte y la guerra, que a veces ayuda a su pueblo cuando se encuentra en gran peligro.",
+      "needs_retranslation": false,
       "removed": false
     },
     "agent_subtypes_description_text_override_albion_morrigan_bird": {
       "key": "agent_subtypes_description_text_override_albion_morrigan_bird",
       "value_original": "No one knows the exact origin of the mysterious woman called Morrigan. Most inhabitants of Albion believe that she is a goddess of death and war who will sometimes aid her people when they are in great danger.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Nadie sabe el origen exacto de la misteriosa mujer llamada Morrigan. La mayoría de los habitantes de Albión creen que es una diosa de la muerte y la guerra, que a veces ayuda a su pueblo cuando se encuentra en gran peligro.",
+      "needs_retranslation": false,
       "removed": false
     },
     "agent_subtypes_description_text_override_albion_truthsayer_beast": {
@@ -488,7 +488,7 @@
     "ancillaries_colour_text_anc_dagger_shadow": {
       "key": "ancillaries_colour_text_anc_dagger_shadow",
       "value_original": "It is said that this weapon was taken from a Fimir near the Citadel of Lead. It is turning its wielder into an excellent killer, however, there is a cost to be paid. None of its wielders seem to get very old.",
-      "value_translated": "Se dice que esta arma fue arrebatada a un Fimir cerca de la Ciudadela del Plomo. Convierte a su portador en un excelente asesino, sin embargo, hay que pagar un precio. Ninguno de sus portadores parece envejecer mucho.",
+      "value_translated": "Se dice que esta arma fue arrebatada a un Fimir cerca de la Ciudadela del Plomo. Convierte a su portador en un excelente asesino, sin embargo, hay que pagar un precio. Ninguno de sus portadores parece ser capaz de llegar a viejo.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1391,7 +1391,7 @@
     "building_chains_chain_tooltip_elo_forge_old_ones": {
       "key": "building_chains_chain_tooltip_elo_forge_old_ones",
       "value_original": "Forge of the Old Ones",
-      "value_translated": "Forja de los ancestrales",
+      "value_translated": "Forja de los Ancestrales",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2343,7 +2343,7 @@
     "building_culture_variants_name_elo_forge_old_onesovn_sc_alb_albion": {
       "key": "building_culture_variants_name_elo_forge_old_onesovn_sc_alb_albion",
       "value_original": "Forge of the Old Ones",
-      "value_translated": "Forja de los ancestrales",
+      "value_translated": "Forja de los Ancestrales",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2371,7 +2371,7 @@
     "building_culture_variants_name_elo_ogham_stone_3ovn_sc_alb_albion": {
       "key": "building_culture_variants_name_elo_ogham_stone_3ovn_sc_alb_albion",
       "value_original": "Grand Ogham Stone Circle",
-      "value_translated": "Gran círculo de Piedras Ogham",
+      "value_translated": "Gran Círculo de Piedras Ogham",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2553,8 +2553,8 @@
     "building_culture_variants_name_ovn_albion_outpost_stables_1ovn_sc_alb_albion": {
       "key": "building_culture_variants_name_ovn_albion_outpost_stables_1ovn_sc_alb_albion",
       "value_original": "Shieling",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Shieling",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_ovn_albion_outpost_stables_2ovn_sc_alb_albion": {
@@ -2623,15 +2623,15 @@
     "building_culture_variants_name_ovn_albion_resource_gemstonesovn_albion": {
       "key": "building_culture_variants_name_ovn_albion_resource_gemstonesovn_albion",
       "value_original": "Gem Carver",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tallador de gemas",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_ovn_albion_resource_ivoryovn_albion": {
       "key": "building_culture_variants_name_ovn_albion_resource_ivoryovn_albion",
       "value_original": "Ivory Carver",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tallador de marfil",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_ovn_albion_resource_obsidianovn_albion": {
@@ -2784,8 +2784,8 @@
     "building_culture_variants_name_ovn_albion_stables_1ovn_sc_alb_albion": {
       "key": "building_culture_variants_name_ovn_albion_stables_1ovn_sc_alb_albion",
       "value_original": "Shieling",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Shieling",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_ovn_albion_stables_2ovn_sc_alb_albion": {
@@ -5066,7 +5066,7 @@
     "building_short_description_texts_short_description_ovn_Albion_War": {
       "key": "building_short_description_texts_short_description_ovn_Albion_War",
       "value_original": "Even the tribes of Albion can't resist the Dark Emissaries honeyed words of power and riches that emanate from the black citadel.",
-      "value_translated": "Ni siquiera las tribus de Albión pueden resistirse a las melosas palabras de poder y riqueza de los emisarios oscuros que emanan de la ciudadela negra.",
+      "value_translated": "Ni siquiera las tribus de Albión pueden resistirse a las melosas palabras de poder y riqueza de los Emisarios Oscuros que emanan de la ciudadela negra.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -5206,8 +5206,8 @@
     "building_short_description_texts_short_description_ovn_albion_special_settlement_konquata": {
       "key": "building_short_description_texts_short_description_ovn_albion_special_settlement_konquata",
       "value_original": "Konquata is the site of a great seeding – the birth of a new jungle that nourishes the land of Albion.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Konquata es el lugar de la gran siembra: el nacimiento de una nueva selva que nutre la tierra de Albión.",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_short_description_texts_short_description_ovn_albion_wood": {
@@ -6249,7 +6249,7 @@
     "character_skills_localised_description_dural_control_bogs": {
       "key": "character_skills_localised_description_dural_control_bogs",
       "value_original": "Druids are proficient in making undead constructs from rotting wood, the remains of unfortunate souls who perished in the bogs and shards of ogham stones, but some are better at this than others.",
-      "value_translated": "Los druidas son expertos en hacer construcciones de muertos vivientes a partir de madera podrida, los restos de almas desafortunadas que perecieron en los pantanos y fragmentos de Piedras Ogham, pero algunos son mejores constructores que otros.",
+      "value_translated": "Los druidas son expertos en hacer constructos no muertos a partir de madera podrida, restos de almas desafortunadas que perecieron en los pantanos y fragmentos de Piedras Ogham, pero algunos son mejores constructores que otros.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -6333,7 +6333,7 @@
     "character_skills_localised_description_elo_amulet_old_ones": {
       "key": "character_skills_localised_description_elo_amulet_old_ones",
       "value_original": "One of the last functioning artifacts of the Old Ones remaining in the hands of the tribes of Albion, this amulet can save the life of its wearer once per battle with a surge of magical energy.",
-      "value_translated": "Uno de los últimos artefactos en funcionamiento de los Ancestrales que quedan en manos de las tribus de Albión, este amuleto puede salvar la vida de su portador una vez por batalla con una oleada de energía mágica.",
+      "value_translated": "Este amuleto, uno de los últimos artefactos funcionales de los Ancestrales que quedan en manos de las tribus de Albión, puede salvar la vida de su portador una vez por batalla con una oleada de energía mágica.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -6361,7 +6361,7 @@
     "character_skills_localised_description_elo_guardians_land": {
       "key": "character_skills_localised_description_elo_guardians_land",
       "value_original": "Only the best and most accomplished warriors may join the ranks of the Oathsworn and become the personal guards of Petty Chieftains and Overkings.",
-      "value_translated": "Solo los mejores y más consumados guerreros pueden unirse a las filas de los Guardias del Hogar y convertirse en los guardias personales de Caudillos y Lideres Guerreros.",
+      "value_translated": "Solo los mejores y más consumados guerreros pueden unirse a las filas de los Juramentados y convertirse en los guardias personales de Caudillos y Lideres Guerreros.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -6382,7 +6382,7 @@
     "character_skills_localised_description_elo_monsters_r7": {
       "key": "character_skills_localised_description_elo_monsters_r7",
       "value_original": "Druids with magical powers and mystical beasts belong to the most feared members of any Albion warband, and rightly so.",
-      "value_translated": "Los druidas con poderes mágicos y las bestias místicas son los miembros más temidos de cualquier partida de Albión, y con razón.",
+      "value_translated": "Los druidas con poderes mágicos y las bestias místicas son los miembros más temidos de cualquier partida de guerra de Albión, y con razón.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -6536,7 +6536,7 @@
     "character_skills_localised_description_morrigan_raven_skill": {
       "key": "character_skills_localised_description_morrigan_raven_skill",
       "value_original": "Sometimes Mhorriníon is seen riding a giant raven named Dubh'neach into battle. This raven is the only one of its kind that is known to the inhabitants of Albion, his origin a mystery only Mhorriníon herself knows the answer to.",
-      "value_translated": "A veces, se ve a Mhorriníon montando un cuervo gigante llamado Dubh'neach en la batalla. Este cuervo es el único de su tipo que conocen los habitantes de Albión, su origen es un misterio del que solo Morrigan sabe la respuesta.",
+      "value_translated": "A veces, se ve a Mhorriníon montando un cuervo gigante llamado Dubh'neach en la batalla. Este cuervo es el único de su tipo que conocen los habitantes de Albión, su origen es un misterio del que solo Mhorriníon sabe la respuesta.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -6690,8 +6690,8 @@
     "character_skills_localised_description_truthsayer_lore_attribute": {
       "key": "character_skills_localised_description_truthsayer_lore_attribute",
       "value_original": "The magic of Albion conjures the famous mists of its homeland, enveloping allied warriors, protecting them from projectiles.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La magia de Albión evoca las famosas brumas de su tierra natal, envolviendo a los guerreros aliados y protegiéndolos de los proyectiles.",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_description_warleader_chariot_skill": {
@@ -6739,7 +6739,7 @@
     "character_skills_localised_description_warrior_shaman": {
       "key": "character_skills_localised_description_warrior_shaman",
       "value_original": "Prioritizing the path of the Warrior, this Druidic Priestess is a better fighter than others - but her abilities to weave magic suffered in return.",
-      "value_translated": "Santificando el camino del Guerrero, esta Sacerdotisa Druídica es mejor luchadora que los demás, a cambio sus habilidades para tejer la magia se han resentido.",
+      "value_translated": "Siguiendo la senda del Guerrero, esta Sacerdotisa Druídica es mejor luchadora que las demás, aunque sus habilidades para tejer la magia se han resentido.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -6872,7 +6872,7 @@
     "character_skills_localised_name_dural_mentor": {
       "key": "character_skills_localised_name_dural_mentor",
       "value_original": "Teacher of the Path",
-      "value_translated": "Maestro del camino",
+      "value_translated": "Maestro de la Senda",
       "needs_retranslation": false,
       "removed": false
     },
@@ -7194,7 +7194,7 @@
     "character_skills_localised_name_teachings_old_ones": {
       "key": "character_skills_localised_name_teachings_old_ones",
       "value_original": "Teachings of the Old Ones",
-      "value_translated": "Enseñanzas de los ancestrales",
+      "value_translated": "Enseñanzas de los Ancestrales",
       "needs_retranslation": false,
       "removed": false
     },
@@ -7453,7 +7453,7 @@
     "culture_settlement_occupation_options_tooltip_2205198927": {
       "key": "culture_settlement_occupation_options_tooltip_2205198927",
       "value_original": "Demand Offerings||You do not capture the settlement but instead take offerings in the form of gold and damage buildings. All captives are converted, [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} is reduced, and the previous owners will like you a lot less.",
-      "value_translated": "Exigir Ofrendas||No capturarás el asentamiento, sino que reclamarás ofrendas en forma de oro y dañarás sus edificios. Todos los prisioneros son convertidos. El nivel de [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} se reducirá y su antiguo señor te empezará a odiar.",
+      "value_translated": "Exigir Ofrendas||No capturarás el asentamiento, sino que reclamarás ofrendas en forma de oro y dañarás sus edificios. Todos los prisioneros serán convertidos. El nivel de [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} se reducirá y su antiguo señor te empezará a odiar.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -7502,7 +7502,7 @@
     "culture_settlement_occupation_options_tooltip_2205198938": {
       "key": "culture_settlement_occupation_options_tooltip_2205198938",
       "value_original": "Demand Offerings||You do not capture the settlement but instead take offerings in the form of gold and damage buildings. All captives are converted, [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} is reduced, and the previous owners will like you a lot less.",
-      "value_translated": "Exigir Ofrendas||No capturarás el asentamiento, sino que reclamarás ofrendas en forma de oro y dañarás sus edificios. Todos los prisioneros son convertidos. El nivel de [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} se reducirá y su antiguo señor te empezará a odiar.",
+      "value_translated": "Exigir Ofrendas||No capturarás el asentamiento, sino que reclamarás ofrendas en forma de oro y dañarás sus edificios. Todos los prisioneros serán convertidos. El nivel de [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} se reducirá y su antiguo señor te empezará a odiar.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -7915,7 +7915,7 @@
     "diplomacy_strings_string_AlbionRQ_Dip_Generic_Offer_Neutral_03": {
       "key": "diplomacy_strings_string_AlbionRQ_Dip_Generic_Offer_Neutral_03",
       "value_original": "What say you to the Phantom Queen?",
-      "value_translated": "¿Qué le dices a la Reina Asesina?",
+      "value_translated": "¿Qué le dices a la Reina Fantasma?",
       "needs_retranslation": false,
       "removed": false
     },
@@ -8097,7 +8097,7 @@
     "diplomacy_strings_string_AlbionRQ_Dip_Reject_Join_Confederation_02": {
       "key": "diplomacy_strings_string_AlbionRQ_Dip_Reject_Join_Confederation_02",
       "value_original": "Rebuild the waystones and we will continue to shield you.",
-      "value_translated": "Reconstruye las piedras del camino y seguiremos protegiéndote.",
+      "value_translated": "Reconstruye los Círculos de Piedra y seguiremos protegiéndote.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -8167,7 +8167,7 @@
     "diplomacy_strings_string_AlbionRQ_Dip_Rejection_Neutral_03": {
       "key": "diplomacy_strings_string_AlbionRQ_Dip_Rejection_Neutral_03",
       "value_original": "I Mhorriníon the Murder Queen, must decline.",
-      "value_translated": "Yo Mhorriníon la Reina Cuervo, debo declinar.",
+      "value_translated": "Yo, Mhorriníon la Reina Cuervo, debo declinar.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -8244,7 +8244,7 @@
     "diplomacy_strings_string_Albion_Dip_Acceptance_Negative_02": {
       "key": "diplomacy_strings_string_Albion_Dip_Acceptance_Negative_02",
       "value_original": "Dark times call for unpleasant decisions.",
-      "value_translated": "Los tiempos oscuros exigen decisiones desagradables.",
+      "value_translated": "Tiempos oscuros exigen decisiones desagradables.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -8888,8 +8888,8 @@
     "effect_bundles_localised_description_ovn_albion_second_lord_mission_durak": {
       "key": "effect_bundles_localised_description_ovn_albion_second_lord_mission_durak",
       "value_original": "Dural Durak arrives to lead your armies!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¡Dural Durak llega para liderar tus ejércitos!",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_ovn_albion_second_lord_mission_morrigan": {
@@ -8909,15 +8909,15 @@
     "effect_bundles_localised_description_ovn_albion_woad_upgrades_effect_greenwoad": {
       "key": "effect_bundles_localised_description_ovn_albion_woad_upgrades_effect_greenwoad",
       "value_original": "Old Man Carnuos, the God of the Hunt favours the stag. His woad confers hunters the ability to meld with their surroundings, but makes them extremely vulnerable to fire.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El viejo Carnuos, dios de la caza, favorece al ciervo. Su hierba confiere a los cazadores la capacidad de fundirse con su entorno, pero los hace extremadamente vulnerables al fuego.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_ovn_albion_woad_upgrades_effect_purplewoad": {
       "key": "effect_bundles_localised_description_ovn_albion_woad_upgrades_effect_purplewoad",
       "value_original": "Mhorrinion the Ravenqueen, Daughter of Death, favours the crow. Her woad grants warriors great speed and the ability to cause terror on their foes. at the cost of their physical protection.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Mhorrinion la Reina Cuervo, Hija de la Muerte, favorece al cuervo. Su guadaña otorga a los guerreros una gran velocidad y la capacidad de aterrorizar a sus enemigos, a costa de su protección física.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_ovn_albion_woad_upgrades_effect_redwoad": {
@@ -8937,7 +8937,7 @@
     "effect_bundles_localised_description_ovn_dilemma_alb_alt_leader": {
       "key": "effect_bundles_localised_description_ovn_dilemma_alb_alt_leader",
       "value_original": "Durak shores up his warriors resolve in battle through magic and tactics though he is vulnerable in extended combat he can prove quite deadly atop his chariot. Mhorriníon's unmatched affinity with magic is best suited to the restoration of the Waystones.",
-      "value_translated": "Durak refuerza la determinación de sus guerreros en la batalla a través de la magia y las tácticas, aunque es vulnerable en los combates prolongados, puede resultar bastante letal sobre su carro. La incomparable afinidad de Mhorriníon con la magia es la más adecuada para la restauración de los Círculos de Piedras.",
+      "value_translated": "Durak refuerza la determinación de sus guerreros en la batalla a través de la magia y las tácticas, aunque es vulnerable en los combates prolongados, puede resultar bastante letal sobre su carro. La incomparable afinidad de Mhorriníon con la magia es más adecuada para la restauración de los Círculos de Piedras.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -9210,15 +9210,15 @@
     "effect_bundles_localised_description_rhox_albion_wanted_level_3": {
       "key": "effect_bundles_localised_description_rhox_albion_wanted_level_3",
       "value_original": "Lowly Warlord's and Marauder Chieftain's seek you out to gain petty boons from the Dark Gods.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Señores de la Guerra menores y Caudillos Bárbaros te buscan para obtener pequeñas bendiciones de los Dioses Oscuros.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_rhox_albion_wanted_level_4": {
       "key": "effect_bundles_localised_description_rhox_albion_wanted_level_4",
       "value_original": "Lords of Chaos seeking glory and daemonhood come to hunt and flay you.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Señores del Caos que buscan la gloria y la condición de demonio vienen a cazarte y desollarte.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_rhox_albion_wanted_level_5": {
@@ -9238,8 +9238,8 @@
     "effect_bundles_localised_description_wh2_dlc15_hef_eltharion_dungeon_reward_albion": {
       "key": "effect_bundles_localised_description_wh2_dlc15_hef_eltharion_dungeon_reward_albion",
       "value_original": "Once a fur-clad savage, always a fur-clad savage. It takes little to break a man’s will, and even less to confine him.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Una vez salvaje vestido de pieles, siempre salvaje vestido de pieles. Se necesita poco para quebrar la voluntad de un hombre, y aún menos para confinarlo.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_wh3_dlc25_nemesis_crown_effect_bundle_1_alb": {
@@ -9315,7 +9315,7 @@
     "effect_bundles_localised_title_albion_scary_banner": {
       "key": "effect_bundles_localised_title_albion_scary_banner",
       "value_original": "The Banner of Trophies",
-      "value_translated": "Estandarte de los trofeos",
+      "value_translated": "Estandarte de los Trofeos",
       "needs_retranslation": false,
       "removed": false
     },
@@ -9672,7 +9672,7 @@
     "effect_bundles_localised_title_rhox_albion_wanted_level_0": {
       "key": "effect_bundles_localised_title_rhox_albion_wanted_level_0",
       "value_original": "Ignored",
-      "value_translated": "ignorado",
+      "value_translated": "Ignorado",
       "needs_retranslation": false,
       "removed": false
     },
@@ -9777,22 +9777,22 @@
     "effects_description_alb_disable_awakening_woods": {
       "key": "effects_description_alb_disable_awakening_woods",
       "value_original": "Remove Bound Spell: 'Awakening of the Woods' from Druidic Initiates",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Elimina el hechizo vinculado: \"Despertar del Bosque\" de los Druidas Iniciados",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_disable_shield_thornes": {
       "key": "effects_description_alb_disable_shield_thornes",
       "value_original": "Remove Bound Spell: 'Shield of Thornes' from Druidic Initiates",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Elimina el hechizo vinculado: \"Escudo de espinas\" de los Druidas Iniciados",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_dural_faction_mech_dummy": {
       "key": "effects_description_alb_dural_faction_mech_dummy",
       "value_original": "Rebuild all the Waystones in the regions of Albion to gain bonuses but be aware of invasion until the reconstruction is complete",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Reconstruye todos los Círculos de Piedra de las regiones de Albión para obtener bonificaciones, pero ten cuidado con las invasiones hasta que la reconstrucción esté completa.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_effect_corruption_chaos_characters_bad": {
@@ -9840,8 +9840,8 @@
     "effects_description_alb_enable_horrible_regen": {
       "key": "effects_description_alb_enable_horrible_regen",
       "value_original": "Passive Ability: 'Horrible Regeneration' for Fenbeasts, Fenhulks and Chosen of Ishernos (replaces 'Regeneration') ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Habilidad pasiva: \"'Regeneración horrible\" para Bestias del Cieno, Moles del Cieno, y Elegidos de Ishernos (reemplaza \"Regeneración\")",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_income_order_dummy": {
@@ -9854,29 +9854,29 @@
     "effects_description_alb_raven_faction_mech_dummy": {
       "key": "effects_description_alb_raven_faction_mech_dummy",
       "value_original": "Destroy Chaos forces or rebuild the Waytstones to gain Clan Reinforcements, though be wary this will attract challengers",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Destruye a las fuerzas del Caos o reconstruye los Círculos de Piedras para obtener Refuerzos del Clan, aunque deberás ser cauteloso con esto último, pues puede atraer retadores inesperados...",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_ravenfeater_arrows": {
       "key": "effects_description_alb_ravenfeater_arrows",
       "value_original": "Grants Ravenfeather Ammunition to Huntresses: Poisonous Arrows with more range, accuracy and armour piercing damage",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Otorga munición \"Plumas de Cuervo\" a las Cazadoras: flechas venenosas con más alcance, precisión y daño perforante.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_tech_morale_humans": {
       "key": "effects_description_alb_tech_morale_humans",
       "value_original": "Leadership: %+n for Albion Human (non-hero/lords) units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Liderazgo: %+n para las unidades humanas de Albión (héroes/señores excluídos)",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_warriors_xp": {
       "key": "effects_description_alb_warriors_xp",
       "value_original": "Recruitment Rank: %+n for all Warband units.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Rango de reclutamiento: %+n para todas las unidades de Partidas de Guerra",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_albion_ancient_allies_missiles_res": {
@@ -10400,8 +10400,8 @@
     "effects_description_enable_blinded_albion_birds": {
       "key": "effects_description_enable_blinded_albion_birds",
       "value_original": "Enables 'Blinded' Attacks for Ravens and Crows",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Activa ataques cegadores para Cuervos Grajos y Cuervos Cornejas",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_enable_darkened_skies": {
@@ -10736,15 +10736,15 @@
     "effects_description_ovn_albion_effect_force_stat_leadership_vs_albion": {
       "key": "effects_description_ovn_albion_effect_force_stat_leadership_vs_albion",
       "value_original": "Leadership: %+n when fighting against Albion",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Liderazgo: %+n en batallas contra Albión",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_ovn_albion_elite_magic_attacks": {
       "key": "effects_description_ovn_albion_elite_magic_attacks",
       "value_original": "Enables 'Magic Attacks' for Oathsworn, Oathsworn Cavalry and Highlanders",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Activa ataques mágicos para Juramentados, Caballería de Juramentados y Montañeses",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_ovn_albion_elite_wps": {
@@ -10813,8 +10813,8 @@
     "effects_description_ovn_bird_troops_lead": {
       "key": "effects_description_ovn_bird_troops_lead",
       "value_original": "Leadership: %+n for Ravens, Crows and Feral Gryphons",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Liderazgo: %+n para Cuervos Grajos, Cuervos Cornejas y Grifos Salvajes",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_ovn_bird_troops_mattk": {
@@ -10841,8 +10841,8 @@
     "effects_description_ovn_effect_merc_xp": {
       "key": "effects_description_ovn_effect_merc_xp",
       "value_original": "Recruitment Rank: %+n for all Clan Reinforcement units from Albion",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Rango de reclutamiento: %+n para todas las unidades de Refuerzos del Clan provenientes de Albión",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_ovn_imperial_supplies_accelerate_0_dummy": {
@@ -10883,15 +10883,15 @@
     "effects_description_ovn_imperial_troops_1_dummy": {
       "key": "effects_description_ovn_imperial_troops_1_dummy",
       "value_original": "Lowly Clan Reinforcements received",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Refuerzos del Clan menores recibidos",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_ovn_imperial_troops_2_dummy": {
       "key": "effects_description_ovn_imperial_troops_2_dummy",
       "value_original": "Formidable Clan Reinforcements received",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Refuerzos del Clan formidables recibidos",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_ovn_imperial_troops_3_dummy": {
@@ -10988,8 +10988,8 @@
     "effects_description_wh2_dlc15_hef_dungeon_mistwalker_upgrade_albion": {
       "key": "effects_description_wh2_dlc15_hef_dungeon_mistwalker_upgrade_albion",
       "value_original": "Passive ability: \"Woad Paint\" for Mistwalker units",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Habilidad pasiva: \"Pintura añil\" a las unidades de Caminantes de las Brumas",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_wh_main_effect_ovn_Waystone_1_dummy": {
@@ -11450,8 +11450,8 @@
     "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_alb_order_of_the_truthsayers": {
       "key": "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_alb_order_of_the_truthsayers",
       "value_original": "From the Great Ogham of Albion, Dural Durak, first among the Truthsayers, leads the defence of imperilled Albion, for his homeland is besieged by enemies old and new…",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Desde el Gran Ogham de Albión, Dural Durak, el Primero de los Arúspices, lidera la defensa de la amenazada Albión, pues su patria está asediada por enemigos antiguos y nuevos...",
+      "needs_retranslation": false,
       "removed": false
     },
     "frontend_faction_leaders_frontend_description_mixer_ovn_alb_host_ravenqueen": {
@@ -11660,29 +11660,29 @@
     "incidents_localised_description_rhox_albion_extra_reinforcement_1": {
       "key": "incidents_localised_description_rhox_albion_extra_reinforcement_1",
       "value_original": "Due to politicking at home, a surge of warriors have volunteered to join your worthy cause.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Debido a la politiquería en casa, una oleada de guerreros se han ofrecido voluntarios para unirse a su valiosa causa.",
+      "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_description_rhox_albion_extra_reinforcement_2": {
       "key": "incidents_localised_description_rhox_albion_extra_reinforcement_2",
       "value_original": "Due to politicking at home, a surge of warriors have volunteered to join your worthy cause.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Debido a la politiquería en casa, una oleada de guerreros se han ofrecido voluntarios para unirse a su valiosa causa.",
+      "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_description_rhox_albion_extra_reinforcement_3": {
       "key": "incidents_localised_description_rhox_albion_extra_reinforcement_3",
       "value_original": "Due to politicking at home, a surge of warriors have volunteered to join your worthy cause.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Debido a la politiquería en casa, una oleada de guerreros se han ofrecido voluntarios para unirse a su valiosa causa.",
+      "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_description_rhox_albion_incident_hostility_invasion": {
       "key": "incidents_localised_description_rhox_albion_incident_hostility_invasion",
       "value_original": "Following your recent military aggression, the forces of Chaos have started to gather in numbers and are priming their forces seeking boons from the Chaos Gods. An attack is imminent…\\\\n\\\\n[[col:red]]A Chaos horde has appeared![[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tras tu reciente agresión militar, las fuerzas del Caos han empezado a reunirse en grandes números y están preparando sus fuerzas buscando bendiciones de los Dioses del Caos. Un ataque es inminente... \\\\n\\\\n[[col:red]]¡Una horda del Caos ha aparecido![[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_description_rhox_albion_progress_level_increase": {
@@ -12696,7 +12696,7 @@
     "land_units_onscreen_name_elo_albion_gryphon": {
       "key": "land_units_onscreen_name_elo_albion_gryphon",
       "value_original": "Feral Gryphon",
-      "value_translated": "Grifo salvaje",
+      "value_translated": "Grifo Salvaje",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12857,7 +12857,7 @@
     "loading_screen_quotes_bulletpoints_ovn_game_hint_lore_of_truthsayers_unit": {
       "key": "loading_screen_quotes_bulletpoints_ovn_game_hint_lore_of_truthsayers_unit",
       "value_original": "Lore of Albion||Oak-Magic||Rites of the Old Ones",
-      "value_translated": "Saber de Albión||Magia-Roble||Ritos de los Ancestrales",
+      "value_translated": "Saber de Albión||Magia de Roble||Ritos de los Ancestrales",
       "needs_retranslation": false,
       "removed": false
     },
@@ -14243,8 +14243,8 @@
     "pooled_resources_positive_factors_display_name_rhox_albion_wanted": {
       "key": "pooled_resources_positive_factors_display_name_rhox_albion_wanted",
       "value_original": "Increases",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Aumenta",
+      "needs_retranslation": false,
       "removed": false
     },
     "provincial_initiative_records_localised_name_province_edict_albion1": {
@@ -15328,8 +15328,8 @@
     "technologies_short_description_dural_tech_1": {
       "key": "technologies_short_description_dural_tech_1",
       "value_original": "Giants and Centaurs have been created as protectors of Albion by the Old Ones. They themselves have long forgotten their origins, but they still follow their ancient duties to this day.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los Gigantes y los Centauros fueron creados como protectores de Albión por los Ancestrales. Ellos mismos hace tiempo que olvidaron sus orígenes, pero siguen cumpliendo sus antiguos deberes hasta el día de hoy.",
+      "needs_retranslation": false,
       "removed": false
     },
     "technologies_short_description_dural_tech_2": {
@@ -15342,8 +15342,8 @@
     "technologies_short_description_dural_tech_3": {
       "key": "technologies_short_description_dural_tech_3",
       "value_original": "First and mightiest of all Druids, Dural will readily teach those he deems worthy in the ways of the Truthsayers.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El primero y más poderoso de todos los druidas, Dural, enseñará a aquellos que considere dignos el camino de los Arúspices.",
+      "needs_retranslation": false,
       "removed": false
     },
     "technologies_short_description_dural_tech_4": {
@@ -15524,7 +15524,7 @@
     "ui_text_replacements_localised_text_ovn_building_chains_encyclopedia_name_wh2_main_lzd_energy": {
       "key": "ui_text_replacements_localised_text_ovn_building_chains_encyclopedia_name_wh2_main_lzd_energy",
       "value_original": "Geomantic Web",
-      "value_translated": "Red geomántica",
+      "value_translated": "Red Geomántica",
       "needs_retranslation": false,
       "removed": false
     },
@@ -15538,8 +15538,8 @@
     "ui_text_replacements_localised_text_ovn_commandments_level_tooltip": {
       "key": "ui_text_replacements_localised_text_ovn_commandments_level_tooltip",
       "value_original": "Geomantic Web strength: %d",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Fuerza de la Red Geomántica: %d",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_ovn_commandments_level_tooltip_ovn_sc_alb_albion": {
@@ -15559,8 +15559,8 @@
     "ui_text_replacements_localised_text_ovn_geomantic_1_NewState_Text_2d0028_ovn_sc_alb_albion": {
       "key": "ui_text_replacements_localised_text_ovn_geomantic_1_NewState_Text_2d0028_ovn_sc_alb_albion",
       "value_original": "Extinguished Power - Ruins and enemy settlements",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Poder Extinguido: Ruinas y asentamientos enemigos",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_ovn_geomantic_2_NewState_Text_5f0052": {
@@ -15573,8 +15573,8 @@
     "ui_text_replacements_localised_text_ovn_geomantic_2_NewState_Text_5f0052_ovn_sc_alb_albion": {
       "key": "ui_text_replacements_localised_text_ovn_geomantic_2_NewState_Text_5f0052_ovn_sc_alb_albion",
       "value_original": "Flickering Power - Owned and neutral settlements",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Poder Intermitente: Asentamientos propios y neutrales",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_ovn_geomantic_3_NewState_Text_3f0001": {
@@ -15587,8 +15587,8 @@
     "ui_text_replacements_localised_text_ovn_geomantic_3_NewState_Text_3f0001_ovn_sc_alb_albion": {
       "key": "ui_text_replacements_localised_text_ovn_geomantic_3_NewState_Text_3f0001_ovn_sc_alb_albion",
       "value_original": "Humming Power - Uncover Waystones and via allied settlements",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Poder Resonando: Descubre Círculos de Piedra y a través de asentamientos aliados",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_ovn_geomantic_4_NewState_Text_1d0001": {
@@ -15601,7 +15601,7 @@
     "ui_text_replacements_localised_text_ovn_geomantic_4_NewState_Text_1d0001_ovn_sc_alb_albion": {
       "key": "ui_text_replacements_localised_text_ovn_geomantic_4_NewState_Text_1d0001_ovn_sc_alb_albion",
       "value_original": "Pulsating Power - Repair Waystones and construct Waystone Beacons",
-      "value_translated": "Poder pulsante: repara piedras de camino y construye balizas de piedra de camino.",
+      "value_translated": "Poder Pulsante: Repara Círculos de Piedra y construye balizas de piedras",
       "needs_retranslation": false,
       "removed": false
     },
@@ -15615,15 +15615,15 @@
     "ui_text_replacements_localised_text_ovn_geomantic_5_NewState_Text_1f0019_ovn_sc_alb_albion": {
       "key": "ui_text_replacements_localised_text_ovn_geomantic_5_NewState_Text_1f0019_ovn_sc_alb_albion",
       "value_original": "Surging Power - Restore Waystones and construct Waystone Markers",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Poder Creciente: Restaura Círculos de Piedra y construye marcadores de piedras",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_ovn_geomantic_button_geomantic_web_Tooltip_58000deds": {
       "key": "ui_text_replacements_localised_text_ovn_geomantic_button_geomantic_web_Tooltip_58000deds",
       "value_original": "Geomantic Web||View the state of the geomantic web - links between province capitals that provide provinces with powerful commandments.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Red Geomántica||Ver el estado de la Red Geomántica, enlaces entre capitales de provincia que proporcionan a las provincias poderosos decretos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_ovn_geomantic_button_geomantic_web_Tooltip_58000deds_ovn_sc_alb_albion": {
@@ -15650,7 +15650,7 @@
     "ui_text_replacements_localised_text_ovn_geomantic_tx_header_NewState_Text_4a006b": {
       "key": "ui_text_replacements_localised_text_ovn_geomantic_tx_header_NewState_Text_4a006b",
       "value_original": "Geomantic Web",
-      "value_translated": "Red geomántica",
+      "value_translated": "Red Geomántica",
       "needs_retranslation": false,
       "removed": false
     },
@@ -15664,8 +15664,8 @@
     "ui_text_replacements_localised_text_ovn_province_panel_geomantic_web_label": {
       "key": "ui_text_replacements_localised_text_ovn_province_panel_geomantic_web_label",
       "value_original": "Geomantic Web strength: %d",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Fuerza de la Red Geomántica: %d",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_ovn_province_panel_geomantic_web_label_ovn_sc_alb_albion": {
@@ -15853,8 +15853,8 @@
     "ui_unit_groupings_onscreen_ovn_swordmaiden": {
       "key": "ui_unit_groupings_onscreen_ovn_swordmaiden",
       "value_original": "Falx Infantry",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Infantería con falcata",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_groupings_onscreen_ovn_truthsayer_lore": {
@@ -15881,8 +15881,8 @@
     "ui_unit_groupings_tooltip_ovn_fenbeasts": {
       "key": "ui_unit_groupings_tooltip_ovn_fenbeasts",
       "value_original": "Fenbeasts are durable magic undead constructs, able to cause and endure a lot of damage.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Las Bestias del Cieno son resistentes y mágicos constructos no muertos, capaces de causar y soportar grandes daños.",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_groupings_tooltip_ovn_swordmaiden": {
@@ -16581,7 +16581,7 @@
     "unit_abilities_tooltip_text_howling_shields": {
       "key": "unit_abilities_tooltip_text_howling_shields",
       "value_original": "Howling Shields are a speciality of the warriors of the Fir Domain. They are constructed in such a way that air passing through the shields produces a frightening howling sound.",
-      "value_translated": "Los escudos aulladores son una especialidad de los guerreros del Dominio del Abeto. Están construidos de tal manera que el aire que pasa a través de los escudos produce un aullido aterrador.",
+      "value_translated": "Los Escudos Aulladores son una especialidad de los guerreros del Dominio del Abeto. Están construidos de tal manera que el aire que pasa a través de los escudos produce un aullido aterrador.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -16630,7 +16630,7 @@
     "unit_abilities_tooltip_text_omen_of_war": {
       "key": "unit_abilities_tooltip_text_omen_of_war",
       "value_original": "Mhorriníon's allies fight harder in her presence because they know about the importance of the battle if even the Murder-Queen takes part in it.",
-      "value_translated": "Los aliados de Mhorriníon luchan más fuerte en su presencia porque conocen la importancia de la batalla.",
+      "value_translated": "Los aliados de Mhorriníon luchan más fuerte en su presencia porque saben que, si ella está presente, la batalla es importante.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -16651,8 +16651,8 @@
     "unit_abilities_tooltip_text_ravenqueen_eyes": {
       "key": "unit_abilities_tooltip_text_ravenqueen_eyes",
       "value_original": "Wherever crows go, Mhorrinion watches.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Donde sea que vaya los cuervos, Mhorrinion observa.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_spell_truth_boon_courage": {
@@ -16812,8 +16812,8 @@
     "unit_description_historical_texts_text_calm_alb_raven": {
       "key": "unit_description_historical_texts_text_calm_alb_raven",
       "value_original": "In Albion, Ravens are considered some of the foremost servants of the God of the Dead and the Ravenqueen, sacred creatures that devour the flesh of the fallen to prevent predations on it by dark magicks.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "En Albión, los cuervos son considerados unos de los principales sirvientes del Dios de los Muertos y de la Reina Cuervo, criaturas sagradas que devoran la carne de los caídos para evitar que la depreden los magos oscuros.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_alb_cav_noble": {
@@ -16847,7 +16847,7 @@
     "unit_description_historical_texts_text_long_descr_albion_Oathsworn": {
       "key": "unit_description_historical_texts_text_long_descr_albion_Oathsworn",
       "value_original": "Oathsworn form the elite personal bodyguard of the Petty Kings and Overkings of Albion Unlike most of the other Albionese troops, they are professional warriors who train day and night to better serve their lieges.\\\\n\\\\nWearing the best equipment available to their tribes, armoured with bronze helmets, mail hauberks, and armed with shields, greataxes, or halberds, they often serve as the heavy infantry of the armies of Albion. Their name comes from their custom of swearing an oath to serve their lieges faithfully unto victory or death upon being initiated into the Oathsworn, no matter the cost.",
-      "value_translated": "",
+      "value_translated": "Los Juramentados forman la guardia personal de élite de los Caudillos y Líderes Guerreros de Albión. A diferencia de la mayoría de las demás tropas de Albión, son guerreros profesionales que se entrenan día y noche para servir mejor a sus soberanos.\\\\n\\\\nAtaviados con el mejor equipamiento disponible en sus tribus, con cascos de bronce, cotas de malla y armados con escudos, greataxes o alabardas, suelen servir como infantería pesada de los ejércitos de Albión. Su nombre proviene de su costumbre de hacer un juramento de servir fielmente a sus señores hasta la victoria o la muerte al ser iniciados en los Juramentados, cueste lo que cueste.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -16861,7 +16861,7 @@
     "unit_description_historical_texts_text_long_descr_albion_Oathsworn_halberd": {
       "key": "unit_description_historical_texts_text_long_descr_albion_Oathsworn_halberd",
       "value_original": "Oathsworn form the elite personal bodyguard of the Petty Kings and Overkings of Albion Unlike most of the other Albionese troops, they are professional warriors who train day and night to better serve their lieges.\\\\n\\\\nWearing the best equipment available to their tribes, armoured with bronze helmets, mail hauberks, and armed with shields, greataxes, or halberds, they often serve as the heavy infantry of the armies of Albion. Their name comes from their custom of swearing an oath to serve their lieges faithfully unto victory or death upon being initiated into the Oathsworn, no matter the cost.",
-      "value_translated": "",
+      "value_translated": "Los Juramentados forman la guardia personal de élite de los Caudillos y Líderes Guerreros de Albión. A diferencia de la mayoría de las demás tropas de Albión, son guerreros profesionales que se entrenan día y noche para servir mejor a sus soberanos.\\\\n\\\\nAtaviados con el mejor equipamiento disponible en sus tribus, con cascos de bronce, cotas de malla y armados con escudos, greataxes o alabardas, suelen servir como infantería pesada de los ejércitos de Albión. Su nombre proviene de su costumbre de hacer un juramento de servir fielmente a sus señores hasta la victoria o la muerte al ser iniciados en los Juramentados, cueste lo que cueste.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -16903,21 +16903,21 @@
     "unit_description_historical_texts_text_long_descr_albion_chief": {
       "key": "unit_description_historical_texts_text_long_descr_albion_chief",
       "value_original": "Petty Kings, Little Chieftains, Tuath-Leaders the rulers of the numerous smaller tribes of Albion have many names. Though the more \"civilised\" peoples of the Old World consider Albion a primitive backwater, the rulers of this land have a strong code of law and a hierarchy of rulers that they abide by. At the bottom of this hierarchy are the Petty Chieftains, who claim descent from some local hero of greater or lesser importance.\\\\n\\\\nIn the traditional hierarchy, they are below the Overkings (and the Overkings themselves are below the Ard Rí, High King of all Albion, though a figure like that has not appeared since the legendary Agam Rund), though some Pietty Chieftains have been known to be more influential and powerful than the Overking above them. When the tribes of Albion march to war, they will fight alongside and inspire their fellow tribesmen as heroic figures, trying to hearken back to those legendary figures they claim descent from, performing feats in battle to further distinguish themselves in front of their peers so that one day they might ascend in the hierarchy and become Overkings themselves.",
-      "value_translated": "Reyes menores, Pequeños Caudillos, Líderes-Tuath, los gobernantes de las numerosas tribus menores de Albión tienen muchos nombres. Aunque los pueblos más \"civilizados\" del Viejo Mundo consideran que Albión es un remanso primitivo, los gobernantes de esta tierra tienen un sólido código de leyes y una jerarquía de gobernantes a la que se atienen. En la base de esta jerarquía se encuentran los Caudillos, que afirman descender de algún héroe local de mayor o menor importancia. En la jerarquía tradicional, están por debajo de los Líderes Guerreros (y los propios Líderes Guerreros están por debajo del Ard Rí, Alto Rey de toda Albión, aunque una figura así no ha aparecido desde el legendario Agam Rund), aunque se sabe que algunos Caudillos son más influyentes y poderosos que el Líder Guerrero que está por encima de ellos. Cuando las tribus de Albión marchan a la guerra, luchan junto a sus compañeros de tribu y los inspiran como figuras heroicas, tratando de rememorar a aquellas figuras legendarias de las que dicen descender, realizando hazañas en la batalla para distinguirse aún más frente a sus iguales, de modo que un día puedan ascender en la jerarquía y convertirse ellos mismos en Líderes Guerreros.",
+      "value_translated": "Reyes menores, Pequeños Caudillos, Líderes-Tuath,... los gobernantes de las numerosas tribus menores de Albión tienen muchos nombres. Aunque los pueblos más \"civilizados\" del Viejo Mundo consideran que Albión es un remanso primitivo, los gobernantes de esta tierra tienen un sólido código de leyes y una jerarquía de gobernantes a la que se atienen. En la base de esta jerarquía se encuentran los Caudillos, que afirman descender de algún héroe local de mayor o menor importancia. \\\\n\\\\nEn la jerarquía tradicional, están por debajo de los Líderes Guerreros (y los propios Líderes Guerreros están por debajo del Ard Rí, Alto Rey de toda Albión, aunque una figura así no ha aparecido desde el legendario Agam Rund), aunque se sabe que algunos Caudillos son más influyentes y poderosos que el Líder Guerrero que está por encima de ellos. Cuando las tribus de Albión marchan a la guerra, luchan junto a sus compañeros de tribu y los inspiran como figuras heroicas, tratando de rememorar a aquellas figuras legendarias de las que dicen descender, realizando hazañas en la batalla para distinguirse aún más frente a sus iguales, de modo que un día puedan ascender en la jerarquía y convertirse ellos mismos en Líderes Guerreros.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_chief_chariot": {
       "key": "unit_description_historical_texts_text_long_descr_albion_chief_chariot",
       "value_original": "Petty Kings, Little Chieftains, Tuath-Leaders the rulers of the numerous smaller tribes of Albion have many names. Though the more \"civilised\" peoples of the Old World consider Albion a primitive backwater, the rulers of this land have a strong code of law and a hierarchy of rulers that they abide by. At the bottom of this hierarchy are the Petty Chieftains, who claim descent from some local hero of greater or lesser importance.\\\\n\\\\nIn the traditional hierarchy, they are below the Overkings (and the Overkings themselves are below the Ard Rí, High King of all Albion, though a figure like that has not appeared since the legendary Agam Rund), though some Pietty Chieftains have been known to be more influential and powerful than the Overking above them. When the tribes of Albion march to war, they will fight alongside and inspire their fellow tribesmen as heroic figures, trying to hearken back to those legendary figures they claim descent from, performing feats in battle to further distinguish themselves in front of their peers so that one day they might ascend in the hierarchy and become Overkings themselves.",
-      "value_translated": "Reyes menores, Pequeños Caudillos, Líderes-Tuath, los gobernantes de las numerosas tribus menores de Albión tienen muchos nombres. Aunque los pueblos más \"civilizados\" del Viejo Mundo consideran que Albión es un remanso primitivo, los gobernantes de esta tierra tienen un sólido código de leyes y una jerarquía de gobernantes a la que se atienen. En la base de esta jerarquía se encuentran los Caudillos, que afirman descender de algún héroe local de mayor o menor importancia. En la jerarquía tradicional, están por debajo de los Líderes Guerreros (y los propios Líderes Guerreros están por debajo del Ard Rí, Alto Rey de toda Albión, aunque una figura así no ha aparecido desde el legendario Agam Rund), aunque se sabe que algunos Caudillos son más influyentes y poderosos que el Líder Guerrero que está por encima de ellos. Cuando las tribus de Albión marchan a la guerra, luchan junto a sus compañeros de tribu y los inspiran como figuras heroicas, tratando de rememorar a aquellas figuras legendarias de las que dicen descender, realizando hazañas en la batalla para distinguirse aún más frente a sus iguales, de modo que un día puedan ascender en la jerarquía y convertirse ellos mismos en Líderes Guerreros.",
+      "value_translated": "Reyes menores, Pequeños Caudillos, Líderes-Tuath,... los gobernantes de las numerosas tribus menores de Albión tienen muchos nombres. Aunque los pueblos más \"civilizados\" del Viejo Mundo consideran que Albión es un remanso primitivo, los gobernantes de esta tierra tienen un sólido código de leyes y una jerarquía de gobernantes a la que se atienen. En la base de esta jerarquía se encuentran los Caudillos, que afirman descender de algún héroe local de mayor o menor importancia. \\\\n\\\\nEn la jerarquía tradicional, están por debajo de los Líderes Guerreros (y los propios Líderes Guerreros están por debajo del Ard Rí, Alto Rey de toda Albión, aunque una figura así no ha aparecido desde el legendario Agam Rund), aunque se sabe que algunos Caudillos son más influyentes y poderosos que el Líder Guerrero que está por encima de ellos. Cuando las tribus de Albión marchan a la guerra, luchan junto a sus compañeros de tribu y los inspiran como figuras heroicas, tratando de rememorar a aquellas figuras legendarias de las que dicen descender, realizando hazañas en la batalla para distinguirse aún más frente a sus iguales, de modo que un día puedan ascender en la jerarquía y convertirse ellos mismos en Líderes Guerreros.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_chief_horse": {
       "key": "unit_description_historical_texts_text_long_descr_albion_chief_horse",
       "value_original": "Petty Kings, Little Chieftains, Tuath-Leaders the rulers of the numerous smaller tribes of Albion have many names. Though the more \"civilised\" peoples of the Old World consider Albion a primitive backwater, the rulers of this land have a strong code of law and a hierarchy of rulers that they abide by. At the bottom of this hierarchy are the Petty Chieftains, who claim descent from some local hero of greater or lesser importance.\\\\n\\\\nIn the traditional hierarchy, they are below the Overkings (and the Overkings themselves are below the Ard Rí, High King of all Albion, though a figure like that has not appeared since the legendary Agam Rund), though some Pietty Chieftains have been known to be more influential and powerful than the Overking above them. When the tribes of Albion march to war, they will fight alongside and inspire their fellow tribesmen as heroic figures, trying to hearken back to those legendary figures they claim descent from, performing feats in battle to further distinguish themselves in front of their peers so that one day they might ascend in the hierarchy and become Overkings themselves.",
-      "value_translated": "Reyes menores, Pequeños Caudillos, Líderes-Tuath, los gobernantes de las numerosas tribus menores de Albión tienen muchos nombres. Aunque los pueblos más \"civilizados\" del Viejo Mundo consideran que Albión es un remanso primitivo, los gobernantes de esta tierra tienen un sólido código de leyes y una jerarquía de gobernantes a la que se atienen. En la base de esta jerarquía se encuentran los Caudillos, que afirman descender de algún héroe local de mayor o menor importancia. En la jerarquía tradicional, están por debajo de los Líderes Guerreros (y los propios Líderes Guerreros están por debajo del Ard Rí, Alto Rey de toda Albión, aunque una figura así no ha aparecido desde el legendario Agam Rund), aunque se sabe que algunos Caudillos son más influyentes y poderosos que el Líder Guerrero que está por encima de ellos. Cuando las tribus de Albión marchan a la guerra, luchan junto a sus compañeros de tribu y los inspiran como figuras heroicas, tratando de rememorar a aquellas figuras legendarias de las que dicen descender, realizando hazañas en la batalla para distinguirse aún más frente a sus iguales, de modo que un día puedan ascender en la jerarquía y convertirse ellos mismos en Líderes Guerreros.",
+      "value_translated": "Reyes menores, Pequeños Caudillos, Líderes-Tuath,... los gobernantes de las numerosas tribus menores de Albión tienen muchos nombres. Aunque los pueblos más \"civilizados\" del Viejo Mundo consideran que Albión es un remanso primitivo, los gobernantes de esta tierra tienen un sólido código de leyes y una jerarquía de gobernantes a la que se atienen. En la base de esta jerarquía se encuentran los Caudillos, que afirman descender de algún héroe local de mayor o menor importancia. \\\\n\\\\nEn la jerarquía tradicional, están por debajo de los Líderes Guerreros (y los propios Líderes Guerreros están por debajo del Ard Rí, Alto Rey de toda Albión, aunque una figura así no ha aparecido desde el legendario Agam Rund), aunque se sabe que algunos Caudillos son más influyentes y poderosos que el Líder Guerrero que está por encima de ellos. Cuando las tribus de Albión marchan a la guerra, luchan junto a sus compañeros de tribu y los inspiran como figuras heroicas, tratando de rememorar a aquellas figuras legendarias de las que dicen descender, realizando hazañas en la batalla para distinguirse aún más frente a sus iguales, de modo que un día puedan ascender en la jerarquía y convertirse ellos mismos en Líderes Guerreros.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -16973,7 +16973,7 @@
     "unit_description_historical_texts_text_long_descr_albion_huntresses": {
       "key": "unit_description_historical_texts_text_long_descr_albion_huntresses",
       "value_original": "In the harsh realms of Albion, men and women serve as soldiers, hunters, crafters, priests, chieftains, and kings in the harsh realms of Albion, where there is no distinction between genders when it comes to positions in society.\\\\n\\\\nAlbion's womenfolk frequently follow in the path of the Huntress, expertly following their target. During battle, they'll lend their skills in marksmanship and stealth tactics to the tribe as deadly markswomen, hunting the enemy with the same precision as they do their prey.",
-      "value_translated": "En los inclementes reinos de Albión, hombres y mujeres sirven como soldados, cazadores, artesanos, sacerdotes, caudillos y reyes. No hay distinción de géneros cuando se trata de puestos en la sociedad. Las mujeres de Albión suelen seguir el camino de la Cazadora, siguiendo con pericia su objetivo. Durante la batalla, prestarán sus habilidades de puntería y tácticas de sigilo a la tribu como letales tiradoras, cazando al enemigo con la misma precisión que a su presa.",
+      "value_translated": "En los inclementes reinos de Albión, hombres y mujeres sirven como soldados, cazadores, artesanos, sacerdotes, caudillos y reyes. No hay distinción de géneros cuando se trata de puestos en la sociedad.\\\\n\\\\nLas mujeres de Albión suelen seguir el camino de la Cazadora, siguiendo con pericia su objetivo. Durante la batalla, prestarán sus habilidades de puntería y tácticas de sigilo a la tribu como letales tiradoras, cazando al enemigo con la misma precisión que a su presa.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17036,7 +17036,7 @@
     "unit_description_historical_texts_text_long_descr_albion_swordmaiden": {
       "key": "unit_description_historical_texts_text_long_descr_albion_swordmaiden",
       "value_original": "In the harsh realms of Albion, men and women serve as soldiers, hunters, crafters, priests, chieftains, and kings in the harsh realms of Albion, where there is no distinction between genders when it comes to positions in society.\\\\n\\\\nThere's but one exception: the all-female tribe of the Maidenguard, who watches over the Oracles, holy women who have powers of foresight gifted to them by the Old Ones. Not all of them are tasked with guarding the Oracle, and indeed, a good number of them are sent on missions to aid the warriors of Albion in the defence of their land, following the myterious designs of their mistress. These warrior-women are expert and nimble in the art of swordmanship, and can grow quite fierce in the heat of battle.",
-      "value_translated": "En los inclementes reinos de Albión, hombres y mujeres sirven como soldados, cazadores, artesanos, sacerdotes, caudillos y reyes. No hay distinción de géneros cuando se trata de puestos en la sociedad. Las mujeres de Albión suelen seguir el camino de la Cazadora, siguiendo con pericia su objetivo. Durante la batalla, prestarán sus habilidades de puntería y tácticas de sigilo a la tribu como letales tiradoras, cazando al enemigo con la misma precisión que a su presa.",
+      "value_translated": "En los inclementes reinos de Albión, hombres y mujeres sirven como soldados, cazadores, artesanos, sacerdotes, caudillos y reyes. No hay distinción de géneros cuando se trata de puestos en la sociedad.\\\\n\\\\nSólo hay una excepción: la tribu femenina de las Doncellas Espaderas, que vela por los Oráculos, mujeres santas que tienen poderes de previsión que les han sido otorgados por los Antiguos. No todas ellas se encargan de custodiar el Oráculo, y de hecho, un buen número de ellas son enviadas en misiones para ayudar a los guerreros de Albión en la defensa de su tierra, siguiendo los misteriosos designios de su señora. Estas mujeres guerreras son expertas y ágiles en el arte de la espada, y pueden llegar a ser bastante feroces en el fragor de la batalla.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17148,21 +17148,21 @@
     "unit_description_historical_texts_text_long_descr_bl_elo_dural_durak": {
       "key": "unit_description_historical_texts_text_long_descr_bl_elo_dural_durak",
       "value_original": "Having recently taken the mantle of leadership of the Order of the Truthsayers, Dural Durak has been more proactive in steering the people of Albion towards the Path of the Old Ones and in fighting the malign influence of Chaos. Though ciriticised as impetuous and careless by the more traditional members of the Order, he claims that dire times call for a more active role in defending Albion.\\\\n\\\\nAnd he may be right, for ever since the Great Master of the Citadel of Lead and his Dark Emissaries started corrupting the Ogham Stones for their ruinous purposes, a Dark Shadow has fallen over Albion. The land surrounding these corrupted stones has turned evil and twisted, and all kinds of malign creatures prowl it, all the while the armies of the Citadel of Lead plunder and destroy sacred sites of the Old Ones.\\\\n\\\\nDural has even gone so far as to enlist the aid of foreigners, who have arrived in Albion after the magical mists protecting the island dissipated due to the machinations of the Lord of the Citadel of Lead. Dural Durak himself is both a powerful Truthsayer, masterfully wielding the magic of his Order, and a skilled warrior who has already personally defeated several of the fell Dark Emissaries while leading Albion's armies against the forces of the Dark Master, which has gained him the respect and admiration from several of the island's most powerful Overkings.\\\\n\\\\nDural is aided by many sacred artefacts originating in the Forge of the Old Ones, such as the Staff of Light and the Mystic Shield. He has vowed to banish the Dark Master and his shadowy minions from Albion once and for all, purifying the corrupted Ogham Stones and bringing Albion back into alignment with the Sacred Plan of the Old Ones.",
-      "value_translated": "Habiendo asumido recientemente el liderazgo de la Orden de los Arúspices, Dural Durak se ha mostrado más proactivo a la hora de guiar al pueblo de Albión hacia la Senda de los Ancestrales y de luchar contra la influencia maligna del Caos. Aunque los miembros más tradicionales de la Orden lo tachan de impetuoso y descuidado, afirma que los tiempos difíciles exigen un papel más activo en la defensa de Albión. Y puede que tenga razón, ya que desde que el Gran Maestro de la Ciudadela de Plomo y sus Emisarios Oscuros comenzaron a corromper las Piedras Ogham para sus propios fines oscuros, una Sombra Oscura ha caído sobre Albión. La tierra que rodea a estas piedras corruptas se ha vuelto malvada y retorcida, y todo tipo de criaturas malignas la merodean, todo ello mientras los ejércitos de la Ciudadela de Plomo saquean y destruyen los lugares sagrados de los Ancestrales. Dural ha llegado incluso a reclutar la ayuda de extranjeros, que han llegado a Albión después de que las nieblas mágicas que protegían la isla se disiparan debido a las maquinaciones del Señor de la Ciudadela de Plomo. El propio Dural Durak es tanto un poderoso arúspice, que maneja con maestría la magia de su Orden, como un hábil guerrero que ya ha derrotado personalmente a varios de los Emisarios Oscuros mientras lideraba los ejércitos de Albión contra las fuerzas del Amo Oscuro, lo que le ha hecho ganarse el respeto y la admiración de varios de los Líderes Guerreros más poderosos de la isla. Dural cuenta con la ayuda de muchos artefactos sagrados procedentes de la Forja de los Ancestrales, como el Báculo de la Luz y el Escudo Místico. Ha jurado desterrar al Amo Oscuro y a sus tenebrosos secuaces de Albión de una vez por todas, purificando las Piedras Ogham corruptas y alineando de nuevo a Albión con el Plan Sagrado de los Ancestrales.",
+      "value_translated": "Habiendo asumido recientemente el liderazgo de la Orden de los Arúspices, Dural Durak se ha mostrado más proactivo a la hora de guiar al pueblo de Albión hacia la Senda de los Ancestrales y de luchar contra la influencia maligna del Caos. Aunque los miembros más tradicionales de la Orden lo tachan de impetuoso y descuidado, afirma que los tiempos difíciles exigen un papel más activo en la defensa de Albión. \\\\n\\\\nY puede que tenga razón, ya que desde que el Gran Maestro de la Ciudadela de Plomo y sus Emisarios Oscuros comenzaron a corromper las Piedras Ogham para sus propios fines oscuros, una Sombra Oscura ha caído sobre Albión. La tierra que rodea a estas piedras corruptas se ha vuelto malvada y retorcida, y todo tipo de criaturas malignas la merodean, todo ello mientras los ejércitos de la Ciudadela de Plomo saquean y destruyen los lugares sagrados de los Ancestrales. \\\\n\\\\nDural ha llegado incluso a reclutar la ayuda de extranjeros, que han llegado a Albión después de que las nieblas mágicas que protegían la isla se disiparan debido a las maquinaciones del Señor de la Ciudadela de Plomo. El propio Dural Durak es tanto un poderoso arúspice, que maneja con maestría la magia de su Orden, como un hábil guerrero que ya ha derrotado personalmente a varios de los Emisarios Oscuros mientras lideraba los ejércitos de Albión contra las fuerzas del Amo Oscuro, lo que le ha hecho ganarse el respeto y la admiración de varios de los Líderes Guerreros más poderosos de la isla. \\\\n\\\\nDural cuenta con la ayuda de muchos artefactos sagrados procedentes de la Forja de los Ancestrales, como el Báculo de la Luz y el Escudo Místico. Ha jurado desterrar al Amo Oscuro y a sus tenebrosos secuaces de Albión de una vez por todas, purificando las Piedras Ogham corruptas y alineando de nuevo a Albión con el Plan Sagrado de los Ancestrales.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_bl_elo_dural_durak_chariot": {
       "key": "unit_description_historical_texts_text_long_descr_bl_elo_dural_durak_chariot",
       "value_original": "Having recently taken the mantle of leadership of the Order of the Truthsayers, Dural Durak has been more proactive in steering the people of Albion towards the Path of the Old Ones and in fighting the malign influence of Chaos. Though ciriticised as impetuous and careless by the more traditional members of the Order, he claims that dire times call for a more active role in defending Albion.\\\\n\\\\nAnd he may be right, for ever since the Great Master of the Citadel of Lead and his Dark Emissaries started corrupting the Ogham Stones for their ruinous purposes, a Dark Shadow has fallen over Albion. The land surrounding these corrupted stones has turned evil and twisted, and all kinds of malign creatures prowl it, all the while the armies of the Citadel of Lead plunder and destroy sacred sites of the Old Ones.\\\\n\\\\nDural has even gone so far as to enlist the aid of foreigners, who have arrived in Albion after the magical mists protecting the island dissipated due to the machinations of the Lord of the Citadel of Lead. Dural Durak himself is both a powerful Truthsayer, masterfully wielding the magic of his Order, and a skilled warrior who has already personally defeated several of the fell Dark Emissaries while leading Albion's armies against the forces of the Dark Master, which has gained him the respect and admiration from several of the island's most powerful Overkings.\\\\n\\\\nDural is aided by many sacred artefacts originating in the Forge of the Old Ones, such as the Staff of Light and the Mystic Shield. He has vowed to banish the Dark Master and his shadowy minions from Albion once and for all, purifying the corrupted Ogham Stones and bringing Albion back into alignment with the Sacred Plan of the Old Ones.",
-      "value_translated": "Habiendo asumido recientemente el liderazgo de la Orden de los Arúspices, Dural Durak se ha mostrado más proactivo a la hora de guiar al pueblo de Albión hacia la Senda de los Ancestrales y de luchar contra la influencia maligna del Caos. Aunque los miembros más tradicionales de la Orden lo tachan de impetuoso y descuidado, afirma que los tiempos difíciles exigen un papel más activo en la defensa de Albión. Y puede que tenga razón, ya que desde que el Gran Maestro de la Ciudadela de Plomo y sus Emisarios Oscuros comenzaron a corromper las Piedras Ogham para sus propios fines oscuros, una Sombra Oscura ha caído sobre Albión. La tierra que rodea a estas piedras corruptas se ha vuelto malvada y retorcida, y todo tipo de criaturas malignas la merodean, todo ello mientras los ejércitos de la Ciudadela de Plomo saquean y destruyen los lugares sagrados de los Ancestrales. Dural ha llegado incluso a reclutar la ayuda de extranjeros, que han llegado a Albión después de que las nieblas mágicas que protegían la isla se disiparan debido a las maquinaciones del Señor de la Ciudadela de Plomo. El propio Dural Durak es tanto un poderoso arúspice, que maneja con maestría la magia de su Orden, como un hábil guerrero que ya ha derrotado personalmente a varios de los Emisarios Oscuros mientras lideraba los ejércitos de Albión contra las fuerzas del Amo Oscuro, lo que le ha hecho ganarse el respeto y la admiración de varios de los Líderes Guerreros más poderosos de la isla. Dural cuenta con la ayuda de muchos artefactos sagrados procedentes de la Forja de los Ancestrales, como el Báculo de la Luz y el Escudo Místico. Ha jurado desterrar al Amo Oscuro y a sus tenebrosos secuaces de Albión de una vez por todas, purificando las Piedras Ogham corruptas y alineando de nuevo a Albión con el Plan Sagrado de los Ancestrales.",
+      "value_translated": "Habiendo asumido recientemente el liderazgo de la Orden de los Arúspices, Dural Durak se ha mostrado más proactivo a la hora de guiar al pueblo de Albión hacia la Senda de los Ancestrales y de luchar contra la influencia maligna del Caos. Aunque los miembros más tradicionales de la Orden lo tachan de impetuoso y descuidado, afirma que los tiempos difíciles exigen un papel más activo en la defensa de Albión. \\\\n\\\\nY puede que tenga razón, ya que desde que el Gran Maestro de la Ciudadela de Plomo y sus Emisarios Oscuros comenzaron a corromper las Piedras Ogham para sus propios fines oscuros, una Sombra Oscura ha caído sobre Albión. La tierra que rodea a estas piedras corruptas se ha vuelto malvada y retorcida, y todo tipo de criaturas malignas la merodean, todo ello mientras los ejércitos de la Ciudadela de Plomo saquean y destruyen los lugares sagrados de los Ancestrales. \\\\n\\\\nDural ha llegado incluso a reclutar la ayuda de extranjeros, que han llegado a Albión después de que las nieblas mágicas que protegían la isla se disiparan debido a las maquinaciones del Señor de la Ciudadela de Plomo. El propio Dural Durak es tanto un poderoso arúspice, que maneja con maestría la magia de su Orden, como un hábil guerrero que ya ha derrotado personalmente a varios de los Emisarios Oscuros mientras lideraba los ejércitos de Albión contra las fuerzas del Amo Oscuro, lo que le ha hecho ganarse el respeto y la admiración de varios de los Líderes Guerreros más poderosos de la isla. \\\\n\\\\nDural cuenta con la ayuda de muchos artefactos sagrados procedentes de la Forja de los Ancestrales, como el Báculo de la Luz y el Escudo Místico. Ha jurado desterrar al Amo Oscuro y a sus tenebrosos secuaces de Albión de una vez por todas, purificando las Piedras Ogham corruptas y alineando de nuevo a Albión con el Plan Sagrado de los Ancestrales.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_bl_elo_dural_durak_horse": {
       "key": "unit_description_historical_texts_text_long_descr_bl_elo_dural_durak_horse",
       "value_original": "Having recently taken the mantle of leadership of the Order of the Truthsayers, Dural Durak has been more proactive in steering the people of Albion towards the Path of the Old Ones and in fighting the malign influence of Chaos. Though ciriticised as impetuous and careless by the more traditional members of the Order, he claims that dire times call for a more active role in defending Albion.\\\\n\\\\nAnd he may be right, for ever since the Great Master of the Citadel of Lead and his Dark Emissaries started corrupting the Ogham Stones for their ruinous purposes, a Dark Shadow has fallen over Albion. The land surrounding these corrupted stones has turned evil and twisted, and all kinds of malign creatures prowl it, all the while the armies of the Citadel of Lead plunder and destroy sacred sites of the Old Ones.\\\\n\\\\nDural has even gone so far as to enlist the aid of foreigners, who have arrived in Albion after the magical mists protecting the island dissipated due to the machinations of the Lord of the Citadel of Lead. Dural Durak himself is both a powerful Truthsayer, masterfully wielding the magic of his Order, and a skilled warrior who has already personally defeated several of the fell Dark Emissaries while leading Albion's armies against the forces of the Dark Master, which has gained him the respect and admiration from several of the island's most powerful Overkings.\\\\n\\\\nDural is aided by many sacred artefacts originating in the Forge of the Old Ones, such as the Staff of Light and the Mystic Shield. He has vowed to banish the Dark Master and his shadowy minions from Albion once and for all, purifying the corrupted Ogham Stones and bringing Albion back into alignment with the Sacred Plan of the Old Ones.",
-      "value_translated": "Habiendo asumido recientemente el liderazgo de la Orden de los Arúspices, Dural Durak se ha mostrado más proactivo a la hora de guiar al pueblo de Albión hacia la Senda de los Ancestrales y de luchar contra la influencia maligna del Caos. Aunque los miembros más tradicionales de la Orden lo tachan de impetuoso y descuidado, afirma que los tiempos difíciles exigen un papel más activo en la defensa de Albión. Y puede que tenga razón, ya que desde que el Gran Maestro de la Ciudadela de Plomo y sus Emisarios Oscuros comenzaron a corromper las Piedras Ogham para sus propios fines oscuros, una Sombra Oscura ha caído sobre Albión. La tierra que rodea a estas piedras corruptas se ha vuelto malvada y retorcida, y todo tipo de criaturas malignas la merodean, todo ello mientras los ejércitos de la Ciudadela de Plomo saquean y destruyen los lugares sagrados de los Ancestrales. Dural ha llegado incluso a reclutar la ayuda de extranjeros, que han llegado a Albión después de que las nieblas mágicas que protegían la isla se disiparan debido a las maquinaciones del Señor de la Ciudadela de Plomo. El propio Dural Durak es tanto un poderoso arúspice, que maneja con maestría la magia de su Orden, como un hábil guerrero que ya ha derrotado personalmente a varios de los Emisarios Oscuros mientras lideraba los ejércitos de Albión contra las fuerzas del Amo Oscuro, lo que le ha hecho ganarse el respeto y la admiración de varios de los Líderes Guerreros más poderosos de la isla. Dural cuenta con la ayuda de muchos artefactos sagrados procedentes de la Forja de los Ancestrales, como el Báculo de la Luz y el Escudo Místico. Ha jurado desterrar al Amo Oscuro y a sus tenebrosos secuaces de Albión de una vez por todas, purificando las Piedras Ogham corruptas y alineando de nuevo a Albión con el Plan Sagrado de los Ancestrales.",
+      "value_translated": "Habiendo asumido recientemente el liderazgo de la Orden de los Arúspices, Dural Durak se ha mostrado más proactivo a la hora de guiar al pueblo de Albión hacia la Senda de los Ancestrales y de luchar contra la influencia maligna del Caos. Aunque los miembros más tradicionales de la Orden lo tachan de impetuoso y descuidado, afirma que los tiempos difíciles exigen un papel más activo en la defensa de Albión. \\\\n\\\\nY puede que tenga razón, ya que desde que el Gran Maestro de la Ciudadela de Plomo y sus Emisarios Oscuros comenzaron a corromper las Piedras Ogham para sus propios fines oscuros, una Sombra Oscura ha caído sobre Albión. La tierra que rodea a estas piedras corruptas se ha vuelto malvada y retorcida, y todo tipo de criaturas malignas la merodean, todo ello mientras los ejércitos de la Ciudadela de Plomo saquean y destruyen los lugares sagrados de los Ancestrales. \\\\n\\\\nDural ha llegado incluso a reclutar la ayuda de extranjeros, que han llegado a Albión después de que las nieblas mágicas que protegían la isla se disiparan debido a las maquinaciones del Señor de la Ciudadela de Plomo. El propio Dural Durak es tanto un poderoso arúspice, que maneja con maestría la magia de su Orden, como un hábil guerrero que ya ha derrotado personalmente a varios de los Emisarios Oscuros mientras lideraba los ejércitos de Albión contra las fuerzas del Amo Oscuro, lo que le ha hecho ganarse el respeto y la admiración de varios de los Líderes Guerreros más poderosos de la isla. \\\\n\\\\nDural cuenta con la ayuda de muchos artefactos sagrados procedentes de la Forja de los Ancestrales, como el Báculo de la Luz y el Escudo Místico. Ha jurado desterrar al Amo Oscuro y a sus tenebrosos secuaces de Albión de una vez por todas, purificando las Piedras Ogham corruptas y alineando de nuevo a Albión con el Plan Sagrado de los Ancestrales.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17232,7 +17232,7 @@
     "unit_description_historical_texts_text_long_descr_elo_fly_infested_rotwood": {
       "key": "unit_description_historical_texts_text_long_descr_elo_fly_infested_rotwood",
       "value_original": "One of the most ancient protectors of Albion, the Green Man is a Fenhulk of terrible power and, most worrisomely, a keen intellect. Unlike other Fen constructs, who are mostly unthinking creatures, the Green Man is fully capable of acting on its own, and he usually does so in defence of the forests of Albion. Legend has it that such independence and power stem from the unique Ogham Stone embedded at its heart, which is said to be home to a small portion of Carnuos, the Albionese God of Nature and King of the Woods. At times, it  will join the Truthsayers in the defence of Albion. In battle, the Green Man can rouse the forests to cause great terror and damage to the enemies of the Land.",
-      "value_translated": "Como su nombre indica,el Bosque Podrido son un trío de Bestias de Cieno particularmente desafortunadas, legendarias por sus orígenes cuando un desafortunado Arúspice decidió conjurar una de estas bestias de una de las ciénagas contaminadas por la corrupción del Caos, utilizando un poderoso artefacto de los Ancestrales como foco, con la esperanza de que la criatura invocada absorbiera y succionara la corrupción de la ciénaga. El resultado fue más exitoso de lo que esperaba, ya que la corrupción se fusionó en tres masas vivas y enormes de madera húmeda y podrida, que producían un olor nocivo. Las criaturas corruptas no tardaron en volverse contra él, matando al arúspice y arrasando los bosques y las aldeas que rodeaban la ciénaga, hasta que un grupo de arúspices se enfrentó a las bestias y consiguió atarlas a su voluntad. Desde entonces, han sido enviados a la vanguardia de los ejércitos de Albión, con la esperanza de que el enemigo acabe por destruir a las desdichadas bestias. Hasta ahora, nadie ha conseguido matarlos de verdad, pues incluso cuando sus formas son destruidas, se las arreglan para volver de nuevo, sus toscas formas se recomponen a partir de los detritus del campo de batalla.",
+      "value_translated": "Uno de los protectores más antiguos de Albión, el Hombre Verde es una Mole del Cieno de terrible poder y, lo que es más preocupante, de agudo intelecto. A diferencia de otros constructos del cieno, que son en su mayoría criaturas irreflexivas, el Hombre Verde es plenamente capaz de actuar por su cuenta, y suele hacerlo en defensa de los bosques de Albión. Cuenta la leyenda que tal independencia y poder provienen de la singular Piedra Ogham incrustada en su corazón, en la que se dice que habita una pequeña porción de Carnuos, el Dios albionés de la Naturaleza y Rey de los Bosques. A veces se une a los Arúspices en la defensa de Albión. En la batalla, el Hombre Verde puede despertar a los bosques para causar gran terror y daño a los enemigos de la Tierra.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17281,7 +17281,7 @@
     "unit_description_short_texts_text_alb_cav_noble_first_ror": {
       "key": "unit_description_short_texts_text_alb_cav_noble_first_ror",
       "value_original": "Leadership of the tribes is not hereditary - the chieftains firstborn son can very well be refused as a successor. Those who won't accept this often band together to seek glory on the battlefield and to prove that they are worthy after all.",
-      "value_translated": "El liderazgo de las tribus no es hereditario: el hijo primogénito del jefe puede ser rechazado como sucesor. Los que no aceptan esto suelen unirse para buscar la gloria en el campo de batalla y demostrar que son dignos después de todo.",
+      "value_translated": "El liderazgo de las tribus no es hereditario: el hijo primogénito del líder puede ser rechazado como sucesor. Los que no aceptan esto suelen unirse para buscar la gloria en el campo de batalla y demostrar que son dignos después de todo.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17358,7 +17358,7 @@
     "unit_description_short_texts_text_albion_half_giants": {
       "key": "unit_description_short_texts_text_albion_half_giants",
       "value_original": "It is unknown whether or not the Giant-Blooded really bear the blood of Giants as they claim, but their strength makes them a welcome addition to each Albion warband either way.",
-      "value_translated": "Se desconoce si los Sangre de Gigante realmente llevan la sangre de los Gigantes como afirman, pero su fuerza los convierte en una bienvenida incorporación a cualquier banda de guerra de Albión.",
+      "value_translated": "Se desconoce si los Sangre de Gigante realmente llevan la sangre de los Gigantes como afirman, pero su fuerza los convierte en una bienvenida incorporación a cualquier partida de guerra de Albión.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17407,14 +17407,14 @@
     "unit_description_short_texts_text_albion_morrigan": {
       "key": "unit_description_short_texts_text_albion_morrigan",
       "value_original": "No one knows the exact origin of the mysterious woman called Mhorriníon. Most inhabitants of Albion believe that she is a goddess of death and war who will sometimes aid her people when they are in great danger.",
-      "value_translated": "Nadie sabe el origen exacto de la misteriosa mujer llamada Morrigan. La mayoría de los habitantes de Albión creen que es una diosa de la muerte y la guerra, que a veces ayuda a su pueblo cuando se encuentra en gran peligro.",
+      "value_translated": "Nadie sabe el origen exacto de la misteriosa mujer llamada Mhorriníon. La mayoría de los habitantes de Albión creen que es una diosa de la muerte y la guerra, que a veces ayuda a su pueblo cuando se encuentra en gran peligro.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_albion_morrigan_bird": {
       "key": "unit_description_short_texts_text_albion_morrigan_bird",
       "value_original": "No one knows the exact origin of the mysterious woman called Mhorriníon. Most inhabitants of Albion believe that she is a goddess of death and war who will sometimes aid her people when they are in great danger.",
-      "value_translated": "Nadie sabe el origen exacto de la misteriosa mujer llamada Morrigan. La mayoría de los habitantes de Albión creen que es una diosa de la muerte y la guerra, que a veces ayuda a su pueblo cuando se encuentra en gran peligro.",
+      "value_translated": "Nadie sabe el origen exacto de la misteriosa mujer llamada Mhorriníon. La mayoría de los habitantes de Albión creen que es una diosa de la muerte y la guerra, que a veces ayuda a su pueblo cuando se encuentra en gran peligro.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17435,7 +17435,7 @@
     "unit_description_short_texts_text_albion_shieldmaiden_ror": {
       "key": "unit_description_short_texts_text_albion_shieldmaiden_ror",
       "value_original": "Sworn to protect the Oracle with their lives, the Maidenguard are highly capable defenders.",
-      "value_translated": "Juraron proteger al Oráculo con sus vidas, las Doncellas Espaderas son unas defensoras muy capaces.",
+      "value_translated": "Habiendo jurado proteger al Oráculo con sus vidas, las Doncellas Espaderas son unas defensoras muy capaces.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17456,7 +17456,7 @@
     "unit_description_short_texts_text_albion_warleader": {
       "key": "unit_description_short_texts_text_albion_warleader",
       "value_original": "Overkings are the strongest and fiercest warriors of Albion. They usually have command over the warbands of several tribes and clans and will be called upon whenever the people of Albion have to wage war on a larger scale.",
-      "value_translated": "Los Líderes Guerreros son los guerreros más fuertes y feroces de Albión. Por lo general, tienen el mando sobre las compañias de guerra de varias tribus y clanes, llamadolos cuando la gente de Albión tenga que librar una guerra a mayor escala.",
+      "value_translated": "Los Líderes Guerreros son los guerreros más fuertes y feroces de Albión. Suelen tener el mando de las partidas de guerra de varias tribus y clanes y serán llamados siempre que el pueblo de Albión tenga que librar una guerra a mayor escala.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17505,8 +17505,8 @@
     "unit_description_short_texts_text_calm_alb_raven": {
       "key": "unit_description_short_texts_text_calm_alb_raven",
       "value_original": "In Albion, Ravens are considered some of the foremost servants of the God of the Dead and the Ravenqueen, sacred creatures that devour the flesh of the fallen to prevent predations on it by dark magicks.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "En Albión, los cuervos son considerados unos de los principales sirvientes del Dios de los Muertos y de la Reina Cuervo, criaturas sagradas que devoran la carne de los caídos para evitar que la depreden los magos oscuros.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_druid_neophytes": {
@@ -17540,14 +17540,14 @@
     "unit_description_short_texts_text_elo_bloodhounds": {
       "key": "unit_description_short_texts_text_elo_bloodhounds",
       "value_original": "Dogs serve as companions for hunters and shepherds in peace times. In war, they are starved and then released in packs on vulnerable targets.",
-      "value_translated": "Los sabuesos sirven como compañeros de cazadores y pastores en tiempos de paz. En la guerra, se les hace pasar hambre y luego se les libera en manadas sobre objetivos vulnerables.",
+      "value_translated": "Los Sabuesos sirven como compañeros de cazadores y pastores en tiempos de paz. En la guerra, se les hace pasar hambre y luego se les libera en manadas sobre objetivos vulnerables.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_elo_fenbeast": {
       "key": "unit_description_short_texts_text_elo_fenbeast",
       "value_original": "Fenbeasts are magical constructs, made of the foul mud and rotting wood of Albion. They are powered by the shard of an Ogham Stone within their body and said to be animated by the souls of those who died in the swamps.",
-      "value_translated": "Las Bestias del Cieno son construcciones mágicas, hechas del barro asqueroso y la madera podrida de Albión. Son impulsados por el fragmento de una Piedra Ogham dentro de su cuerpo y se dice que están animados por las almas de los que murieron en los pantanos.",
+      "value_translated": "Las Bestias del Cieno son constructos mágicos, hechos del barro asqueroso y la madera podrida de Albión. Son impulsados por el fragmento de una Piedra Ogham dentro de su cuerpo y se dice que están animados por las almas de los que murieron en los pantanos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17582,7 +17582,7 @@
     "unit_description_short_texts_text_ovn_barrow_wight": {
       "key": "unit_description_short_texts_text_ovn_barrow_wight",
       "value_original": "Mighty kings and warriors of Albion who left this mortal plain long ago still rise up in defense of their sacred resting place and homeland.",
-      "value_translated": "Los poderosos reyes y guerreros de Albión que dejaron esta llanura mortal hace mucho tiempo aún se levantan en defensa de su lugar de descanso sagrado y su patria.",
+      "value_translated": "Los poderosos reyes y guerreros de Albión que dejaron el plano  mortal hace mucho tiempo aún se levantan en defensa de su lugar de descanso sagrado y su patria.",
       "needs_retranslation": false,
       "removed": false
     },
