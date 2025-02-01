@@ -215,21 +215,21 @@
     "agent_subtypes_description_text_override_albion_warleader": {
       "key": "agent_subtypes_description_text_override_albion_warleader",
       "value_original": "Warleaders are the strongest and fiercest warriors of Albion. They usually have command over the warbands of several tribes and clans and will be called upon whenever the people of Albion have to wage war on a larger scale.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los Líderes Guerreros son los guerreros más fuertes y feroces de Albión. Suelen estar al mando de las partidas de guerra de varias tribus y clanes, y serán llamados siempre que el pueblo de Albión tenga que librar una guerra a mayor escala.",
+      "needs_retranslation": false,
       "removed": false
     },
     "agent_subtypes_description_text_override_albion_wyrd_druid": {
       "key": "agent_subtypes_description_text_override_albion_wyrd_druid",
       "value_original": "The Druidic Priestesses have walked the Path of the Truthsayers, but either failed or left this path on their own. Despite only being able to cast simpler spells, they are still highly valued and often employed by chieftains as their personal advisors.",
-      "value_translated": "Wyrd Druids have walked the Path of the Truthsayers, but either failed or left this path on their own. Despite only being able to cast simpler spells, they are still highly valued and often employed by chieftains as their personal advisors.",
+      "value_translated": "Las Sacerdotisas Druídicas han recorrido la Senda de los Arúspices, pero fracasaron o abandonaron este camino por su cuenta. A pesar de que sólo pueden lanzar hechizos más sencillos, siguen siendo muy valoradas y a menudo son empleadas por los caudillos como sus consejeras personales.",
       "needs_retranslation": false,
       "removed": false
     },
     "agent_subtypes_description_text_override_albion_wyrd_druid_horse": {
       "key": "agent_subtypes_description_text_override_albion_wyrd_druid_horse",
       "value_original": "The Druidic Priestesses have walked the Path of the Truthsayers, but either failed or left this path on their own. Despite only being able to cast simpler spells, they are still highly valued and often employed by chieftains as their personal advisors.",
-      "value_translated": "Wyrd Druids have walked the Path of the Truthsayers, but either failed or left this path on their own. Despite only being able to cast simpler spells, they are still highly valued and often employed by chieftains as their personal advisors.",
+      "value_translated": "Las Sacerdotisas Druídicas han recorrido la Senda de los Arúspices, pero fracasaron o abandonaron este camino por su cuenta. A pesar de que sólo pueden lanzar hechizos más sencillos, siguen siendo muy valoradas y a menudo son empleadas por los caudillos como sus consejeras personales.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -509,7 +509,7 @@
     "ancillaries_colour_text_anc_morrigan_staff": {
       "key": "ancillaries_colour_text_anc_morrigan_staff",
       "value_original": "The Seoda Préacháin, or Crow's Jewels, are an assortment of different magical jewels said to have been gifted to the Ravenqueen by her father, Mhorr. They enhance Mhorrinion's  powers and grant her the ability to call upon her watchful crow servants.",
-      "value_translated": "Rara vez se ve a Mhorriníon sin este bastón que parece una simple rama de un árbol cualquiera. Pero los que saben observar se dan cuenta rápidamente de que rebosa poder mágico.",
+      "value_translated": "Las Seoda Préacháin, o Joyas del Cuervo, son un surtido de diferentes joyas mágicas que, según se dice, fueron regaladas a la Reina Cuervo por su padre, Mhorr. Potencian los poderes de Mhorrinion y le otorgan la capacidad de invocar a sus vigilantes sirvientes cuervos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2644,15 +2644,15 @@
     "building_culture_variants_name_ovn_albion_resource_pasturesovn_albion": {
       "key": "building_culture_variants_name_ovn_albion_resource_pasturesovn_albion",
       "value_original": "Cattle Pastures",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Pastos de ganado",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_ovn_albion_resource_saltovn_albion": {
       "key": "building_culture_variants_name_ovn_albion_resource_saltovn_albion",
       "value_original": "Brine Mining Pit",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Pozo de mina de salmuera",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_ovn_albion_resource_spicesovn_albion": {
@@ -4667,8 +4667,8 @@
     "building_effect_context_expressions_display_text_OvN_alb_has_chieftain_tech": {
       "key": "building_effect_context_expressions_display_text_OvN_alb_has_chieftain_tech",
       "value_original": "When Technology 'Gathering of the Tribe Leaders' is researched:",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Cuando se investiga la tecnología \"Asambleas de líderes tribales\":",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_sets_onscreen_description_ovn_Waystone": {
@@ -4688,7 +4688,7 @@
     "building_short_description_texts_short_description_albion_gryphon_eyrie": {
       "key": "building_short_description_texts_short_description_albion_gryphon_eyrie",
       "value_original": "The elevated ground near an Albion settlement sometimes attracts members of the elusive Highlander tribes or Feral Gryphons which will defend their territory against the more dangerous chaos monsters of the islands.",
-      "value_translated": "El terreno elevado cerca de un asentamiento de Albión a veces atrae a miembros de las esquivas tribus de los Montañeses o de Grifos Salvajes, que defenderán su territorio contra los más peligrosos monstruos del caos de las islas.",
+      "value_translated": "El terreno elevado cerca de un asentamiento de Albión a veces atrae a miembros de las esquivas tribus de los Montañeses o a Grifos Salvajes, que defenderán su territorio contra los más peligrosos monstruos del caos de las islas.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -4709,7 +4709,7 @@
     "building_short_description_texts_short_description_albion_gryphon_eyrie_2": {
       "key": "building_short_description_texts_short_description_albion_gryphon_eyrie_2",
       "value_original": "The elevated ground near an Albion settlement sometimes attracts members of the elusive Highlander tribes or Feral Gryphons which will defend their territory against the more dangerous chaos monsters of the islands.",
-      "value_translated": "El terreno elevado cerca de un asentamiento de Albión a veces atrae a miembros de las esquivas tribus de los Montañeses o de Grifos Salvajes, que defenderán su territorio contra los más peligrosos monstruos del caos de las islas.",
+      "value_translated": "El terreno elevado cerca de un asentamiento de Albión a veces atrae a miembros de las esquivas tribus de los Montañeses o a Grifos Salvajes, que defenderán su territorio contra los más peligrosos monstruos del caos de las islas.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -4828,7 +4828,7 @@
     "building_short_description_texts_short_description_albion_military_3": {
       "key": "building_short_description_texts_short_description_albion_military_3",
       "value_original": "The hall of an important chieftain where the elite of Albion's warriors gathers.",
-      "value_translated": "La sala de un importante jefe donde se reúne la élite de los guerreros de Albión.",
+      "value_translated": "El salón de un importante caudillo donde se reúne la élite de los guerreros de Albión.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -5094,7 +5094,7 @@
     "building_short_description_texts_short_description_ovn_Waystone_3": {
       "key": "building_short_description_texts_short_description_ovn_Waystone_3",
       "value_original": "The waystones surge with power and with it the attention of evil beings.",
-      "value_translated": "Los Círculos de Piedras emergén con poder y con ello la atención de los seres diabólicos.",
+      "value_translated": "Los Círculos de Piedras rezuman poder y con ello atraen la atención de los seres diabólicos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -5234,8 +5234,8 @@
     "building_short_description_texts_short_description_ovn_raven_nest_landmark": {
       "key": "building_short_description_texts_short_description_ovn_raven_nest_landmark",
       "value_original": "An invasion planned an eon ago, though not all on the council agree with such an act, none would stand against the Raven Queens wishes. From this mighty tower, where the ravens and crows roost, they look across the wastes, able to see their foes every move.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Una invasión planeada hace un eón, aunque no todos en el consejo están de acuerdo con tal acto, ninguno se opondría a los deseos de la Reina Cuervo. Desde esta poderosa torre, donde se posan cuervos y cornejas, observan los páramos y pueden ver todos los movimientos de sus enemigos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "campaign_areas_of_interest_description_wh3_main_ie_ogham_shard": {
@@ -5318,7 +5318,7 @@
     "campaign_map_attritions_unit_card_tooltip_ovn_albion_mist": {
       "key": "campaign_map_attritions_unit_card_tooltip_ovn_albion_mist",
       "value_original": "This army is suffering losses within the heavy mists of Albion.",
-      "value_translated": "Este ejército está sufriendo bajas por [[img:icon_attrition]][[/img]]desgaste a causa de las grandes Nieblas de Albión.",
+      "value_translated": "Este ejército está sufriendo bajas por [[img:icon_attrition]][[/img]]desgaste a causa de las densas Nieblas de Albión.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -6396,7 +6396,7 @@
     "character_skills_localised_description_elo_protective_charms": {
       "key": "character_skills_localised_description_elo_protective_charms",
       "value_original": "The primitive, often savage-looking talismans of the Albionites still seem to have some protective effects.",
-      "value_translated": "Los talismanes primitivos, a menudo de aspecto salvaje, todavía parecen tener algunos efectos protectores.",
+      "value_translated": "Los talismanes primitivos de los albionenses, a menudo de aspecto salvaje, todavía parecen tener algunos efectos protectores.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -6445,7 +6445,7 @@
     "character_skills_localised_description_filian_troops": {
       "key": "character_skills_localised_description_filian_troops",
       "value_original": "The warriors of the Falians prefer stealth over pure might and have little consideration for concepts like honour. A kill with a blade in the dark counts just as much as a victory in a duel.",
-      "value_translated": "Los guerreros Falians prefieren el sigilo sobre la fuerza bruta y tienen poca consideración por conceptos como el honor. Una muerte con una daga en la oscuridad cuenta tanto como una victoria en un duelo.",
+      "value_translated": "Los guerreros falianos prefieren el sigilo sobre la fuerza bruta y tienen poca consideración por conceptos como el honor. Una muerte con una daga en la oscuridad cuenta tanto como una victoria en un duelo.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -6459,7 +6459,7 @@
     "character_skills_localised_description_finian_troops": {
       "key": "character_skills_localised_description_finian_troops",
       "value_original": "The warriors of the Finians favor defense over offense, often aiming to simply endure an enemy assault and outlast their opponents.",
-      "value_translated": "Los guerreros Finian prefieren la defensa sobre la ofensiva, a menudo con el objetivo de simplemente aguantar el asalto enemigo y sobrevivir a sus oponentes.",
+      "value_translated": "Los guerreros finianos prefieren la defensa sobre la ofensiva, a menudo con el objetivo de simplemente aguantar el asalto enemigo y sobrevivir a sus oponentes.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -6613,7 +6613,7 @@
     "character_skills_localised_description_swamp_monsters": {
       "key": "character_skills_localised_description_swamp_monsters",
       "value_original": "Truthsayers have mastered the ability to call ever more terrifying constructs of rotten wood, mud and bones from the swamps to bolster their ranks.",
-      "value_translated": "Los que Arúspices han dominado la capacidad de invocar bestias cada vez más aterradoras de madera podrida, barro y huesos de los pantanos para reforzar sus filas.",
+      "value_translated": "Los Arúspices han dominado la capacidad de invocar bestias cada vez más aterradoras de madera podrida, barro y huesos de los pantanos para reforzar sus filas.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -6858,7 +6858,7 @@
     "character_skills_localised_name_dural_leader_circle": {
       "key": "character_skills_localised_name_dural_leader_circle",
       "value_original": "The Circle of Truthsayers",
-      "value_translated": "El círculo de Arúspices",
+      "value_translated": "El Círculo de Arúspices",
       "needs_retranslation": false,
       "removed": false
     },
@@ -7355,15 +7355,15 @@
     "character_trait_levels_colour_text_ovn_albion_morrigan_defeat_trait": {
       "key": "character_trait_levels_colour_text_ovn_albion_morrigan_defeat_trait",
       "value_original": "The Raven-Queen is defeated, for now. When she returns, her wrath will be great.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La Reina Cuervo ha sido derrotada, por ahora. Cuando regrese, su ira será grande.",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_trait_levels_colour_text_ovn_bl_elo_dural_durak_defeat_trait": {
       "key": "character_trait_levels_colour_text_ovn_bl_elo_dural_durak_defeat_trait",
       "value_original": "With Dural Durak's defeat, his enemies have finally taken from him the secrets and mysteries of Albion.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Con la derrota de Dural Durak, sus enemigos le han arrebatado por fin los secretos y misterios de Albión.",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_trait_levels_explanation_text_ovn_albion_morrigan_defeat_trait": {
@@ -7614,22 +7614,22 @@
     "dilemmas_localised_description_rhox_albion_guards_st_1": {
       "key": "dilemmas_localised_description_rhox_albion_guards_st_1",
       "value_original": "The journey may have only just begun, but the Truthsayers demand results. To aid you, the High Druid sends word of warriors ready to join the Ravenqueen Host.\\\\n\\\\nThe four main clans of Albion each has warriors ready – choose which clan to honour.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Puede que el viaje no haya hecho más que empezar, pero los Arúspices exigen resultados. Para ayudarte, el Gran Druida te envía guerreros listos para unirse a la Hueste de la Reina Cuervo.\\\\n\\\\nLos cuatro clanes principales de Albión tienen guerreros listos: elige a qué clan honrar.",
+      "needs_retranslation": false,
       "removed": false
     },
     "dilemmas_localised_description_rhox_albion_guards_st_2": {
       "key": "dilemmas_localised_description_rhox_albion_guards_st_2",
       "value_original": "The Overking's and Petty Chieftain's of Albion are mightily impressed by your deeds against Chaos hordes. They are therefore offering great warriors to swell the ranks of the Ravenqueen Host.\\\\n\\\\nThe four main clans of Albion each has warriors ready – choose which clan to honour.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los Líderes Guerreros y los Caudillos de Albión están muy impresionados por tus hazañas contra las hordas del Caos. Por lo tanto, están ofreciendo grandes guerreros para engrosar las filas de la Horda de la Reina Cuervo.\\\\n\\\\nCada uno de los cuatro clanes principales de Albión tiene guerreros preparados: elige a qué clan honrar.",
+      "needs_retranslation": false,
       "removed": false
     },
     "dilemmas_localised_description_rhox_albion_guards_st_3": {
       "key": "dilemmas_localised_description_rhox_albion_guards_st_3",
       "value_original": "With your remarkable progress in the war against Chaos the Shadows are lifting. The Truthsayer Council now ensures that only the most veteran warriors are sent to bolster the Ravenqueen Host.\\\\n\\\\nThe four main clans of Albion each has warriors ready – choose which clan to honour.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Con vuestro notable progreso en la guerra contra el Caos, las Sombras se están disipando. El Consejo de los Arúspices se asegura ahora de que sólo los guerreros más veteranos sean enviados a reforzar la Hueste de la Reina Cuervo.\\\\n\\\\nLos cuatro clanes principales de Albión tienen guerreros listos, elige a qué clan honrar.",
+      "needs_retranslation": false,
       "removed": false
     },
     "dilemmas_localised_title_ovn_dilemma_alb_alt_leader": {
@@ -7670,7 +7670,7 @@
     "diplomacy_strings_string_AlbionRQ_Dip_Accept_State_Gift_02": {
       "key": "diplomacy_strings_string_AlbionRQ_Dip_Accept_State_Gift_02",
       "value_original": "The crows grow jealous of your generosity",
-      "value_translated": "Los cuervos se ponen celosos de tu generosidad",
+      "value_translated": "Los cuervos se ponen celosos de tu generosidad.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -8447,7 +8447,7 @@
     "diplomacy_strings_string_Albion_Dip_Generic_Offer_Negative_03": {
       "key": "diplomacy_strings_string_Albion_Dip_Generic_Offer_Negative_03",
       "value_original": "The horned god decided that you are unworthy of being prey, as long as you willingly give up what we require.",
-      "value_translated": "La Madre ha decidido que no eres digno de ser una presa, siempre que renuncies voluntariamente a lo que necesitamos.",
+      "value_translated": "El dios astado ha decidido que no eres digno de ser una presa, siempre que renuncies voluntariamente a lo que necesitamos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -8769,15 +8769,15 @@
     "diplomacy_strings_string_personality_desc_avenger_of_albion": {
       "key": "diplomacy_strings_string_personality_desc_avenger_of_albion",
       "value_original": "This character seeks to bring death to the Ruinous Powers for defiling the island of Albion. They will seek to conquer and purify any land corrupted by the Dark Gods, and will seek grievous revenge against all those who cross them.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Este personaje busca traer la muerte a los Poderes Ruinosos por profanar la isla de Albión. Tratarán de conquistar y purificar cualquier tierra corrompida por los Dioses Oscuros, y buscarán una venganza dolorosa contra todos aquellos que se crucen en su camino.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_personality_desc_defender_of_albion": {
       "key": "diplomacy_strings_string_personality_desc_defender_of_albion",
       "value_original": "This character seeks to protect the island of Albion from the predations of Chaos at all costs. They will seek allies and defend their own settlements to the last warrior.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Este personaje busca proteger la isla de Albión de las depredaciones del Caos a toda costa. Buscará aliados y defenderá sus propios asentamientos hasta el último guerrero.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_personality_desc_short_avenger_of_albion": {
@@ -8923,15 +8923,15 @@
     "effect_bundles_localised_description_ovn_albion_woad_upgrades_effect_redwoad": {
       "key": "effect_bundles_localised_description_ovn_albion_woad_upgrades_effect_redwoad",
       "value_original": " Cailledh the Crimson, Goddess of Warriors, favours the boar. Her woad grants extra protection, but makes warriors lose themselves in battlerage.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Cailledh la Carmesí, diosa de los guerreros, favorece al jabalí. Su hierba otorga protección extra, pero hace que los guerreros se pierdan en la batalla.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_ovn_albion_woad_upgrades_effect_yellowwoad": {
       "key": "effect_bundles_localised_description_ovn_albion_woad_upgrades_effect_yellowwoad",
       "value_original": "Choteich of the Long Arm favours the sun. His woad grants flaming attacks and makes warriors bolder, but it also makes them proud and haughty, more demanding of riches and glory.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Choteich del Brazo Largo favorece al sol. Su guadaña otorga ataques llameantes y hace que los guerreros sean más audaces, pero también los vuelve orgullosos y altaneros, más exigentes con las riquezas y la gloria.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_ovn_dilemma_alb_alt_leader": {
@@ -8944,7 +8944,7 @@
     "effect_bundles_localised_description_ovn_dilemma_alb_current_leader": {
       "key": "effect_bundles_localised_description_ovn_dilemma_alb_current_leader",
       "value_original": "The Murder-Queen will strike fear into our enemies hearts with her magic, but atop her raven must prove elusive and keep away from danger. The most wise Durak can see to the Waystones tumultuous repair.",
-      "value_translated": "La Reina Cuervo infundirá miedo en los corazones de nuestros enemigos con su magia, pero sobre de su cuervo debe ser esquiva y mantenerse alejada del peligro. El más sabio de los Durak puede encargarse de la convulsa restauración de los Círculos de Piedras.",
+      "value_translated": "La Reina Cuervo infundirá miedo en los corazones de nuestros enemigos con su magia, pero sobre su cuervo ha demostrado ser esquiva y mantenerse alejada del peligro. El más sabio de los Durak puede encargarse de la convulsa restauración de los Círculos de Piedras.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -9147,64 +9147,64 @@
     "effect_bundles_localised_description_rhox_albion_progress_level_0": {
       "key": "effect_bundles_localised_description_rhox_albion_progress_level_0",
       "value_original": "The Ravenqueen Host is naturally supported by the Raven-Queen's own Household on Albion, who will help supply reinforcements.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Naturalmente, la Hueste de la Reina Cuervo cuenta con el apoyo de la propia Casa de la Reina Cuervo en Albión, que ayudará a suministrar refuerzos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_rhox_albion_progress_level_1": {
       "key": "effect_bundles_localised_description_rhox_albion_progress_level_1",
       "value_original": "The Ravenqueen Host is supported by the Petty Cheiftains of Albion, who will do what they can to supply reinforcements.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La Hueste de la Reina Cuervo cuenta con el apoyo de los Caudillos de Albión, que harán lo posible por suministrar refuerzos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_rhox_albion_progress_level_2": {
       "key": "effect_bundles_localised_description_rhox_albion_progress_level_2",
       "value_original": "The Ravenqueen Host has the support of the Overkings of Albion, who will ensure you receive veteran warriors from the homeland.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La Hueste de la Reina Cuervo cuenta con el apoyo de los Líderes Guerreros de Albión, que se asegurarán de que recibas guerreros veteranos de la patria.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_rhox_albion_progress_level_3": {
       "key": "effect_bundles_localised_description_rhox_albion_progress_level_3",
       "value_original": "The Ravenqueen Host has the full backing of the Council of Truthsayers. The most elite warriors of the Albion clans will be sent to support you.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La Hueste de la Reina Cuervo cuenta con el pleno respaldo del Consejo de los Arúspices. Los guerreros de élite de los clanes de Albión serán enviados para apoyarte.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_rhox_albion_progress_level_4": {
       "key": "effect_bundles_localised_description_rhox_albion_progress_level_4",
       "value_original": "The Ravenqueen Host's exploits are spoken of in every hut and across every campfire's in Albion - its warriors will be known as legendary folk-heroes!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Las hazañas de la Hueste de la Reina Cuervo se cuentan en todas las cabañas y hogueras de Albión: sus guerreros serán conocidos como héroes legendarios.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_rhox_albion_progress_level_5": {
       "key": "effect_bundles_localised_description_rhox_albion_progress_level_5",
       "value_original": "The Ravenqueen Host has proven beyond doubt to be Albion's most elite force, carrying out Mhorrinion's will with unrelenting fortitude to vanquish Chaos – and it will continue to do so! ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La Hueste de la Reina Cuervo ha demostrado sin lugar a dudas ser la fuerza de élite de Albión, cumpliendo la voluntad de Mhorrinion con implacable fortaleza para derrotar al Caos, ¡y seguirá haciéndolo! ",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_rhox_albion_wanted_level_0": {
       "key": "effect_bundles_localised_description_rhox_albion_wanted_level_0",
       "value_original": "The Chaos gods have very little interest in the Ravenqueen's exploits.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los dioses del Caos tienen muy poco interés en las hazañas de la Reina Cuervo.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_rhox_albion_wanted_level_1": {
       "key": "effect_bundles_localised_description_rhox_albion_wanted_level_1",
       "value_original": "The eyes of Chaos give you but a fleeting glance.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los ojos del Caos sólo te dirigen una mirada fugaz.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_rhox_albion_wanted_level_2": {
       "key": "effect_bundles_localised_description_rhox_albion_wanted_level_2",
       "value_original": "The eyes of Chaos are starting to take notice of you.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los ojos del Caos empiezan a fijarse en ti.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_rhox_albion_wanted_level_3": {
@@ -9224,15 +9224,15 @@
     "effect_bundles_localised_description_rhox_albion_wanted_level_5": {
       "key": "effect_bundles_localised_description_rhox_albion_wanted_level_5",
       "value_original": "The eyes of chaos gaze upon you, they see a worthy challenge and set forth the Champions of Chaos!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los ojos del caos te contemplan, ven un desafío digno y ¡ponen en marcha a los Campeones del Caos!",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_wh2_dlc15_hef_dungeon_mistwalker_upgrade_albion": {
       "key": "effect_bundles_localised_description_wh2_dlc15_hef_dungeon_mistwalker_upgrade_albion",
       "value_original": "There is much to learn from the ancient ways of the Old Ones.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hay mucho que aprender de las antiguas costumbres de los Ancestrales.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_wh2_dlc15_hef_eltharion_dungeon_reward_albion": {
@@ -9763,28 +9763,28 @@
     "effects_description_additional_uses_druid_bound_awakening_of_the_wood": {
       "key": "effects_description_additional_uses_druid_bound_awakening_of_the_wood",
       "value_original": "Additional Uses for Bound Spell: 'Awakening of the Woods' %+n for Druidic Initiates",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Usos adicionales para hechizo vinculado: \"Despertar del Bosque\" %+n para Iniciados Druídicos",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_additional_uses_wh2_dlc16_spell_bound_earth_blood": {
       "key": "effects_description_additional_uses_wh2_dlc16_spell_bound_earth_blood",
       "value_original": "Additional Uses for Bound Spell: 'Earthblood' %+n for Zoats",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Usos adicionales para hechizo vinculado: \"Sangre terrenal\" %+n para Zoats",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_disable_awakening_woods": {
       "key": "effects_description_alb_disable_awakening_woods",
       "value_original": "Remove Bound Spell: 'Awakening of the Woods' from Druidic Initiates",
-      "value_translated": "Elimina el hechizo vinculado: \"Despertar del Bosque\" de los Druidas Iniciados",
+      "value_translated": "Elimina el hechizo vinculado: \"Despertar del Bosque\" de los Iniciados Druídicos",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_disable_shield_thornes": {
       "key": "effects_description_alb_disable_shield_thornes",
       "value_original": "Remove Bound Spell: 'Shield of Thornes' from Druidic Initiates",
-      "value_translated": "Elimina el hechizo vinculado: \"Escudo de espinas\" de los Druidas Iniciados",
+      "value_translated": "Elimina el hechizo vinculado: \"Escudo de espinas\" de los Iniciados Druídicos",
       "needs_retranslation": false,
       "removed": false
     },
@@ -9798,43 +9798,43 @@
     "effects_description_alb_effect_corruption_chaos_characters_bad": {
       "key": "effects_description_alb_effect_corruption_chaos_characters_bad",
       "value_original": "Chaos Undivided corruption: %+n",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Corrupción de Caos Absoluto: %+n",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_enable_bound_enfeebling": {
       "key": "effects_description_alb_enable_bound_enfeebling",
       "value_original": "Bound Spell: 'Enfeebling Foe' for Druidic Initiates",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hechizo vinculado: \"Adversario Debilitado\" para Iniciados Druídicos",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_enable_bound_flock": {
       "key": "effects_description_alb_enable_bound_flock",
       "value_original": "Bound Spell: 'Flock of Doom' for Druidic Initiates",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hechizo vinculado: \"Bandada de muerte\" para Iniciados Druídicos",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_enable_bound_pit": {
       "key": "effects_description_alb_enable_bound_pit",
       "value_original": "Bound Spell: 'Pit of Shades' for Truthsayers",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hechizo vinculado: \"Pozo de sombras\" para Arúspices",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_enable_bound_spirit_leech": {
       "key": "effects_description_alb_enable_bound_spirit_leech",
       "value_original": "Bound Spell: 'Spirit Leech' for Druidic Initiates",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hechizo vinculado: \"Sorber el espíritu\" para Iniciados Druídicos",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_enable_doom_darkness_wyrd": {
       "key": "effects_description_alb_enable_doom_darkness_wyrd",
       "value_original": "Bound Spell: 'Doom and Darkness' for Druidic Priestesses",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hechizo vinculado: \"Manto de Desesperación\" para Sacerdotisas Druídicas",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_alb_enable_horrible_regen": {
@@ -10057,35 +10057,35 @@
     "effects_description_elo_druid_circle_banish": {
       "key": "effects_description_elo_druid_circle_banish",
       "value_original": "Bound Spell: \"Banishment\" for Druidic Initiates",
-      "value_translated": "Hechizo vinculado: \"Destierro\" para Druidas Iniciados",
+      "value_translated": "Hechizo vinculado: \"Destierro\" para Iniciados Druídicos",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_elo_druid_circle_lead": {
       "key": "effects_description_elo_druid_circle_lead",
       "value_original": "Leadership: %+n for Druidic Initiates",
-      "value_translated": "Liderazgo: %+n para Druidas Iniciados",
+      "value_translated": "Liderazgo: %+n para Iniciados Druídicos",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_elo_druid_circle_mattk": {
       "key": "effects_description_elo_druid_circle_mattk",
       "value_original": "Melee Attack: %+n for Druidic Initiates",
-      "value_translated": "Ataque cuerpo a cuerpo: %+n para Druidas Iniciados",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para Iniciados Druídicos",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_elo_druid_circle_mdef": {
       "key": "effects_description_elo_druid_circle_mdef",
       "value_original": "Melee Defence: %+n for Druidic Initiates",
-      "value_translated": "Defensa cuerpo a cuerpo: %+n para Druidas Iniciados",
+      "value_translated": "Defensa cuerpo a cuerpo: %+n para Iniciados Druídicos",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_elo_druid_circle_xp": {
       "key": "effects_description_elo_druid_circle_xp",
       "value_original": "Recruitment Rank: %+n for Druidic Initiates",
-      "value_translated": "Rango de reclutamiento: %+n para Druidas Iniciados",
+      "value_translated": "Rango de reclutamiento: %+n para Iniciados Druídicos",
       "needs_retranslation": false,
       "removed": false
     },
@@ -10204,8 +10204,8 @@
     "effects_description_elo_monster_char": {
       "key": "effects_description_elo_monster_char",
       "value_original": "Charge Bonus: %+n for Fenbeasts, Giants, Aitheach Giant-Blooded, Zoats, Ogham Barrow Wights and Fenhulks",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Bonificación de carga: %+n para Bestias del Cieno, Gigantes, Aitheach Sangre de Gigantem Zoats, Tumularios de Ogham y Moles del Cieno",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_elo_monster_matt": {
@@ -10218,21 +10218,21 @@
     "effects_description_elo_monsters_r7_dmg": {
       "key": "effects_description_elo_monsters_r7_dmg",
       "value_original": "Weapon Strength: %+n% for Fenbeasts, Giants, Aitheach Giant-Blooded, Zoats, Fenhulks, Centaurs, Ogham Barrow Wights, Feral Gryphons and Druidic Initiates {{tr:rank7}}",
-      "value_translated": "Fuerza del arma: %+n% para Bestias del Cieno, Gigantes, Aitheach Sangre de Gigante, Zoats, Moles del Cieno, Centauros, Tumularios de Ogham, Grifos Salvajes y Druidas Iniciados {{tr:rank7}}",
+      "value_translated": "Fuerza del arma: %+n% para Bestias del Cieno, Gigantes, Aitheach Sangre de Gigante, Zoats, Moles del Cieno, Centauros, Tumularios de Ogham, Grifos Salvajes y Iniciados Druídicos {{tr:rank7}}",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_elo_monsters_r7_mattk": {
       "key": "effects_description_elo_monsters_r7_mattk",
       "value_original": "Melee Attack: %+n for Fenbeasts, Giants, Aitheach Giant-Blooded, Zoats, Fenhulks, Centaurs, Ogham Barrow Wights, Feral Gryphons and Druidic Initiates {{tr:rank7}}",
-      "value_translated": "Ataque cuerpo a cuerpo: %+n para Bestias del Cieno, Gigantes, Aitheach Sangre de Gigante, Zoats, Moles del Cieno, Centauros, Tumularios de Ogham, Grifos Salvajes y Druidas Iniciados {{tr:rank7}}",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para Bestias del Cieno, Gigantes, Aitheach Sangre de Gigante, Zoats, Moles del Cieno, Centauros, Tumularios de Ogham, Grifos Salvajes y Iniciados Druídicos {{tr:rank7}}",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_elo_monsters_r7_mdef": {
       "key": "effects_description_elo_monsters_r7_mdef",
       "value_original": "Melee Defence: %+n for Fenbeasts, Giants, Aitheach Giant-Blooded, Zoats, Fenhulks, Centaurs, Ogham Barrow Wights, Feral Gryphons and Druidic Initiates {{tr:rank7}}",
-      "value_translated": "Defensa cuerpo a cuerpo: %+n para Bestias del Cieno, Gigantes, Aitheach Sangre de Gigante, Zoats, Moles del Cieno, Centauros, Tumularios de Ogham, Grifos Salvajes y Druidas Iniciados {{tr:rank7}}",
+      "value_translated": "Defensa cuerpo a cuerpo: %+n para Bestias del Cieno, Gigantes, Aitheach Sangre de Gigante, Zoats, Moles del Cieno, Centauros, Tumularios de Ogham, Grifos Salvajes y Iniciados Druídicos {{tr:rank7}}",
       "needs_retranslation": false,
       "removed": false
     },
@@ -10302,14 +10302,14 @@
     "effects_description_elo_savage_dmg": {
       "key": "effects_description_elo_savage_dmg",
       "value_original": "Weapon Strength: %+n% for Woad Raiders, Druidic Initiates and Maidenguard",
-      "value_translated": "Fuerza del arma: %+n% para Incursores Isatide, Druidas Iniciados y Doncellas Espaderas",
+      "value_translated": "Fuerza del arma: %+n% para Incursores Isatide, Iniciados Druídicos y Doncellas Espaderas",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_elo_savage_matt": {
       "key": "effects_description_elo_savage_matt",
       "value_original": "Melee Attack: %+n for Woad Raiders, Druidic Initiates and Maidenguard",
-      "value_translated": "Ataque cuerpo a cuerpo: %+n para Incursores Isatide, Druidas Iniciados y Doncellas Espaderas",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para Incursores Isatide, Iniciados Druídicos y Doncellas Espaderas",
       "needs_retranslation": false,
       "removed": false
     },
@@ -10491,29 +10491,29 @@
     "effects_description_enable_spell_truth_gift_life_bound": {
       "key": "effects_description_enable_spell_truth_gift_life_bound",
       "value_original": "Bound Spell: 'Gift of Life' for Truthsayers",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hechizo vinculado: \"Regalo del la Vida\" para Arúspices",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_enable_spell_truth_protection_bound": {
       "key": "effects_description_enable_spell_truth_protection_bound",
       "value_original": "Bound Spell: 'Light of Protection' for Zoats",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hechizo vinculado: \"Luz de Protección\" para Zoats",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_enable_spell_truth_valor_bound": {
       "key": "effects_description_enable_spell_truth_valor_bound",
       "value_original": "Bound Spell: 'Blessing of Valor' for Druidic Initiates",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hechizo vinculado: \"Bendición del Valor\" para Iniciados Druídicos",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_enable_spell_truth_voice_command_bound": {
       "key": "effects_description_enable_spell_truth_voice_command_bound",
       "value_original": "Bound Spell: 'Voice of Command' for Druidic Priestesses",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hechizo vinculado: \"Voz de Mando\" para Sacerdotisas Druídicas",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_enable_stalk_falian": {
@@ -10778,7 +10778,7 @@
     "effects_description_ovn_albion_waystone_construction_penalty_dummy": {
       "key": "effects_description_ovn_albion_waystone_construction_penalty_dummy",
       "value_original": "While this Waystone is being restored the restoration time for Waystones in other regions is increased",
-      "value_translated": "Mientras se restaura este Círculo de Piedras, se incrementa el tiempo de restauración de los Círculos de Piedras en otras regiones",
+      "value_translated": "Mientras se restaura este Círculo de Piedras, se incrementa el tiempo de restauración de los Círculos de Piedras en otras regiones.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -10806,8 +10806,8 @@
     "effects_description_ovn_bird_troops_ap": {
       "key": "effects_description_ovn_bird_troops_ap",
       "value_original": "Armour Piercing Melee Damage: %+n for Ravens and Crows",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Daño perforante cuerpo a cuerpo: %+n para Cuervos Grajos y Cuervos Cornejas",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_ovn_bird_troops_lead": {
@@ -10904,8 +10904,8 @@
     "effects_description_ovn_wanted_bar_lock_down_dummy": {
       "key": "effects_description_ovn_wanted_bar_lock_down_dummy",
       "value_original": "The people's belief in the Ravenqueen is unshakeable and can no longer be reduced",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La creencia del pueblo en la Reina Cuervo es inquebrantable y ya no se puede reducir.",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_recruitment_rank_truthsayer": {
@@ -11443,8 +11443,8 @@
     "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_alb_host_ravenqueen": {
       "key": "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_alb_host_ravenqueen",
       "value_original": "Always mercurial and vengeful, Mhorrinion, Daughter of the Death God and Ravenqueen, has assembled a host of zealous tribesmen and set off on a warpath in Norsca, making sure the wretched servants of Chaos pay for their defilement of Albion...",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Siempre mercurial y vengativa, Mhorrinion, Hija del Dios de la Muerte y Reina Cuervo, ha reunido a una hueste de fanáticos miembros de su tribu y se ha puesto en pie de guerra en Norsca, asegurándose de que los desdichados siervos del Caos paguen por haber profanado Albión...",
+      "needs_retranslation": false,
       "removed": false
     },
     "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_alb_order_of_the_truthsayers": {
@@ -11555,14 +11555,14 @@
     "frontend_factions_localised_mechanics_ovn_alb_host_ravenqueen": {
       "key": "frontend_factions_localised_mechanics_ovn_alb_host_ravenqueen",
       "value_original": "[[img:bullet_chs_corruption]][[/img]]The tribes of Albion have repelled the mark of Chaos but their lands have not. They have long lived in bitter harmony with the corrupting influence of Chaos.||[[img:bullet_waystones]][[/img]]Waystone Network: Settlements are linked by Waystones which boosts the power of commandments||[[img:bullet_nor_units]][[/img]]Aggressive infantry based roster with a variety of cavalry and monstrous units.||[[img:bullet_alb_woad]][[/img]]Certain Albion units can gain upgrades using the Woad mechanic, enhancing their performance in battle.",
-      "value_translated": "[[img:bullet_chs_corruption]][[/img]]Las tribus de Albión han rechazado la mancha del Caos, pero sus tierras no. Han vivido durante demasiado tiempo en una amarga armonía con la influencia corruptora del Caos.||[[img:bullet_dwf_underway]][[/img]]Red de Círculos de Piedras: Los asentamientos están conectados por Círculos de Piedras que aumentan el poder de los decretos.||[[img:bullet_nor_units]][[/img]]Lista de unidades de infantería agresiva con variedad de unidades de caballería y monstruos.",
+      "value_translated": "[[img:bullet_chs_corruption]][[/img]]Las tribus de Albión han rechazado la mancha del Caos, pero sus tierras no. Han vivido durante demasiado tiempo en una amarga armonía con la influencia corruptora del Caos.||[[img:bullet_waystones]][[/img]]Red de Círculos de Piedras: Los asentamientos están conectados por Círculos de Piedras que aumentan el poder de los decretos.||[[img:bullet_nor_units]][[/img]]Lista de unidades de infantería agresiva con variedad de unidades de caballería y monstruos.||[[img:bullet_alb_woad]][[/img]]Algunas unidades de Albión pueden ser mejoradas a través del uso de Isatide, mejorando su rendimiento en batalla.",
       "needs_retranslation": false,
       "removed": false
     },
     "frontend_factions_localised_mechanics_ovn_alb_order_of_the_truthsayers": {
       "key": "frontend_factions_localised_mechanics_ovn_alb_order_of_the_truthsayers",
       "value_original": "[[img:bullet_chs_corruption]][[/img]]The tribes of Albion have repelled the mark of Chaos but their lands have not. They have long lived in bitter harmony with the corrupting influence of Chaos.||[[img:bullet_waystones]][[/img]]Waystone Network: Settlements are linked by Waystones which boosts the power of commandments||[[img:bullet_nor_units]][[/img]]Aggressive infantry based roster with a variety of cavalry and monstrous units.||[[img:bullet_alb_woad]][[/img]]Certain Albion units can gain upgrades using the Woad mechanic, enhancing their performance in battle.",
-      "value_translated": "[[img:bullet_chs_corruption]][[/img]]Las tribus de Albión han rechazado la mancha del Caos, pero sus tierras no. Han vivido durante demasiado tiempo en una amarga armonía con la influencia corruptora del Caos.||[[img:bullet_dwf_underway]][[/img]]Red de Círculos de Piedras: Los asentamientos están conectados por Círculos de Piedras que aumentan el poder de los decretos.||[[img:bullet_nor_units]][[/img]]Lista de unidades de infantería agresiva con variedad de unidades de caballería y monstruos.",
+      "value_translated": "[[img:bullet_chs_corruption]][[/img]]Las tribus de Albión han rechazado la mancha del Caos, pero sus tierras no. Han vivido durante demasiado tiempo en una amarga armonía con la influencia corruptora del Caos.||[[img:bullet_waystones]][[/img]]Red de Círculos de Piedras: Los asentamientos están conectados por Círculos de Piedras que aumentan el poder de los decretos.||[[img:bullet_nor_units]][[/img]]Lista de unidades de infantería agresiva con variedad de unidades de caballería y monstruos.||[[img:bullet_alb_woad]][[/img]]Algunas unidades de Albión pueden ser mejoradas a través del uso de Isatide, mejorando su rendimiento en batalla.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -11688,64 +11688,64 @@
     "incidents_localised_description_rhox_albion_progress_level_increase": {
       "key": "incidents_localised_description_rhox_albion_progress_level_increase",
       "value_original": "The Ravenqueen Host has increased its level of Belief among the folk of Albion, making great strides towards fulfilling Mhorrinion's mission. You will now receive better-quality Clan Reinforcements.\\\\n\\\\nContinue your success, garnering Belief to advance the Ravenqueen Host progress and further the Mhorrinion's cause.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La Hueste de la Reina Cuervo ha aumentado su nivel de Creencia entre la gente de Albión, dando grandes pasos hacia el cumplimiento de la misión de Mhorrinion. Ahora recibirás Refuerzos del Clan de mejor calidad.\\\\n\\\\nContinúa con tu éxito, acumulando Creencia para hacer avanzar el progreso de la Hueste de la Reina Cuervo y promover la causa de Mhorrinion.",
+      "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_description_rhox_albion_wanted_level_0": {
       "key": "incidents_localised_description_rhox_albion_wanted_level_0",
       "value_original": "The Chaos Gods grow bored of you – hostility against the Ravenqueen Host has now returned to normal levels. Clan Reinforcements will now be dispatched at regular frequency.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los Dioses del Caos se han aburrido de ti: la hostilidad contra la Hueste de la Reina Cuervo ha regresado a niveles normales. Los envíos de Refuerzos del Clan volverán a enviarse con una frecuencia regular.",
+      "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_description_rhox_albion_wanted_level_1": {
       "key": "incidents_localised_description_rhox_albion_wanted_level_1",
       "value_original": "Your military activity has heightened the enemy’s aggression towards the Ravenqueen Host, increasing the hostility level. Clan Reinforcements will now be dispatched more often.",
-      "value_translated": "Tu actividad militar ha aumentado la agresividad del enemigo hacia la Hueste de la Reina Cuervo, incrementando el nivel de hostilidad. Ahora se enviarán Refuerzos del Clan con más frecuencia.",
+      "value_translated": "Tu actividad militar ha aumentado la agresividad del enemigo hacia la Hueste de la Reina Cuervo, incrementando el nivel de hostilidad. Ahora se enviarán Refuerzos del Clan con mayor frecuencia.",
       "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_description_rhox_albion_wanted_level_2": {
       "key": "incidents_localised_description_rhox_albion_wanted_level_2",
       "value_original": "Your military activity has heightened the enemy’s aggression towards the Ravenqueen Host, increasing the hostility level. Clan Reinforcements will now be dispatched more often.",
-      "value_translated": "Tu actividad militar ha aumentado la agresividad del enemigo hacia la Hueste de la Reina Cuervo, incrementando el nivel de hostilidad. Ahora se enviarán Refuerzos del Clan con más frecuencia.",
+      "value_translated": "Tu actividad militar ha aumentado la agresividad del enemigo hacia la Hueste de la Reina Cuervo, incrementando el nivel de hostilidad. Ahora se enviarán Refuerzos del Clan con mayor frecuencia.",
       "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_description_rhox_albion_wanted_level_3": {
       "key": "incidents_localised_description_rhox_albion_wanted_level_3",
       "value_original": "Your military activity has heightened the enemy’s aggression towards the Ravenqueen Host, increasing the hostility level. Clan Reinforcements will now be dispatched more often.",
-      "value_translated": "Tu actividad militar ha aumentado la agresividad del enemigo hacia la Hueste de la Reina Cuervo, incrementando el nivel de hostilidad. Ahora se enviarán Refuerzos del Clan con más frecuencia.",
+      "value_translated": "Tu actividad militar ha aumentado la agresividad del enemigo hacia la Hueste de la Reina Cuervo, incrementando el nivel de hostilidad. Ahora se enviarán Refuerzos del Clan con mayor frecuencia.",
       "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_description_rhox_albion_wanted_level_4": {
       "key": "incidents_localised_description_rhox_albion_wanted_level_4",
       "value_original": "Your military activity has heightened the enemy’s aggression towards the Ravenqueen Host, increasing the hostility level. Clan Reinforcements will now be dispatched more often.",
-      "value_translated": "Tu actividad militar ha aumentado la agresividad del enemigo hacia la Hueste de la Reina Cuervo, incrementando el nivel de hostilidad. Ahora se enviarán Refuerzos del Clan con más frecuencia.",
+      "value_translated": "Tu actividad militar ha aumentado la agresividad del enemigo hacia la Hueste de la Reina Cuervo, incrementando el nivel de hostilidad. Ahora se enviarán Refuerzos del Clan con mayor frecuencia.",
       "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_description_rhox_albion_wanted_level_5": {
       "key": "incidents_localised_description_rhox_albion_wanted_level_5",
       "value_original": "The Ravenqueen Hosts relentless aggressions have caused hostility to rise to deadly levels – the forces of Chaos are now concentrating their efforts against you! With urgency Clan Reinforcements have already been dispatched.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Las implacables agresiones de la Hueste de la Reina Cuervo han provocado que la hostilidad aumente a niveles mortales: ¡las fuerzas del Caos concentran ahora sus esfuerzos contra vosotros! Ya se han enviado con urgencia refuerzos del Clan.",
+      "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_description_rhox_albion_wanted_level_decreased": {
       "key": "incidents_localised_description_rhox_albion_wanted_level_decreased",
       "value_original": "Your lack of military activity has caused the Chaos Gods to grow disinterested in you, reducing the hostility level. Clan Reinforcements will now be dispatched less frequently.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tu falta de actividad militar ha hecho que los Dioses del Caos se desinteresen de ti, reduciendo el nivel de hostilidad. Ahora se enviarán Refuerzos del Clan con menos frecuencia.",
+      "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_description_rhox_albion_wanted_level_reset": {
       "key": "incidents_localised_description_rhox_albion_wanted_level_reset",
       "value_original": "The Chaos Gods grow bored of you – hostility against the Ravenqueen Host has now returned to normal levels. Clan Reinforcements will now be dispatched at regular frequency.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los Dioses del Caos se han aburrido de ti: la hostilidad contra la Hueste de la Reina Cuervo ha regresado a niveles normales. Los envíos de Refuerzos del Clan volverán a enviarse con una frecuencia regular.",
+      "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_title_rhox_albion_extra_reinforcement_1": {
@@ -11772,15 +11772,15 @@
     "incidents_localised_title_rhox_albion_incident_hostility_invasion": {
       "key": "incidents_localised_title_rhox_albion_incident_hostility_invasion",
       "value_original": "Chaos Swells!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¡El Caos se desata!",
+      "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_title_rhox_albion_progress_level_increase": {
       "key": "incidents_localised_title_rhox_albion_progress_level_increase",
       "value_original": "Chaos Weakened!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¡El Caos se debilita!",
+      "needs_retranslation": false,
       "removed": false
     },
     "incidents_localised_title_rhox_albion_wanted_level_0": {
@@ -12325,7 +12325,7 @@
     "land_units_onscreen_name_alb_cav_noble_first_ror": {
       "key": "land_units_onscreen_name_alb_cav_noble_first_ror",
       "value_original": "The Firstborn Sons (Oathsworn Cavalry)",
-      "value_translated": "Los Primogénitos (Caballería de juramentados)",
+      "value_translated": "Los Primogénitos (Caballería de Juramentados)",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12738,7 +12738,7 @@
     "land_units_onscreen_name_elo_fly_infested_rotwood": {
       "key": "land_units_onscreen_name_elo_fly_infested_rotwood",
       "value_original": "The Green Man (Fen Hulk)",
-      "value_translated": "El Hombre Verde (Bestias del cieno)",
+      "value_translated": "El Hombre Verde (Bestia del Cieno)",
       "needs_retranslation": false,
       "removed": false
     },
@@ -14124,15 +14124,15 @@
     "ovn_how_they_play_albion": {
       "key": "ovn_how_they_play_albion",
       "value_original": "[[col:help_page_link]]Albion Waystones[[/col]]\\\\nThe Albion Legendary Lord that isn't leading the faction has been tasked with rebuilding the Waystones, the towering rune-carved menhirs that channel and redirect the Winds of Magic. When you complete Surging Waystones in all three provinces of the Isle of Albion the second Legendary Lord will join your faction.\\\\n\\\\n[[col:help_page_link]]Waystone Incursions[[/col]]\\\\nAlbion is an isle under siege by the forces of Chaos, and starting the construction of its waystones will trigger invasions that will periodically attack the isle.\\\\n\\\\n[[col:help_page_link]]Storms of Albion[[/col]]\\\\nTerrible storms can start over Albion, and their raging will extract a deadly toll on any invading force.",
-      "value_translated": "[[col:help_page_link]]Círculos de Piedra de Albión[[/col]]\\\\nAl Señor Legendario de Albión que no lidera la facción se le ha encomendado la tarea de reconstruir los Círculos de Piedra, los altísimos menhires tallados con runas que canalizan y redirigen los Vientos de la Magia. Cuando completes la reconstrucción de los Círculos de Piedra en las tres provincias de la Isla de Albión, el segundo Señor Legendario se unirá a tu facción.\\\\n\\\\n[[col:help_page_link]]Incursiones de los Círculos de Piedras[[/col]]\\\\nAlbión es una isla asediada por las fuerzas del Caos, y el inicio de la construcción de sus Círculos de Piedras desencadenará invasiones que atacarán periódicamente la isla.\\\\n\\\\n[[col:help_page_link]]Tormentas de Albión[[/col]]\\\\n Sobre Albión pueden desencadenarse terribles tormentas, y su furia se cobrará un peaje mortal sobre cualquier fuerza invasora.",
+      "value_translated": "[[col:help_page_link]]Círculos de Piedra de Albión[[/col]]\\\\nAl Señor Legendario de Albión que no lidera la facción se le ha encomendado la tarea de reconstruir los Círculos de Piedra, los altísimos menhires tallados con runas que canalizan y redirigen los Vientos de la Magia. Cuando completes la reconstrucción de los Círculos de Piedra en las tres provincias de la Isla de Albión, el segundo Señor Legendario se unirá a tu facción.\\\\n\\\\n[[col:help_page_link]]Incursiones de los Círculos de Piedras[[/col]]\\\\nAlbión es una isla asediada por las fuerzas del Caos, y el inicio de la construcción de sus Círculos de Piedras desencadenará invasiones que atacarán periódicamente la isla.\\\\n\\\\n[[col:help_page_link]]Tormentas de Albión[[/col]]\\\\nSobre Albión pueden desencadenarse terribles tormentas, y su furia se cobrará un peaje mortal sobre cualquier fuerza invasora.",
       "needs_retranslation": false,
       "removed": false
     },
     "ovn_sc_alb_albion": {
       "key": "ovn_sc_alb_albion",
       "value_original": "WHAT AND WHERE DIS. The men and monsters of the north have long sought to overthrow the civilisations of the south, but have always been thrown back to their frozen wastelands. But no more! Now, under your control, the Norscan hordes have been unleashed upon the Old World. The Chaos Gods gaze admiringly falls upon the leader of this cataclysmic event: you!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "QUÉ Y DÓNDE DIS. Los hombres y monstruos del norte llevan mucho tiempo intentando derrocar a las civilizaciones del sur, pero siempre han sido devueltos a sus heladas tierras baldías. Pero se acabó. Ahora, bajo tu control, las hordas norscanas se han desatado sobre el Viejo Mundo. La mirada de admiración de los Dioses del Caos se posa sobre el líder de este cataclismo: ¡tú!",
+      "needs_retranslation": false,
       "removed": false
     },
     "pooled_resource_factors_display_name_negative_albion_actions": {
@@ -14166,8 +14166,8 @@
     "pooled_resources_description_ovn_albion_woad_upgrade_woad": {
       "key": "pooled_resources_description_ovn_albion_woad_upgrade_woad",
       "value_original": "The people of Albion cover their bodies in magical woad dye when they go to war. Some of their druids can even enchance this woad further, making it more powerful, but also more dangerous to those who use it. it is produced in the Temple of Ishernos and Dye Resource building lines and is used to grant upgrades to some Albion units.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Cuando van a la guerra, los habitantes de Albión cubren sus cuerpos con un tinte mágico. Algunos de sus druidas pueden incluso encantar aún más el isatide, haciéndolo más poderoso, pero también más peligroso para los que lo usan. Se produce en el Templo de Ishernos y en las líneas de edificios de Recursos de Tinte y se utiliza para otorgar mejoras a algunas unidades de Albión.",
+      "needs_retranslation": false,
       "removed": false
     },
     "pooled_resources_description_rhox_albion_progress": {
@@ -14215,8 +14215,8 @@
     "pooled_resources_negative_factors_display_name_rhox_albion_progress": {
       "key": "pooled_resources_negative_factors_display_name_rhox_albion_progress",
       "value_original": "Chaos Surges",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El Caos resurge",
+      "needs_retranslation": false,
       "removed": false
     },
     "pooled_resources_negative_factors_display_name_rhox_albion_wanted": {
@@ -14236,8 +14236,8 @@
     "pooled_resources_positive_factors_display_name_rhox_albion_progress": {
       "key": "pooled_resources_positive_factors_display_name_rhox_albion_progress",
       "value_original": "Chaos Wanes",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El Caos recede",
+      "needs_retranslation": false,
       "removed": false
     },
     "pooled_resources_positive_factors_display_name_rhox_albion_wanted": {
@@ -14936,7 +14936,7 @@
     "technologies_onscreen_name_albion_tech_peace_1": {
       "key": "technologies_onscreen_name_albion_tech_peace_1",
       "value_original": "The Way of Peace",
-      "value_translated": "El camino de la paz",
+      "value_translated": "El Camino de la Paz",
       "needs_retranslation": false,
       "removed": false
     },
@@ -14971,7 +14971,7 @@
     "technologies_onscreen_name_albion_tech_truth_1": {
       "key": "technologies_onscreen_name_albion_tech_truth_1",
       "value_original": "The Path of the Truthsayer",
-      "value_translated": "El camino del Arúspice",
+      "value_translated": "El Camino del Arúspice",
       "needs_retranslation": false,
       "removed": false
     },
@@ -15041,7 +15041,7 @@
     "technologies_onscreen_name_albion_tech_war_1": {
       "key": "technologies_onscreen_name_albion_tech_war_1",
       "value_original": "The Warrior's Journey",
-      "value_translated": "El camino del guerrero",
+      "value_translated": "El Viaje del Guerrero",
       "needs_retranslation": false,
       "removed": false
     },
@@ -15181,7 +15181,7 @@
     "technologies_short_description_albion_tech_peace_4": {
       "key": "technologies_short_description_albion_tech_peace_4",
       "value_original": "The people of Albion pray to their own pantheon of gods which is lead by Choteich, the Sun God and Ishernos, the Earthmother.",
-      "value_translated": "Aunque Choteich es muy venerado y temido, los habitantes de Albión creen que el único dios que los protege y nutre es Ishernos. Sus ritos son populares y se realizan en todos los lugares donde se asientan las tribus.",
+      "value_translated": "Los habitantes de Albión rezan a su propio panteón de dioses, liderado por Choteich, el Dios Sol, e Ishernos, la Madre Tierra.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -15258,7 +15258,7 @@
     "technologies_short_description_albion_tech_ultimate": {
       "key": "technologies_short_description_albion_tech_ultimate",
       "value_original": "The Powers of Ruin and Destruction threaten the world from all sides, but they will be forced back into the shadows by the bravery of Albions warriors, the wisdom of the Truthsayers and the might of their allies.",
-      "value_translated": "Los poderes de la ruina y la destrucción amenazan al mundo desde todos los rincones, pero la valentía de los guerreros de Albión, la sabiduría de los Arúspices y el poder de sus aliados los obligarán a volver a las sombras.",
+      "value_translated": "Los Poderes de la Ruina y la Destrucción amenazan al mundo desde todos los flancos, pero se verán obligados a retroceder a las sombras gracias a la valentía de los guerreros albioneses, la sabiduría de los Arúspices y el poder de sus aliados.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -15293,7 +15293,7 @@
     "technologies_short_description_albion_tech_war_5": {
       "key": "technologies_short_description_albion_tech_war_5",
       "value_original": "Unlike every other warrior of Albion, the members of the Oathsworn do not practice another trade in peace times. They are professional warriors, stronger, more experienced and better trained than other tribesmen.",
-      "value_translated": "A diferencia de todos los demás guerreros de Albión, los miembros de la Guardia del Hogar no practican otro oficio en tiempos de paz. Son guerreros profesionales, más fuertes, más experimentados y mejor entrenados que otros miembros de la tribu.",
+      "value_translated": "A diferencia de todos los demás guerreros de Albión, los miembros de los Juramentados no practican otro oficio en tiempos de paz. Son guerreros profesionales, más fuertes, más experimentados y mejor entrenados que otros miembros de la tribu.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -15349,8 +15349,8 @@
     "technologies_short_description_dural_tech_4": {
       "key": "technologies_short_description_dural_tech_4",
       "value_original": "Under Order of Dural himself, many truthsayers travel the lands outside of Albion, forging alliances with the factions of Order and ensuring a steady stream of support to defend their home.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Bajo las órdenes del propio Dural, muchos Arúspices recorren las tierras fuera de Albión, forjando alianzas con las facciones de la Orden y asegurándose un flujo constante de apoyo para defender su hogar.",
+      "needs_retranslation": false,
       "removed": false
     },
     "technologies_short_description_ravenqueen_tech_1": {
@@ -15363,22 +15363,22 @@
     "technologies_short_description_ravenqueen_tech_2": {
       "key": "technologies_short_description_ravenqueen_tech_2",
       "value_original": "Those who face Daemons require the right tools for the trade - and Morrigan is more than happy to provide them to her followers.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Quienes se enfrentan a los Demonios necesitan las herramientas adecuadas para el oficio, y Morrigan está más que encantada de proporcionárselas a sus seguidores.",
+      "needs_retranslation": false,
       "removed": false
     },
     "technologies_short_description_ravenqueen_tech_3": {
       "key": "technologies_short_description_ravenqueen_tech_3",
       "value_original": "The Truthsayers may follow and teach the ways of the Old Ones, but Morrigan has her own wisdom to pass down to those devoted to her cause.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Puede que los Arúspices sigan y enseñen los caminos de los Ancestrales, pero Morrigan tiene su propia sabiduría que transmitir a los devotos de su causa.",
+      "needs_retranslation": false,
       "removed": false
     },
     "technologies_short_description_ravenqueen_tech_4": {
       "key": "technologies_short_description_ravenqueen_tech_4",
       "value_original": "The women following the call of the Ravenqueen into battle become fearsome warriors who give neither quarter nor mercy to the corrupted.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Las mujeres que siguen la llamada de la Reina Cuervo a la batalla se convierten en guerreras temibles que no dan cuartel ni piedad a los corruptos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "technology_node_sets_encyclopaedia_string_alb_mil": {
@@ -15678,8 +15678,8 @@
     "ui_text_replacements_localised_text_scrap_panel_button_tooltip_ovn_sc_alb_albion": {
       "key": "ui_text_replacements_localised_text_scrap_panel_button_tooltip_ovn_sc_alb_albion",
       "value_original": "Unit Upgrades||Use [[img:bullet_alb_woad]][[/img]]Woad to increase your units’ battle capabilities.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Mejoras de unidad||Usa [[img:bullet_alb_woad]][[/img]]Isatide para incrementar las capacidades de combate de tus unidades.",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_tooltip_campaign_upkeep_effect_description_ovn_sc_alb_albion": {
@@ -15769,15 +15769,15 @@
     "ui_unit_bullet_point_enums_tooltip_blood_woad": {
       "key": "ui_unit_bullet_point_enums_tooltip_blood_woad",
       "value_original": "This unit has been annointed with Red Woad, a magical type of woad paint that protects the wearer by draining blood from their enemies.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Esta unidad ha sido ungida con Isatide Rojo, un tipo mágico de pintura de isatide que protege al portador drenando la sangre de sus enemigos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_bullet_point_enums_tooltip_devestating_charge": {
       "key": "ui_unit_bullet_point_enums_tooltip_devestating_charge",
       "value_original": "As long as they aren't too injured or weakened, the charge of this unit will be savage, uncompromising and simply devastating.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Mientras no estén demasiado heridos o debilitados, la carga de esta unidad será salvaje, inflexible y sencillamente devastadora.",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_bullet_point_enums_tooltip_disciplined": {
@@ -15790,8 +15790,8 @@
     "ui_unit_bullet_point_enums_tooltip_forest_god": {
       "key": "ui_unit_bullet_point_enums_tooltip_forest_god",
       "value_original": "The Green Man carries with him the wrath of Albion's forests, damaging all enemies around him, and gaining certain bonuses when its fighting in a forest.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El Hombre Verde lleva consigo la ira de los bosques de Albión, dañando a todos los enemigos a su alrededor y obteniendo ciertas bonificaciones cuando lucha en un bosque.",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_bullet_point_enums_tooltip_incredible_will": {
@@ -16056,15 +16056,15 @@
     "unit_abilities_onscreen_name_calm_carrion_feast": {
       "key": "unit_abilities_onscreen_name_calm_carrion_feast",
       "value_original": "Carrion Birds",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Aves carroñeras",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_onscreen_name_cr_unit_formation_shieldwall": {
       "key": "unit_abilities_onscreen_name_cr_unit_formation_shieldwall",
       "value_original": "Bordweall ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Muro de escudos",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_onscreen_name_darkened_skies": {
@@ -16399,15 +16399,15 @@
     "unit_abilities_tooltip_text_alb_blood_woad_paint_ror": {
       "key": "unit_abilities_tooltip_text_alb_blood_woad_paint_ror",
       "value_original": "The Red Woad, or Bloody Woad, is a magical woad paint ensorcelled with a terrible kind of blood magic, which provides a magical barrier to the wearer by absorbing thel lifeforce of their enemies.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El Isatide Rojo, o Isatide Sangriento, es una pintura mágica de isatide hechizada con un terrible tipo de magia de sangre, que proporciona una barrera mágica al portador al absorber la fuerza vital de sus enemigos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_alb_druids_flock_doom_bound": {
       "key": "unit_abilities_tooltip_text_alb_druids_flock_doom_bound",
       "value_original": "With a mighty bellow, the spellcaster invokes Corvus the Crow Lord, summoning his servants to peck at the foe's eyes.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Con un poderoso bramido, el hechicero invoca a Corvus, el Señor de los Cuervos, invocando a sus sirvientes para que picoteen los ojos del enemigo.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_alb_heroic_charge": {
@@ -16427,15 +16427,15 @@
     "unit_abilities_tooltip_text_alb_horned_man_lord_forest": {
       "key": "unit_abilities_tooltip_text_alb_horned_man_lord_forest",
       "value_original": "The forest fell swiftly. As the lumberjack swung.Except for the special tree, Which could not be stung. He missed his friends, And the hymns they sung. So he started a tune, that broke man's lung.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El bosque cayó rápidamente, bajo los constantes hachazos del leñador. Excepto por el árbol especial, que no podía ser talado. Echaba de menos a sus amigos y los himnos que cantaban. Así que comenzó una melodía, que rompió el pulmón del hombre.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_alb_horned_man_power_trees": {
       "key": "unit_abilities_tooltip_text_alb_horned_man_power_trees",
       "value_original": "\"There has always been a god-shaped hole in the minds of people, and trees were the first to fill it...\"",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "\"Siempre ha habido un agujero en forma de dios en la mente de la gente, y los árboles fueron los primeros en llenarlo...\"",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_alb_legendary_strength": {
@@ -16448,8 +16448,8 @@
     "unit_abilities_tooltip_text_alb_pit_bound": {
       "key": "unit_abilities_tooltip_text_alb_pit_bound",
       "value_original": "The spellcaster opens a vortex leading into the Pit. Anything caught within it will be lost forever.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El hechicero abre un vórtice que conduce al Abismo. Todo lo que quede atrapado en él se perderá para siempre.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_albion_warcry": {
@@ -16469,8 +16469,8 @@
     "unit_abilities_tooltip_text_cr_unit_formation_shieldwall": {
       "key": "unit_abilities_tooltip_text_cr_unit_formation_shieldwall",
       "value_original": "An ancient but effective tactic, warriors stand shoulder to shoulder, holding their shields against their neighbours, creating a formidable wall of shields.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Una táctica antigua pero eficaz, los guerreros se colocan hombro con hombro, sosteniendo sus escudos contra sus vecinos, creando un formidable muro de escudos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_darkened_skies": {
@@ -16560,7 +16560,7 @@
     "unit_abilities_tooltip_text_elo_staff_of_dural_durak": {
       "key": "unit_abilities_tooltip_text_elo_staff_of_dural_durak",
       "value_original": "The Staff of Dural Durak twists the winds of magic in a unique way, making it difficult for enemy casters to utilize them.",
-      "value_translated": "La Vara de Dural Durak retuerce los vientos de la magia de una manera única, lo que dificulta que los hechiceros enemigos los utilicen.",
+      "value_translated": "El Bastón de Dural Durak retuerce los vientos de la magia de una manera única, lo que dificulta que los hechiceros enemigos los utilicen.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -16637,15 +16637,15 @@
     "unit_abilities_tooltip_text_ovn_alb_mor_summon_crows": {
       "key": "unit_abilities_tooltip_text_ovn_alb_mor_summon_crows",
       "value_original": "Whenever Mhorrinion wanders into a battlefield, numberless murders of crow follow in her wake, always at her call and beck.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Cada vez que Mhorrinion se adentra en un campo de batalla, innumerables bandadas de cuervos siguen su estela, siempre a su entera disposición.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_ovn_alb_mor_summon_ravens": {
       "key": "unit_abilities_tooltip_text_ovn_alb_mor_summon_ravens",
       "value_original": "Being the favoured daughter of the God of the Dead, the Ravenqueen always counts with the watchful protection of his father's foremost servants, should she need of it.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Al ser la hija predilecta del Dios de los Muertos, la Reina Cuervo cuenta siempre con la atenta protección de los principales sirvientes de su padre, en caso de necesitarla.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_ravenqueen_eyes": {
@@ -16665,7 +16665,7 @@
     "unit_abilities_tooltip_text_spell_truth_boon_courage_upgraded": {
       "key": "unit_abilities_tooltip_text_spell_truth_boon_courage_upgraded",
       "value_original": "The voice of the truthsayer is heard in the minds of his warriors, invoking their sense of honor and giving them unwavering hope even in the most desperate of situations.",
-      "value_translated": "La voz del Arúspice se escucha en la mente de sus guerreros, invocando su sentido del honor y dándoles una esperanza inquebrantable y dureza incluso en las situaciones más desesperadas.",
+      "value_translated": "La voz del Arúspice se escucha en la mente de sus guerreros, invocando su sentido del honor y dándoles una esperanza inquebrantable incluso en las situaciones más desesperadas.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -16749,14 +16749,14 @@
     "unit_abilities_tooltip_text_spell_truth_voice_command_upgraded": {
       "key": "unit_abilities_tooltip_text_spell_truth_voice_command_upgraded",
       "value_original": "The booming voice of the truthsayer fills the mind of an enemy, robbing them of the concentration necessary to operate ranged weapons.",
-      "value_translated": "La voz atronadora del que Arúspice resuena en la mente del enemigo, robándole la concentración necesaria para manejar armas a distancia.",
+      "value_translated": "La voz atronadora del Arúspice resuena en la mente del enemigo, robándole la concentración necesaria para manejar armas a distancia.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_spell_truth_wings_fate": {
       "key": "unit_abilities_tooltip_text_spell_truth_wings_fate",
       "value_original": "The Truthsayer conjures a flock of magical birds which will fly straight into the enemy formations, bringing doom to those they collide with.",
-      "value_translated": "El Arúspice convoca una bandada de pájaros mágicos que vuela directamente hacia las formaciones enemigas, llevando la perdición a aquellos contra los que chocan.",
+      "value_translated": "El Arúspice conjura una bandada de pájaros mágicos que vuelan directamente hacia las formaciones enemigas, llevando la perdición a aquellos con los que chocan.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -16770,7 +16770,7 @@
     "unit_abilities_tooltip_text_spell_truth_wings_fate_upgraded": {
       "key": "unit_abilities_tooltip_text_spell_truth_wings_fate_upgraded",
       "value_original": "The Truthsayer conjures a flock of magic birds which will fly straight into the enemy formations, bringing doom to those they collide with.",
-      "value_translated": "El Arúspice convoca una bandada de pájaros mágicos que vuela directamente hacia las formaciones enemigas, llevando la perdición a aquellos contra los que chocan.",
+      "value_translated": "El Arúspice conjura una bandada de pájaros mágicos que vuelan directamente hacia las formaciones enemigas, llevando la perdición a aquellos con los que chocan.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -16805,8 +16805,8 @@
     "unit_description_historical_texts_text_calm_alb_crow": {
       "key": "unit_description_historical_texts_text_calm_alb_crow",
       "value_original": "Crows and Ravens have long been considered sacred animals to the people of Albion, closely connected to the God of the Dead and to Mhorrinion, his daughter.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los grajos y las cornejas han sido considerados durante mucho tiempo animales sagrados para el pueblo de Albión, estrechamente relacionados con el Dios de los Muertos y con Mhorrinion, su hija.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_calm_alb_raven": {
@@ -16854,8 +16854,8 @@
     "unit_description_historical_texts_text_long_descr_albion_Oathsworn_2h": {
       "key": "unit_description_historical_texts_text_long_descr_albion_Oathsworn_2h",
       "value_original": "Coming from the northern mountainous regions of Albion, the folk of the mountains, known as \"Highlanders\", are much more fiercely independent than the other tribesmen of Albion. They will rarely march under the orders of one not of their own, unless they have proven themselves.\\\\n\\\\nThey march to battle in heavier clothing than the rest of the men of Albion, because the mountains and peaks they inhabit are often much harsher and colder in climate than the rest of the island, including their signature kilts, and wield massive two-handed iron swords known as claidheamh mór, or \"claymores,\" crafted by their expert smiths from the abundant ore in their territory.\\\\n\\\\nDuring battle, they will charge at the foe with great ferocity, proclaiming their freedom as they clash with those that would deny it to them.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Procedentes de las regiones montañosas del norte de Albión, los habitantes de las montañas, conocidos como \"Montañeses\", son mucho más ferozmente independientes que los demás miembros de las tribus de Albión. Rara vez marchan bajo las órdenes de alguien que no sea de los suyos, a menos que hayan demostrado su valía.\\\\n\\\\nMarchan a la batalla con ropas más pesadas que el resto de los hombres de Albión, porque las montañas y cumbres que habitan suelen tener un clima mucho más duro y frío que el resto de la isla, incluyendo sus características faldas, y blanden enormes espadas de hierro a dos manos conocidas como claidheamh mór, o \"claymores\", fabricadas por sus expertos herreros a partir del abundante mineral de su territorio.\\\\n\\\\nDurante la batalla, cargan contra el enemigo con gran ferocidad, proclamando su libertad mientras se enfrentan a quienes se la niegan.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_Oathsworn_halberd": {
@@ -16875,7 +16875,7 @@
     "unit_description_historical_texts_text_long_descr_albion_cachtorr_stonethrower": {
       "key": "unit_description_historical_texts_text_long_descr_albion_cachtorr_stonethrower",
       "value_original": "While Cachtorr is not as mighty as his brother Bologs, he's conversely much more intelligent than his brother will ever be, more intelligent indeed than even the average giant. He is known for fighting a terrible Giant couple—Dong and Mea-Dong—who were terrorising the villages surrounding the Giants Causeway. He single-handedly engaged the Giant and his Giant-Wife there, where they threw rocks at each other, and emerged victorious thanks to his smarts in realising that he could throw more stones if he picked smaller ones, and the fact that having a single eye made him a better stone thrower ( as long as the objective isn't too far ), filling the entire place with stones that serve now both as sacred menhirs to the people of Albion and tombs for the Giant couple. Cachtorr and his brother, Bologs, share a strange affinity for the Truthsayer known as Hengus the Druid. Whether this man uses magic or clever words to convince them is unknown, but the two Giants follow him everywhere and obey his every command. He has also given a special gift to Cachtorr, a magical menhir that will split into a rain of stones when thrown against the enemy, only to reform in front of Cachtor unharmed. This only lasts a few times before the enchantment wears off and the stone no longer reassembles.",
-      "value_translated": "Aunque Cachtorr no es tan poderoso como su hermano Bologs, es, por el contrario, mucho más inteligente de lo que nunca será su hermano, más inteligente incluso que el gigante medio. Es conocido por haber luchado contra una terrible pareja de Gigantes, Dong y Mea-Dong, que aterrorizaban a los pueblos que rodean la Calzada de los Gigantes. Se enfrentó solo al Gigante y a su Esposa Gigante allí, donde se lanzaron piedras, y salió victorioso gracias a su inteligencia al darse cuenta de que podía lanzar más piedras si elegía las más pequeñas, y al hecho de que tener un solo ojo le hacía ser un mejor lanzador de piedras (siempre que el objetivo no esté demasiado lejos), llenando todo el lugar de piedras que ahora sirven tanto de menhires sagrados para la gente de Albión como de tumbas para la pareja de Gigantes. Cachtorr y su hermano, Bologs, comparten una extraña afinidad con el arúspice conocido como Hengus el Druida. Se desconoce si este hombre utiliza la magia o las palabras ingeniosas para convencerlos, pero los dos Gigantes lo siguen a todas partes y obedecen todas sus órdenes. También le ha dado un regalo especial a Cachtorr, un menhir mágico que se dividirá en una lluvia de piedras cuando se lance contra el enemigo, sólo para volver a formarse intacto frente a Cachtorr. Esto sólo dura unas pocas veces antes de que el encantamiento desaparezca y la piedra ya no se vuelva a formar.",
+      "value_translated": "Aunque Cachtorr no es tan poderoso como su hermano Bologs, es, por el contrario, mucho más inteligente de lo que nunca será su hermano, más inteligente incluso que el gigante medio. Es conocido por haber luchado contra una terrible pareja de Gigantes, Dong y Mea-Dong, que aterrorizaban a los pueblos que rodean la Calzada de los Gigantes. Se enfrentó solo al Gigante y a su Esposa Gigante allí, donde se lanzaron piedras, y salió victorioso gracias a su inteligencia al darse cuenta de que podía lanzar más piedras si elegía las más pequeñas, y al hecho de que tener un solo ojo le hacía ser un mejor lanzador de piedras (siempre que el objetivo no esté demasiado lejos), llenando todo el lugar de piedras que ahora sirven tanto de menhires sagrados para la gente de Albión como de tumbas para la pareja de Gigantes. Cachtorr y su hermano, Bologs, comparten una extraña afinidad con el arúspice conocido como Hengus el Druida. Se desconoce si este hombre utiliza la magia o las palabras ingeniosas para convencerlos, pero los dos Gigantes lo siguen a todas partes y obedecen todas sus órdenes. También le ha dado un regalo especial a Cachtorr, un menhir mágico que se dividirá en una lluvia de piedras cuando se lance contra el enemigo, sólo para volver a formarse intacto frente a Cachtorr. Esto sólo dura unas pocas veces antes de que el encantamiento desaparezca y la piedra ya no se vuelva a formar.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -16889,14 +16889,14 @@
     "unit_description_historical_texts_text_long_descr_albion_centaurs": {
       "key": "unit_description_historical_texts_text_long_descr_albion_centaurs",
       "value_original": "Though many confuse these half-man, half-horse creatures with other more malign creatures spawned by the forces of Chaos, the Centaurs of Albion are capable of reason and content to live peaceful lives guarding the places of power in Albion, yet they will act furiously against any perceived attempt to defile these sacred lands.\\\\n\\\\nThe Centaurs were created in ancient times by the Old Ones to help protect the island of Albion, where many of their most important sites were found. To this day, they defend these places, and over time, the Truthsayers have gained their trust as fellow defenders of the legacy of the Old Ones. As such, they will often march with the armies of Albion as powerful shock troops, armed with great axes and equipped with bronze armour, they will bring their strenght to bear against those that would seek to defile Albion.",
-      "value_translated": "Aunque muchos confunden a estas criaturas mitad hombre y mitad caballo con otras criaturas más malignas engendradas por las fuerzas del Caos, los centauros de Albión son capaces de razonar y se contentan con vivir vidas pacíficas custodiando los lugares de poder en Albión, aunque actuarán con furia contra cualquier intento de profanar estas tierras sagradas. Los Centauros fueron creados en la antigüedad por los Ancestrales para ayudar a proteger la isla de Albión, donde se encontraban muchos de sus lugares más sagrados. Hasta el día de hoy, defienden estos lugares y, con el paso del tiempo, los Arúspices se han ganado su confianza como compañeros defensores del legado de los Ancestrales. Como tales, a menudo marchan con los ejércitos de Albión como poderosas tropas de choque, armadas con grandes hachas y equipadas con armaduras de bronce, aportarán su fuerza para enfrentarse a aquellos que pretendan profanar Albión.",
+      "value_translated": "Aunque muchos confunden a estas criaturas mitad hombre y mitad caballo con otras criaturas más malignas engendradas por las fuerzas del Caos, los centauros de Albión son capaces de razonar y se contentan con vivir vidas pacíficas custodiando los lugares de poder en Albión, aunque actuarán con furia contra cualquier intento de profanar estas tierras sagradas.\\\\n\\\\nLos Centauros fueron creados en la antigüedad por los Ancestrales para ayudar a proteger la isla de Albión, donde se encontraban muchos de sus lugares más sagrados. Hasta el día de hoy, defienden estos lugares y, con el paso del tiempo, los Arúspices se han ganado su confianza como compañeros defensores del legado de los Ancestrales. Como tales, a menudo marchan con los ejércitos de Albión como poderosas tropas de choque, armadas con grandes hachas y equipadas con armaduras de bronce, aportarán su fuerza para enfrentarse a aquellos que pretendan profanar Albión.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_chariot": {
       "key": "unit_description_historical_texts_text_long_descr_albion_chariot",
       "value_original": "The natives of Albion are surprisingly skilled at building and riding battle chariots. The horses that pull these chariots are of a local Albionese breed famed for its agility and speed, although they are smaller than those seen elsewhere.\\\\n\\\\nThis allows the nobles and champions who ride these chariots to quickly manoeuvre and rush at the enemy's flanks and most vulnerable troops. On top of chariots, the Albionese fight by striking with sharp spears from atop and using the momentum generated by their speed to charge into enemy formations and disrupt them.﻿",
-      "value_translated": "Los nativos de Albión son sorprendentemente hábiles construyendo y montando carros de combate. Los caballos que tiran de estos carros son de una raza local de Albión famosa por su agilidad y velocidad, aunque son más pequeños que los que se ven en otros lugares. Esto permite a los nobles y campeones que montan estos carros maniobrar rápidamente y abalanzarse sobre los flancos y las tropas más vulnerables del enemigo. Sobre los carros, los albionenses luchan golpeando con lanzas afiladas desde lo alto y utilizando el impulso generado por su velocidad para cargar contra las formaciones enemigas y desbaratarlas.﻿",
+      "value_translated": "Los nativos de Albión son sorprendentemente hábiles construyendo y montando carros de combate. Los caballos que tiran de estos carros son de una raza local de Albión famosa por su agilidad y velocidad, aunque son más pequeños que los que se ven en otros lugares.\\\\n\\\\nEsto permite a los nobles y campeones que montan estos carros maniobrar rápidamente y abalanzarse sobre los flancos y las tropas más vulnerables del enemigo. Sobre los carros, los albionenses luchan golpeando con lanzas afiladas desde lo alto y utilizando el impulso generado por su velocidad para cargar contra las formaciones enemigas y desbaratarlas.﻿",
       "needs_retranslation": false,
       "removed": false
     },
@@ -16938,7 +16938,7 @@
     "unit_description_historical_texts_text_long_descr_albion_half_giants": {
       "key": "unit_description_historical_texts_text_long_descr_albion_half_giants",
       "value_original": "The Giant-Blooded, or Aitheach as they call themselves, are a mysterious people who live deep within the forests of Albion, said to be the product of the union between a Giant and a Human, The Aitheach themselves have never claimed such a thing, but there's a certain resemblance in them to both the races of Men and those of the Giants, with their high stature, often dim intellect, and great strength, far beyond that of a normal man.\\\\n\\\\nOther legends claim that they are yet another of the numerous guardians tasked with guarding Albion by the Old Ones, chosen from an earlier, primal cousins to Mankind and enchanced by the mystical powers of the ancient shapers of the land.\\\\n\\\\nWhatever the case, the Giant-Blooded, as the people of Albion call them, defend the territory they lay claim to ferociously  and it is said that at the center of every one of their forest-villages lies a relic, shrine, or site related to their ancient masters, which they will guard to their last. Only a few Overkings have gained the trust of the Aitheach, but those who have done so have found them effective, if brutish, fighters for their armies. Much like their alleged cousins, the Truthsayers hold great sway over the Giant-Blooded, who will obey their commands almost without question, be it to rearrange the stone circles that channel the power of the ley lines of Albion or to defend the Land from the predations of her enemies.",
-      "value_translated": "Los Sangre de Gigante, o Aitheach como se llaman a sí mismos, son un pueblo misterioso que vive en las profundidades de los bosques de Albión, se dice que son el producto de la unión entre un Gigante y un Humano. Los propios Aitheach nunca han afirmado tal cosa, pero hay un cierto parecido en ellos tanto con las razas de los Humanos como con las de los Gigantes, con su alta estatura, su intelecto a menudo tenue, y su gran fuerza, mucho más allá de la de un hombre normal. Otras leyendas afirman que son otro de los numerosos guardianes a los que los Ancestrales encomendaron la tarea de custodiar Albión, elegidos de entre los primos primigenios de la Humanidad y encantados por los poderes místicos de los antiguos forjadores de la tierra. Sea cual sea el caso, los Sangre de Gigante, como los llaman los habitantes de Albión, defienden ferozmente el territorio que reclaman y se dice que en el centro de cada uno de sus pueblos-bosques hay una reliquia, un santuario o un lugar relacionado con sus antiguos maestros, que custodiarán hasta el final. Sólo unos pocos Líderes Guerreros se han ganado la confianza de los Aitheach, pero los que lo han hecho los han encontrado eficaces, aunque brutos, combatientes para sus ejércitos. Al igual que sus presuntos primos, los Arúspices ejercen una gran influencia sobre los Sangre de Gigante, que obedecen sus órdenes casi sin rechistar, ya sea para reorganizar los círculos de piedras que canalizan el poder de las líneas ley de Albión o para defender la Tierra de las depredaciones de sus enemigos.",
+      "value_translated": "Los Sangre de Gigante, o Aitheach como se llaman a sí mismos, son un pueblo misterioso que vive en las profundidades de los bosques de Albión, se dice que son el producto de la unión entre un Gigante y un Humano. Los propios Aitheach nunca han afirmado tal cosa, pero hay un cierto parecido en ellos tanto con las razas de los Humanos como con las de los Gigantes, con su alta estatura, su intelecto a menudo tenue, y su gran fuerza, mucho más allá de la de un hombre normal. \\\\n\\\\nOtras leyendas afirman que son otro de los numerosos guardianes a los que los Ancestrales encomendaron la tarea de custodiar Albión, elegidos de entre los primos primigenios de la Humanidad y encantados por los poderes místicos de los antiguos forjadores de la tierra. \\\\n\\\\nSea cual sea el caso, los Sangre de Gigante, como los llaman los habitantes de Albión, defienden ferozmente el territorio que reclaman y se dice que en el centro de cada uno de sus pueblos-bosques hay una reliquia, un santuario o un lugar relacionado con sus antiguos maestros, que custodiarán hasta el final. Sólo unos pocos Líderes Guerreros se han ganado la confianza de los Aitheach, pero los que lo han hecho los han encontrado eficaces, aunque brutos, combatientes para sus ejércitos. Al igual que sus presuntos primos, los Arúspices ejercen una gran influencia sobre los Sangre de Gigante, que obedecen sus órdenes casi sin rechistar, ya sea para reorganizar los círculos de piedras que canalizan el poder de las líneas ley de Albión o para defender la Tierra de las depredaciones de sus enemigos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17022,7 +17022,7 @@
     "unit_description_historical_texts_text_long_descr_albion_shieldmaiden_ror": {
       "key": "unit_description_historical_texts_text_long_descr_albion_shieldmaiden_ror",
       "value_original": "The Oracle's Maidenguard are the true core of the Maidenguard. These elite warrior-women rarely leave the side of the Oracle, whom they will defend with their own lives if necessary. More heavily armoured than the rest of their peers, they carry great shields and pikes, so as to easily form a defensive circle around their mistress. Of their number, their most widely known champion is Siobhain, who aided the famous heroes Gotrek and Felix in stopping a dark plot by a duo of Chao Sorcerers to take control of the sacred Paths of the Old Ones. Ever since Siobhain has lead the tribe of the Mainenguard, and personally leads the Oracle's own Maidenguard into battle.",
-      "value_translated": "La Guardia del Oráculo es el verdadero núcleo de las Doncellas Espaderas. Estas guerreras de élite rara vez se apartan del lado del Oráculo, al que defenderán con su propia vida si es necesario. Con una armadura más pesada que el resto de sus compañeras, llevan grandes escudos y picas, para poder formar fácilmente un círculo defensivo alrededor de su señora. De entre ellas, su campeona más conocida es Siobhain, que ayudó a los famosos héroes Gotrek y Félix a detener un oscuro complot de un dúo de hechiceros del Caos para hacerse con el control de los caminos sagrados de los Ancestrales. Desde entonces, Siobhain lidera la tribu de las Doncellas, y dirige personalmente la propia Guardia del Oráculo en la batalla.",
+      "value_translated": "La Guardia del Oráculo es el verdadero núcleo de las Doncellas Espaderas. Estas guerreras de élite rara vez se apartan del lado del Oráculo, al que defenderán con su propia vida si es necesario. Con una armadura más pesada que el resto de sus compañeras, llevan grandes escudos y picas, para poder formar fácilmente un círculo defensivo alrededor de su señora. De entre ellas, su campeona más conocida es Siobhain, que ayudó a los famosos héroes Gotrek y Félix a detener un oscuro complot de un dúo de hechiceros del Caos para hacerse con el control de los caminos sagrados de los Ancestrales. Desde entonces, Siobhain lidera la tribu de las Doncellas Espaderas, y dirige personalmente la propia Guardia del Oráculo en la batalla.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17043,77 +17043,77 @@
     "unit_description_historical_texts_text_long_descr_albion_truthsayer_beast": {
       "key": "unit_description_historical_texts_text_long_descr_albion_truthsayer_beast",
       "value_original": "The Truthsayers of Albion—also known as the Soothsayers or the Elder Druids—are a reclusive order of mystics who guide, protect, and lead the peoples of Albion. Originating from a group of Albionese Humans deemed wise enough by the Old Ones to carry on some of their secrets, the Truthsayers follow the true \"Path to Enlightement\" as laid down by the Old Ones.\\\\n\\\\nFrom their secluded circles and hermitages, they guard the land, and, more importantly, the Ogham Stones laid down by the Old Ones aeons ago. From time to time, they will enlist the aid of the Giants of Albion, who obey their orders unquestioningly, to re-align these stones, or create circles of monoliths around them to channel their power elsewhere, as the Plan of the Old Ones demands.\\\\n\\\\nAs few in number and seclusive as they are, they have only been partly successful in steering the people of Albion towards the Path to Enlightement, and most of the Albionese have turned to following an imperfect and distorted version of the Truthsayer creed called the Cult of the Earthmother or the Old Faith, which places more emphasis on the godly triad of Ishernos, Choteich and Carnuos and on defending the land of Albion herself from the predations of Chaos, rather than just guarding the Ogham Stones. Despite this, the Truthsayers are venerated as wise leaders and mystics by all, either as keepers of the ancient secrets of the Old Ones or those in closest contact with Ishernos, the Earthmother. Skilled nature wizards, they control the winds of Ghur, Ghyran, and Hysh with incredible mastery for Human wizards. They will also often draw from their own ritualistic kind of magic, drawing strength from the land of Albion itself and the ancient teachings that the Old Ones passed onto the first Truthsayers, to bolster their followers or bring the wrath of Albion upon teir foes.",
-      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. Desde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. Dado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
+      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. \\\\n\\\\nDesde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. \\\\n\\\\nDado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_truthsayer_beast_horse": {
       "key": "unit_description_historical_texts_text_long_descr_albion_truthsayer_beast_horse",
       "value_original": "The Truthsayers of Albion—also known as the Soothsayers or the Elder Druids—are a reclusive order of mystics who guide, protect, and lead the peoples of Albion. Originating from a group of Albionese Humans deemed wise enough by the Old Ones to carry on some of their secrets, the Truthsayers follow the true \"Path to Enlightement\" as laid down by the Old Ones.\\\\n\\\\nFrom their secluded circles and hermitages, they guard the land, and, more importantly, the Ogham Stones laid down by the Old Ones aeons ago. From time to time, they will enlist the aid of the Giants of Albion, who obey their orders unquestioningly, to re-align these stones, or create circles of monoliths around them to channel their power elsewhere, as the Plan of the Old Ones demands.\\\\n\\\\nAs few in number and seclusive as they are, they have only been partly successful in steering the people of Albion towards the Path to Enlightement, and most of the Albionese have turned to following an imperfect and distorted version of the Truthsayer creed called the Cult of the Earthmother or the Old Faith, which places more emphasis on the godly triad of Ishernos, Choteich and Carnuos and on defending the land of Albion herself from the predations of Chaos, rather than just guarding the Ogham Stones. Despite this, the Truthsayers are venerated as wise leaders and mystics by all, either as keepers of the ancient secrets of the Old Ones or those in closest contact with Ishernos, the Earthmother. Skilled nature wizards, they control the winds of Ghur, Ghyran, and Hysh with incredible mastery for Human wizards. They will also often draw from their own ritualistic kind of magic, drawing strength from the land of Albion itself and the ancient teachings that the Old Ones passed onto the first Truthsayers, to bolster their followers or bring the wrath of Albion upon teir foes.",
-      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. Desde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. Dado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
+      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. \\\\n\\\\nDesde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. \\\\n\\\\nDado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_truthsayer_life": {
       "key": "unit_description_historical_texts_text_long_descr_albion_truthsayer_life",
       "value_original": "The Truthsayers of Albion—also known as the Soothsayers or the Elder Druids—are a reclusive order of mystics who guide, protect, and lead the peoples of Albion. Originating from a group of Albionese Humans deemed wise enough by the Old Ones to carry on some of their secrets, the Truthsayers follow the true \"Path to Enlightement\" as laid down by the Old Ones.\\\\n\\\\nFrom their secluded circles and hermitages, they guard the land, and, more importantly, the Ogham Stones laid down by the Old Ones aeons ago. From time to time, they will enlist the aid of the Giants of Albion, who obey their orders unquestioningly, to re-align these stones, or create circles of monoliths around them to channel their power elsewhere, as the Plan of the Old Ones demands.\\\\n\\\\nAs few in number and seclusive as they are, they have only been partly successful in steering the people of Albion towards the Path to Enlightement, and most of the Albionese have turned to following an imperfect and distorted version of the Truthsayer creed called the Cult of the Earthmother or the Old Faith, which places more emphasis on the godly triad of Ishernos, Choteich and Carnuos and on defending the land of Albion herself from the predations of Chaos, rather than just guarding the Ogham Stones. Despite this, the Truthsayers are venerated as wise leaders and mystics by all, either as keepers of the ancient secrets of the Old Ones or those in closest contact with Ishernos, the Earthmother. Skilled nature wizards, they control the winds of Ghur, Ghyran, and Hysh with incredible mastery for Human wizards. They will also often draw from their own ritualistic kind of magic, drawing strength from the land of Albion itself and the ancient teachings that the Old Ones passed onto the first Truthsayers, to bolster their followers or bring the wrath of Albion upon teir foes.",
-      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. Desde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. Dado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
+      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. \\\\n\\\\nDesde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. \\\\n\\\\nDado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_truthsayer_life_horse": {
       "key": "unit_description_historical_texts_text_long_descr_albion_truthsayer_life_horse",
       "value_original": "The Truthsayers of Albion—also known as the Soothsayers or the Elder Druids—are a reclusive order of mystics who guide, protect, and lead the peoples of Albion. Originating from a group of Albionese Humans deemed wise enough by the Old Ones to carry on some of their secrets, the Truthsayers follow the true \"Path to Enlightement\" as laid down by the Old Ones.\\\\n\\\\nFrom their secluded circles and hermitages, they guard the land, and, more importantly, the Ogham Stones laid down by the Old Ones aeons ago. From time to time, they will enlist the aid of the Giants of Albion, who obey their orders unquestioningly, to re-align these stones, or create circles of monoliths around them to channel their power elsewhere, as the Plan of the Old Ones demands.\\\\n\\\\nAs few in number and seclusive as they are, they have only been partly successful in steering the people of Albion towards the Path to Enlightement, and most of the Albionese have turned to following an imperfect and distorted version of the Truthsayer creed called the Cult of the Earthmother or the Old Faith, which places more emphasis on the godly triad of Ishernos, Choteich and Carnuos and on defending the land of Albion herself from the predations of Chaos, rather than just guarding the Ogham Stones. Despite this, the Truthsayers are venerated as wise leaders and mystics by all, either as keepers of the ancient secrets of the Old Ones or those in closest contact with Ishernos, the Earthmother. Skilled nature wizards, they control the winds of Ghur, Ghyran, and Hysh with incredible mastery for Human wizards. They will also often draw from their own ritualistic kind of magic, drawing strength from the land of Albion itself and the ancient teachings that the Old Ones passed onto the first Truthsayers, to bolster their followers or bring the wrath of Albion upon teir foes.",
-      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. Desde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. Dado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
+      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. \\\\n\\\\nDesde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. \\\\n\\\\nDado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_truthsayer_light": {
       "key": "unit_description_historical_texts_text_long_descr_albion_truthsayer_light",
       "value_original": "The Truthsayers of Albion—also known as the Soothsayers or the Elder Druids—are a reclusive order of mystics who guide, protect, and lead the peoples of Albion. Originating from a group of Albionese Humans deemed wise enough by the Old Ones to carry on some of their secrets, the Truthsayers follow the true \"Path to Enlightement\" as laid down by the Old Ones.\\\\n\\\\nFrom their secluded circles and hermitages, they guard the land, and, more importantly, the Ogham Stones laid down by the Old Ones aeons ago. From time to time, they will enlist the aid of the Giants of Albion, who obey their orders unquestioningly, to re-align these stones, or create circles of monoliths around them to channel their power elsewhere, as the Plan of the Old Ones demands.\\\\n\\\\nAs few in number and seclusive as they are, they have only been partly successful in steering the people of Albion towards the Path to Enlightement, and most of the Albionese have turned to following an imperfect and distorted version of the Truthsayer creed called the Cult of the Earthmother or the Old Faith, which places more emphasis on the godly triad of Ishernos, Choteich and Carnuos and on defending the land of Albion herself from the predations of Chaos, rather than just guarding the Ogham Stones. Despite this, the Truthsayers are venerated as wise leaders and mystics by all, either as keepers of the ancient secrets of the Old Ones or those in closest contact with Ishernos, the Earthmother. Skilled nature wizards, they control the winds of Ghur, Ghyran, and Hysh with incredible mastery for Human wizards. They will also often draw from their own ritualistic kind of magic, drawing strength from the land of Albion itself and the ancient teachings that the Old Ones passed onto the first Truthsayers, to bolster their followers or bring the wrath of Albion upon teir foes.",
-      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. Desde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. Dado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
+      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. \\\\n\\\\nDesde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. \\\\n\\\\nDado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_truthsayer_light_horse": {
       "key": "unit_description_historical_texts_text_long_descr_albion_truthsayer_light_horse",
       "value_original": "The Truthsayers of Albion—also known as the Soothsayers or the Elder Druids—are a reclusive order of mystics who guide, protect, and lead the peoples of Albion. Originating from a group of Albionese Humans deemed wise enough by the Old Ones to carry on some of their secrets, the Truthsayers follow the true \"Path to Enlightement\" as laid down by the Old Ones.\\\\n\\\\nFrom their secluded circles and hermitages, they guard the land, and, more importantly, the Ogham Stones laid down by the Old Ones aeons ago. From time to time, they will enlist the aid of the Giants of Albion, who obey their orders unquestioningly, to re-align these stones, or create circles of monoliths around them to channel their power elsewhere, as the Plan of the Old Ones demands.\\\\n\\\\nAs few in number and seclusive as they are, they have only been partly successful in steering the people of Albion towards the Path to Enlightement, and most of the Albionese have turned to following an imperfect and distorted version of the Truthsayer creed called the Cult of the Earthmother or the Old Faith, which places more emphasis on the godly triad of Ishernos, Choteich and Carnuos and on defending the land of Albion herself from the predations of Chaos, rather than just guarding the Ogham Stones. Despite this, the Truthsayers are venerated as wise leaders and mystics by all, either as keepers of the ancient secrets of the Old Ones or those in closest contact with Ishernos, the Earthmother. Skilled nature wizards, they control the winds of Ghur, Ghyran, and Hysh with incredible mastery for Human wizards. They will also often draw from their own ritualistic kind of magic, drawing strength from the land of Albion itself and the ancient teachings that the Old Ones passed onto the first Truthsayers, to bolster their followers or bring the wrath of Albion upon teir foes.",
-      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. Desde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. Dado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
+      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. \\\\n\\\\nDesde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. \\\\n\\\\nDado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_truthsayer_truth": {
       "key": "unit_description_historical_texts_text_long_descr_albion_truthsayer_truth",
       "value_original": "The Truthsayers of Albion—also known as the Soothsayers or the Elder Druids—are a reclusive order of mystics who guide, protect, and lead the peoples of Albion. Originating from a group of Albionese Humans deemed wise enough by the Old Ones to carry on some of their secrets, the Truthsayers follow the true \"Path to Enlightement\" as laid down by the Old Ones.\\\\n\\\\nFrom their secluded circles and hermitages, they guard the land, and, more importantly, the Ogham Stones laid down by the Old Ones aeons ago. From time to time, they will enlist the aid of the Giants of Albion, who obey their orders unquestioningly, to re-align these stones, or create circles of monoliths around them to channel their power elsewhere, as the Plan of the Old Ones demands.\\\\n\\\\nAs few in number and seclusive as they are, they have only been partly successful in steering the people of Albion towards the Path to Enlightement, and most of the Albionese have turned to following an imperfect and distorted version of the Truthsayer creed called the Cult of the Earthmother or the Old Faith, which places more emphasis on the godly triad of Ishernos, Choteich and Carnuos and on defending the land of Albion herself from the predations of Chaos, rather than just guarding the Ogham Stones. Despite this, the Truthsayers are venerated as wise leaders and mystics by all, either as keepers of the ancient secrets of the Old Ones or those in closest contact with Ishernos, the Earthmother. Skilled nature wizards, they control the winds of Ghur, Ghyran, and Hysh with incredible mastery for Human wizards. They will also often draw from their own ritualistic kind of magic, drawing strength from the land of Albion itself and the ancient teachings that the Old Ones passed onto the first Truthsayers, to bolster their followers or bring the wrath of Albion upon teir foes.",
-      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. Desde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. Dado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
+      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. \\\\n\\\\nDesde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. \\\\n\\\\nDado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_truthsayer_truth_horse": {
       "key": "unit_description_historical_texts_text_long_descr_albion_truthsayer_truth_horse",
       "value_original": "The Truthsayers of Albion—also known as the Soothsayers or the Elder Druids—are a reclusive order of mystics who guide, protect, and lead the peoples of Albion. Originating from a group of Albionese Humans deemed wise enough by the Old Ones to carry on some of their secrets, the Truthsayers follow the true \"Path to Enlightement\" as laid down by the Old Ones.\\\\n\\\\nFrom their secluded circles and hermitages, they guard the land, and, more importantly, the Ogham Stones laid down by the Old Ones aeons ago. From time to time, they will enlist the aid of the Giants of Albion, who obey their orders unquestioningly, to re-align these stones, or create circles of monoliths around them to channel their power elsewhere, as the Plan of the Old Ones demands.\\\\n\\\\nAs few in number and seclusive as they are, they have only been partly successful in steering the people of Albion towards the Path to Enlightement, and most of the Albionese have turned to following an imperfect and distorted version of the Truthsayer creed called the Cult of the Earthmother or the Old Faith, which places more emphasis on the godly triad of Ishernos, Choteich and Carnuos and on defending the land of Albion herself from the predations of Chaos, rather than just guarding the Ogham Stones. Despite this, the Truthsayers are venerated as wise leaders and mystics by all, either as keepers of the ancient secrets of the Old Ones or those in closest contact with Ishernos, the Earthmother. Skilled nature wizards, they control the winds of Ghur, Ghyran, and Hysh with incredible mastery for Human wizards. They will also often draw from their own ritualistic kind of magic, drawing strength from the land of Albion itself and the ancient teachings that the Old Ones passed onto the first Truthsayers, to bolster their followers or bring the wrath of Albion upon teir foes.",
-      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. Desde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. Dado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
+      "value_translated": "Los Arúspices de Albión, también conocidos como Los Dicen la Verdad o los Ancianos Druidas, son una reclusiva orden de místicos que guían, protegen y lideran a los pueblos de Albión. Procedentes de un grupo de Humanos de Albión considerados lo suficientemente sabios por los Ancestrales para transmitir algunos de sus secretos, los Arúspices siguen el verdadero \"Camino de la Iluminación\" tal y como lo establecieron los Ancestrales. \\\\n\\\\nDesde sus círculos y ermitas aisladas, vigilan la tierra y, lo que es más importante, las Piedras Ogham colocadas por los Ancestrales hace eones. De vez en cuando, solicitan la ayuda de los Gigantes de Albión, que obedecen sus órdenes sin rechistar, para realinear estas piedras, o crear círculos de monolitos a su alrededor para canalizar su poder en otros lugares, tal y como exige el Plan de los Ancestrales. \\\\n\\\\nDado su escaso número y su aislamiento, sólo han tenido un éxito parcial a la hora de guiar al pueblo de Albión hacia el Camino de la Iluminación, y la mayoría de los albionenses han pasado a seguir a una versión imperfecta y distorsionada del credo de los Arúspices, llamada el Culto de la Madre Tierra o la Antigua Fe, que pone más énfasis en la tríada divina de Ishernos, Choteich y Carnuos y en la defensa de la propia tierra de Albión de las depredaciones del Caos, en lugar de limitarse a custodiar las Piedras Ogham. A pesar de ello, los Arúspices son venerados como sabios líderes y místicos por todos, ya sea como guardianes de los antiguos secretos de los Ancestrales o como aquellos que están en más estrecho contacto con Ishernos, la Madre Tierra. Hábiles magos de la naturaleza, controlan los vientos de Ghur, Ghyran e Hysh con una maestría increíble para ser humanos. También suelen recurrir a su propio tipo de magia ritual, extrayendo la fuerza de la propia tierra de Albión y de las antiguas enseñanzas que los Ancestrales transmitieron a los primeros Arúspices, para reforzar a sus seguidores o atraer la ira de Albión sobre sus enemigos.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_warleader": {
       "key": "unit_description_historical_texts_text_long_descr_albion_warleader",
       "value_original": "The Overkings, or Ruiri in their native tongue, are the mighty leaders of the many tribes and petty kingdoms of Albion. Much like the leders of the Norscans, these men tend to be warriors of great stature and skill. Yet, unlike the savage Norsemen who lead only by brute force, the Overkings of Albion inspire respect in their subjects with great heroic feats in battle and in defence of the land of Albion.\\\\n\\\\nIn times when Albion is safe from the predations of the Ruinous Powers, the Overkings will conduct petty wars against each other to prove their worth to their subjects and to increase the amount of land their tribe lays claim to. These border wars will rarely escalate into all out war, for the Overkings know all too well that heavy losses amongst their tribes will only lead to the eventual weakening of Albion, and a failure to defend the island against the forces of Chaos.\\\\n\\\\nThe Truthsayers do not care for the petty politics of the tribal kings of Albion, and will rarely intervene and steer them away from conflict if they sense that Albion must stand united against an oncoming invasion by the Dark Powers.\\\\n\\\\nThe Overkings proudly claim descent from many heroes of Albionese legend, such as MacKerog, Agam Rund, Dokko McCoughlagan, or Sìlea McEwman, though most of these claims are hard to prove since the people of Albion do not keep written genealogical records. They will often lead their troops from the front, be it on foot, mounted on one of the agile warhorses of Albion, or one of the famed chariots.",
-      "value_translated": "Los Líderes Guerreros, o Ruiri en su lengua nativa, son los poderosos líderes de las numerosas tribus y pequeños reinos de Albión. Al igual que los líderes de los norses, estos hombres tienden a ser guerreros de gran estatura y habilidad. Sin embargo, a diferencia de los salvajes norses que lideran sólo con la fuerza bruta, los Líderes Guerreros de Albión inspiran respeto en sus súbditos con grandes hazañas heroicas en la batalla y en la defensa de la tierra de Albión. En tiempos en los que Albión está a salvo de las depredaciones de los Poderes Ruinosos, los Líderes Guerreros llevarán a cabo pequeñas guerras entre ellos para demostrar su valor a sus súbditos y para aumentar la cantidad de tierras de su tribu. Estas guerras fronterizas rara vez desembocan en una guerra total, ya que los Líderes Guerreros saben muy bien que las grandes pérdidas entre sus tribus sólo conducirán a un eventual debilitamiento de Albión, y a un fracaso en la defensa de la isla contra las fuerzas del Caos. A los Arúspices no les importa la política mezquina de los reyes tribales de Albión, y rara vez intervendrán y los alejarán del conflicto si sienten que Albión debe permanecer unida contra una invasión de los Poderes Oscuros. Los Líderes Guerrero afirman con orgullo que descienden de muchos héroes de la leyenda de Albión, como MacKerog, Agam Rund, Dokko McCoughlagan o Sìlea McEwman, aunque la mayoría de estas afirmaciones son difíciles de probar, ya que el pueblo de Albión no mantiene registros genealógicos escritos. A menudo lideran sus tropas desde el frente, ya sea a pie, montados en uno de los ágiles caballos de guerra de Albión, o en uno de los famosos carros.",
+      "value_translated": "Los Líderes Guerreros, o Ruiri en su lengua nativa, son los poderosos líderes de las numerosas tribus y pequeños reinos de Albión. Al igual que los líderes de los norses, estos hombres tienden a ser guerreros de gran estatura y habilidad. Sin embargo, a diferencia de los salvajes norses que lideran sólo con la fuerza bruta, los Líderes Guerreros de Albión inspiran respeto en sus súbditos con grandes hazañas heroicas en la batalla y en la defensa de la tierra de Albión. \\\\n\\\\nEn tiempos en los que Albión está a salvo de las depredaciones de los Poderes Ruinosos, los Líderes Guerreros llevarán a cabo pequeñas guerras entre ellos para demostrar su valor a sus súbditos y para aumentar la cantidad de tierras de su tribu. Estas guerras fronterizas rara vez desembocan en una guerra total, ya que los Líderes Guerreros saben muy bien que las grandes pérdidas entre sus tribus sólo conducirán a un eventual debilitamiento de Albión, y a un fracaso en la defensa de la isla contra las fuerzas del Caos. \\\\n\\\\nA los Arúspices no les importa la política mezquina de los reyes tribales de Albión, y rara vez intervendrán y los alejarán del conflicto si sienten que Albión debe permanecer unida contra una invasión de los Poderes Oscuros. \\\\n\\\\nLos Líderes Guerrero afirman con orgullo que descienden de muchos héroes de la leyenda de Albión, como MacKerog, Agam Rund, Dokko McCoughlagan o Sìlea McEwman, aunque la mayoría de estas afirmaciones son difíciles de probar, ya que el pueblo de Albión no mantiene registros genealógicos escritos. A menudo lideran sus tropas desde el frente, ya sea a pie, montados en uno de los ágiles caballos de guerra de Albión, o en uno de los famosos carros.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_warleader_chariot": {
       "key": "unit_description_historical_texts_text_long_descr_albion_warleader_chariot",
       "value_original": "The Overkings, or Ruiri in their native tongue, are the mighty leaders of the many tribes and petty kingdoms of Albion. Much like the leders of the Norscans, these men tend to be warriors of great stature and skill. Yet, unlike the savage Norsemen who lead only by brute force, the Overkings of Albion inspire respect in their subjects with great heroic feats in battle and in defence of the land of Albion.\\\\n\\\\nIn times when Albion is safe from the predations of the Ruinous Powers, the Overkings will conduct petty wars against each other to prove their worth to their subjects and to increase the amount of land their tribe lays claim to. These border wars will rarely escalate into all out war, for the Overkings know all too well that heavy losses amongst their tribes will only lead to the eventual weakening of Albion, and a failure to defend the island against the forces of Chaos.\\\\n\\\\nThe Truthsayers do not care for the petty politics of the tribal kings of Albion, and will rarely intervene and steer them away from conflict if they sense that Albion must stand united against an oncoming invasion by the Dark Powers.\\\\n\\\\nThe Overkings proudly claim descent from many heroes of Albionese legend, such as MacKerog, Agam Rund, Dokko McCoughlagan, or Sìlea McEwman, though most of these claims are hard to prove since the people of Albion do not keep written genealogical records. They will often lead their troops from the front, be it on foot, mounted on one of the agile warhorses of Albion, or one of the famed chariots.",
-      "value_translated": "Los Líderes Guerreros, o Ruiri en su lengua nativa, son los poderosos líderes de las numerosas tribus y pequeños reinos de Albión. Al igual que los líderes de los norses, estos hombres tienden a ser guerreros de gran estatura y habilidad. Sin embargo, a diferencia de los salvajes norses que lideran sólo con la fuerza bruta, los Líderes Guerreros de Albión inspiran respeto en sus súbditos con grandes hazañas heroicas en la batalla y en la defensa de la tierra de Albión. En tiempos en los que Albión está a salvo de las depredaciones de los Poderes Ruinosos, los Líderes Guerreros llevarán a cabo pequeñas guerras entre ellos para demostrar su valor a sus súbditos y para aumentar la cantidad de tierras de su tribu. Estas guerras fronterizas rara vez desembocan en una guerra total, ya que los Líderes Guerreros saben muy bien que las grandes pérdidas entre sus tribus sólo conducirán a un eventual debilitamiento de Albión, y a un fracaso en la defensa de la isla contra las fuerzas del Caos. A los Arúspices no les importa la política mezquina de los reyes tribales de Albión, y rara vez intervendrán y los alejarán del conflicto si sienten que Albión debe permanecer unida contra una invasión de los Poderes Oscuros. Los Líderes Guerrero afirman con orgullo que descienden de muchos héroes de la leyenda de Albión, como MacKerog, Agam Rund, Dokko McCoughlagan o Sìlea McEwman, aunque la mayoría de estas afirmaciones son difíciles de probar, ya que el pueblo de Albión no mantiene registros genealógicos escritos. A menudo lideran sus tropas desde el frente, ya sea a pie, montados en uno de los ágiles caballos de guerra de Albión, o en uno de los famosos carros.",
+      "value_translated": "Los Líderes Guerreros, o Ruiri en su lengua nativa, son los poderosos líderes de las numerosas tribus y pequeños reinos de Albión. Al igual que los líderes de los norses, estos hombres tienden a ser guerreros de gran estatura y habilidad. Sin embargo, a diferencia de los salvajes norses que lideran sólo con la fuerza bruta, los Líderes Guerreros de Albión inspiran respeto en sus súbditos con grandes hazañas heroicas en la batalla y en la defensa de la tierra de Albión. \\\\n\\\\nEn tiempos en los que Albión está a salvo de las depredaciones de los Poderes Ruinosos, los Líderes Guerreros llevarán a cabo pequeñas guerras entre ellos para demostrar su valor a sus súbditos y para aumentar la cantidad de tierras de su tribu. Estas guerras fronterizas rara vez desembocan en una guerra total, ya que los Líderes Guerreros saben muy bien que las grandes pérdidas entre sus tribus sólo conducirán a un eventual debilitamiento de Albión, y a un fracaso en la defensa de la isla contra las fuerzas del Caos. \\\\n\\\\nA los Arúspices no les importa la política mezquina de los reyes tribales de Albión, y rara vez intervendrán y los alejarán del conflicto si sienten que Albión debe permanecer unida contra una invasión de los Poderes Oscuros. \\\\n\\\\nLos Líderes Guerrero afirman con orgullo que descienden de muchos héroes de la leyenda de Albión, como MacKerog, Agam Rund, Dokko McCoughlagan o Sìlea McEwman, aunque la mayoría de estas afirmaciones son difíciles de probar, ya que el pueblo de Albión no mantiene registros genealógicos escritos. A menudo lideran sus tropas desde el frente, ya sea a pie, montados en uno de los ágiles caballos de guerra de Albión, o en uno de los famosos carros.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_warleader_horse": {
       "key": "unit_description_historical_texts_text_long_descr_albion_warleader_horse",
       "value_original": "The Overkings, or Ruiri in their native tongue, are the mighty leaders of the many tribes and petty kingdoms of Albion. Much like the leders of the Norscans, these men tend to be warriors of great stature and skill. Yet, unlike the savage Norsemen who lead only by brute force, the Overkings of Albion inspire respect in their subjects with great heroic feats in battle and in defence of the land of Albion.\\\\n\\\\nIn times when Albion is safe from the predations of the Ruinous Powers, the Overkings will conduct petty wars against each other to prove their worth to their subjects and to increase the amount of land their tribe lays claim to. These border wars will rarely escalate into all out war, for the Overkings know all too well that heavy losses amongst their tribes will only lead to the eventual weakening of Albion, and a failure to defend the island against the forces of Chaos.\\\\n\\\\nThe Truthsayers do not care for the petty politics of the tribal kings of Albion, and will rarely intervene and steer them away from conflict if they sense that Albion must stand united against an oncoming invasion by the Dark Powers.\\\\n\\\\nThe Overkings proudly claim descent from many heroes of Albionese legend, such as MacKerog, Agam Rund, Dokko McCoughlagan, or Sìlea McEwman, though most of these claims are hard to prove since the people of Albion do not keep written genealogical records. They will often lead their troops from the front, be it on foot, mounted on one of the agile warhorses of Albion, or one of the famed chariots.",
-      "value_translated": "Los Líderes Guerreros, o Ruiri en su lengua nativa, son los poderosos líderes de las numerosas tribus y pequeños reinos de Albión. Al igual que los líderes de los norses, estos hombres tienden a ser guerreros de gran estatura y habilidad. Sin embargo, a diferencia de los salvajes norses que lideran sólo con la fuerza bruta, los Líderes Guerreros de Albión inspiran respeto en sus súbditos con grandes hazañas heroicas en la batalla y en la defensa de la tierra de Albión. En tiempos en los que Albión está a salvo de las depredaciones de los Poderes Ruinosos, los Líderes Guerreros llevarán a cabo pequeñas guerras entre ellos para demostrar su valor a sus súbditos y para aumentar la cantidad de tierras de su tribu. Estas guerras fronterizas rara vez desembocan en una guerra total, ya que los Líderes Guerreros saben muy bien que las grandes pérdidas entre sus tribus sólo conducirán a un eventual debilitamiento de Albión, y a un fracaso en la defensa de la isla contra las fuerzas del Caos. A los Arúspices no les importa la política mezquina de los reyes tribales de Albión, y rara vez intervendrán y los alejarán del conflicto si sienten que Albión debe permanecer unida contra una invasión de los Poderes Oscuros. Los Líderes Guerrero afirman con orgullo que descienden de muchos héroes de la leyenda de Albión, como MacKerog, Agam Rund, Dokko McCoughlagan o Sìlea McEwman, aunque la mayoría de estas afirmaciones son difíciles de probar, ya que el pueblo de Albión no mantiene registros genealógicos escritos. A menudo lideran sus tropas desde el frente, ya sea a pie, montados en uno de los ágiles caballos de guerra de Albión, o en uno de los famosos carros.",
+      "value_translated": "Los Líderes Guerreros, o Ruiri en su lengua nativa, son los poderosos líderes de las numerosas tribus y pequeños reinos de Albión. Al igual que los líderes de los norses, estos hombres tienden a ser guerreros de gran estatura y habilidad. Sin embargo, a diferencia de los salvajes norses que lideran sólo con la fuerza bruta, los Líderes Guerreros de Albión inspiran respeto en sus súbditos con grandes hazañas heroicas en la batalla y en la defensa de la tierra de Albión. \\\\n\\\\nEn tiempos en los que Albión está a salvo de las depredaciones de los Poderes Ruinosos, los Líderes Guerreros llevarán a cabo pequeñas guerras entre ellos para demostrar su valor a sus súbditos y para aumentar la cantidad de tierras de su tribu. Estas guerras fronterizas rara vez desembocan en una guerra total, ya que los Líderes Guerreros saben muy bien que las grandes pérdidas entre sus tribus sólo conducirán a un eventual debilitamiento de Albión, y a un fracaso en la defensa de la isla contra las fuerzas del Caos. \\\\n\\\\nA los Arúspices no les importa la política mezquina de los reyes tribales de Albión, y rara vez intervendrán y los alejarán del conflicto si sienten que Albión debe permanecer unida contra una invasión de los Poderes Oscuros. \\\\n\\\\nLos Líderes Guerrero afirman con orgullo que descienden de muchos héroes de la leyenda de Albión, como MacKerog, Agam Rund, Dokko McCoughlagan o Sìlea McEwman, aunque la mayoría de estas afirmaciones son difíciles de probar, ya que el pueblo de Albión no mantiene registros genealógicos escritos. A menudo lideran sus tropas desde el frente, ya sea a pie, montados en uno de los ágiles caballos de guerra de Albión, o en uno de los famosos carros.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17134,14 +17134,14 @@
     "unit_description_historical_texts_text_long_descr_albion_wyrd_druid": {
       "key": "unit_description_historical_texts_text_long_descr_albion_wyrd_druid",
       "value_original": "The Drudic Priests, or Oak Seers as they are also known, are the clerics of the Cult of the Earthmother, or the Old Faith, as it is known elsewhere. Though virtually extinct in the Old World, the people of Albion still follow this ancient cult, which is said to have originated on the Fog-Shrouded Island itself.\\\\n\\\\nOne of the most ancient religions of Man, they primarily follow Ishernos, who is both Earthmother and Skyfather, changing between those aspects with the seasons, though they will pay respect to other regional gods of Albion such as Choitech, Warrior God of the Sun and Carnuos, the Horned One, Master of the Hunt.\\\\n\\\\nThe Truthsayers tolerate the Cult of the Earthmother, even if it's a distorted version of the teachings of the Old Ones, for it is better that the folk of Albion believe in an imperfect version of the Path than fall under the influence of the Ruinous Powers, as Man often tends to. The Oak Seers have the responsibility in their tribes of officiating ceremonies in worship of the Mother, and taking care of the plants and animals in tribal lands.\\\\n\\\\nTheir command of the magic of the earth is less impressive than that of the Truthsayers, limited by their interpretation of these powers as invocations of the Mother, but one should not underestimate their powers. They have been instrumental in stopping many an Orc raid or Norscan incursion against vulnerable Albionese villages.",
-      "value_translated": "Las Sacerdotisas Drúdicas, o Videntes del Roble, como también se les conoce, son los clérigos del Culto de la Madre Tierra, o la Antigua Fe, como se conoce en otros lugares. Aunque prácticamente se ha extinguido en el Viejo Mundo, los habitantes de Albión todavía siguen este antiguo culto, que se dice que se originó en la propia Isla de la Niebla. Es una de las religiones más antiguas de la humanidad, y siguen principalmente a Ishernos, que es a la vez Madre Tierra y Padre Cielo, y que cambia de aspecto según las estaciones, aunque también respetan a otros dioses regionales de Albión, como Choitech, el Dios Guerrero del Sol, y Carnuos, el Astado, el Maestro de la Caza. Los Arúspices toleran el Culto a la Madre Tierra, aunque sea una versión distorsionada de las enseñanzas de los Ancestrales, ya que es mejor que la gente de Albión crea en una versión imperfecta del Camino antes que caer bajo la influencia de los Poderes Ruinosos, como a menudo tiende a hacer la humanidad. Las Videntes del Roble tienen la responsabilidad en sus tribus de oficiar las ceremonias de adoración a la Madre, y de cuidar de las plantas y los animales en las tierras tribales. Su dominio de la magia de la tierra es menos impresionante que el de los Arúspices, limitado por su interpretación de estos poderes como invocaciones a la Madre, pero no hay que subestimar sus poderes. Han sido decisivas a la hora de detener muchas incursiones orcas o norses contra pueblos vulnerables de Albión.",
+      "value_translated": "Las Sacerdotisas Drúdicas, o Videntes del Roble, como también se les conoce, son las clérigas del Culto de la Madre Tierra, o la Antigua Fe, como se conoce en otros lugares. Aunque prácticamente se ha extinguido en el Viejo Mundo, los habitantes de Albión todavía siguen este antiguo culto, que se dice que se originó en la propia Isla de la Niebla. \\\\n\\\\nEs una de las religiones más antiguas de la humanidad, y siguen principalmente a Ishernos, que es a la vez Madre Tierra y Padre Cielo, y que cambia de aspecto según las estaciones, aunque también respetan a otros dioses regionales de Albión, como Choitech, el Dios Guerrero del Sol, y Carnuos, el Astado, el Maestro de la Caza. \\\\n\\\\nLos Arúspices toleran el Culto a la Madre Tierra, aunque sea una versión distorsionada de las enseñanzas de los Ancestrales, ya que es mejor que la gente de Albión crea en una versión imperfecta del Camino antes que caer bajo la influencia de los Poderes Ruinosos, como a menudo tiende a hacer la humanidad. Las Videntes del Roble tienen la responsabilidad en sus tribus de oficiar las ceremonias de adoración a la Madre, y de cuidar de las plantas y los animales en las tierras tribales. \\\\n\\\\nSu dominio de la magia de la tierra es menos impresionante que el de los Arúspices, limitado por su interpretación de estos poderes como invocaciones a la Madre, pero no hay que subestimar sus poderes. Han sido decisivas a la hora de detener muchas incursiones orcas o norses contra pueblos vulnerables de Albión.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_albion_wyrd_druid_horse": {
       "key": "unit_description_historical_texts_text_long_descr_albion_wyrd_druid_horse",
       "value_original": "The Drudic Priests, or Oak Seers as they are also known, are the clerics of the Cult of the Earthmother, or the Old Faith, as it is known elsewhere. Though virtually extinct in the Old World, the people of Albion still follow this ancient cult, which is said to have originated on the Fog-Shrouded Island itself.\\\\n\\\\nOne of the most ancient religions of Man, they primarily follow Ishernos, who is both Earthmother and Skyfather, changing between those aspects with the seasons, though they will pay respect to other regional gods of Albion such as Choitech, Warrior God of the Sun and Carnuos, the Horned One, Master of the Hunt.\\\\n\\\\nThe Truthsayers tolerate the Cult of the Earthmother, even if it's a distorted version of the teachings of the Old Ones, for it is better that the folk of Albion believe in an imperfect version of the Path than fall under the influence of the Ruinous Powers, as Man often tends to. The Oak Seers have the responsibility in their tribes of officiating ceremonies in worship of the Mother, and taking care of the plants and animals in tribal lands.\\\\n\\\\nTheir command of the magic of the earth is less impressive than that of the Truthsayers, limited by their interpretation of these powers as invocations of the Mother, but one should not underestimate their powers. They have been instrumental in stopping many an Orc raid or Norscan incursion against vulnerable Albionese villages.",
-      "value_translated": "Las Sacerdotisas Drúdicas, o Videntes del Roble, como también se les conoce, son los clérigos del Culto de la Madre Tierra, o la Antigua Fe, como se conoce en otros lugares. Aunque prácticamente se ha extinguido en el Viejo Mundo, los habitantes de Albión todavía siguen este antiguo culto, que se dice que se originó en la propia Isla de la Niebla. Es una de las religiones más antiguas de la humanidad, y siguen principalmente a Ishernos, que es a la vez Madre Tierra y Padre Cielo, y que cambia de aspecto según las estaciones, aunque también respetan a otros dioses regionales de Albión, como Choitech, el Dios Guerrero del Sol, y Carnuos, el Astado, el Maestro de la Caza. Los Arúspices toleran el Culto a la Madre Tierra, aunque sea una versión distorsionada de las enseñanzas de los Ancestrales, ya que es mejor que la gente de Albión crea en una versión imperfecta del Camino antes que caer bajo la influencia de los Poderes Ruinosos, como a menudo tiende a hacer la humanidad. Las Videntes del Roble tienen la responsabilidad en sus tribus de oficiar las ceremonias de adoración a la Madre, y de cuidar de las plantas y los animales en las tierras tribales. Su dominio de la magia de la tierra es menos impresionante que el de los Arúspices, limitado por su interpretación de estos poderes como invocaciones a la Madre, pero no hay que subestimar sus poderes. Han sido decisivas a la hora de detener muchas incursiones orcas o norses contra pueblos vulnerables de Albión.",
+      "value_translated": "Las Sacerdotisas Drúdicas, o Videntes del Roble, como también se les conoce, son las clérigas del Culto de la Madre Tierra, o la Antigua Fe, como se conoce en otros lugares. Aunque prácticamente se ha extinguido en el Viejo Mundo, los habitantes de Albión todavía siguen este antiguo culto, que se dice que se originó en la propia Isla de la Niebla. \\\\n\\\\nEs una de las religiones más antiguas de la humanidad, y siguen principalmente a Ishernos, que es a la vez Madre Tierra y Padre Cielo, y que cambia de aspecto según las estaciones, aunque también respetan a otros dioses regionales de Albión, como Choitech, el Dios Guerrero del Sol, y Carnuos, el Astado, el Maestro de la Caza. \\\\n\\\\nLos Arúspices toleran el Culto a la Madre Tierra, aunque sea una versión distorsionada de las enseñanzas de los Ancestrales, ya que es mejor que la gente de Albión crea en una versión imperfecta del Camino antes que caer bajo la influencia de los Poderes Ruinosos, como a menudo tiende a hacer la humanidad. Las Videntes del Roble tienen la responsabilidad en sus tribus de oficiar las ceremonias de adoración a la Madre, y de cuidar de las plantas y los animales en las tierras tribales. \\\\n\\\\nSu dominio de la magia de la tierra es menos impresionante que el de los Arúspices, limitado por su interpretación de estos poderes como invocaciones a la Madre, pero no hay que subestimar sus poderes. Han sido decisivas a la hora de detener muchas incursiones orcas o norses contra pueblos vulnerables de Albión.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17197,21 +17197,21 @@
     "unit_description_historical_texts_text_long_descr_elo_albion_warriors": {
       "key": "unit_description_historical_texts_text_long_descr_elo_albion_warriors",
       "value_original": "When their tribe goes to war, the most able-bodied Albionites in it form warbands, which battle passionately to defend their homeland under their Chieftains or Overkings. While the common tribal folk of Albion are not professional fighters, continual inter-tribe conflict and defence against outside invasions have transformed them into capable and determined warriors, be it with sword, axe, or spear.",
-      "value_translated": "Cuando su tribu va a la guerra, los albionenses más capacitados forman bandas de guerra, que luchan apasionadamente para defender su patria bajo el mando de sus Caudillos o Líderes Guerreros. Aunque la gente común de las tribus de Albión no son luchadores profesionales, los continuos conflictos entre tribus y la defensa contra las invasiones externas los han transformado en guerreros capaces y decididos, ya sea con la espada, el hacha o la lanza.",
+      "value_translated": "Cuando su tribu va a la guerra, los albionenses más capacitados forman partidas de guerra, que luchan apasionadamente para defender su patria bajo el mando de sus Caudillos o Líderes Guerreros. Aunque la gente común de las tribus de Albión no son luchadores profesionales, los continuos conflictos entre tribus y la defensa contra las invasiones externas los han transformado en guerreros capaces y decididos, ya sea con la espada, el hacha o la lanza.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_elo_albion_warriors_2h": {
       "key": "unit_description_historical_texts_text_long_descr_elo_albion_warriors_2h",
       "value_original": "When their tribe goes to war, the most able-bodied Albionites in it form warbands, which battle passionately to defend their homeland under their Chieftains or Overkings. While the common tribal folk of Albion are not professional fighters, continual inter-tribe conflict and defence against outside invasions have transformed them into capable and determined warriors, be it with sword, axe, or spear.",
-      "value_translated": "Cuando su tribu va a la guerra, los albionenses más capacitados forman bandas de guerra, que luchan apasionadamente para defender su patria bajo el mando de sus Caudillos o Líderes Guerreros. Aunque la gente común de las tribus de Albión no son luchadores profesionales, los continuos conflictos entre tribus y la defensa contra las invasiones externas los han transformado en guerreros capaces y decididos, ya sea con la espada, el hacha o la lanza.",
+      "value_translated": "Cuando su tribu va a la guerra, los albionenses más capacitados forman partidas de guerra, que luchan apasionadamente para defender su patria bajo el mando de sus Caudillos o Líderes Guerreros. Aunque la gente común de las tribus de Albión no son luchadores profesionales, los continuos conflictos entre tribus y la defensa contra las invasiones externas los han transformado en guerreros capaces y decididos, ya sea con la espada, el hacha o la lanza.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_elo_albion_warriors_spears": {
       "key": "unit_description_historical_texts_text_long_descr_elo_albion_warriors_spears",
       "value_original": "When their tribe goes to war, the most able-bodied Albionites in it form warbands, which battle passionately to defend their homeland under their Chieftains or Overkings. While the common tribal folk of Albion are not professional fighters, continual inter-tribe conflict and defence against outside invasions have transformed them into capable and determined warriors, be it with sword, axe, or spear.",
-      "value_translated": "Cuando su tribu va a la guerra, los albionenses más capacitados forman bandas de guerra, que luchan apasionadamente para defender su patria bajo el mando de sus Caudillos o Líderes Guerreros. Aunque la gente común de las tribus de Albión no son luchadores profesionales, los continuos conflictos entre tribus y la defensa contra las invasiones externas los han transformado en guerreros capaces y decididos, ya sea con la espada, el hacha o la lanza.",
+      "value_translated": "Cuando su tribu va a la guerra, los albionenses más capacitados forman partidas de guerra, que luchan apasionadamente para defender su patria bajo el mando de sus Caudillos o Líderes Guerreros. Aunque la gente común de las tribus de Albión no son luchadores profesionales, los continuos conflictos entre tribus y la defensa contra las invasiones externas los han transformado en guerreros capaces y decididos, ya sea con la espada, el hacha o la lanza.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17246,14 +17246,14 @@
     "unit_description_historical_texts_text_long_descr_elo_woadraider": {
       "key": "unit_description_historical_texts_text_long_descr_elo_woadraider",
       "value_original": "Woad Raiders are zealous Albionite warriors. They are chosen by the Truthsayers for their extreme devotion to Choteich, the Warrior God of the Sun, and are covered in a mixture of woad made with more exotic and magically active components than the usual woad used by the other inhabitants of Albion.\\\\n\\\\nThe candidates go through a painful process to get the magical woad on their skin, which drives them slightly insane but also transforms them into fierce, unstoppable warriors.\\\\n\\\\nThey charge into battle with most of their skin exposed, frothing at the mouth and wielding two swords in a deadly whirlwind of blades and wrath.",
-      "value_translated": "Los Incursores Isatide son fervientes guerreros de Albión. Son elegidos por los Arúspices por su extrema devoción a Choteich, el Dios Guerrero del Sol, y se cubren con una mezcla de pintura añil hecha con la planta Isatide y otros componentes más exóticos y mágicamente más activos que la pintura añil habitual utilizada por los demás habitantes de Albión. Los candidatos se someten a un doloroso proceso para obtener la pintura mágica en su piel, que los vuelve ligeramente locos, pero también los transforma en guerreros feroces e imparables. Se lanzan a la batalla con la mayor parte de su piel al descubierto, echando espuma por la boca y blandiendo dos espadas en un torbellino mortal de cuchillas e ira.",
+      "value_translated": "Los Incursores Isatide son fervientes guerreros de Albión. Son elegidos por los Arúspices por su extrema devoción a Choteich, el Dios Guerrero del Sol, y se cubren con una mezcla de pintura añil hecha con la planta Isatide y otros componentes más exóticos y mágicamente más activos que la pintura añil habitual utilizada por los demás habitantes de Albión.\\\\n\\\\nLos candidatos se someten a un doloroso proceso para obtener la pintura mágica en su piel, que los vuelve ligeramente locos, pero también los transforma en guerreros feroces e imparables.\\\\n\\\\nSe lanzan a la batalla con la mayor parte de su piel al descubierto, echando espuma por la boca y blandiendo dos espadas en un torbellino mortal de cuchillas e ira.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_long_descr_elo_youngbloods": {
       "key": "unit_description_historical_texts_text_long_descr_elo_youngbloods",
       "value_original": "Young Albionites part of the tribes inhabiting the region of Albion known as \"the Great Hogs\" have a curious rite of passage to prove themselves as warriors. They'll trek to the farthest reaches of the Great Hogs, where they'll track and pluck a bristle out of one of the eponymous gigantic wild pigs, but never damage them in any way, for the people of Albion consider these gigantic creatures sacred. If they succeed, they will march alongside their tribe to war, armed with javelins, serving as skirmishers for Albion's forces.",
-      "value_translated": "Los jóvenes que forman parte de las tribus que habitan la región de Albión conocida como \"los Grandes Cerdos\" tienen un curioso rito de iniciación para demostrar que son guerreros. Viajan hasta los confines de los Grandes Cerdos, donde rastrean y cazan sin dañar de ninguna manera una de las gigantescas cerdas salvajes, los habitantes de Albión las consideran criaturas sagradas. Si tienen éxito, marcharán junto a su tribu a la guerra, armados con jabalinas, sirviendo como escaramuzadores de las fuerzas de Albión.",
+      "value_translated": "Los jóvenes que forman parte de las tribus que habitan la región de Albión conocida como \"los Grandes Cerdos\" tienen un curioso rito de iniciación para demostrar que son guerreros. Viajan hasta los confines de los Grandes Cerdos, donde rastrean y cazan sin dañar de ninguna manera una de las gigantescas cerdas salvajes, pues los habitantes de Albión las consideran criaturas sagradas. Si tienen éxito, marcharán junto a su tribu a la guerra, armados con jabalinas, sirviendo como escaramuzadores de las fuerzas de Albión.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17316,7 +17316,7 @@
     "unit_description_short_texts_text_albion_centaur_hunter_ror": {
       "key": "unit_description_short_texts_text_albion_centaur_hunter_ror",
       "value_original": "The Hunters of the Great Plains hunt those monsters who dare threatening the peace of the home of their nomadic people, weakening them from afar before slaying them in melee.",
-      "value_translated": "Los Cazadores de las Llanuras cazan a aquellos monstruos que se atreven a amenazar la paz del hogar de su pueblo nómada, debilitándolos desde lejos antes de matarlos en el cuerpo a cuerpo.",
+      "value_translated": "Los Cazadores de las Grandes Llanuras cazan a aquellos monstruos que se atreven a amenazar la paz del hogar de su pueblo nómada, debilitándolos desde lejos antes de matarlos en el cuerpo a cuerpo.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17365,15 +17365,15 @@
     "unit_description_short_texts_text_albion_hearthguard": {
       "key": "unit_description_short_texts_text_albion_hearthguard",
       "value_original": "The military aristocracy of Albion. They are professional warriors, forming the fearsome core of Albion armies and serve as bodyguards for chieftains and warlords.",
-      "value_translated": "La aristocracia militar de Albión. Son guerreros profesionales que forman el núcleo de los ejércitos de Albión y sirven como guardaespaldas de los jefes y señores de la guerra.",
+      "value_translated": "La aristocracia militar de Albión. Son guerreros profesionales que forman el núcleo de los ejércitos de Albión y sirven como guardaespaldas de los caudillos y señores de la guerra.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_albion_hearthguard_hal": {
       "key": "unit_description_short_texts_text_albion_hearthguard_hal",
       "value_original": "Weilding large halberds that can cleave a man in two, these professional warriors form the defensive lines of Albion's armies and also serve as bodyguards for chieftains and warlords.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Con grandes alabardas que pueden partir a un hombre en dos, estos guerreros profesionales forman las líneas defensivas de los ejércitos de Albión y también sirven como guardaespaldas de líderes y caudillos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_albion_highlander_ror": {
@@ -17449,7 +17449,7 @@
     "unit_description_short_texts_text_albion_truthsayer": {
       "key": "unit_description_short_texts_text_albion_truthsayer",
       "value_original": "The first Truthsayers were pupils of the Old Ones themselves. Much of the knowledge they were taught has been lost over the ages though, but even so, Truthsayers still wield strong magical powers.",
-      "value_translated": "Los primeros Arúspices fueron alumnos de los mismísimos Ancestrales. Sin embargo, gran parte del conocimiento que se les enseñó se ha perdido a lo largo de los siglos, pero, los Arúspices aún ejercen fuertes poderes mágicos.",
+      "value_translated": "Los primeros Arúspices fueron alumnos de los mismísimos Ancestrales. Sin embargo, gran parte del conocimiento que se les enseñó se ha perdido a lo largo de los siglos, pero los Arúspices aún ejercen fuertes poderes mágicos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17498,8 +17498,8 @@
     "unit_description_short_texts_text_calm_alb_crow": {
       "key": "unit_description_short_texts_text_calm_alb_crow",
       "value_original": "Crows and Ravens have long been considered sacred animals to the people of Albion, closely connected to the God of the Dead and to Mhorrinion, his daughter.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los grajos y las cornejas han sido considerados durante mucho tiempo animales sagrados para el pueblo de Albión, estrechamente relacionados con el Dios de los Muertos y con Mhorrinion, su hija.",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_calm_alb_raven": {
@@ -17512,7 +17512,7 @@
     "unit_description_short_texts_text_druid_neophytes": {
       "key": "unit_description_short_texts_text_druid_neophytes",
       "value_original": "Druidic Initiates are magically gifted apprentices, following the path of the Truthsayers. They are sent out in a battle to provide support for their fellow clansmen and learn to wield their magic in battle.",
-      "value_translated": "Los Druidas Iniciados son aprendices dotados de magia que siguen el camino de Arúspices. Son enviados a la batalla para brindar apoyo a sus compañeros de clan y aprender a usar su magia en la batalla.",
+      "value_translated": "Los Iniciados Druídicos son aprendices dotados de magia que siguen el camino de Arúspices. Son enviados a la batalla para brindar apoyo a sus compañeros de clan y aprender a usar su magia en la batalla.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17554,7 +17554,7 @@
     "unit_description_short_texts_text_elo_fly_infested_rotwood": {
       "key": "unit_description_short_texts_text_elo_fly_infested_rotwood",
       "value_original": "The Green Man is an ancient being, as old as the oldest tree in Albion. The Ogham Stone at its core is said to contain a portion of the power of Carnuos, God of the Forest.",
-      "value_translated": "El Bosque Podrido son un grupo de Bestias del Cieno legendarias, resucitadas de un pantano especialmente corrupto y contaminado por un Arúspice de antaño, una hazaña nunca igualada antes o después.",
+      "value_translated": "El Hombre Verde es un ser antiguo, tan antiguo como el árbol más viejo de Albión. Se dice que la Piedra Ogham de su núcleo contiene una porción del poder de Carnuos, Dios del Bosque.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -17589,7 +17589,7 @@
     "unit_description_short_texts_text_ovn_unit_short_text_alb_stone_throw_giant": {
       "key": "unit_description_short_texts_text_ovn_unit_short_text_alb_stone_throw_giant",
       "value_original": "The legendary giants of Albion were the last gift of the Old Ones to the inhabitants of Albion. Like all giants, they are but a shadow of their ancestors' glory, but they haven't fallen as low as their kin outside of Albion. At least for now.",
-      "value_translated": "Los legendarios gigantes de Albion fueron el último regalo de los Ancestrales a los habitantes de Albion. Como todos los gigantes, son solo la sombra de la gloria de sus antepasados, aunque, es posible que no hayan caído tan bajo como sus parientes de fuera de Albion...",
+      "value_translated": "Los legendarios gigantes de Albión fueron el último regalo de los Ancestrales a los habitantes de Albión. Como todos los gigantes, son solo la sombra de la gloria de sus antepasados, aunque, es posible que no hayan caído tan bajo como sus parientes de fuera de Albión. Al menos por ahora.",
       "needs_retranslation": false,
       "removed": false
     },

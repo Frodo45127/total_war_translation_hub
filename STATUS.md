@@ -36,7 +36,7 @@ Note that translations may be incomplete.
         - **Mixer - Mixu's Unlocker**: translated by Akercrombie. 
         - **Mixu's Legendary Lords**: translation by Nazgreg.
         - **MCT**: translated by Frodo45127.
-        - **OVN Albion**: translated by Akercrombie. Updated by Frodo45127. Still needs revision of the long strings.
+        - **OVN Albion**: translated by Akercrombie. Updated by Frodo45127.
         - **OVN Araby**: translated by Nazgreg.
         - **OVN Fimir**: translated by Akercrombie. Needs revision, as it was imported outdated.
         - **OVN Lost World**: translated by Nazgreg.
