@@ -30,6 +30,7 @@ Note that translations may be incomplete.
         - **Expanded Roster - Norsca**: translated by Akercrombie. Updated by Frodo45127.
         - **Expanded Roster - Orcs**: translated by Akercrombie. Updated by Frodo45127.
         - **Expanded Roster - Vampire Counts**: translated by Akercrombie. Updated by Frodo45127.
+        - **Legendary Lore**: translated by Ferchu.
         - **Map Replacer Framework**: translated by Frodo45127.
         - **Mixer - Mixu's Unlocker**: translated by Akercrombie. 
         - **Mixu's Legendary Lords**: translation by Nazgreg.
@@ -39,5 +40,6 @@ Note that translations may be incomplete.
         - **OVN Fimir**: translated by Akercrombie. Needs revision, as it was imported outdated.
         - **OVN Lost World**: translated by Nazgreg.
         - **Unique Faction Currencies**: initial translation by Nazgreg. Updated by Frodo45127.
+        - **Victory Conditions Overhaul**: translated by Ferchu.
 - **Pharaoh**: no mods translated nor vanilla loc fixes added.
 - **Pharaoh Dynasties**: no mods translated nor vanilla loc fixes added.
