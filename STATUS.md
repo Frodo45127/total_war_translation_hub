@@ -17,10 +17,9 @@ Note that translations may be incomplete.
 - **Troy**: no mods translated nor vanilla loc fixes added.
 - **Warhammer 3**:
     - **Spanish**:
-        - **Map Replacer Framework**: translated by Frodo45127.
         - **Cataph's Kraka Drak (The Norse Dwarfs)**: translated by Akercrombie. Needs revision, as it was imported outdated.
         - **Cataph's Southern Realms (TEB)**: translated by Gusker. Needs revision, as it was imported outdated.
-        - **Mixer - Mixu's Unlocker**: translated by Akercrombie. 
+        - **Community Patch**: translated by Frodo45127.
         - **Expanded Roster - Beastmen**: translated by Akercrombie. Updated by Frodo45127. 
         - **Expanded Roster - Chaos Dwarfs**: translated by Frodo45127. 
         - **Expanded Roster - Compilation**: merged version of the individual Expanded Roster mods. 
@@ -31,12 +30,14 @@ Note that translations may be incomplete.
         - **Expanded Roster - Norsca**: translated by Akercrombie. Updated by Frodo45127.
         - **Expanded Roster - Orcs**: translated by Akercrombie. Updated by Frodo45127.
         - **Expanded Roster - Vampire Counts**: translated by Akercrombie. Updated by Frodo45127.
+        - **Map Replacer Framework**: translated by Frodo45127.
+        - **Mixer - Mixu's Unlocker**: translated by Akercrombie. 
+        - **Mixu's Legendary Lords**: translation by Nazgreg.
         - **MCT**: translated by Frodo45127.
         - **OVN Albion**: translated by Akercrombie. Updated by Frodo45127. Still needs revision of the long strings.
         - **OVN Araby**: translated by Nazgreg.
         - **OVN Fimir**: translated by Akercrombie. Needs revision, as it was imported outdated.
         - **OVN Lost World**: translated by Nazgreg.
-        - **Community Patch**: translated by Frodo45127.
         - **Unique Faction Currencies**: initial translation by Nazgreg. Updated by Frodo45127.
 - **Pharaoh**: no mods translated nor vanilla loc fixes added.
 - **Pharaoh Dynasties**: no mods translated nor vanilla loc fixes added.
