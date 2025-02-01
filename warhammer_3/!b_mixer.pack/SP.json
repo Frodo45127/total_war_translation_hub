@@ -2,6 +2,48 @@
   "language": "SP",
   "pack_name": "!b_mixer.pack",
   "translations": {
+    "building_culture_variants_name_wh3_dlc25_dwf_workshop_infantry_1wh2_main_dwf_greybeards_prospectors": {
+      "key": "building_culture_variants_name_wh3_dlc25_dwf_workshop_infantry_1wh2_main_dwf_greybeards_prospectors",
+      "value_original": "Arms Forge",
+      "value_translated": "Fragua",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh3_dlc25_dwf_workshop_infantry_1wh2_main_dwf_karak_zorn": {
+      "key": "building_culture_variants_name_wh3_dlc25_dwf_workshop_infantry_1wh2_main_dwf_karak_zorn",
+      "value_original": "Arms Forge",
+      "value_translated": "Fragua",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh3_dlc25_dwf_workshop_infantry_1wh2_main_dwf_spine_of_sotek_dwarfs": {
+      "key": "building_culture_variants_name_wh3_dlc25_dwf_workshop_infantry_1wh2_main_dwf_spine_of_sotek_dwarfs",
+      "value_original": "Arms Forge",
+      "value_translated": "Fragua",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh3_dlc25_dwf_workshop_infantry_2wh2_main_dwf_greybeards_prospectors": {
+      "key": "building_culture_variants_name_wh3_dlc25_dwf_workshop_infantry_2wh2_main_dwf_greybeards_prospectors",
+      "value_original": "Arms Foundry",
+      "value_translated": "Fundición",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh3_dlc25_dwf_workshop_infantry_2wh2_main_dwf_karak_zorn": {
+      "key": "building_culture_variants_name_wh3_dlc25_dwf_workshop_infantry_2wh2_main_dwf_karak_zorn",
+      "value_original": "Arms Foundry",
+      "value_translated": "Fundición",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh3_dlc25_dwf_workshop_infantry_2wh2_main_dwf_spine_of_sotek_dwarfs": {
+      "key": "building_culture_variants_name_wh3_dlc25_dwf_workshop_infantry_2wh2_main_dwf_spine_of_sotek_dwarfs",
+      "value_original": "Arms Foundry",
+      "value_translated": "Fundición",
+      "needs_retranslation": false,
+      "removed": false
+    },
     "building_culture_variants_name_wh_dlc05_wef_office_starlight_forge_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elvesmixer_wef_wychwethyl": {
       "key": "building_culture_variants_name_wh_dlc05_wef_office_starlight_forge_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elvesmixer_wef_wychwethyl",
       "value_original": "Starlight Forge",
@@ -83,6 +125,27 @@
       "key": "building_culture_variants_name_wh_dlc05_wef_office_wildwood_waystones_1wh_dlc05_wef_wood_elveswh_dlc05_sc_wef_wood_elveswh_dlc05_wef_wydrioth",
       "value_original": "Wildwood Waystones",
       "value_translated": "Monolitos del Bosque Salvaje",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc25_dwf_engineer_4wh2_main_dwf_greybeards_prospectors": {
+      "key": "building_culture_variants_name_wh_dlc25_dwf_engineer_4wh2_main_dwf_greybeards_prospectors",
+      "value_original": "Guild Masters' Council",
+      "value_translated": "Consejo de Maestros del Gremio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc25_dwf_engineer_4wh2_main_dwf_karak_zorn": {
+      "key": "building_culture_variants_name_wh_dlc25_dwf_engineer_4wh2_main_dwf_karak_zorn",
+      "value_original": "Guild Masters' Council",
+      "value_translated": "Consejo de Maestros del Gremio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_wh_dlc25_dwf_engineer_4wh2_main_dwf_spine_of_sotek_dwarfs": {
+      "key": "building_culture_variants_name_wh_dlc25_dwf_engineer_4wh2_main_dwf_spine_of_sotek_dwarfs",
+      "value_original": "Guild Masters' Council",
+      "value_translated": "Consejo de Maestros del Gremio",
       "needs_retranslation": false,
       "removed": false
     },
@@ -200,8 +263,8 @@
     },
     "campaign_localised_strings_string_mixer_minor_bretonnian_factions_tooltip": {
       "key": "campaign_localised_strings_string_mixer_minor_bretonnian_factions_tooltip",
-      "value_original": "Should Montfort, Gisoreux and Quenelles appear in the Immortal Empires campaign map.\\\\nThis setting might be disabled by other mods that need these factions.",
-      "value_translated": "¿Deberían Montfort, Gisoreux y Quenelles aparecer en el mapa de campaña de Immortal Empires?\\\\nEste ajuste podría ser desactivado por otros mods que necesiten estas facciones.",
+      "value_original": "Should Montfort, Gisoreux and Quenelles appear in the Immortal Empires campaign map.\\\\nThis setting might be overwritten by other mods that need these factions.",
+      "value_translated": "¿Deberían Montfort, Gisoreux y Quenelles aparecer en el mapa de campaña de Immortal Empires?\\\\nEste ajuste podría ser sobreescrito por otros mods que necesiten estas facciones.",
       "needs_retranslation": false,
       "removed": false
     },
