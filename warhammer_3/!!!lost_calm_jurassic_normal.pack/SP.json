@@ -4926,14 +4926,14 @@
     "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_ankylosaur": {
       "key": "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_ankylosaur",
       "value_original": "To replenish/unlock: Complete an Egg Collection or Herd Extraction expedition to the Iranna Mountains.",
-      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Recolección de huevos\" o \"Extracción de manada\" a las Montañas Iranna.",
+      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Recolección de huevos\" o \"Extracción de manada\" a las Montañas Irrana.",
       "needs_retranslation": false,
       "removed": false
     },
     "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_ankylosaur_artillery": {
       "key": "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_ankylosaur_artillery",
       "value_original": "To replenish/unlock: Complete a Live Capture expedition to the Iranna Mountains.",
-      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Captura viva\" a las Montañas Iranna.",
+      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Captura viva\" a las Montañas Irrana.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -4968,14 +4968,14 @@
     "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_cherupins": {
       "key": "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_cherupins",
       "value_original": "To replenish/unlock: Complete a Herd Extraction expedition to the Turtle Isles.",
-      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Extracción de manada\" a la Gran Isla Tortuga.",
+      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Extracción de manada\" a las Islas Tortuga.",
       "needs_retranslation": false,
       "removed": false
     },
     "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_colossodon": {
       "key": "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_colossodon",
       "value_original": "To replenish/unlock: Complete a Herd Extraction expedition to the Iranna Mountains.",
-      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Extracción de manada\" a las Montañas Iranna.",
+      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Extracción de manada\" a las Montañas Irrana.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -5024,7 +5024,7 @@
     "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_feral_cherupins": {
       "key": "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_feral_cherupins",
       "value_original": "To replenish/unlock: Complete an Egg Collection expedition to the Turtle Isles.",
-      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Recolección de huevos\" a la Gran Isla Tortuga.",
+      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Recolección de huevos\" a las Islas Tortuga.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -5052,28 +5052,28 @@
     "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_ornisornis": {
       "key": "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_ornisornis",
       "value_original": "To replenish/unlock: Complete an Egg Collection or Herd Extraction expedition to the Chi’an Jungles.",
-      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Recolección de huevos\" o \"Extracción de manada\" a las Selvas de Chi'an.",
+      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Recolección de huevos\" o \"Extracción de manada\" a las Junglas de Chi'an.",
       "needs_retranslation": false,
       "removed": false
     },
     "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_pachy": {
       "key": "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_pachy",
       "value_original": "To replenish/unlock: Complete an Egg Collection expedition to the Iranna Mountains.",
-      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Recolección de huevos\" a las Montañas Iranna.",
+      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Recolección de huevos\" a las Montañas Irrana.",
       "needs_retranslation": false,
       "removed": false
     },
     "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_parasaur": {
       "key": "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_parasaur",
       "value_original": "To replenish/unlock: Complete a Herd Extraction expedition to the Chi’an Jungles.",
-      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Extracción de manada\" a las Selvas de Chi'an.",
+      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Extracción de manada\" a las Junglas de Chi'an.",
       "needs_retranslation": false,
       "removed": false
     },
     "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_parasaur_feral": {
       "key": "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_parasaur_feral",
       "value_original": "To replenish/unlock: Complete an Egg Collection expedition to the Chi’an Jungles.",
-      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Recolección de huevos\" a las Selvas de Chi'an.",
+      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Recolección de huevos\" a las Junglas de Chi'an.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -5136,7 +5136,7 @@
     "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_stegasaur_artillery": {
       "key": "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_stegasaur_artillery",
       "value_original": "To replenish/unlock: Complete a Live Capture expedition to the Turtle Isles.",
-      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Captura viva\" a la Gran Isla Tortuga.",
+      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Captura viva\" a las Islas Tortuga.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -5164,7 +5164,7 @@
     "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_xholadocus": {
       "key": "mercenary_unit_groups_replenishment_reason_rhox_fossil_calm_xholadocus",
       "value_original": "To replenish/unlock: Complete a Live Capture expedition to the Chi’an Jungles.",
-      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Captura viva\" a las Selvas de Chi'an.",
+      "value_translated": "Para reabastecer/desbloquear: Completa una expedición de \"Captura viva\" a las Junglas de Chi'an.",
       "needs_retranslation": false,
       "removed": false
     },
