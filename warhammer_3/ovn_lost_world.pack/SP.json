@@ -10953,8 +10953,8 @@
     "provinces_onscreen_wh3_main_combi_province_cathayan_hinterlands": {
       "key": "provinces_onscreen_wh3_main_combi_province_cathayan_hinterlands",
       "value_original": "Khuresh Frontier",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Frontera de Khuresh",
+      "needs_retranslation": false,
       "removed": false
     },
     "provinces_onscreen_wh3_main_combi_province_death_pass": {
@@ -10988,8 +10988,8 @@
     "provinces_onscreen_wh3_main_combi_province_northern_worlds_edge_mountains": {
       "key": "provinces_onscreen_wh3_main_combi_province_northern_worlds_edge_mountains",
       "value_original": "North World's Edge Mountains",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Norte de las Montañas del Fin del Mundo",
+      "needs_retranslation": false,
       "removed": false
     },
     "provinces_onscreen_wh3_main_combi_province_southern_badlands": {
@@ -11303,8 +11303,8 @@
     "regions_battle_name_wh3_main_combi_region_mountain_pass": {
       "key": "regions_battle_name_wh3_main_combi_region_mountain_pass",
       "value_original": "White Sistrum Chamber",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Cámara del Sistrum Blanco",
+      "needs_retranslation": false,
       "removed": false
     },
     "regions_battle_name_wh3_main_combi_region_naglfari_plain": {
@@ -11401,15 +11401,15 @@
     "regions_battle_name_wh3_main_combi_region_skrap_towers": {
       "key": "regions_battle_name_wh3_main_combi_region_skrap_towers",
       "value_original": "Skrap Towers",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Torres Chatarra",
+      "needs_retranslation": false,
       "removed": false
     },
     "regions_battle_name_wh3_main_combi_region_southern_outpost": {
       "key": "regions_battle_name_wh3_main_combi_region_southern_outpost",
       "value_original": "Lair of the Blood Naga",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Guarida de los Sangre Naga",
+      "needs_retranslation": false,
       "removed": false
     },
     "regions_battle_name_wh3_main_combi_region_stonemine_tower": {
@@ -11450,8 +11450,8 @@
     "regions_battle_name_wh3_main_combi_region_temple_of_skulls": {
       "key": "regions_battle_name_wh3_main_combi_region_temple_of_skulls",
       "value_original": "Temple of Skulls",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Templo de los Cráneos",
+      "needs_retranslation": false,
       "removed": false
     },
     "regions_battle_name_wh3_main_combi_region_the_bone_gulch": {
@@ -11800,8 +11800,8 @@
     "regions_onscreen_wh3_main_combi_region_mountain_pass": {
       "key": "regions_onscreen_wh3_main_combi_region_mountain_pass",
       "value_original": "White Sistrum Chamber",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Cámara del Sistrum Blanco",
+      "needs_retranslation": false,
       "removed": false
     },
     "regions_onscreen_wh3_main_combi_region_naglfari_plain": {
@@ -11898,15 +11898,15 @@
     "regions_onscreen_wh3_main_combi_region_skrap_towers": {
       "key": "regions_onscreen_wh3_main_combi_region_skrap_towers",
       "value_original": "Skrap Towers",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Torres Chatarra",
+      "needs_retranslation": false,
       "removed": false
     },
     "regions_onscreen_wh3_main_combi_region_southern_outpost": {
       "key": "regions_onscreen_wh3_main_combi_region_southern_outpost",
       "value_original": "Lair of the Blood Naga",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Guarida de los Sangre Naga",
+      "needs_retranslation": false,
       "removed": false
     },
     "regions_onscreen_wh3_main_combi_region_stonemine_tower": {
@@ -11947,8 +11947,8 @@
     "regions_onscreen_wh3_main_combi_region_temple_of_skulls": {
       "key": "regions_onscreen_wh3_main_combi_region_temple_of_skulls",
       "value_original": "Temple of Skulls",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Templo de los Cráneos",
+      "needs_retranslation": false,
       "removed": false
     },
     "regions_onscreen_wh3_main_combi_region_the_bone_gulch": {
@@ -12094,8 +12094,8 @@
     "resources_description_mixer_ime_major_secondary_bloodpeak": {
       "key": "resources_description_mixer_ime_major_secondary_bloodpeak",
       "value_original": "The Mountains of Mourn are home to many vicious beasts, which the Ogres have found perfectly to their liking; they make for good mounts, and even better food. The beasts of the Bloodpeak, however, haunt the surrounding tribes.  In 121 IC, there were several attempts to clear the monster-ridden peak, resulting only in complete carnage and the destruction of several Ogre tribes. Especially large beasts still thrive upon the Bloodpeak and its foothills today.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Las Montañas de los Lamentos son el hogar de muchas bestias feroces, que los Ogros han encontrado perfectamente a su gusto; son buenas monturas, e incluso mejor alimento. Sin embargo, las bestias del Pico Sangriento acechan a las tribus de los alrededores. En el 121 C.I., hubo varios intentos de limpiar el pico plagado de monstruos, que sólo dieron como resultado una carnicería total y la destrucción de varias tribus de Ogros. Especialmente las bestias grandes todavía prosperan en el Pico Sangriento y sus estribaciones hoy en día.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_mixer_ime_major_secondary_castle_bastonne": {
@@ -12164,14 +12164,14 @@
     "resources_description_mixer_ime_major_secondary_gems_zlatlan": {
       "key": "resources_description_mixer_ime_major_secondary_gems_zlatlan",
       "value_original": "Zlatlan stands as the paramount Lizardmen temple-city in the Southlands, maintaining its ancient glory amidst the dense jungle. Unlike its counterparts in Lustria, the Slann mage-priests of Zlatlan find themselves isolated due to the curvature of the earth, impeding telepathic communication with Lustria. Consequently, they conduct their calculations and rituals independently, occasionally leading to discrepancies with their Lustrian counterparts in predicting significant events.\\\\n\\\\nDespite this isolation, Zlatlan has remained a bastion of Lizardmen civilization, preserving its sacred plaques and maintaining its connection to the Old Ones' prophecies. Despite its seclusion, Zlatlan has not escaped the attention of the divine. When the Two-Tailed Comet appeared, symbolizing the forked tongue of Sotek, the mage-priests of Zlatlan, with their intact sequence of sacred plaques, deciphered its significance.\\\\n\\\\nAs the Skaven Clan Pestilens descended upon the Southlands, wreaking havoc with their plagues, Zlatlan remained untouched, protected by the divine presence of Sotek. The Skaven, driven by madness and frenzy, bypassed the city, turning their wrath upon their own kind underground. This led to the emergence of the cult of Sotek in Zlatlan, as the Lizardmen prepared for war against the Skaven, offering sacrifices to their newfound deity in the clashes that ensued.",
-      "value_translated": "Zlatlan se erige como la principal ciudad-templo de los Hombres Lagarto en las Tierras del Sur, manteniendo su antigua gloria en medio de la densa jungla. A diferencia de sus homólogos en Lustria, los magos sacerdotes Slann de Zlatlan se encuentran aislados debido a la curvatura de la tierra, impidiendo la comunicación telepática con Lustria. En consecuencia, llevan a cabo sus cálculos y rituales de forma independiente, lo que en ocasiones conduce a discrepancias con sus homólogos de Lustria a la hora de predecir eventos importantes.\\\\n\\\\nA pesar de este aislamiento, Zlatlan ha seguido siendo un bastión de la civilización de los Hombres Lagarto, preservando sus placas sagradas y manteniendo su conexión con las profecías de los Antiguos. A pesar de su reclusión, Zlatlan no ha escapado a la atención de lo divino. Cuando apareció el cometa de dos colas, que simboliza la lengua bífida de Sotek, los magos sacerdotes de Zlatlan, con su secuencia intacta de placas sagradas, descifraron su significado.\\\\n\\\\nMientras el clan Skaven Pestilens descendía sobre las Tierras del Sur, causando Después de los estragos de sus plagas, Zlatlan permaneció intacto, protegido por la presencia divina de Sotek. Los Skavens, impulsados ​​por la locura y el frenesí, rodearon la ciudad y dirigieron su ira contra los suyos bajo tierra. Esto llevó al surgimiento del culto a Sotek en Zlatlan, mientras los Hombres Lagarto se preparaban para la guerra contra los Skavens, ofreciendo sacrificios a su nueva deidad en los enfrentamientos que siguieron.",
+      "value_translated": "Zlatlan se erige como la principal ciudad-templo de los Hombres Lagarto en las Tierras del Sur, manteniendo su antigua gloria en medio de la densa jungla. A diferencia de sus homólogos en Lustria, los magos sacerdotes Slann de Zlatlan se encuentran aislados debido a la curvatura de la tierra, impidiendo la comunicación telepática con Lustria. En consecuencia, llevan a cabo sus cálculos y rituales de forma independiente, lo que en ocasiones conduce a discrepancias con sus homólogos de Lustria a la hora de predecir eventos importantes.\\\\n\\\\nA pesar de este aislamiento, Zlatlan ha seguido siendo un bastión de la civilización de los Hombres Lagarto, preservando sus placas sagradas y manteniendo su conexión con las profecías de los Ancestrales. A pesar de su reclusión, Zlatlan no ha escapado a la atención de lo divino. Cuando apareció el cometa de dos colas, que simboliza la lengua bífida de Sotek, los magos sacerdotes de Zlatlan, con su secuencia intacta de placas sagradas, descifraron su significado.\\\\n\\\\nMientras el clan Skaven Pestilens descendía sobre las Tierras del Sur, causando Después de los estragos de sus plagas, Zlatlan permaneció intacto, protegido por la presencia divina de Sotek. Los Skavens, impulsados ​​por la locura y el frenesí, rodearon la ciudad y dirigieron su ira contra los suyos bajo tierra. Esto llevó al surgimiento del culto a Sotek en Zlatlan, mientras los Hombres Lagarto se preparaban para la guerra contra los Skavens, ofreciendo sacrificios a su nueva deidad en los enfrentamientos que siguieron.",
       "needs_retranslation": false,
       "removed": false
     },
     "resources_description_mixer_ime_major_secondary_gold_temple_avenue_of_gold": {
       "key": "resources_description_mixer_ime_major_secondary_gold_temple_avenue_of_gold",
       "value_original": "At its height, the Temple-Avenue of Gold was the most extravagant city in the whole of the world. For the Lizardmen, gold is merely a material, and with the sheer quantity of gold present in the Southlands, it was not unreasonable to construct a whole street of gold. But these were the days before the coming of Chaos, when the Old Ones still watched over their children directly. When the Polar Gates shattered and the Chaos Gods first smiled upon the world, a horde of Slaaneshi Daemons descended upon the Temple-Avenue of Gold and delighted in its extravagance. Daemonettes feasted upon Skinks and rutted on the golden street, and before the Daemons were done there was no brick in the Temple-Avenue of Gold that had not been perverted in some manner.\\\\n\\\\nMany have been drawn to the Temple-Avenue of Gold, but the allure of the gold here is poisonous; Slaanesh's gaze still watches this place, and the gold is deeply cursed. Whole crews of mercenaries have attempted to avail themselves of the gold, only to descend into an orgy of blood in imitation of the Daemonic massacre so many millennia ago. Only Skaven have made a life here, and even then only underground.",
-      "value_translated": "En su apogeo, el Templo-Avenida del Oro fue la ciudad más extravagante del mundo. Para los Hombres Lagarto, el oro es simplemente un material, y con la gran cantidad de oro presente en las Tierras del Sur, no era descabellado construir una calle entera de oro. Pero aquellos eran los días previos a la llegada del Caos, cuando los Antiguos todavía vigilaban directamente a sus hijos. Cuando las Puertas Polares se hicieron añicos y los Dioses del Caos sonrieron por primera vez al mundo, una horda de Demonios Slaaneshi descendió sobre el Templo-Avenida del Oro y se deleitó con su extravagancia. Las Diablillas se daban un festín con los Eslizones y recorrían la calle dorada, y antes de que los Demonios terminaran no había ladrillo en la Avenida del Templo del Oro que no hubiera sido pervertido de alguna manera.\\\\n\\\\nMuchos se han sentido atraídos por el Templo-Avenida del Oro. Avenida del Oro, pero el encanto del oro aquí es venenoso; La mirada de Slaanesh todavía observa este lugar, y el oro está profundamente maldito. Tripulaciones enteras de mercenarios han intentado aprovecharse del oro, sólo para caer en una orgía de sangre a imitación de la masacre demoníaca de hace tantos milenios. Sólo los Skavens han hecho vida aquí, y aun así sólo bajo tierra.",
+      "value_translated": "En su apogeo, el Templo-Avenida del Oro fue la ciudad más extravagante del mundo. Para los Hombres Lagarto, el oro es simplemente un material, y con la gran cantidad de oro presente en las Tierras del Sur, no era descabellado construir una calle entera de oro. Pero aquellos eran los días previos a la llegada del Caos, cuando los Ancestrales todavía vigilaban directamente a sus hijos. Cuando las Puertas Polares se hicieron añicos y los Dioses del Caos sonrieron por primera vez al mundo, una horda de Demonios Slaaneshi descendió sobre el Templo-Avenida del Oro y se deleitó con su extravagancia. Las Diablillas se daban un festín con los Eslizones y recorrían la calle dorada, y antes de que los Demonios terminaran no había ladrillo en la Avenida del Templo del Oro que no hubiera sido pervertido de alguna manera.\\\\n\\\\nMuchos se han sentido atraídos por el Templo-Avenida del Oro. Avenida del Oro, pero el encanto del oro aquí es venenoso; La mirada de Slaanesh todavía observa este lugar, y el oro está profundamente maldito. Tripulaciones enteras de mercenarios han intentado aprovecharse del oro, sólo para caer en una orgía de sangre a imitación de la masacre demoníaca de hace tantos milenios. Sólo los Skavens han hecho vida aquí, y aun así sólo bajo tierra.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12206,7 +12206,7 @@
     "resources_description_mixer_ime_major_secondary_isle_of_the_crimson_skull": {
       "key": "resources_description_mixer_ime_major_secondary_isle_of_the_crimson_skull",
       "value_original": "The Isle of the Crimson Skull, is a place the Old Ones themselves once thought a haven. The small island is dominated by its namesake, the Crimson Skull. A gargantuan reptilian skull, its head inlaid with barbed horns while its fanged jaw lay agape. From its empty eyes and maw a crimson light constantly glows. It is this skull that has seen this paradise threatened for the crimson mineral mined here can empower any weapon or trinket.\\\\n\\\\nTo the lizardmen the isle is a sacred place, for the Old Ones once roamed there. To let outsiders enter the island’s interior is unthinkable to them. Though this sacrilege is occurring more frequently of late with Skaven and Greenskins found trespassing and summarily executed. More so strange men from the west have made landfall and like those from the Old World they care little of the lizardmens great plan and serve only their own short-sighted needs.",
-      "value_translated": "La Isla de la Calavera Carmesí es un lugar que los propios Antiguos alguna vez consideraron un refugio. La pequeña isla está dominada por su homónimo, Crimson Skull. Un cráneo de reptil gigantesco, con la cabeza incrustada de cuernos de púas y la mandíbula con colmillos abierta. De sus ojos vacíos y sus fauces brilla constantemente una luz carmesí. Es este cráneo el que ha visto este paraíso amenazado porque el mineral carmesí extraído aquí puede potenciar cualquier arma o baratija.\\\\n\\\\nPara los hombres lagarto, la isla es un lugar sagrado, ya que los Antiguos vagaban por allí. Para ellos es impensable permitir que personas ajenas entren al interior de la isla. Aunque este sacrilegio está ocurriendo con mayor frecuencia últimamente, los Skavens y los Pieles Verdes han sido encontrados invadiendo y ejecutados sumariamente. Hombres más extraños del oeste han llegado a tierra y, al igual que los del Viejo Mundo, les importa poco el gran plan de los hombres lagarto y sólo sirven a sus propias necesidades miopes.",
+      "value_translated": "La Isla de la Calavera Carmesí es un lugar que los propios Ancestrales alguna vez consideraron un refugio. La pequeña isla está dominada por su homónimo, Crimson Skull. Un cráneo de reptil gigantesco, con la cabeza incrustada de cuernos de púas y la mandíbula con colmillos abierta. De sus ojos vacíos y sus fauces brilla constantemente una luz carmesí. Es este cráneo el que ha visto este paraíso amenazado porque el mineral carmesí extraído aquí puede potenciar cualquier arma o baratija.\\\\n\\\\nPara los hombres lagarto, la isla es un lugar sagrado, ya que los Ancestrales vagaban por allí. Para ellos es impensable permitir que personas ajenas entren al interior de la isla. Aunque este sacrilegio está ocurriendo con mayor frecuencia últimamente, los Skavens y los Pieles Verdes han sido encontrados invadiendo y ejecutados sumariamente. Hombres más extraños del oeste han llegado a tierra y, al igual que los del Viejo Mundo, les importa poco el gran plan de los hombres lagarto y sólo sirven a sus propias necesidades miopes.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12346,8 +12346,8 @@
     "resources_description_mixer_ime_major_secondary_taipan_port": {
       "key": "resources_description_mixer_ime_major_secondary_taipan_port",
       "value_original": "Little is known of this place by design, for terrible serpentine beasts known as Dread Maw roam these lands in great number. It is said these great subterranean worms were created by the fabled Blood Naga, to prevent interlopers during the Naga’s dormant cycle to protect their lairs and treasures.\\\\n\\\\nThat is until the Snakemen rouse once more ready to feed on the flesh and blood of any and all trespassers.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Poco se sabe de este lugar, ya que terribles bestias serpentiformes conocidas como las Fauces del Terror vagan por estas tierras en gran número. Se dice que estos grandes gusanos subterráneos fueron creados por los legendarios Sangre Naga para impedir la entrada de intrusos durante el ciclo de inactividad de los Naga y proteger sus guaridas y tesoros.\\\\n\\\\nHasta que los Hombres Serpiente se levantan de nuevo dispuestos a alimentarse de la carne y la sangre de todos los intrusos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_mixer_ime_major_secondary_teotiqua": {
@@ -12367,7 +12367,7 @@
     "resources_description_mixer_ime_major_secondary_the_golden_colossus": {
       "key": "resources_description_mixer_ime_major_secondary_the_golden_colossus",
       "value_original": "The Golden Colossus is a statue of pure gold towering a hundred feet above the pools and pyramids below. The Golden Colossus seems to be an imitation of a Skink in a quadrupedal position, with each of its limbs a zig-zagging tower leading up to the great golden body. Every inch of the Golden Colossus is carved with prophecies and teachings of the Old Ones. Explorers from abroad find it a curiosity, unsure of when it was built or to what purpose. Elves at the Turtle Isle seem to think that the Colossus is symbolic of how fundamentally the Old Ones built service to the Great Plan into the Lizardmen's very fiber. When asked, the Skinks themselves dismiss the matter as unimportant; the Golden Colossus simply is.\\\\n\\\\nA little under a decade ago, a legion of Nehekharan undead appeared on the coastline near the Golden Colossus, and claimed the surrounding land for themselves before setting to work on a project of their own. Now, not far from the Golden Colossus, there is another great golden statue of a Nehekharan Priest-King built into the side of the Spine of Sotek mountains. The Elves of the Turtle Isles jest that the Nehekharans must have been jealous.",
-      "value_translated": "El Coloso Dorado es una estatua de oro puro que se eleva treinta metros por encima de los estanques y pirámides que se encuentran debajo. El Coloso Dorado parece ser una imitación de un Eslizón en posición cuadrúpeda, con cada una de sus extremidades una torre en zigzag que conduce al gran cuerpo dorado. Cada centímetro del Coloso Dorado está tallado con profecías y enseñanzas de los Ancestrales. Los exploradores extranjeros lo consideran una curiosidad, sin saber cuándo se construyó ni con qué propósito. Los elfos de la Isla Tortuga parecen pensar que el Coloso es un símbolo de cuán fundamentalmente los Antiguos construyeron el servicio al Gran Plan en la fibra misma de los Hombres Lagarto. Cuando se les pregunta, los propios Skinks descartan el asunto por considerarlo sin importancia; el Coloso Dorado simplemente lo es.\\\\n\\\\nHace poco menos de una década, una legión de muertos vivientes de Nehekharan apareció en la costa cerca del Coloso Dorado y reclamó las tierras circundantes para sí antes de ponerse a trabajar en un proyecto propio. Ahora, no lejos del Coloso Dorado, hay otra gran estatua dorada de un Rey Sacerdote de Nehekharan construida en la ladera de las montañas de la Columna Vertebral de Sotek. Los elfos de las Islas Tortuga bromean diciendo que los nehekharanos deben haber estado celosos.",
+      "value_translated": "El Coloso Dorado es una estatua de oro puro que se eleva treinta metros por encima de los estanques y pirámides que se encuentran debajo. El Coloso Dorado parece ser una imitación de un Eslizón en posición cuadrúpeda, con cada una de sus extremidades una torre en zigzag que conduce al gran cuerpo dorado. Cada centímetro del Coloso Dorado está tallado con profecías y enseñanzas de los Ancestrales. Los exploradores extranjeros lo consideran una curiosidad, sin saber cuándo se construyó ni con qué propósito. Los elfos de la Isla Tortuga parecen pensar que el Coloso es un símbolo de cuán fundamentalmente los Ancestrales construyeron el servicio al Gran Plan en la fibra misma de los Hombres Lagarto. Cuando se les pregunta, los propios eslizones descartan el asunto por considerarlo sin importancia; el Coloso Dorado simplemente lo es.\\\\n\\\\nHace poco menos de una década, una legión de muertos vivientes de Nehekharan apareció en la costa cerca del Coloso Dorado y reclamó las tierras circundantes para sí antes de ponerse a trabajar en un proyecto propio. Ahora, no lejos del Coloso Dorado, hay otra gran estatua dorada de un Rey Sacerdote de Nehekharan construida en la ladera de las montañas de la Columna Vertebral de Sotek. Los elfos de las Islas Tortuga bromean diciendo que los nehekharanos deben haber estado celosos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12458,8 +12458,8 @@
     "resources_description_mixer_ime_major_secondary_yhetee_peak": {
       "key": "resources_description_mixer_ime_major_secondary_yhetee_peak",
       "value_original": "Named after the fearsome Ice-Beasts that were birthed here, the Yhetees are particularly common among the highest slopes of the Ancient Giant Lands living within vast ice caverns. They survive by preying on the beast herds that dwell alongside them.\\\\n\\\\nIt is not uncommon for Yhetees to leave their frozen homes and fight alongside the ogres. Why they do this is unknown, it is speculated they are distant cousin to the Ogres, some remote offshoot dating back to the Big Migration. Others say Yhetees owe the Ogres a great debt from somewhere in their distant past, even before they evolved into creatures of ice and snow, and hence their habitual reply to the Ogres' summons to war is one of ancestral honour rather than any kind of learned response.\\\\n\\\\nHowever, the Yhetee’s that spend too much time in the lowlands (to them, anything not above the tree line) become lethargic and will begin to wither beneath the hot sun. Because of this, once their obligation to the Ogres is complete, Yhetees will return to their mountain lairs.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Llamados así por las temibles Bestias de Hielo que nacieron aquí, los Yhetis son especialmente comunes en las laderas más altas de las Antiguas Tierras de los Gigantes, donde viven en vastas cavernas de hielo. Sobreviven alimentándose de las manadas de bestias que habitan junto a ellas.\\\\n\\\\nNo es raro que los Yhetis abandonen sus hogares helados y luchen junto a los ogros. Se especula que son primos lejanos de los ogros, un vástago remoto que se remonta a la Gran Migración. Otros dicen que los Yhetis tienen una gran deuda con los ogros desde algún punto de su pasado lejano, incluso antes de que se convirtieran en criaturas de hielo y nieve, y de ahí que su respuesta habitual a las llamadas a la guerra de los ogros sea de honor ancestral más que cualquier tipo de respuesta aprendida.\\\\n\\\\nSin embargo, los Yhetis que pasan demasiado tiempo en las tierras bajas (para ellos, todo lo que no esté por encima de la línea de árboles) se vuelven letárgicos y empiezan a marchitarse bajo el ardiente sol. Por ello, una vez cumplida su obligación con los Ogros, los Yhetis regresarán a sus guaridas de las montañas.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_mixer_ime_major_secondary_zhanshi": {
@@ -12619,8 +12619,8 @@
     "resources_description_mixer_ime_minor_secondary_boa_mountain": {
       "key": "resources_description_mixer_ime_minor_secondary_boa_mountain",
       "value_original": "There is rumour of a chamber that houses strange ivory-graven rattle-drums shaped like hourglasses. Their discordant music is said to usher madness and death, and evokes the terrible rites of the Naga.\\\\n\\\\nInvoking the power and the slaughter of forgotten ages when the cold-blooded serpents of Chaos held the world in a stranglehold of terror.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Se rumorea que existe una cámara que alberga extrañas sonajas tambores de marfil con forma de reloj de arena. Se dice que su música discordante anuncia la locura y la muerte, y evoca los terribles ritos de los naga.\\\\n\\\\nInvocando el poder y la matanza de épocas olvidadas en las que las serpientes de sangre fría del Caos dominaban el mundo con su terror.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_mixer_ime_minor_secondary_castle_von_rauken": {
@@ -12808,7 +12808,7 @@
     "resources_description_mixer_ime_minor_secondary_floating_pyramid": {
       "key": "resources_description_mixer_ime_minor_secondary_floating_pyramid",
       "value_original": "The Floating Pyramid is an unusual Old One Temple-City. Normally, when the Old Ones plan demands the construction of a Temple-City, any landmarks in the way are simply removed, which has included reshaping continents, such was the power of the Children of the Old Ones at their height. For reasons understood only by cold-blooded reasoning, this was not done with the Floating Pyramid. It was instead built to float in the air, with a bridge of stone connecting it to the mountains around it.",
-      "value_translated": "La Pirámide Flotante es una inusual ciudad-templo antigua. Normalmente, cuando el plan de los Antiguos exige la construcción de una Ciudad-Templo, cualquier punto de referencia en el camino simplemente se elimina, lo que ha incluido la remodelación de continentes, tal era el poder de los Hijos de los Antiguos en su apogeo. Por razones que sólo se entienden mediante un razonamiento a sangre fría, esto no se hizo con la Pirámide Flotante. En cambio, fue construido para flotar en el aire, con un puente de piedra que lo conecta con las montañas que lo rodean.",
+      "value_translated": "La Pirámide Flotante es una inusual ciudad-templo antigua. Normalmente, cuando el plan de los Ancestrales exige la construcción de una Ciudad-Templo, cualquier punto de referencia en el camino simplemente se elimina, lo que ha incluido la remodelación de continentes, tal era el poder de los Hijos de los Ancestrales en su apogeo. Por razones que sólo se entienden mediante un razonamiento a sangre fría, esto no se hizo con la Pirámide Flotante. En cambio, fue construido para flotar en el aire, con un puente de piedra que lo conecta con las montañas que lo rodean.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12920,8 +12920,8 @@
     "resources_description_mixer_ime_minor_secondary_gateway_to_khuresh": {
       "key": "resources_description_mixer_ime_minor_secondary_gateway_to_khuresh",
       "value_original": "This Gateway is the last haven before the night-haunted legends that emanate from the foetid jungles and deadly wastes of the Khuresh Hinterlands. Though it is anything but safe, onset by foul greenskins, the dreaded Naga Snakemen and the gargantuan serpentine Dread Maws.\\\\n\\\\n\\It falls under the protection of the Monkey King, ruler of the Mountains of Heaven. Despite being an adversary of the Fire Dragon in the Southern Provinces they have often requested the Monkey King to defend the borders from the Naga Snakemen much to his amusement.\\\\n\\\\nAs such there are many battlefields littered here where the Monkey Warriors and Naga Snakemen fought and died.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Esta puerta es el último refugio antes de las leyendas nocturnas que emanan de las fétidas junglas y los mortíferos páramos del interior de Khuresh. Sin embargo, es cualquier cosa menos segura, ya que está invadida por asquerosos pieles verdes, los temibles Hombres Serpiente Naga y las gargantuescas Fauces del Terror.\\\\n\\\\nEstá bajo la protección del Rey Mono, soberano de las Montañas del Cielo. A pesar de ser un adversario del Dragón de Fuego en las Provincias del Sur, a menudo han pedido al Rey Mono que defienda las fronteras de los Hombres Serpiente Naga, para su diversión.\\\\n\\\\nPor ello, hay muchos campos de batalla donde los Guerreros Mono y los Hombres Serpiente Naga lucharon y murieron.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_mixer_ime_minor_secondary_gems_eye_of_the_panther": {
@@ -13256,7 +13256,7 @@
     "resources_description_mixer_ime_minor_secondary_marble_macu_peaks": {
       "key": "resources_description_mixer_ime_minor_secondary_marble_macu_peaks",
       "value_original": "Located on the Isthmus of Lustria, Macu Peaks is a small mountain range that is of great importance to the Lizardmen. Home to a monument of the Old Ones it is also serves as a key defensible settlement. Between the Macu Peaks and the coast is a small strip of land which serves as a choke point for invading enemies. Many times Lizardmen have been able to hold back forces much larger their size from entering Lustria proper.",
-      "value_translated": "Ubicada en el Istmo de Lustria, Macu Peaks es una pequeña cadena montañosa que es de gran importancia para los Hombres Lagarto. Hogar de un monumento de los Antiguos, también sirve como un asentamiento defendible clave. Entre los Picos Macu y la costa hay una pequeña franja de tierra que sirve como cuello de botella para los enemigos invasores. Muchas veces los Hombres Lagarto han podido impedir que fuerzas mucho más grandes entren en Lustria propiamente dicha.",
+      "value_translated": "Ubicada en el Istmo de Lustria, Macu Peaks es una pequeña cadena montañosa que es de gran importancia para los Hombres Lagarto. Hogar de un monumento de los Ancestrales, también sirve como un asentamiento defendible clave. Entre los Picos Macu y la costa hay una pequeña franja de tierra que sirve como cuello de botella para los enemigos invasores. Muchas veces los Hombres Lagarto han podido impedir que fuerzas mucho más grandes entren en Lustria propiamente dicha.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13298,7 +13298,7 @@
     "resources_description_mixer_ime_minor_secondary_marks_of_the_old_ones": {
       "key": "resources_description_mixer_ime_minor_secondary_marks_of_the_old_ones",
       "value_original": "Close to the Mangrove Coast lies a cleared section of jungle which has puzzled explorers since the Elves first discovered it. Across a flat expanse, huge lines are carved deep into the earth, extending for miles in precise pathways. There is nothing magical about them, save that Lustria's vegetation has not reclaimed the space, and the forms they make cannot be discerned from the ground.\\\\n\\\\nThe Marks, like the Sentinels of Xeti, are an attempt by the Lizardmen to contact their long-lost creators. Their true shapes are a secret for the gods, and Terradons, alone. They were created shortly after the Great Catastrophe, but the Lizardmen avoid them. They are a painful reminder of their failure to find the Old Ones. Only Kroxigor still approach, clearing away anything which might obscure the Marks. It is a task some have carried out since their first creation.",
-      "value_translated": "Cerca de la costa de los manglares se encuentra una sección despejada de selva que ha desconcertado a los exploradores desde que los elfos la descubrieron por primera vez. A lo largo de una extensión plana, enormes líneas están talladas profundamente en la tierra, extendiéndose por millas en caminos precisos. No hay nada mágico en ellos, salvo que la vegetación de Lustria no ha reclamado el espacio, y las formas que crean no pueden discernirse desde el suelo.\\\\n\\\\nLas Marcas, al igual que los Centinelas de Xeti, son un intento de los Hombres Lagarto de póngase en contacto con sus creadores perdidos hace mucho tiempo. Sus verdaderas formas son un secreto sólo para los dioses y los Terradons. Fueron creados poco después de la Gran Catástrofe, pero los Hombres Lagarto los evitan. Son un doloroso recordatorio de su fracaso a la hora de encontrar a los Antiguos. Sólo Kroxigor sigue acercándose, limpiando cualquier cosa que pueda oscurecer las Marcas. Es una tarea que algunos han llevado a cabo desde su primera creación.",
+      "value_translated": "Cerca de la costa de los manglares se encuentra una sección despejada de selva que ha desconcertado a los exploradores desde que los elfos la descubrieron por primera vez. A lo largo de una extensión plana, enormes líneas están talladas profundamente en la tierra, extendiéndose por millas en caminos precisos. No hay nada mágico en ellos, salvo que la vegetación de Lustria no ha reclamado el espacio, y las formas que crean no pueden discernirse desde el suelo.\\\\n\\\\nLas Marcas, al igual que los Centinelas de Xeti, son un intento de los Hombres Lagarto de póngase en contacto con sus creadores perdidos hace mucho tiempo. Sus verdaderas formas son un secreto sólo para los dioses y los Terradons. Fueron creados poco después de la Gran Catástrofe, pero los Hombres Lagarto los evitan. Son un doloroso recordatorio de su fracaso a la hora de encontrar a los Ancestrales. Sólo Kroxigor sigue acercándose, limpiando cualquier cosa que pueda oscurecer las Marcas. Es una tarea que algunos han llevado a cabo desde su primera creación.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13396,7 +13396,7 @@
     "resources_description_mixer_ime_minor_secondary_monument_of_izzatal": {
       "key": "resources_description_mixer_ime_minor_secondary_monument_of_izzatal",
       "value_original": "Izzatal was a typical Skink Priest until he had a dire encounter with a flock of Tzeentchian Daemons, where he had only barely survived being burned with the Fires of Change. Izzatal thereafter claimed to have had a revelation, that the Old Ones had abandoned their children deliberately, for the Lizardmen's faith was found lacking.\\\\n\\\\nThus, Izzatal commanded the Skinks of northern Lustria to commence the construction of a great monument to the Old Ones. Kroxigors labored day and night trudging stone across the northern Spine of Sotek, while Skink artisans worked their fingers to the bone carving out Izzatal's vision. The complete Monument of Izzatal was drenched in the blood of sacrificed Skaven, forming a visage that was at once both beauteous and repugnant.\\\\n\\\\nFrom the Monument's base appeared a host of Daemons, who slaughtered Izzatal and his followers. The united forces of Itza and Tlaxtlan were able to topple the Monument of Izzatal, but still the name and place are haunted.",
-      "value_translated": "Izzatal era un típico Sacerdote Skink hasta que tuvo un encuentro terrible con una bandada de Demonios Tzeentchianos, donde apenas había sobrevivido a la quema con los Fuegos del Cambio. A partir de entonces, Izzatal afirmó haber tenido una revelación: que los Ancestrales habían abandonado a sus hijos deliberadamente, porque se descubrió que los Hombres Lagarto carecían de fe.\\\\n\\\\nPor lo tanto, Izzatal ordenó a los eslizones del norte de Lustria que comenzaran la construcción de un gran monumento a los Antiguos. Los kroxigors trabajaron día y noche excavando piedra a través de la columna norte de Sotek, mientras los artesanos eslizones trabajaban hasta el hueso tallando la visión de Izzatal. El Monumento completo de Izzatal estaba empapado en la sangre de los Skavens sacrificados, formando un rostro que era al mismo tiempo hermoso y repugnante.\\\\n\\\\nDesde la base del Monumento apareció una hueste de Demonios, que masacraron a Izzatal y sus seguidores. Las fuerzas unidas de Itzá y Tlaxtlán lograron derribar el Monumento de Izzatal, pero aún el nombre y el lugar están embrujados.",
+      "value_translated": "Izzatal era un típico Sacerdote Skink hasta que tuvo un encuentro terrible con una bandada de Demonios Tzeentchianos, donde apenas había sobrevivido a la quema con los Fuegos del Cambio. A partir de entonces, Izzatal afirmó haber tenido una revelación: que los Ancestrales habían abandonado a sus hijos deliberadamente, porque se descubrió que los Hombres Lagarto carecían de fe.\\\\n\\\\nPor lo tanto, Izzatal ordenó a los eslizones del norte de Lustria que comenzaran la construcción de un gran monumento a los Ancestrales. Los kroxigors trabajaron día y noche excavando piedra a través de la columna norte de Sotek, mientras los artesanos eslizones trabajaban hasta el hueso tallando la visión de Izzatal. El Monumento completo de Izzatal estaba empapado en la sangre de los Skavens sacrificados, formando un rostro que era al mismo tiempo hermoso y repugnante.\\\\n\\\\nDesde la base del Monumento apareció una hueste de Demonios, que masacraron a Izzatal y sus seguidores. Las fuerzas unidas de Itzá y Tlaxtlán lograron derribar el Monumento de Izzatal, pero aún el nombre y el lugar están embrujados.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13564,7 +13564,7 @@
     "resources_description_mixer_ime_minor_secondary_pillars_of_unseen_constellations": {
       "key": "resources_description_mixer_ime_minor_secondary_pillars_of_unseen_constellations",
       "value_original": "When Lord Mazdamundi was forced to unshackle the Wellsprings of Eternity from the Geomantic Web in order to make Lustria more defensible against the Dark Elves, the Lizardmen constructed these carved stelae shortly after to ground the flow of power, prevent the swamps from expanding further and ward others away from the wellsprings.\\\\n\\\\nThe stelae were named the Pillars of Unseen Constellations because of the closest thing to grief that the Lizardmen felt. While they generally believed that reshaping Lustria was necessary to uphold the Old Ones wishes, many also believed that by doing so, they had destroyed any possible means for those Old Ones to return to this world.\\\\n",
-      "value_translated": "Cuando Lord Mazdamundi se vio obligado a liberar las Fuentes de la Eternidad de la Red Geomántica para hacer que Lustria fuera más defendible contra los Elfos Oscuros, los Hombres Lagarto construyeron estas estelas talladas poco después para anclar el flujo de poder, evitar que los pantanos se expandieran más y proteger otros lejos de las fuentes.\\\\n\\\\nLas estelas fueron nombradas Pilares de las Constelaciones Invisibles debido a lo más parecido al dolor que el Los hombres lagarto sintieron. Si bien en general creían que remodelar Lustria era necesario para cumplir los deseos de los Antiguos, muchos también creían que al hacerlo, habían destruido cualquier medio posible para que esos Antiguos regresaran a este mundo.\\\\n",
+      "value_translated": "Cuando Lord Mazdamundi se vio obligado a liberar las Fuentes de la Eternidad de la Red Geomántica para hacer que Lustria fuera más defendible contra los Elfos Oscuros, los Hombres Lagarto construyeron estas estelas talladas poco después para anclar el flujo de poder, evitar que los pantanos se expandieran más y proteger otros lejos de las fuentes.\\\\n\\\\nLas estelas fueron nombradas Pilares de las Constelaciones Invisibles debido a lo más parecido al dolor que el Los hombres lagarto sintieron. Si bien en general creían que remodelar Lustria era necesario para cumplir los deseos de los Ancestrales, muchos también creían que al hacerlo, habían destruido cualquier medio posible para que esos Ancestrales regresaran a este mundo.\\\\n",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13753,28 +13753,28 @@
     "resources_description_mixer_ime_minor_secondary_savage_ash_ridge_mountains": {
       "key": "resources_description_mixer_ime_minor_secondary_savage_ash_ridge_mountains",
       "value_original": "In an age before the race of Dwarfs had even learned of the existence of the Dark Lands, the ancient volcano Azgorh erupted in -1500 IC with such force that it blew itself apart. Never before had such devastating force been known by mortals. The ash cloud blowing south was seen as far away as the Nehekharan city-state of Khemri, and the sound of the explosion was recorded by Elven colonists in what is now Bretonnia. The colossal force blanketed the mountains just to the south in thick ash, that would later become known as Ash Ridge Mountains.\\\\n\\\\nMillennia later the ash remains, a perpetual stain on the slopes, no creatures or plants live here and only the most foolhardy adventurers would seek to travel through the mountains. It is said after the fall of the Fortress of Vorag when the Ghoul King was slain some of his followers escaped to the mountains and now make camp in its ashen caverns.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "En una época anterior a que la raza de los Enanos supiera siquiera de la existencia de las Tierras Oscuras, el antiguo volcán Azgorh entró en erupción en el -1500 C.I. con tal fuerza que voló por los aires. Nunca antes los mortales habían conocido una fuerza tan devastadora. La nube de ceniza que soplaba hacia el sur fue vista tan lejos como la ciudad-estado nehekhariana de Khemri, y el sonido de la explosión fue grabado por colonos élficos en lo que hoy es Bretonia. La colosal fuerza cubrió de espesa ceniza las montañas situadas justo al sur, que más tarde se conocerían como Montañas Crestas de Cenizas.\\\\n\\\\nMilenios después la ceniza permanece, una mancha perpetua en las laderas, ninguna criatura o planta vive aquí y sólo los aventureros más temerarios intentarían viajar a través de las montañas. Se dice que tras la caída de la Fortaleza de Vorag, cuando el Rey Necrófago fue asesinado, algunos de sus seguidores escaparon a las montañas y ahora acampan en sus cavernas de ceniza.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_mixer_ime_minor_secondary_savage_statues_of_the_gods": {
       "key": "resources_description_mixer_ime_minor_secondary_savage_statues_of_the_gods",
       "value_original": "Hundreds of statues of the Old Ones dot the cliffs south of Tlaqua, with the valleys in between having barrios once devoted to the statues' maintenance. The Lizardmen abandoned the Statues of the Gods around the time of Sigmar, for unknown reasons. The Statues of the Gods have since been maintained by human tribes, who show reverence to the statues even if they do not fully understand them.\\\\n\\\\nThe human tribes of the Southlands have ever been plagued by Greenskins, and the Orcs and Goblins have claimed the Statues of the Gods many times in the past millenium. The Leaf-Cutterz are simply the latest to arrive and deface the Statues of the Gods, before they inevitably grow bored and move on to a larger target. The Southlander tribes simply hope to hold out by hiding in the jungle until the Leaf-Cutterz attract the attention of Tlaqua.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Cientos de estatuas de los Ancestrales salpican los acantilados al sur de Tlaqua, y en los valles intermedios hay barrios dedicados antaño al mantenimiento de las estatuas. Los Hombres Lagarto abandonaron las Estatuas de los Dioses en la época de Sigmar, por razones desconocidas. Desde entonces, las Estatuas de los Dioses han sido mantenidas por tribus humanas, que las veneran aunque no las comprendan del todo.\\\\n\\\\nLas tribus humanas de las Tierras del Sur siempre han sufrido la plaga de los Pieles Verdes, y los Orcos y Goblins han reclamado las Estatuas de los Dioses muchas veces en el último milenio. Los Cortahojaz son simplemente los últimos en llegar y desfigurar las Estatuas de los Dioses, antes de que inevitablemente se aburran y pasen a un objetivo mayor. Las tribus de las Tierras del Sur simplemente esperan resistir escondiéndose en la jungla hasta que los Cortahojaz atraigan la atención de Tlaqua.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_mixer_ime_minor_secondary_savage_sun_tree_glades": {
       "key": "resources_description_mixer_ime_minor_secondary_savage_sun_tree_glades",
       "value_original": "Northwest of the temple-city of Cuexotl lie the Sun-Tree Glades. The Sun-Tree is unique to these glades, and was once sacred to Chotec's faithful amongst the Lizardmen. The Sun-Trees not only photosynthesize sunlight, they also absorb and retain an unusual heat, allowing the Sun-Trees to project warmth long into the cold hours of the night. This sure blessing of the Old Ones was sadly lost to the Lizardmen alongside Cuexotl.\\\\n\\\\nSouthlander tribes now gather here, not only for the warmth of the Sun-Trees but also for meeting with traders and envoys from Ka-Sabar. The Southlander tribes are too numerous and diverse to fully describe, but they are too divided to provide a united political or military entity. Still, Southlanders are viewed as exotic by the people of Araby, and Arabyan sultans and sheiks pay handsomely for Southlander mercenaries, so the more restless and ambitious sons and daughters of the Southlands often come here to seek employment in Araby.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Al noroeste de la ciudad-templo de Cuexotl se encuentran los Claros del Árbol-Sol. El Árbol-Sol es exclusivo de estos claros, y en su día fue sagrado para los fieles de Chotec entre los Hombres Lagarto. Los Árboles-Sol no sólo hacen la fotosíntesis de la luz solar, sino que también absorben y retienen un calor inusual, lo que permite a los Árboles-Sol proyectar calor durante las frías horas de la noche. Esta bendición segura de los Ancestrales fue tristemente perdida por los Hombres Lagarto junto a Cuexotl.\\\\n\\\\nLas tribus de las Tierras del Sur se reúnen ahora aquí, no sólo por el calor de los Árboles-Sol, sino también para reunirse con comerciantes y enviados de Ka-Sabar. Las tribus de las Tierras del Sur son demasiado numerosas y diversas para describirlas en su totalidad, pero están demasiado divididas para constituir una entidad política o militar unida. Aun así, los habitantes de Arabia consideran exóticos a los sureños, y los sultanes y jeques de Arabia pagan generosamente a los mercenarios sureños, por lo que los hijos e hijas más inquietos y ambiciosos de las Tierras del Sur suelen venir aquí en busca de empleo en Arabia.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_mixer_ime_minor_secondary_sentinels_of_xeti": {
       "key": "resources_description_mixer_ime_minor_secondary_sentinels_of_xeti",
       "value_original": "The Sentinels of Xeti are a desperate effort by the Old Ones' lost children to hear the voice of their creators. They are rows of immensely tall monoliths, overlooking the turbulent waters separating Lustria from the Turtle Isles. Formed from black, polished obsidian, glyphs cover their surface, occasionally pulsing a startling green.\\\\n\\\\nWhenever this happens, the Skink overseers are stirred into a frenzy, only calmed by the croaked proclamations of Mage-Priest Qrl'Zy'Ken.His contemplations are ceaselessly interrupted by his Skink attendants, who take the slightest signal picked up by the Sentinels to be the Old Ones. The Mage-Priest only stirs enough to assure them that no, this is merely another fluctuation in the Winds of Magic. These constant interruptions mean Qrl'Zy'Ken has been unable to finish a complete thought in at least a century.",
-      "value_translated": "Los Centinelas de Xeti son un esfuerzo desesperado de los hijos perdidos de los Ancestrales por escuchar la voz de sus creadores. Son hileras de monolitos inmensamente altos que dominan las turbulentas aguas que separan Lustria de las Islas Tortuga. Formados a partir de obsidiana negra pulida, los glifos cubren su superficie y ocasionalmente emiten un sorprendente color verde.\\\\n\\\\nSiempre que esto sucede, los supervisores Skink entran en un frenesí y solo se calman con las proclamaciones graznantes del mago sacerdote Qrl'Zy'. Ken. Sus contemplaciones son interrumpidas incesantemente por sus asistentes Skink, quienes toman la más mínima señal captada por los Centinelas como los Antiguos. El Mago Sacerdote sólo se mueve lo suficiente para asegurarles que no, que se trata simplemente de otra fluctuación en los Vientos de la Magia. Estas constantes interrupciones significan que Qrl'Zy'Ken no ha podido terminar un pensamiento completo en al menos un siglo.",
+      "value_translated": "Los Centinelas de Xeti son un esfuerzo desesperado de los hijos perdidos de los Ancestrales por escuchar la voz de sus creadores. Son hileras de monolitos inmensamente altos que dominan las turbulentas aguas que separan Lustria de las Islas Tortuga. Formados a partir de obsidiana negra pulida, los glifos cubren su superficie y ocasionalmente emiten un sorprendente color verde.\\\\n\\\\nSiempre que esto sucede, los supervisores eslizones entran en un frenesí y solo se calman con las proclamaciones graznantes del mago sacerdote Qrl'Zy'. Ken. Sus contemplaciones son interrumpidas incesantemente por sus asistentes eslizones, quienes toman la más mínima señal captada por los Centinelas como los Ancestrales. El Mago Sacerdote sólo se mueve lo suficiente para asegurarles que no, que se trata simplemente de otra fluctuación en los Vientos de la Magia. Estas constantes interrupciones significan que Qrl'Zy'Ken no ha podido terminar un pensamiento completo en al menos un siglo.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13858,8 +13858,8 @@
     "resources_description_mixer_ime_minor_secondary_snake_pit": {
       "key": "resources_description_mixer_ime_minor_secondary_snake_pit",
       "value_original": "One of many lairs of the dreaded Snakemen and the foul and nightmarish Blood Naga queens who rule there. It is a place where Men are no more than hunted prey, and blood and souls are the only coin in trade.\\\\n\\\\nThe lives of the frightful serpent-Naga of dim Khuresh are said to be counted as the ages of the Known World, and their appetite for blood shames even the ancient Vampire queens of thrice-cursed Lahmia.\\\\n\\\\nMost adventurers and treasure hunters seeking artefacts of immense power and wealth come here. They hope the shorter journey will stand in their stead but out of the countless souls who interlope, only a mere handful have returned, fewer still with anything to show for it.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Una de las muchas guaridas de los temibles Hombres Serpiente y de las repugnantes y pesadillescas reinas Sangre Naga que allí gobiernan. Es un lugar donde los Hombres no son más que presas cazadas, y la sangre y las almas son la única moneda de cambio.\\\\n\\\\nSe dice que las vidas de las espantosas serpientes naga de la penumbrosa Khuresh se cuentan como las edades del Mundo Conocido, y su apetito por la sangre avergüenza incluso a las antiguas reinas vampiro de la tres veces maldita Lahmia.\\\\n\\\\nLa mayoría de los aventureros y cazadores de tesoros que buscan artefactos de inmenso poder y riqueza vienen aquí. Esperan que el viaje más corto les sirva de ayuda, pero de las innumerables almas que se entrelazan, sólo un puñado ha regresado, y menos aún con algo que mostrar.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_mixer_ime_minor_secondary_sorcerers_islands": {
@@ -14411,7 +14411,7 @@
     "resources_description_mixer_ime_minor_secondary_xlanzec": {
       "key": "resources_description_mixer_ime_minor_secondary_xlanzec",
       "value_original": "Xlanzec is one of the many fallen temple-cities of Lustria, and one of its most mysterious. Of the known plaques of the Old Ones, the only record of Xlanzec simply details it as the \"City of the Outsider.\" There are certainly Slann who must remember more about Xlanzec, yet they are reticent to speak on the matter. Thus, for many Skinks scribes and foreign historians, Xlanzec is a place of interest.\\\\n\\\\nHaving stood empty for seeming millennia, Tehenhauin's Cult of Sotek has recently begun efforts to resettle Xlanzec. From here, Tehenhauin offers praise to Sotek, and preaches that the war with the hated Skaven is far from over; indeed, if Tehenhauin is to be believed, the Skaven of Clan Pestilens have once again infiltrated Lustria. If Tehenhauin is correct, then all of Lustria is in danger.\\\\n\\\\nThe Cult of Sotek is disinterested in the study of history and use Xlanzec solely as an altar and staging ground. Still, some of the Skink Priests have taken to examining Xlanzec's ruined altar. Curiously, the shrines here offer praise not to the typical Lizardmen pantheon, but to a figure that rather resembles a human woman...",
-      "value_translated": "Xlanzec es una de las muchas ciudades-templo caídas de Lustria, y una de las más misteriosas. De las placas conocidas de los Antiguos, el único registro de Xlanzec simplemente la detalla como la \"Ciudad de los Forasteros\". Ciertamente hay Slann que deben recordar más sobre Xlanzec, pero se muestran reticentes a hablar sobre el tema. Por lo tanto, para muchos escribas eslizones e historiadores extranjeros, Xlanzec es un lugar de interés.\\\\n\\\\nHabiendo permanecido vacío durante milenios, el Culto de Sotek de Tehenhauin ha comenzado recientemente a realizar esfuerzos para reubicar Xlanzec. A partir de aquí, Tehenhauin elogia a Sotek y predica que la guerra con los odiados Skavens está lejos de terminar; de hecho, si hay que creer en Tehenhauin, los Skavens del clan Pestilens se han infiltrado una vez más en Lustria. Si Tehenhauin tiene razón, entonces toda Lustria está en peligro.\\\\n\\\\nEl Culto de Sotek no está interesado en el estudio de la historia y utiliza Xlanzec únicamente como altar y escenario. Aún así, algunos de los sacerdotes eslizones se han dedicado a examinar el altar en ruinas de Xlanzec. Curiosamente, los santuarios aquí ofrecen elogios no al típico panteón de Hombres Lagarto, sino a una figura que se parece más bien a una mujer humana...",
+      "value_translated": "Xlanzec es una de las muchas ciudades-templo caídas de Lustria, y una de las más misteriosas. De las placas conocidas de los Ancestrales, el único registro de Xlanzec simplemente la detalla como la \"Ciudad de los Forasteros\". Ciertamente hay Slann que deben recordar más sobre Xlanzec, pero se muestran reticentes a hablar sobre el tema. Por lo tanto, para muchos escribas eslizones e historiadores extranjeros, Xlanzec es un lugar de interés.\\\\n\\\\nHabiendo permanecido vacío durante milenios, el Culto de Sotek de Tehenhauin ha comenzado recientemente a realizar esfuerzos para reubicar Xlanzec. A partir de aquí, Tehenhauin elogia a Sotek y predica que la guerra con los odiados Skavens está lejos de terminar; de hecho, si hay que creer en Tehenhauin, los Skavens del clan Pestilens se han infiltrado una vez más en Lustria. Si Tehenhauin tiene razón, entonces toda Lustria está en peligro.\\\\n\\\\nEl Culto de Sotek no está interesado en el estudio de la historia y utiliza Xlanzec únicamente como altar y escenario. Aún así, algunos de los sacerdotes eslizones se han dedicado a examinar el altar en ruinas de Xlanzec. Curiosamente, los santuarios aquí ofrecen elogios no al típico panteón de Hombres Lagarto, sino a una figura que se parece más bien a una mujer humana...",
       "needs_retranslation": false,
       "removed": false
     },
@@ -14705,7 +14705,7 @@
     "resources_description_wh2_main_special_chamber_of_visions_secondary": {
       "key": "resources_description_wh2_main_special_chamber_of_visions_secondary",
       "value_original": "The most sacred chamber located beneath the Sentinels of Xeti. The whole chamber is inlayed with a greenish crystal in a geometric pattern. Those who are given the honor to visit the Chamber of Visions shall see what the Old Ones see: the many threads of the future.",
-      "value_translated": "La cámara más sagrada ubicada debajo de los Centinelas de Xeti. Toda la cámara está incrustada con un cristal verdoso en un patrón geométrico. Aquellos que tengan el honor de visitar la Cámara de las Visiones verán lo que ven los Antiguos: los muchos hilos del futuro.",
+      "value_translated": "La cámara más sagrada ubicada debajo de los Centinelas de Xeti. Toda la cámara está incrustada con un cristal verdoso en un patrón geométrico. Aquellos que tengan el honor de visitar la Cámara de las Visiones verán lo que ven los Ancestrales: los muchos hilos del futuro.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -14726,7 +14726,7 @@
     "resources_description_wh2_main_special_fallen_gates_secondary": {
       "key": "resources_description_wh2_main_special_fallen_gates_secondary",
       "value_original": "One fo the last marvels left behind by the Old Ones. Within the great plateau of this ancient construct is the stellar engine, the secrets of its construction jealously guarded.",
-      "value_translated": "Una de las últimas maravillas que dejaron los Antiguos. Dentro de la gran meseta de esta antigua construcción se encuentra el motor estelar, cuyos secretos se guardan celosamente.",
+      "value_translated": "Una de las últimas maravillas que dejaron los Ancestrales. Dentro de la gran meseta de esta antigua construcción se encuentra el motor estelar, cuyos secretos se guardan celosamente.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -14761,7 +14761,7 @@
     "resources_description_wh2_main_special_golden_tower_of_the_gods_secondary": {
       "key": "resources_description_wh2_main_special_golden_tower_of_the_gods_secondary",
       "value_original": "An ancient tower clad in pure gold, constructed by the Lizardmen at the order of the Old Ones in an age long past. While this tower was constructed at the behest of the Old Ones, it now serves only to amplify the power of those who controll it be them Lizardmen or the Ruinous Powers.",
-      "value_translated": "Una antigua torre revestida de oro puro, construida por los Hombres Lagarto por orden de los Ancestrales en una época pasada. Si bien esta torre fue construida a instancias de los Antiguos, ahora solo sirve para amplificar el poder de quienes la controlan, ya sean los Hombres Lagarto o los Poderes Ruinosos.",
+      "value_translated": "Una antigua torre revestida de oro puro, construida por los Hombres Lagarto por orden de los Ancestrales en una época pasada. Si bien esta torre fue construida a instancias de los Ancestrales, ahora solo sirve para amplificar el poder de quienes la controlan, ya sean los Hombres Lagarto o los Poderes Ruinosos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -14817,7 +14817,7 @@
     "resources_description_wh2_main_special_itza_secondary": {
       "key": "resources_description_wh2_main_special_itza_secondary",
       "value_original": "Thousands and thousands of years ago, at the dawn of creation, the Old Ones came into the world and remade it according to the principles of their own vision, an inscrutable vision for every being, except for the most enlightened and divine of all. According to legend, a city that still stands today, 12,500 years after its foundation, was built where the enigmatic Old Ones arrived. This city is none other than Itza, the First City, the largest of all Lizardmen Temple-Cities and home to some of the world’s most powerful magic adepts. The wide avenues are crowded with scribes and craftsmen who devote themselves to their workshops, which are a vital part of the maintenance of a city as important as this one.\\\\n\\\\nThe city is guarded by the warriors of the host of Itza. The forces of the City-Temple are insurmountable, because their mission is to protect the First City, the sacred ground on which the Old Ones themselves walked and under which are the crypts that shelter the most powerful creations of their gods, artifacts with such a devastating destructive ability that even the Slann do not dare to calibrate.\\\\n\\\\nAt the center of the temple of the city is the largest of its pyramidal temple, which is dedicated to Sotek. From the altar to the top of its imposing structure, priests conduct daily ceremonies to worship and appease the anger of the Serpent God. During the holy days of Sotek, the whole city-Temple gathers in the central square to praise their god and even the remains of the Venerable Lord Kroak themselves are shown in public. The songs that elevate the overcrowded congregation are said to be one of the most disturbing sounds ever uttered by mortal throats.",
-      "value_translated": "Hace miles y miles de años, en los albores de la creación, los Antiguos vinieron al mundo y lo rehicieron según los principios de su propia visión, una visión inescrutable para todo ser, excepto para el más iluminado y divino de todos. Según la leyenda, donde llegaron los enigmáticos Antiguos se construyó una ciudad que aún hoy se mantiene en pie, 12.500 años después de su fundación. Esta ciudad no es otra que Itzá, la Primera Ciudad, la más grande de todas las Ciudades-Templo de los Hombres Lagarto y hogar de algunos de los adeptos a la magia más poderosos del mundo. Las amplias avenidas están repletas de escribas y artesanos que se dedican a sus talleres, que son parte vital del mantenimiento de una ciudad tan importante como ésta.\\\\n\\\\nLa ciudad está custodiada por los guerreros de la hueste de Itzá. . Las fuerzas de la Ciudad-Templo son insuperables, pues su misión es proteger la Primera Ciudad, el suelo sagrado por el que caminaron los propios Ancestrales y bajo el cual se encuentran las criptas que cobijan las más poderosas creaciones de sus dioses, artefactos con tal devastadora capacidad destructiva que ni siquiera los Slann se atreven a calibrar.\\\\n\\\\nEn el centro del templo de la ciudad se encuentra el mayor de su templo piramidal, que está dedicado a Sotek. Desde el altar hasta lo alto de su imponente estructura, los sacerdotes llevan a cabo ceremonias diarias para adorar y apaciguar la ira del Dios Serpiente. Durante los días santos de Sotek, toda la ciudad-Templo se reúne en la plaza central para alabar a su dios e incluso los restos del Venerable Señor Kroak se muestran en público. Se dice que las canciones que elevan a la congregación superpoblada son uno de los sonidos más perturbadores jamás pronunciados por gargantas mortales.",
+      "value_translated": "Hace miles y miles de años, en los albores de la creación, los Ancestrales vinieron al mundo y lo rehicieron según los principios de su propia visión, una visión inescrutable para todo ser, excepto para el más iluminado y divino de todos. Según la leyenda, donde llegaron los enigmáticos Ancestrales se construyó una ciudad que aún hoy se mantiene en pie, 12.500 años después de su fundación. Esta ciudad no es otra que Itzá, la Primera Ciudad, la más grande de todas las Ciudades-Templo de los Hombres Lagarto y hogar de algunos de los adeptos a la magia más poderosos del mundo. Las amplias avenidas están repletas de escribas y artesanos que se dedican a sus talleres, que son parte vital del mantenimiento de una ciudad tan importante como ésta.\\\\n\\\\nLa ciudad está custodiada por los guerreros de la hueste de Itzá. . Las fuerzas de la Ciudad-Templo son insuperables, pues su misión es proteger la Primera Ciudad, el suelo sagrado por el que caminaron los propios Ancestrales y bajo el cual se encuentran las criptas que cobijan las más poderosas creaciones de sus dioses, artefactos con tal devastadora capacidad destructiva que ni siquiera los Slann se atreven a calibrar.\\\\n\\\\nEn el centro del templo de la ciudad se encuentra el mayor de su templo piramidal, que está dedicado a Sotek. Desde el altar hasta lo alto de su imponente estructura, los sacerdotes llevan a cabo ceremonias diarias para adorar y apaciguar la ira del Dios Serpiente. Durante los días santos de Sotek, toda la ciudad-Templo se reúne en la plaza central para alabar a su dios e incluso los restos del Venerable Señor Kroak se muestran en público. Se dice que las canciones que elevan a la congregación superpoblada son uno de los sonidos más perturbadores jamás pronunciados por gargantas mortales.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -14873,7 +14873,7 @@
     "resources_description_wh2_main_special_laurelorn_forest_secondary": {
       "key": "resources_description_wh2_main_special_laurelorn_forest_secondary",
       "value_original": "The Laurelorn, since its first colonisation by Elves, has been a place of hope, joy, and laughter. The colonists called themselves Eonir, after the greater rune Daroir, meaning remembrance, memory, and strength of stones. Eonir feel their Asur cousins no longer walk the true path of Elves from the past - those who helped the Old Ones create the waystone network.\\\\n\\\\nThe colony of Tor Lithanel was originally founded for the purpose of studying magical sites created by the Old Ones in aeons past. The capital is a rare surviving example of archaic High Elven architecture, with the skyline defined by three marble towers. The huge gems adorning nearly every building contain souls of deceased Elves, held permanently in stasis to preserve them from consumption by Chaos. From a distance, these soul-gems catch the light and cause the city to glisten. Humans who have approached close enough have nicknamed it the \"City of Glass\".\\\\n\\\\nUnder the Laurelorn's boughs are numerous arcane fulcrums, leyline nexus points, and waystones that alter the natural environment. The Laurelorn's forest spirits appear less hostile than those of Athel Loren, and grow weaker every years as the forest's magic ebbs away.\\\\n\\\\nThe Eonir became temporary allies with the Empire in 1109 IC. Over the last 800 years, the counts and barons of Nordland have negotiated limited settlement and logging rights on the Laurelorn's perimeter.",
-      "value_translated": "Laurelorn, desde su primera colonización por los elfos, ha sido un lugar de esperanza, alegría y risas. Los colonos se llamaban a sí mismos Eonir, en honor a la runa mayor Daroir, que significa recuerdo, memoria y fuerza de las piedras. Eonir siente que sus primos Asur ya no siguen el verdadero camino de los Elfos del pasado: aquellos que ayudaron a los Antiguos a crear la red de piedras de camino.\\\\n\\\\nLa colonia de Tor Lithanel se fundó originalmente con el propósito de estudiar los sitios mágicos creados por los Antiguos en eones pasados. La capital es un raro ejemplo sobreviviente de arquitectura arcaica de los Altos Elfos, con el horizonte definido por tres torres de mármol. Las enormes gemas que adornan casi todos los edificios contienen almas de Elfos fallecidos, mantenidas permanentemente en estasis para preservarlas del consumo del Caos. Desde la distancia, estas gemas del alma captan la luz y hacen que la ciudad brille. Los humanos que se han acercado lo suficiente la han apodado la \"Ciudad de Cristal\".\\\\n\\\\nBajo las ramas de Laurelorn hay numerosos puntos de apoyo arcanos, puntos de nexo de líneas ley y piedras de tránsito que alteran el entorno natural. Los espíritus del bosque de Laurelorn parecen menos hostiles que los de Athel Loren y se debilitan cada año a medida que la magia del bosque disminuye.\\\\n\\\\nLos Eonir se convirtieron en aliados temporales del Imperio en 1109 CI. Durante los últimos 800 años, los condes y barones de Nordland han negociado derechos limitados de asentamiento y explotación forestal en el perímetro de Laurelorn.",
+      "value_translated": "Laurelorn, desde su primera colonización por los elfos, ha sido un lugar de esperanza, alegría y risas. Los colonos se llamaban a sí mismos Eonir, en honor a la runa mayor Daroir, que significa recuerdo, memoria y fuerza de las piedras. Eonir siente que sus primos Asur ya no siguen el verdadero camino de los Elfos del pasado: aquellos que ayudaron a los Ancestrales a crear la red de piedras de camino.\\\\n\\\\nLa colonia de Tor Lithanel se fundó originalmente con el propósito de estudiar los sitios mágicos creados por los Ancestrales en eones pasados. La capital es un raro ejemplo sobreviviente de arquitectura arcaica de los Altos Elfos, con el horizonte definido por tres torres de mármol. Las enormes gemas que adornan casi todos los edificios contienen almas de Elfos fallecidos, mantenidas permanentemente en estasis para preservarlas del consumo del Caos. Desde la distancia, estas gemas del alma captan la luz y hacen que la ciudad brille. Los humanos que se han acercado lo suficiente la han apodado la \"Ciudad de Cristal\".\\\\n\\\\nBajo las ramas de Laurelorn hay numerosos puntos de apoyo arcanos, puntos de nexo de líneas ley y piedras de tránsito que alteran el entorno natural. Los espíritus del bosque de Laurelorn parecen menos hostiles que los de Athel Loren y se debilitan cada año a medida que la magia del bosque disminuye.\\\\n\\\\nLos Eonir se convirtieron en aliados temporales del Imperio en 1109 CI. Durante los últimos 800 años, los condes y barones de Nordland han negociado derechos limitados de asentamiento y explotación forestal en el perímetro de Laurelorn.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -14901,7 +14901,7 @@
     "resources_description_wh2_main_special_oyxl_secondary": {
       "key": "resources_description_wh2_main_special_oyxl_secondary",
       "value_original": "Oyxl, is a temple-city of the Lizardmen which overlooks the great Culchan Plains extending across the continent of Lustria. Slann come here to meditate, their minds expanding to accommodate the expanse before them, reaching out to the horizon. It is said from here their minds can reach as far as the southern pole.\\\\n\\\\nOyxl is also home to a thriving population of Skinks. These Skinks have long mastered the ability to ride Culchan, the carnivorous, flightless birds which call the plains home, and use them to herd the slow-moving herbivores grazing here. Their meat is prized as a delicacy, not often enjoyed in Lustria's northern jungles.\\\\n\\\\nThe city houses the beautiful Shrine of Birds where flying creatures of all types flock to this shrine. The Old Ones whose essence resides within rewards those among the Lizardmen armies who take flight.",
-      "value_translated": "Oyxl, es una ciudad-templo de los Hombres Lagarto que domina las grandes Llanuras de Culchan que se extienden por todo el continente de Lustria. Los slann vienen aquí para meditar, sus mentes se expanden para adaptarse a la extensión que tienen ante ellos, extendiéndose hasta el horizonte. Se dice que desde aquí sus mentes pueden llegar hasta el polo sur.\\\\n\\\\nOyxl también es el hogar de una próspera población de Skinks. Estos eslizones han dominado durante mucho tiempo la capacidad de montar en Culchan, las aves carnívoras y no voladoras que habitan las llanuras, y las utilizan para pastorear a los herbívoros de lento movimiento que pastan aquí. Su carne es apreciada como un manjar que no suele disfrutarse en las selvas del norte de Lustria.\\\\n\\\\nLa ciudad alberga el hermoso Santuario de las Aves, donde criaturas voladoras de todo tipo acuden en masa. Los Antiguos, cuya esencia reside en su interior, recompensan a aquellos de los ejércitos de Hombres Lagarto que emprenden el vuelo.",
+      "value_translated": "Oyxl, es una ciudad-templo de los Hombres Lagarto que domina las grandes Llanuras de Culchan que se extienden por todo el continente de Lustria. Los slann vienen aquí para meditar, sus mentes se expanden para adaptarse a la extensión que tienen ante ellos, extendiéndose hasta el horizonte. Se dice que desde aquí sus mentes pueden llegar hasta el polo sur.\\\\n\\\\nOyxl también es el hogar de una próspera población de Skinks. Estos eslizones han dominado durante mucho tiempo la capacidad de montar en Culchan, las aves carnívoras y no voladoras que habitan las llanuras, y las utilizan para pastorear a los herbívoros de lento movimiento que pastan aquí. Su carne es apreciada como un manjar que no suele disfrutarse en las selvas del norte de Lustria.\\\\n\\\\nLa ciudad alberga el hermoso Santuario de las Aves, donde criaturas voladoras de todo tipo acuden en masa. Los Ancestrales, cuya esencia reside en su interior, recompensan a aquellos de los ejércitos de Hombres Lagarto que emprenden el vuelo.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -14922,7 +14922,7 @@
     "resources_description_wh2_main_special_quetza_secondary": {
       "key": "resources_description_wh2_main_special_quetza_secondary",
       "value_original": "Quetza was built during a wave of construction following the founding of Itza. It was located at the centre of six other temple-cities as a major hub in the Geomantic Web designed by the Old Ones. The collapse of the Polar Warp Gates wrought havoc upon the entire world, but Quetza remained a stalwart bulwark against Chaos, protected perhaps due to its position in the Geomantic Web. And then, suddenly, Quetza was abandoned. Why is unknown, though disease or Daemonic machinations are commonly suspected.\\\\n\\\\nQuetza laid empty for centuries until the great migration of the Skaven Clan Pestilens, who settled beneath the temple city and brewed plagues that would devastate all of Lustria. It was Tehenhauin who first forced Clan Pestilens to retreat from Quetza back to the Old World, but Clan Pestilens has returned and been driven out many times since. The land is now a charred, hollow, rocky basin, an unhealing scar ripped out from the depths of the jungle and devoid of life.",
-      "value_translated": "Quetza fue construida durante una ola de construcción que siguió a la fundación de Itzá. Estaba situado en el centro de otras seis ciudades-templo como un importante centro en la Web Geomántica diseñada por los Antiguos. El colapso de las Puertas Disformes Polares causó estragos en todo el mundo, pero Quetza siguió siendo un baluarte incondicional contra el Caos, protegido quizás debido a su posición en la Web Geomántica. Y entonces, de repente, Quetza fue abandonada. Se desconoce por qué, aunque comúnmente se sospecha de enfermedades o maquinaciones demoníacas.\\\\n\\\\nQuetza permaneció vacía durante siglos hasta la gran migración del Clan Skaven Pestilens, que se asentó bajo la ciudad del templo y elaboró plagas que devastarían toda Lustria. Fue Tehenhauin quien primero obligó al Clan Pestilens a retirarse de Quetza al Viejo Mundo, pero el Clan Pestilens ha regresado y ha sido expulsado muchas veces desde entonces. La tierra es ahora una cuenca rocosa carbonizada, hueca y cicatrizada, arrancada de las profundidades de la selva y desprovista de vida.",
+      "value_translated": "Quetza fue construida durante una ola de construcción que siguió a la fundación de Itzá. Estaba situado en el centro de otras seis ciudades-templo como un importante centro en la Web Geomántica diseñada por los Ancestrales. El colapso de las Puertas Disformes Polares causó estragos en todo el mundo, pero Quetza siguió siendo un baluarte incondicional contra el Caos, protegido quizás debido a su posición en la Web Geomántica. Y entonces, de repente, Quetza fue abandonada. Se desconoce por qué, aunque comúnmente se sospecha de enfermedades o maquinaciones demoníacas.\\\\n\\\\nQuetza permaneció vacía durante siglos hasta la gran migración del Clan Skaven Pestilens, que se asentó bajo la ciudad del templo y elaboró plagas que devastarían toda Lustria. Fue Tehenhauin quien primero obligó al Clan Pestilens a retirarse de Quetza al Viejo Mundo, pero el Clan Pestilens ha regresado y ha sido expulsado muchas veces desde entonces. La tierra es ahora una cuenca rocosa carbonizada, hueca y cicatrizada, arrancada de las profundidades de la selva y desprovista de vida.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -14992,7 +14992,7 @@
     "resources_description_wh2_main_special_tlaxtlan_secondary": {
       "key": "resources_description_wh2_main_special_tlaxtlan_secondary",
       "value_original": "Tlaxtlan, is the fourth of the great temple-cities founded by The Old Ones, created when the world only had the single moon of Mannslieb. This temple-city is the primary place of work for Slann Mage-Priests who specialize in Astromancy, their vast intellect combined with the powerful observation facilities of Old One creation allowing them to make amazingly accurate predictions of future even.\\\\n\\\\nWhen the second moon of the world - Morrslieb - came to blight the world due to the Great Catastrophe, the reliability of the predictions of the Slann Mage-Priests suffered greatly, as Morrslieb's orbit is outside of even the Slaan's ability to discern. As such, the Lizardmen have also used Tlaxtlan as a base for their attempts to destroy the Chaos moon. The more successful attempts have lead to meteors of warpstone raining on the world, though this has weakened Chaos in the long-term.",
-      "value_translated": "Tlaxtlán, es la cuarta de las grandes ciudades-templo fundadas por Los Antiguos, creadas cuando el mundo sólo tenía la luna única de Mannsleib. Esta ciudad-templo es el principal lugar de trabajo para los Magos-Sacerdotes Slaan que se especializan en Astromancia, su vasto intelecto combinado con las poderosas instalaciones de observación de la creación del Antiguo Uno, lo que les permite hacer predicciones increíblemente precisas del futuro.\\\\n\\\\nCuando la segunda luna del mundo, Morrsleib, vino a arruinar el mundo debido a la Gran Catástrofe,  la fiabilidad de las predicciones de los Magos-Sacerdotes Slaan sufrió enormemente, ya que la órbita de Morrsleib está fuera de la capacidad de discernimiento incluso de los Slaan. Como tal, los Hombres Lagarto también han utilizado Tlaxtlán como base para sus intentos de destruir la luna del Caos. Los intentos más exitosos han llevado a que lluevan meteoros de piedra de disformidad sobre el mundo, aunque esto ha debilitado al Caos a largo plazo.",
+      "value_translated": "Tlaxtlán, es la cuarta de las grandes ciudades-templo fundadas por Los Ancestrales, creadas cuando el mundo sólo tenía la luna única de Mannsleib. Esta ciudad-templo es el principal lugar de trabajo para los Magos-Sacerdotes Slaan que se especializan en Astromancia, su vasto intelecto combinado con las poderosas instalaciones de observación de la creación del Antiguo Uno, lo que les permite hacer predicciones increíblemente precisas del futuro.\\\\n\\\\nCuando la segunda luna del mundo, Morrsleib, vino a arruinar el mundo debido a la Gran Catástrofe,  la fiabilidad de las predicciones de los Magos-Sacerdotes Slaan sufrió enormemente, ya que la órbita de Morrsleib está fuera de la capacidad de discernimiento incluso de los Slaan. Como tal, los Hombres Lagarto también han utilizado Tlaxtlán como base para sus intentos de destruir la luna del Caos. Los intentos más exitosos han llevado a que lluevan meteoros de piedra de disformidad sobre el mundo, aunque esto ha debilitado al Caos a largo plazo.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -15048,7 +15048,7 @@
     "resources_description_wh2_main_special_xlanhuapec_secondary": {
       "key": "resources_description_wh2_main_special_xlanhuapec_secondary",
       "value_original": "Shrouded in perpetual mist, one might walk past Xlanhuapec's boundaries and never know. That is, if you survive. There are worse things than Lizardmen lurking in the fog.\\\\n\\\\nXlanhuapec is a repository for some of the Old Ones' greatest artefacts. The Placid Pool, the Device of the Great Beyond, the Eternity Ship - all lie in Xlanhuapec's vaults. No outsider is allowed within its borders and even other Lizardmen are sometimes regarded with suspicion. However, after a rampaging Thunder Lizard destroyed the worker barrios, the rulers have relaxed their isolationist tendencies and allowed in caravans of construction materials.\\\\n\\\\nXlanhuapec is ruled by two Slann. Lord Hua-Hua of the Third Generation has ruled Xlanhuapec since the Great Catastrophe. Lord Huinetenuchli of the Second Generation came from Pahuax after his home's destruction and taught the incantation which hides the city in mist. Both Slann respect each other, but the chain of command is often confusing for the Skink Priests. Arguments over whose orders are to be given precedence are common.",
-      "value_translated": "Envuelto en una niebla perpetua, uno puede caminar más allá de los límites de Xlanhuapec y nunca saberlo. Es decir, si sobrevives. Hay cosas peores que los Hombres Lagarto acechando en la niebla.\\\\n\\\\nXlanhuapec es un depósito de algunos de los artefactos más grandes de los Antiguos. La Plácida Piscina, el Dispositivo del Gran Más Allá, el Barco de la Eternidad, todos descansan en las bóvedas de Xlanhuapec. No se permite a ningún forastero dentro de sus fronteras, e incluso otros Hombres Lagarto a veces son vistos con sospecha. Sin embargo, después de que un Lagarto del Trueno arrasara destruyera los barrios de trabajadores, los gobernantes han relajado sus tendencias aislacionistas y han permitido la entrada de caravanas de materiales de construcción.\\\\n\\\\nXlanhuapec está gobernado por dos Slann. El Señor Hua-Hua de la Tercera Generación ha gobernado Xlanhuapec desde la Gran Catástrofe. El Señor Huinetenuchli de la Segunda Generación vino de Pahuax después de la destrucción de su hogar y enseñó el encantamiento que oculta la ciudad en la niebla. Ambos Slann se respetan mutuamente, pero la cadena de mando es a menudo confusa para los Sacerdotes Eslizones. Son comunes las discusiones sobre qué órdenes deben tener prioridad.",
+      "value_translated": "Envuelto en una niebla perpetua, uno puede caminar más allá de los límites de Xlanhuapec y nunca saberlo. Es decir, si sobrevives. Hay cosas peores que los Hombres Lagarto acechando en la niebla.\\\\n\\\\nXlanhuapec es un depósito de algunos de los artefactos más grandes de los Ancestrales. La Plácida Piscina, el Dispositivo del Gran Más Allá, el Barco de la Eternidad, todos descansan en las bóvedas de Xlanhuapec. No se permite a ningún forastero dentro de sus fronteras, e incluso otros Hombres Lagarto a veces son vistos con sospecha. Sin embargo, después de que un Lagarto del Trueno arrasara destruyera los barrios de trabajadores, los gobernantes han relajado sus tendencias aislacionistas y han permitido la entrada de caravanas de materiales de construcción.\\\\n\\\\nXlanhuapec está gobernado por dos Slann. El Señor Hua-Hua de la Tercera Generación ha gobernado Xlanhuapec desde la Gran Catástrofe. El Señor Huinetenuchli de la Segunda Generación vino de Pahuax después de la destrucción de su hogar y enseñó el encantamiento que oculta la ciudad en la niebla. Ambos Slann se respetan mutuamente, pero la cadena de mando es a menudo confusa para los Sacerdotes Eslizones. Son comunes las discusiones sobre qué órdenes deben tener prioridad.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -15125,7 +15125,7 @@
     "resources_description_wh3_dlc20_special_godless_crater_secondary": {
       "key": "resources_description_wh3_dlc20_special_godless_crater_secondary",
       "value_original": "There is little that is feared by the worshipers of the Dark Gods, but the Godless Crater presents a certain... unease for them. The corruption of Chaos still works its foul magic here, but it is undeniably dimmed. There is a tinge of purity to the Winds of Magic in the Godless Crater that sorcerors have ever failed to stain, and the voice of the Dark Gods here is merely a whisper. This has drawn the ire of many warbands, who have performed great acts of perversion and slaughter in the heart of the Godless Crater in the hopes of defiling the land, yet still it resists.\\\\n\\\\nFor the Lizardmen, the Godless Crater has ever drawn interest, though the worshipers of the Dark Gods have kept it from their hands. Some Skink Priests have theorized that the Old Ones blessed the Godless Crater to be impervious to the works of Chaos, and so Oxyotl has led a band of likeminded Lizardmen to at last study the place. Strangely, though, even invocations of the Old Ones seem weaker than normal...",
-      "value_translated": "Hay poco que sea temido por los adoradores de los Dioses Oscuros, pero el Cráter Sin Dios presenta un cierto... malestar para ellos. La corrupción del Caos todavía hace su magia sucia aquí, pero es innegable que se atenúa. Hay un matiz de pureza en los Vientos de la Magia en el Cráter Impío que los hechiceros nunca han podido manchar, y la voz de los Dioses Oscuros aquí es simplemente un susurro. Esto ha provocado la ira de muchas partidas de guerra, que han realizado grandes actos de perversión y matanza en el corazón del Cráter Impío con la esperanza de profanar la tierra, pero aún así resiste.\\\\n\\\\nPara los Hombres Lagarto, el Cráter Impío siempre ha atraído interés, aunque los adoradores de los Dioses Oscuros lo han mantenido alejado de sus manos. Algunos Sacerdotes Eslizones han teorizado que los Ancestrales bendijeron el Cráter Impío para que fuera impermeable a las obras del Caos, por lo que Oxyotl ha liderado a una banda de Hombres Lagarto de ideas afines para estudiar por fin el lugar. Extrañamente, sin embargo, incluso las invocaciones de los Antiguos parecen más débiles de lo normal...",
+      "value_translated": "Hay poco que sea temido por los adoradores de los Dioses Oscuros, pero el Cráter Sin Dios presenta un cierto... malestar para ellos. La corrupción del Caos todavía hace su magia sucia aquí, pero es innegable que se atenúa. Hay un matiz de pureza en los Vientos de la Magia en el Cráter Impío que los hechiceros nunca han podido manchar, y la voz de los Dioses Oscuros aquí es simplemente un susurro. Esto ha provocado la ira de muchas partidas de guerra, que han realizado grandes actos de perversión y matanza en el corazón del Cráter Impío con la esperanza de profanar la tierra, pero aún así resiste.\\\\n\\\\nPara los Hombres Lagarto, el Cráter Impío siempre ha atraído interés, aunque los adoradores de los Dioses Oscuros lo han mantenido alejado de sus manos. Algunos Sacerdotes Eslizones han teorizado que los Ancestrales bendijeron el Cráter Impío para que fuera impermeable a las obras del Caos, por lo que Oxyotl ha liderado a una banda de Hombres Lagarto de ideas afines para estudiar por fin el lugar. Extrañamente, sin embargo, incluso las invocaciones de los Ancestrales parecen más débiles de lo normal...",
       "needs_retranslation": false,
       "removed": false
     },
@@ -15384,36 +15384,36 @@
     "resources_description_wh3_dlc26_special_cuexotl_secondary": {
       "key": "resources_description_wh3_dlc26_special_cuexotl_secondary",
       "value_original": "The City-Temple of Cuexotl is located in the depths of the jungles of the Southern Lands, and is an important point in the Geomantic Network of the Ancestors in these lands. At some point after the Great Catastrophe and the arrival of the Demons to the world, Cuexotl was abandoned and fell into ruins.\\\\n\\\\nHowever, the ruins would not remain uninhabited forever, as at some point they ended up being occupied by the tribe of Savages Orcs of the Leaf-Cutterz. From Cuexotl, they have managed to dominate large expanses of jungle terrain, coming to control the territory that comprises the area between the Red River to Tlaqua.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La Ciudad-Templo de Cuexotl se encuentra en las profundidades de las junglas de las Tierras del Sur, y es un punto importante de la Red Geomántica de los Ancestrales en estas tierras. En algún momento tras la Gran Catástrofe y la llegada de los Demonios al mundo, Cuexotl fue abandonada y cayó en ruinas.\\\\n\\\\nSin embargo, las ruinas no permanecerían deshabitadas para siempre, ya que en algún momento acabaron siendo ocupadas por la tribu de Orcos Salvajes de los Cortahojaz. Desde Cuexotl, han conseguido dominar grandes extensiones de terreno selvático, llegando a controlar el territorio que comprende la zona entre el Río Rojo y Tlaqua.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_wh3_dlc26_special_jade_wind_mountain_secondary": {
       "key": "resources_description_wh3_dlc26_special_jade_wind_mountain_secondary",
       "value_original": "The Jade Wind Mountain is the lesser of the two great peaks to be found in the Forest of the Moon, far away from Mount Kunlan. Here, the Jade Wind of Magic is concentrated by the Wu-Xing Compass, and a small magic grove is cultivated akin to the one found south in Chi'an. The nature spirits, often referred to as Shanlin by Cathayans, are less unruly here and sometimes appear to peasants of the Imperial Provinces to offer wisdoms on how to preserve harmony in the natural world.\\\\n\\\\nWhat is of some curiosity to the Cathayans, though, is that the Jade-Blood Sorcerors are not permitted here. Elsewhere in Cathay the Jade-Bloods are great healers and botanists who keep the peasantry in good health with full bellies, yet the nature spirits of the Jade Wind Mountain do not trust them. Some of the spirits have even struck out in warbands to seek out and slay the Jade-Bloods, calling them a corruption brought about by the foolishness of humans. Most Magistrates mark this up to being typical nature spirit madness.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La Montaña del Viento de Jade es el menor de los dos grandes picos que se encuentran en el Bosque de la Luna, lejos del Monte Kunlan. Aquí, el Viento Mágico de Jade se concentra en la Brújula Wu-Xing, y se cultiva una pequeña arboleda mágica similar a la que se encuentra al sur, en Chi'an. Los espíritus de la naturaleza, a menudo llamados Shanlin por los catayanos, son menos revoltosos aquí y a veces se aparecen a los campesinos de las Provincias Imperiales para ofrecerles sabiduría sobre cómo preservar la armonía en el mundo natural.\\\\n\\\\nSin embargo, lo que resulta curioso para los catayanos es que los hechiceros de Sangre de Jade no están permitidos aquí. En otras partes de Cathay, los Sangre de Jade son grandes curanderos y botánicos que mantienen a los campesinos con buena salud y la barriga llena, pero los espíritus de la naturaleza de la Montaña del Viento de Jade no confían en ellos. Algunos de estos espíritus han llegado incluso a formar partidas de guerra para buscar y matar a los Sangre de Jade, calificándolos de corrupción provocada por la estupidez de los humanos. La mayoría de los Magistrados lo consideran una locura típica de los espíritus de la naturaleza.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_wh3_dlc26_special_pahuax_secondary": {
       "key": "resources_description_wh3_dlc26_special_pahuax_secondary",
       "value_original": "Pahuax's Slann were amongst the foremost of their kind when it came to understanding of temporal manipulation, but this came to be their undoing during the Great Catastrophe. Attempting to buy time, the Slann conducted a great ritual, but the magic twisted, flinging the city's defenders into the Realm of Chaos. Pahuax aged thousands of years in the blink of an eye, and only its weathered central pyramids remain.\\\\n\\\\nOnce, Pahuax was believed to be the only place where Chameleon Skinks spawned. Though they have since emerged across Lustria, these Skinks still honour this place. Chameleon Skinks explore the City of Ash, recovering treasures and sending them to Hexoatl. The temples have been restored, re-occupied, and abandoned many times by command of both Hexoatl's Lord Mazdamundi and Lord Huinetenuchli, Pahuax's last surviving Slann. Inevitably, the City of Ash is left to its own devices.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los Slann de Pahuax se encontraban entre los mejores de su especie en lo que respecta a la manipulación temporal, pero esto acabó siendo su perdición durante la Gran Catástrofe. Intentando ganar tiempo, los Slann llevaron a cabo un gran ritual, pero la magia se torció, arrojando a los defensores de la ciudad al Reino del Caos. Pahuax envejeció miles de años en un abrir y cerrar de ojos, y sólo quedan sus erosionadas pirámides centrales.\\\\n\\\\nAntaño, se creía que Pahuax era el único lugar donde se reproducían los Eslizones Camaleones. Aunque ya han surgido en toda Lustria, estos Eslizones siguen honrando este lugar. Los Eslizones Camaleones exploran la Ciudad de Ceniza, recuperando tesoros y enviándolos a Hexoatl. Los templos han sido restaurados, reocupados y abandonados muchas veces por orden tanto del Señor Mazdamundi de Hexoatl como del Señor Huinetenuchli, el último Slann superviviente de Pahuax. Inevitablemente, la Ciudad de Ceniza ha sido abandonada a su suerte.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_wh3_dlc26_special_springs_of_eternal_life_secondary": {
       "key": "resources_description_wh3_dlc26_special_springs_of_eternal_life_secondary",
       "value_original": "The Springs of Eternal Life, also called the Fountains of Eternal Life, were once a holy place for the people of Nehekhara until their befoulment at the hands of the Great Necromancer Nagash. This sacred places once silvery waters are now toxic and black, filled with ancient corpses that stir restlessly in mockery of those who once bathed in the life-giving waters.\\\\n\\\\nStories claim that the Springs of Eternal Life were created as the result of the union of the Nehekharan deities Asaph and Geheb, forming a patch of life-giving water amidst the barren sands of the desert. Only the Great River Vitae was more revered in the Nehekharan culture. The silvery waters were believed to have healing properties and were shrouded in mist when seen from afar.\\\\n\\\\nDuring the first Nehekharan war against Nagash, the Usurper contaminated the sacred waters by filling the springs with corpses. Using this tainted wellspring of power, Nagash's necromancer disciples defeated the armies of the city-states of Rasetra and Lybaras that were set against them.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los Manantiales de la Vida Eterna, también llamados Fuentes de la Vida Eterna, fueron antaño un lugar sagrado para el pueblo de Nehekhara hasta su derrota a manos del Gran Nigromante Nagash. Las aguas de este lugar sagrado, antaño plateadas, son ahora tóxicas y negras, llenas de cadáveres antiguos que se agitan inquietos en burla de aquellos que una vez se bañaron en las aguas dadoras de vida.\\\\n\\\\nLas historias afirman que los Manantiales de la Vida Eterna se crearon como resultado de la unión de las deidades nehekharianas Asaph y Geheb, formando un manchón de agua vivificante en medio de las áridas arenas del desierto. Sólo el Gran Río Vitae era más venerado en la cultura nehekhariana. Se creía que sus aguas plateadas tenían propiedades curativas y estaban envueltas en niebla cuando se veían desde lejos.\\\\n\\\\nDurante la primera guerra nehekhariana contra Nagash, el Usurpador contaminó las aguas sagradas llenando los manantiales de cadáveres. Utilizando este manantial de poder contaminado, los discípulos nigromantes de Nagash derrotaron a los ejércitos de las ciudades-estado de Rasetra y Lybaras que se les oponían.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_wh3_dlc26_special_stormhenge_secondary": {
       "key": "resources_description_wh3_dlc26_special_stormhenge_secondary",
       "value_original": "No one knows for sure when, and indeed, how, the ancient structure known as Stormhenge was created. Even the Orcs, prevalent throughout the Badlands, give these concentric henges a wide birth. It is thought by some that the pillars are part of a device that funnels the Winds of Magic, channelling them directly into one host, should they stand on the central column.\\\\n\\\\nHowever, this has never been confirmed, for those few Wizards who have been brave – or foolish – enough to stand upon the central pillar have never survived to recount their experience.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Nadie sabe con certeza cuándo, y de hecho, cómo, se creó la antigua estructura conocida como Henge Tormentoso. Incluso los orcos, que abundan en las Tierras Yermas, dan a estos henges concéntricos un amplio nacimiento. Algunos creen que los pilares forman parte de un dispositivo que canaliza los Vientos de la Magia, encauzándolos directamente hacia un anfitrión, en caso de que éste se sitúe sobre la columna central.\\\\n\\\\nSin embargo, esto nunca se ha confirmado, ya que los pocos magos que han sido lo bastante valientes -o tontos- como para pararse sobre el pilar central nunca han sobrevivido para contar su experiencia.",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_description_wh3_main_combi_jungles_of_chian_secondary": {
@@ -15601,7 +15601,7 @@
     "resources_description_wh3_main_special_shiyamas_rest_secondary": {
       "key": "resources_description_wh3_main_special_shiyamas_rest_secondary",
       "value_original": "Shiyama's Rest would be an unremarkable village of Cathay, were it not for the presence of its Standing Stones some distance away. The Standing Stones of Shiyama's Rest are surrounded by a gorgeous grove, an untainted example of the beauty of Cathayan nature. Only monks are permitted here, and even then only monks personally approved by the Jade Dragon. There are many rice paddies and farms around the grove, for the crop here is always bountiful, but the peasants of Shiyama's Rest know to avoid the Standing Stones or else find themselves at the mercy of Jade Dragon.\\\\n\\\\nThe Standing Stones are inscribed with triskeles and other symbols more familiar to foreign lands, particularly Albion and Lustria. Yuan Bo suspects that these Standing Stones are the work of the Old Ones, who are viewed with much disdain by the Dragons of Cathay. Still, Yuan Bo recognizes that the Standing Stones and other works of the Old Ones hold a certain power against Chaos, and keeps his study of them secret to his family.",
-      "value_translated": "El Descanso de Shiyama sería un pueblo corriente de Cathay, si no fuera por la presencia de sus Piedras Erguidas a cierta distancia. Las Piedras Erguidas del Descanso de Shiyama están rodeadas por una hermosa arboleda, un ejemplo intacto de la belleza de la naturaleza catayana. Aquí sólo se permiten monjes, e incluso entonces sólo los monjes aprobados personalmente por el Dragón de Jade. Hay muchos arrozales y granjas alrededor de la arboleda, ya que aquí la cosecha siempre es abundante, pero los campesinos de Shiyama's Rest saben que deben evitar las Piedras Erguidas o se encontrarán a merced del Dragón de Jade.\\\\n\\\\nLas Piedras Erguidas están inscritos con trisqueles y otros símbolos más familiares en tierras extranjeras, particularmente en Albión y Lustria. Yuan Bo sospecha que estas Piedras Erguidas son obra de los Antiguos, a quienes los Dragones de Cathay miran con mucho desdén. Aún así, Yuan Bo reconoce que las Piedras Erguidas y otras obras de los Antiguos tienen cierto poder contra el Caos, y mantiene en secreto su estudio sobre ellas para su familia.",
+      "value_translated": "El Descanso de Shiyama sería un pueblo corriente de Cathay, si no fuera por la presencia de sus Piedras Erguidas a cierta distancia. Las Piedras Erguidas del Descanso de Shiyama están rodeadas por una hermosa arboleda, un ejemplo intacto de la belleza de la naturaleza catayana. Aquí sólo se permiten monjes, e incluso entonces sólo los monjes aprobados personalmente por el Dragón de Jade. Hay muchos arrozales y granjas alrededor de la arboleda, ya que aquí la cosecha siempre es abundante, pero los campesinos de Shiyama's Rest saben que deben evitar las Piedras Erguidas o se encontrarán a merced del Dragón de Jade.\\\\n\\\\nLas Piedras Erguidas están inscritos con trisqueles y otros símbolos más familiares en tierras extranjeras, particularmente en Albión y Lustria. Yuan Bo sospecha que estas Piedras Erguidas son obra de los Ancestrales, a quienes los Dragones de Cathay miran con mucho desdén. Aún así, Yuan Bo reconoce que las Piedras Erguidas y otras obras de los Ancestrales tienen cierto poder contra el Caos, y mantiene en secreto su estudio sobre ellas para su familia.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -15727,7 +15727,7 @@
     "resources_description_wh_main_special_citadel_of_lead_secondary": {
       "key": "resources_description_wh_main_special_citadel_of_lead_secondary",
       "value_original": "The Citadel of Lead on the island of Albion is a strange and baroque structure of twisted spires and warped gates. It is rumoured to be a prison for some powerful daemon, locked away at the dawn of time by the Gods themselves.\\\\n\\\\nAfter the Chaos Incursion in IC 2302, the daemon was revealed to be the cursed Daemon Prince Be'lakor who managed to escape his fate of madness and imprisonment and started to materialize in the Citadel of Lead. He misguided some of the Truthsayers to became his Dark Emissaries, to help him regain corporeal form. The Dark Emissaries now roam the World in search of any evil, warmongering, ambitious or at least greedy, leader who would come to the Islands of Albion to divert the energies of the Stone Circles and allow their Dark Master to materialise.\\\\n\\\\nThose Truthsayers who were not corrupted also travel the world, to find help against their fallen brothers. Thanks to their efforts, fleets of all nations and races set sail to Albion, either to help or to stop the Dark Master and to earn the artefacts of the Old Ones.",
-      "value_translated": "La Ciudadela de Plomo en la isla de Albion es una estructura extraña y barroca de agujas retorcidas y puertas deformadas. Se rumorea que es una prisión para un poderoso demonio, encerrado en los albores de los tiempos por los propios dioses.\\\\n\\\\nDespués de la Incursión del Caos en IC 2302, se reveló que el demonio era el maldito Príncipe Demonio Be'lakor. quien logró escapar de su destino de locura y encarcelamiento y comenzó a materializarse en la Ciudadela de Plomo. Engañó a algunos de los Adivinos de la Verdad para que se convirtieran en sus Emisarios Oscuros, para ayudarlo a recuperar su forma corpórea. Los Emisarios Oscuros ahora deambulan por el mundo en busca de cualquier líder malvado, belicista, ambicioso o al menos codicioso que venga a las Islas de Albion para desviar las energías de los Círculos de Piedra y permitir que su Maestro Oscuro se materialice.\\\\n\\\\nAquellos Decir la Verdad que no fueron corrompidos también viajan por el mundo para encontrar ayuda contra sus hermanos caídos. Gracias a sus esfuerzos, flotas de todas las naciones y razas zarparon hacia Albion, ya sea para ayudar o detener al Maestro Oscuro y ganar los artefactos de los Antiguos.",
+      "value_translated": "La Ciudadela de Plomo en la isla de Albion es una estructura extraña y barroca de agujas retorcidas y puertas deformadas. Se rumorea que es una prisión para un poderoso demonio, encerrado en los albores de los tiempos por los propios dioses.\\\\n\\\\nDespués de la Incursión del Caos en el 2302 C.I., se reveló que el demonio era el maldito Príncipe Demonio Be'lakor. quien logró escapar de su destino de locura y encarcelamiento y comenzó a materializarse en la Ciudadela de Plomo. Engañó a algunos de los Arúspices para que se convirtieran en sus Emisarios Oscuros, para ayudarlo a recuperar su forma corpórea. Los Emisarios Oscuros ahora deambulan por el mundo en busca de cualquier líder malvado, belicista, ambicioso o al menos codicioso que venga a las Islas de Albion para desviar las energías de los Círculos de Piedra y permitir que su Maestro Oscuro se materialice.\\\\n\\\\nAquellos arúspices que no fueron corrompidos también viajan por el mundo para encontrar ayuda contra sus hermanos caídos. Gracias a sus esfuerzos, flotas de todas las naciones y razas zarparon hacia Albion, ya sea para ayudar o detener al Maestro Oscuro y ganar los artefactos de los Ancestrales.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -20186,8 +20186,8 @@
     "resources_onscreen_text_mixer_ime_major_secondary_taipan_port": {
       "key": "resources_onscreen_text_mixer_ime_major_secondary_taipan_port",
       "value_original": "[[col:yellow]]Hidden Landing[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Embarcadero oculto[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_mixer_ime_major_secondary_teotiqua": {
@@ -20298,8 +20298,8 @@
     "resources_onscreen_text_mixer_ime_major_secondary_yhetee_peak": {
       "key": "resources_onscreen_text_mixer_ime_major_secondary_yhetee_peak",
       "value_original": "[[col:yellow]]Yhetee Peak[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Pico de los Yehtis[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_mixer_ime_major_secondary_zhanshi": {
@@ -20389,8 +20389,8 @@
     "resources_onscreen_text_mixer_ime_minor_secondary_aquitaine": {
       "key": "resources_onscreen_text_mixer_ime_minor_secondary_aquitaine",
       "value_original": "[[col:yellow]]Aquitaine[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Aquitaine[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_mixer_ime_minor_secondary_argalis": {
@@ -20459,8 +20459,8 @@
     "resources_onscreen_text_mixer_ime_minor_secondary_boa_mountain": {
       "key": "resources_onscreen_text_mixer_ime_minor_secondary_boa_mountain",
       "value_original": "[[col:yellow]]White Sistrum Chamber[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Cámara del Sistrum Blanco[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_mixer_ime_minor_secondary_castle_von_rauken": {
@@ -20760,8 +20760,8 @@
     "resources_onscreen_text_mixer_ime_minor_secondary_gateway_to_khuresh": {
       "key": "resources_onscreen_text_mixer_ime_minor_secondary_gateway_to_khuresh",
       "value_original": "[[col:yellow]]Gateway to Khuresh[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Puerta a Khuresh[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_mixer_ime_minor_secondary_gems_eye_of_the_panther": {
@@ -20851,8 +20851,8 @@
     "resources_onscreen_text_mixer_ime_minor_secondary_grimhold": {
       "key": "resources_onscreen_text_mixer_ime_minor_secondary_grimhold",
       "value_original": "[[col:yellow]]Grimhold[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Grimhold[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_mixer_ime_minor_secondary_grimtop": {
@@ -21593,22 +21593,22 @@
     "resources_onscreen_text_mixer_ime_minor_secondary_savage_ash_ridge_mountains": {
       "key": "resources_onscreen_text_mixer_ime_minor_secondary_savage_ash_ridge_mountains",
       "value_original": "[[col:yellow]]Ash Ridge Mountains[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Montañas Crestas de Cenizas[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_mixer_ime_minor_secondary_savage_statues_of_the_gods": {
       "key": "resources_onscreen_text_mixer_ime_minor_secondary_savage_statues_of_the_gods",
       "value_original": "[[col:yellow]]Statues Of The Gods[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Estatuas de los Dioses[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_mixer_ime_minor_secondary_savage_sun_tree_glades": {
       "key": "resources_onscreen_text_mixer_ime_minor_secondary_savage_sun_tree_glades",
       "value_original": "[[col:yellow]]Sun Tree Glades[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Claros del Árbol-Sol[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_mixer_ime_minor_secondary_sentinels_of_xeti": {
@@ -21698,8 +21698,8 @@
     "resources_onscreen_text_mixer_ime_minor_secondary_snake_pit": {
       "key": "resources_onscreen_text_mixer_ime_minor_secondary_snake_pit",
       "value_original": "[[col:yellow]]Lair of the Blood Naga[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Guarida de los Sangre Naga[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_mixer_ime_minor_secondary_sorcerers_islands": {
@@ -21824,8 +21824,8 @@
     "resources_onscreen_text_mixer_ime_minor_secondary_temple_of_tlencan": {
       "key": "resources_onscreen_text_mixer_ime_minor_secondary_temple_of_tlencan",
       "value_original": "[[col:yellow]]Bregonne[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Bregonne[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_mixer_ime_minor_secondary_terracotta_graveyard": {
@@ -23231,22 +23231,22 @@
     "resources_onscreen_text_wh3_dlc26_special_jade_wind_mountain_secondary": {
       "key": "resources_onscreen_text_wh3_dlc26_special_jade_wind_mountain_secondary",
       "value_original": "[[col:yellow]]Jade Wind Mountain[[/col]]\\\\n[[col:ui_font_inactive_grey_light]]This region produces Ivory[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Montaña del Viento de Jade[[/col]]\\\\n[[col:ui_font_inactive_grey_light]]Esta región produce Marfil.[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_wh3_dlc26_special_pahuax_secondary": {
       "key": "resources_onscreen_text_wh3_dlc26_special_pahuax_secondary",
       "value_original": "[[col:yellow]]Pahuax - City of Ash[[/col]]\\\\n[[col:ui_font_inactive_grey_light]]This region produces Medicinal Plants[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Pahuax, la Ciudad de Ceniza[[/col]]\\\\n[[col:ui_font_inactive_grey_light]]Esta región produce Plantas Medicinales.[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_wh3_dlc26_special_springs_of_eternal_life_secondary": {
       "key": "resources_onscreen_text_wh3_dlc26_special_springs_of_eternal_life_secondary",
       "value_original": "[[col:yellow]]Springs Of Eternal Life[[/col]]\\\\n[[col:ui_font_inactive_grey_light]]This region produces Marble[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Fuentes de la Vida Eterna[[/col]]\\\\n[[col:ui_font_inactive_grey_light]]Esta región produce Mármol.[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_wh3_dlc26_special_stormhenge_secondary": {
@@ -23686,8 +23686,8 @@
     "resources_onscreen_text_wh_main_special_massif_orca_secondary": {
       "key": "resources_onscreen_text_wh_main_special_massif_orca_secondary",
       "value_original": "[[col:yellow]]Massif Orcal[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Cerro del Orco[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "resources_onscreen_text_wh_main_special_middenheim_secondary": {
@@ -24043,8 +24043,8 @@
     "start_pos_settlements_onscreen_name_settlement:wh3_main_combi_region_mountain_pass112311": {
       "key": "start_pos_settlements_onscreen_name_settlement:wh3_main_combi_region_mountain_pass112311",
       "value_original": "White Sistrum Chamber",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Cámara del Sistrum Blanco",
+      "needs_retranslation": false,
       "removed": false
     },
     "start_pos_settlements_onscreen_name_settlement:wh3_main_combi_region_naglfari_plain979614810": {
@@ -24141,8 +24141,8 @@
     "start_pos_settlements_onscreen_name_settlement:wh3_main_combi_region_southern_outpost433546535": {
       "key": "start_pos_settlements_onscreen_name_settlement:wh3_main_combi_region_southern_outpost433546535",
       "value_original": "Lair of the Blood Naga",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Guarida de los Sangre Naga",
+      "needs_retranslation": false,
       "removed": false
     },
     "start_pos_settlements_onscreen_name_settlement:wh3_main_combi_region_stonemine_tower475966183": {
