@@ -1,0 +1,489 @@
+{
+  "language": "SP",
+  "pack_name": "assladders_begone.pack",
+  "translations": {
+    "battlefield_siege_vehicles_description_brt_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_brt_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_bst_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_bst_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_chd_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_chd_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_chs_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_chs_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_cst_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_cst_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_cth_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_cth_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_def_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_def_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_dwf_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_dwf_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_emp_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_emp_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_glb_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_glb_siege_ladder_15m",
+      "value_original": "Lets units assault settlement walls.",
+      "value_translated": "Permite a las unidades asaltar asentamientos amurallados.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_grn_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_grn_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_hef_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_hef_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_kho_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_kho_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_ksl_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_ksl_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_lzd_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_lzd_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_nor_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_nor_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_nur_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_nur_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_skv_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_skv_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_sla_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_sla_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_tmb_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_tmb_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_tze_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_tze_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_vmp_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_vmp_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_description_wef_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_description_wef_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_description_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_brt_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_brt_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_bst_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_bst_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_chd_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_chd_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_chs_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_chs_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_cst_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_cst_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_cth_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_cth_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_def_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_def_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_dwf_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_dwf_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_emp_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_emp_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m",
+      "value_original": "Siege Ladder",
+      "value_translated": "Escala de Asedio",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_grn_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_grn_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_hef_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_hef_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_kho_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_kho_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_ksl_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_ksl_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_lzd_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_lzd_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_nor_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_nor_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_nur_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_nur_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_skv_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_skv_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_sla_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_sla_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_tmb_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_tmb_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_tze_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_tze_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_vmp_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_vmp_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "battlefield_siege_vehicles_onscreen_name_wef_siege_ladder_15m": {
+      "key": "battlefield_siege_vehicles_onscreen_name_wef_siege_ladder_15m",
+      "value_original": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "value_translated": "{{tr:battlefield_siege_vehicles_onscreen_name_glb_siege_ladder_15m}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc09_effect_siege_engine_number_tmb_siege_ladder": {
+      "key": "effects_description_wh2_dlc09_effect_siege_engine_number_tmb_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_dlc11_effect_siege_engine_number_cst_siege_ladder": {
+      "key": "effects_description_wh2_dlc11_effect_siege_engine_number_cst_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_siege_engine_number_def_siege_ladder": {
+      "key": "effects_description_wh2_main_effect_siege_engine_number_def_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_siege_engine_number_hef_siege_ladder": {
+      "key": "effects_description_wh2_main_effect_siege_engine_number_hef_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_siege_engine_number_lzd_siege_ladder": {
+      "key": "effects_description_wh2_main_effect_siege_engine_number_lzd_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh2_main_effect_siege_engine_number_skv_siege_ladder": {
+      "key": "effects_description_wh2_main_effect_siege_engine_number_skv_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh3_dlc23_effect_siege_engine_number_chd_siege_ladder": {
+      "key": "effects_description_wh3_dlc23_effect_siege_engine_number_chd_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_siege_engine_number_cth_siege_ladder": {
+      "key": "effects_description_wh3_main_effect_siege_engine_number_cth_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_siege_engine_number_kho_siege_ladder": {
+      "key": "effects_description_wh3_main_effect_siege_engine_number_kho_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_siege_engine_number_ksl_siege_ladder": {
+      "key": "effects_description_wh3_main_effect_siege_engine_number_ksl_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_siege_engine_number_nur_siege_ladder": {
+      "key": "effects_description_wh3_main_effect_siege_engine_number_nur_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_siege_engine_number_sla_siege_ladder": {
+      "key": "effects_description_wh3_main_effect_siege_engine_number_sla_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh3_main_effect_siege_engine_number_tze_siege_ladder": {
+      "key": "effects_description_wh3_main_effect_siege_engine_number_tze_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_dlc03_effect_siege_engine_number_bst_siege_ladder": {
+      "key": "effects_description_wh_dlc03_effect_siege_engine_number_bst_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_dlc03_effect_siege_engine_number_bst_siege_ladder_number_increase": {
+      "key": "effects_description_wh_dlc03_effect_siege_engine_number_bst_siege_ladder_number_increase",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder": {
+      "key": "effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder",
+      "value_original": "Siege Ladder: %+n for each siege equipment built",
+      "value_translated": "Escala de asedio: %+n por cada equipamiento de asedio construído.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_dlc08_effect_siege_engine_number_nor_siege_ladder": {
+      "key": "effects_description_wh_dlc08_effect_siege_engine_number_nor_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_siege_engine_number_brt_siege_ladder": {
+      "key": "effects_description_wh_main_effect_siege_engine_number_brt_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_siege_engine_number_chs_siege_ladder": {
+      "key": "effects_description_wh_main_effect_siege_engine_number_chs_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_siege_engine_number_dwf_siege_ladder": {
+      "key": "effects_description_wh_main_effect_siege_engine_number_dwf_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_siege_engine_number_emp_siege_ladder": {
+      "key": "effects_description_wh_main_effect_siege_engine_number_emp_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_siege_engine_number_grn_siege_ladder": {
+      "key": "effects_description_wh_main_effect_siege_engine_number_grn_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_siege_engine_number_vmp_siege_ladder": {
+      "key": "effects_description_wh_main_effect_siege_engine_number_vmp_siege_ladder",
+      "value_original": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "value_translated": "{{tr:effects_description_wh_dlc05_effect_siege_engine_number_wef_siege_ladder}}",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}
