@@ -19,14 +19,14 @@
     "agent_recruitment_categories_onscreen_name_kraka_wardlord": {
       "key": "agent_recruitment_categories_onscreen_name_kraka_wardlord",
       "value_original": "Wardlord",
-      "value_translated": "Señor Guardián",
+      "value_translated": "Señor de las Guardas",
       "needs_retranslation": false,
       "removed": false
     },
     "agent_subtypes_description_text_override_kraka_wardlord": {
       "key": "agent_subtypes_description_text_override_kraka_wardlord",
       "value_original": "A deeply respected branch of Kraka Drak's Guild of the Runesmiths, the Wardlords lead small regiments and their bodyguard in extremely dangerous patrols through the runic wards.",
-      "value_translated": "Una rama muy respetada del Gremio de los Herreros Rúnicos de Kraka Drak, los Señores Protectores lideran pequeños regimientos con sus guardaespaldas en patrullas extremadamente peligrosas a través de los salones rúnicos.",
+      "value_translated": "Los Señores de las Guardas, una rama muy respetada del Gremio de Herreros Rúnicos de Kraka Drak, dirigen pequeños regimientos y sus guardaespaldas en patrullas extremadamente peligrosas a través de los salones rúnicos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -40,7 +40,7 @@
     "agent_subtypes_onscreen_name_override_kraka_wardlord": {
       "key": "agent_subtypes_onscreen_name_override_kraka_wardlord",
       "value_original": "Wardlord",
-      "value_translated": "Señor Guardián",
+      "value_translated": "Señor de las Guardas",
       "needs_retranslation": false,
       "removed": false
     },
@@ -89,7 +89,7 @@
     "building_chains_chain_tooltip_kraka_dorden": {
       "key": "building_chains_chain_tooltip_kraka_dorden",
       "value_original": "Reclaimed Halls",
-      "value_translated": "Kraka Reclamada",
+      "value_translated": "Salones recuperados",
       "needs_retranslation": false,
       "removed": false
     },
@@ -103,14 +103,14 @@
     "building_chains_chain_tooltip_kraka_orns": {
       "key": "building_chains_chain_tooltip_kraka_orns",
       "value_original": "Reclaimed Halls",
-      "value_translated": "Salones Reclamados",
+      "value_translated": "Salones reclamados",
       "needs_retranslation": false,
       "removed": false
     },
     "building_chains_chain_tooltip_kraka_refugees": {
       "key": "building_chains_chain_tooltip_kraka_refugees",
       "value_original": "Norscan Allies",
-      "value_translated": "Aliados Norses",
+      "value_translated": "Aliados norses",
       "needs_retranslation": false,
       "removed": false
     },
@@ -124,7 +124,7 @@
     "building_chains_chain_tooltip_kraka_slayer": {
       "key": "building_chains_chain_tooltip_kraka_slayer",
       "value_original": "Norse Cult of Grimnir",
-      "value_translated": "Culto Norse de Grimnir",
+      "value_translated": "Culto norse de Grimnir",
       "needs_retranslation": false,
       "removed": false
     },
@@ -145,21 +145,21 @@
     "building_chains_chain_tooltip_kraka_terraform_dorden": {
       "key": "building_chains_chain_tooltip_kraka_terraform_dorden",
       "value_original": "Reclaimed Kraka",
-      "value_translated": "Kraka Reclamada",
+      "value_translated": "Kraka recuperado",
       "needs_retranslation": false,
       "removed": false
     },
     "building_chains_chain_tooltip_kraka_terraform_orns": {
       "key": "building_chains_chain_tooltip_kraka_terraform_orns",
       "value_original": "Reclaimed Kraka",
-      "value_translated": "Kraka Reclamada",
+      "value_translated": "Kraka recuperado",
       "needs_retranslation": false,
       "removed": false
     },
     "building_chains_chain_tooltip_kraka_throne": {
       "key": "building_chains_chain_tooltip_kraka_throne",
       "value_original": "Seat of Power",
-      "value_translated": "Trono del Poder",
+      "value_translated": "Sede del poder",
       "needs_retranslation": false,
       "removed": false
     },
@@ -173,28 +173,28 @@
     "building_chains_chain_tooltip_kraka_wards": {
       "key": "building_chains_chain_tooltip_kraka_wards",
       "value_original": "Warding Stones",
-      "value_translated": "Piedras de Protección",
+      "value_translated": "Piedras protectoras",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_barracks_4cr_dwf_kraka_ravensvake": {
       "key": "building_culture_variants_name_kraka_barracks_4cr_dwf_kraka_ravensvake",
       "value_original": "Wardens' Hall",
-      "value_translated": "Salón de los Guardianes",
+      "value_translated": "Salón de los guardianes",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_barracks_4wh_main_dwf_kraka_drak": {
       "key": "building_culture_variants_name_kraka_barracks_4wh_main_dwf_kraka_drak",
       "value_original": "Wardens' Hall",
-      "value_translated": "Salón de los Guardianes",
+      "value_translated": "Salón de los guardianes",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_dorden": {
       "key": "building_culture_variants_name_kraka_dorden",
       "value_original": "Thunder Halls",
-      "value_translated": "Salones del Trueno",
+      "value_translated": "Salones del trueno",
       "needs_retranslation": false,
       "removed": false
     },
@@ -243,7 +243,7 @@
     "building_culture_variants_name_kraka_runetechcr_dwf_kraka_ravensvake": {
       "key": "building_culture_variants_name_kraka_runetechcr_dwf_kraka_ravensvake",
       "value_original": "Run-Engineering Workshop",
-      "value_translated": "Taller de ingeniería de rúnica",
+      "value_translated": "Taller de ingeniería rúnica",
       "needs_retranslation": false,
       "removed": false
     },
@@ -257,49 +257,49 @@
     "building_culture_variants_name_kraka_slayer": {
       "key": "building_culture_variants_name_kraka_slayer",
       "value_original": "Great Shrine of Kraka Ornsmotek",
-      "value_translated": "Gran Santuario de Kraka Ornsmotek",
+      "value_translated": "Gran santuario de Kraka Ornsmotek",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_smith_1cr_dwf_kraka_ravensvake": {
       "key": "building_culture_variants_name_kraka_smith_1cr_dwf_kraka_ravensvake",
       "value_original": "Runesmithy",
-      "value_translated": "Herrería Rúnica",
+      "value_translated": "Herrería rúnica",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_smith_1wh_main_dwf_kraka_drak": {
       "key": "building_culture_variants_name_kraka_smith_1wh_main_dwf_kraka_drak",
       "value_original": "Runesmithy",
-      "value_translated": "Herrería Rúnica",
+      "value_translated": "Herrería rúnica",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_smith_2cr_dwf_kraka_ravensvake": {
       "key": "building_culture_variants_name_kraka_smith_2cr_dwf_kraka_ravensvake",
       "value_original": "Warded Armoury",
-      "value_translated": "Armería Protegida",
+      "value_translated": "Armería protegida",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_smith_2wh_main_dwf_kraka_drak": {
       "key": "building_culture_variants_name_kraka_smith_2wh_main_dwf_kraka_drak",
       "value_original": "Warded Armoury",
-      "value_translated": "Armería Protegida",
+      "value_translated": "Armería protegida",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_smith_3cr_dwf_kraka_ravensvake": {
       "key": "building_culture_variants_name_kraka_smith_3cr_dwf_kraka_ravensvake",
       "value_original": "Runeforge",
-      "value_translated": "Forja Rúnica",
+      "value_translated": "Forja rúnica",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_smith_3wh_main_dwf_kraka_drak": {
       "key": "building_culture_variants_name_kraka_smith_3wh_main_dwf_kraka_drak",
       "value_original": "Runeforge",
-      "value_translated": "Forja Rúnica",
+      "value_translated": "Forja rúnica",
       "needs_retranslation": false,
       "removed": false
     },
@@ -313,7 +313,7 @@
     "building_culture_variants_name_kraka_terraform_dorden_2": {
       "key": "building_culture_variants_name_kraka_terraform_dorden_2",
       "value_original": "Kraka Dorden Restored",
-      "value_translated": "Kraka Dorden Restaurada",
+      "value_translated": "Kraka Dorden restaurada",
       "needs_retranslation": false,
       "removed": false
     },
@@ -327,21 +327,21 @@
     "building_culture_variants_name_kraka_terraform_orns_2": {
       "key": "building_culture_variants_name_kraka_terraform_orns_2",
       "value_original": "Kraka Ornsmotek Restored",
-      "value_translated": "Kraka Ornsmotek Restaurada",
+      "value_translated": "Kraka Ornsmotek restaurada",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_terraformcr_dwf_kraka_ravensvake": {
       "key": "building_culture_variants_name_kraka_terraformcr_dwf_kraka_ravensvake",
       "value_original": "Reclamation Works",
-      "value_translated": "Trabajos de Recuperación",
+      "value_translated": "Trabajos de recuperación",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_terraformwh_main_dwf_kraka_drak": {
       "key": "building_culture_variants_name_kraka_terraformwh_main_dwf_kraka_drak",
       "value_original": "Reclamation Works",
-      "value_translated": "Trabajos de Recuperación",
+      "value_translated": "Trabajos de recuperación",
       "needs_retranslation": false,
       "removed": false
     },
@@ -362,42 +362,42 @@
     "building_culture_variants_name_kraka_wards_1cr_dwf_kraka_ravensvake": {
       "key": "building_culture_variants_name_kraka_wards_1cr_dwf_kraka_ravensvake",
       "value_original": "Stone Wards",
-      "value_translated": "Barreras de piedra",
+      "value_translated": "Guardas de piedra",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_wards_1wh_main_dwf_kraka_drak": {
       "key": "building_culture_variants_name_kraka_wards_1wh_main_dwf_kraka_drak",
       "value_original": "Stone Wards",
-      "value_translated": "Barreras de piedra",
+      "value_translated": "Guardas de piedra",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_wards_2cr_dwf_kraka_ravensvake": {
       "key": "building_culture_variants_name_kraka_wards_2cr_dwf_kraka_ravensvake",
       "value_original": "Runic Wards",
-      "value_translated": "Barreras rúnicas",
+      "value_translated": "Guardas rúnicas",
       "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_kraka_wards_2wh_main_dwf_kraka_drak": {
       "key": "building_culture_variants_name_kraka_wards_2wh_main_dwf_kraka_drak",
       "value_original": "Runic Wards",
-      "value_translated": "Barreras rúnicas",
+      "value_translated": "Guardas rúnicas",
       "needs_retranslation": false,
       "removed": false
     },
     "building_effect_context_expressions_display_text_IsFactionKrakaDrak": {
       "key": "building_effect_context_expressions_display_text_IsFactionKrakaDrak",
       "value_original": "For Norse Dwarfs:",
-      "value_translated": "Para los Enanos nórdicos:",
+      "value_translated": "Para los Enanos Norses:",
       "needs_retranslation": false,
       "removed": false
     },
     "building_effect_context_expressions_display_text_IsFactionNotKrakaDrak": {
       "key": "building_effect_context_expressions_display_text_IsFactionNotKrakaDrak",
       "value_original": "For all Dwarfs except Norse Dwarfs:",
-      "value_translated": "Par todos los Enanos menos los nórdicos:",
+      "value_translated": "Para todos los Enanos menos los Norses:",
       "needs_retranslation": false,
       "removed": false
     },
@@ -439,7 +439,7 @@
     "building_short_description_texts_short_description_kraka_okri": {
       "key": "building_short_description_texts_short_description_kraka_okri",
       "value_original": "Beneath Kraka Ravnsvake lie large deposits of the endemic and precious blue stone, used to build the Norse monuments and wards.",
-      "value_translated": "Bajo Kraka Ravnsvake yacen grandes depósitos de la endémica y preciosa piedra azul, utilizada para construir los monumentos y pabellones Norses.",
+      "value_translated": "Bajo Kraka Ravnsvake yacen grandes depósitos de la endémica y preciosa piedra azul, utilizada para construir los monumentos y barreras norses.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -474,7 +474,7 @@
     "building_short_description_texts_short_description_kraka_slayer": {
       "key": "building_short_description_texts_short_description_kraka_slayer",
       "value_original": "The second greatest Slayer Shrine in the entire Dwarfdom, visited by all Slayers that wander the north and Troll Country.",
-      "value_translated": "El segundo mayor Santuario de Matadores de todo el reino enano, visitado por todos los Matadores que vagan por el norte y el Territorio Troll.",
+      "value_translated": "El segundo mayor Santuario de Matadores de todo el dominio enano, visitado por todos los Matadores que vagan por el norte y el Territorio Troll.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -488,7 +488,7 @@
     "building_short_description_texts_short_description_kraka_smith_2": {
       "key": "building_short_description_texts_short_description_kraka_smith_2",
       "value_original": "In the wild north, Runesmiths tend to their craft in bespoke shelters where the ruinous Winds can't disturb them. This is where they experiment with alternatives to precious gromril.",
-      "value_translated": "En el salvaje norte, los Herreros Rúnicos se dedican a su oficio en refugios hechos a medida, donde los ruinosos Vientos no pueden molestarlos. Aquí es donde experimentan con alternativas al precioso gromril.",
+      "value_translated": "En el salvaje norte, los Herreros Rúnicos se dedican a su oficio en refugios hechos a medida, donde los ruinosos Vientos no pueden molestarlos. Aquí es donde experimentan con alternativas al preciado gromril.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -523,7 +523,7 @@
     "building_short_description_texts_short_description_kraka_terraform_orns_1": {
       "key": "building_short_description_texts_short_description_kraka_terraform_orns_1",
       "value_original": "By Grimnir's axes, what better place to lay a pile of monstrous skulls than on the mighty shrine of Kraka Ornsmotek, restored to its glory!",
-      "value_translated": "Por las hachas de Grimnir, ¡qué mejor lugar para colocar una pila de cráneos monstruosos que en el poderoso santuario de Kraka Ornsmotek, restaurado para su gloria!",
+      "value_translated": "Por las hachas de Grimnir, ¡qué mejor lugar para colocar una pila de cráneos monstruosos que en el poderoso santuario de Kraka Ornsmotek, restaurado a su antigua gloria!",
       "needs_retranslation": false,
       "removed": false
     },
@@ -558,7 +558,7 @@
     "building_short_description_texts_short_description_kraka_wards_2": {
       "key": "building_short_description_texts_short_description_kraka_wards_2",
       "value_original": "Where the Winds blow strongest and the Taint is most dangerous, new and more powerful wards must be built.",
-      "value_translated": "Donde los vientos soplan más fuerte y la Mancha es más peligrosa, se deben construir nuevas y más poderosas piedras de protección.",
+      "value_translated": "Donde los vientos soplan más fuerte y la Mancha es más peligrosa, se deben construir nuevas y más poderosas barreras.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -593,7 +593,7 @@
     "character_skill_node_sets_enc_title_kraka_wardlord": {
       "key": "character_skill_node_sets_enc_title_kraka_wardlord",
       "value_original": "Wardlord Skills\r",
-      "value_translated": "Habilidades de Señor Guardián",
+      "value_translated": "Habilidades de Señor de las Guardas",
       "needs_retranslation": false,
       "removed": false
     },
@@ -621,7 +621,7 @@
     "character_skills_localised_description_kraka_battle_vets_shielded": {
       "key": "character_skills_localised_description_kraka_battle_vets_shielded",
       "value_original": "In the warlike north, the shieldwall attacks back.",
-      "value_translated": "En el belicoso norte, el muro de escudos ataca de nuevo.",
+      "value_translated": "En el belicoso norte, los muros de escudos devuelven los ataques.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -663,7 +663,7 @@
     "character_skills_localised_description_kraka_cromson_unq_kingsguard": {
       "key": "character_skills_localised_description_kraka_cromson_unq_kingsguard",
       "value_original": "Carried by grim determination, the King's bodyguards will not be found wanting.",
-      "value_translated": "Llevados por una sombría determinación, los guardaespaldas del Rey esperarán sentados.",
+      "value_translated": "Llevados por una sombría determinación, los guardaespaldas del Rey no desfallecerán.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -677,7 +677,7 @@
     "character_skills_localised_description_kraka_cromson_unq_onslaught": {
       "key": "character_skills_localised_description_kraka_cromson_unq_onslaught",
       "value_original": "As battle frenzy descends upon the King and his closest warriors, the entire throng follows, a daring warcry shaking the mountains.",
-      "value_translated": "Mientras el frenesí de la batalla desciende sobre el Rey y sus guerreros más cercanos, toda la multitud le sigue, un atrevido grito de guerra sacudiendo las montañas.",
+      "value_translated": "Mientras el frenesí de la batalla desciende sobre el Rey y sus guerreros más cercanos, el throng entero le sigue, un atrevido grito de guerra sacudiendo las montañas.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -698,7 +698,7 @@
     "character_skills_localised_description_kraka_innate_crafter": {
       "key": "character_skills_localised_description_kraka_innate_crafter",
       "value_original": "To the point of being picky, this Wardlord hardly wears anything that he didn't craft himself.",
-      "value_translated": "Hasta el punto de ser exigente, este Señor Guardián apenas lleva nada que no haya elaborado él mismo.",
+      "value_translated": "Hasta el punto de ser exigente, este Señor de las Guardas apenas lleva nada que no haya elaborado él mismo.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -775,7 +775,7 @@
     "character_skills_localised_description_kraka_lord_self_grudge": {
       "key": "character_skills_localised_description_kraka_lord_self_grudge",
       "value_original": "Raiders, Warriors of the Ruinous Powers, Daemons. After generations of struggle, the seething hatred against these foes has grown in an Ancestral Grudge.",
-      "value_translated": "Incursores, guerreros de las potencias ruinosas, demonios. Después de generaciones de lucha, el odio furioso contra estos enemigos ha crecido en un agravio ancestral.",
+      "value_translated": "Incursores, guerreros de los poderes ruinosos, demonios. Después de generaciones de lucha, el odio furioso contra estos enemigos ha crecido en un agravio ancestral.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -789,7 +789,7 @@
     "character_skills_localised_description_kraka_unique_grudge": {
       "key": "character_skills_localised_description_kraka_unique_grudge",
       "value_original": "Raiders, Warriors of the Ruinous Powers, Daemons. After generations of struggle, the seething hatred against these foes has grown in an Ancestral Grudge.",
-      "value_translated": "Incursores, guerreros de las potencias ruinosas, demonios. Después de generaciones de lucha, el odio furioso contra estos enemigos ha crecido en un agravio ancestral.",
+      "value_translated": "Incursores, guerreros de los poderes ruinosos, demonios. Después de generaciones de lucha, el odio furioso contra estos enemigos ha crecido en un agravio ancestral.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -803,14 +803,14 @@
     "character_skills_localised_description_kraka_unique_wl_bodyguard": {
       "key": "character_skills_localised_description_kraka_unique_wl_bodyguard",
       "value_original": "The most prestigious Wardlords accrue a bodyguard of trusted warriors around them, loyal brethren in an endless struggle.",
-      "value_translated": "Los Señores Guardianes más prestigiosos acumulan a su alrededor una guardia de guerreros de confianza, hermanos leales en una lucha sin fin.",
+      "value_translated": "Los Señores de las Guardas más prestigiosos acumulan a su alrededor una guardia de guerreros de confianza, hermanos leales en una lucha sin fin.",
       "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_description_kraka_unique_wl_strollaz": {
       "key": "character_skills_localised_description_kraka_unique_wl_strollaz",
       "value_original": "Strike the iron when it is hot, and, moreover, when it doesn't expect it.",
-      "value_translated": "Golpea el hierro cuando está caliente y, además, cuando no lo espera.",
+      "value_translated": "Golpea el hierro cuando está caliente y, sobretodo, cuando no lo espera.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -824,7 +824,7 @@
     "character_skills_localised_description_kraka_wl_rune_fire": {
       "key": "character_skills_localised_description_kraka_wl_rune_fire",
       "value_original": "A red hot rune struck on the weapon, able to unleash devastating cleansing fire.",
-      "value_translated": "Una runa al rojo vivo golpea el arma, capaz de desatar un devastador fuego purificador.",
+      "value_translated": "Una runa al rojo vivo acuñada en el arma, capaz de desatar un devastador fuego purificador.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -845,14 +845,14 @@
     "character_skills_localised_description_wh2_dlc17_skill_unique_thane_02_kraka": {
       "key": "character_skills_localised_description_wh2_dlc17_skill_unique_thane_02_kraka",
       "value_original": "\"Ah joost cannae staund knees a' eye level, kin yer?\"",
-      "value_translated": "\"No puedo poner las rodillas a la altura de los ojos, ¿verdad?\"",
+      "value_translated": "\"Ah, no soporto que tengan las rodillas a la altura de mis ojos, ¿y tú?\"",
       "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_description_wh2_dlc17_skill_unique_thane_03_kraka": {
       "key": "character_skills_localised_description_wh2_dlc17_skill_unique_thane_03_kraka",
       "value_original": "\"I killed them all. Not just the Northmen, but the Northwomen and Northchildren, too!\"",
-      "value_translated": "\"Los maté a todos. No sólo a los hombres del norte, también a las mujeres del norte y a los niños del norte.",
+      "value_translated": "\"Los maté a todos. No sólo a los hombres del norte, también a las mujeres del norte y a los niños del norte.\"",
       "needs_retranslation": false,
       "removed": false
     },
@@ -908,7 +908,7 @@
     "character_skills_localised_name_kraka_cromson_drakken": {
       "key": "character_skills_localised_name_kraka_cromson_drakken",
       "value_original": "Rune Drakken",
-      "value_translated": "Drakkar Rúnico",
+      "value_translated": "Drakkar rúnico",
       "needs_retranslation": false,
       "removed": false
     },
@@ -922,7 +922,7 @@
     "character_skills_localised_name_kraka_cromson_unq_clan": {
       "key": "character_skills_localised_name_kraka_cromson_unq_clan",
       "value_original": "Might of the Dordegruden",
-      "value_translated": "La Fuerza de los Dordegruden",
+      "value_translated": "Fuerza de los Dordegruden",
       "needs_retranslation": false,
       "removed": false
     },
@@ -936,7 +936,7 @@
     "character_skills_localised_name_kraka_cromson_unq_nobleborn": {
       "key": "character_skills_localised_name_kraka_cromson_unq_nobleborn",
       "value_original": "Nobleborn Wrath",
-      "value_translated": "La Ira de los Nobles",
+      "value_translated": "Ira de los Nobles",
       "needs_retranslation": false,
       "removed": false
     },
@@ -950,7 +950,7 @@
     "character_skills_localised_name_kraka_cromson_unq_whitebeard": {
       "key": "character_skills_localised_name_kraka_cromson_unq_whitebeard",
       "value_original": "Silverbeard's Grudge",
-      "value_translated": "El Agravio de Barbaplata",
+      "value_translated": "Agravio de Barbaplata",
       "needs_retranslation": false,
       "removed": false
     },
@@ -971,7 +971,7 @@
     "character_skills_localised_name_kraka_innate_cunning": {
       "key": "character_skills_localised_name_kraka_innate_cunning",
       "value_original": "Ward Cunning",
-      "value_translated": "Astucia Protectora",
+      "value_translated": "Astucia protectora",
       "needs_retranslation": false,
       "removed": false
     },
@@ -999,7 +999,7 @@
     "character_skills_localised_name_kraka_lord_battle_combined": {
       "key": "character_skills_localised_name_kraka_lord_battle_combined",
       "value_original": "Combined Forces",
-      "value_translated": "Fuerzas Combinadas",
+      "value_translated": "Fuerzas combinadas",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1013,14 +1013,14 @@
     "character_skills_localised_name_kraka_lord_battle_land": {
       "key": "character_skills_localised_name_kraka_lord_battle_land",
       "value_original": "Our Land",
-      "value_translated": "Nuestra Tierra",
+      "value_translated": "Nuestra tierra",
       "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_name_kraka_lord_battle_pride": {
       "key": "character_skills_localised_name_kraka_lord_battle_pride",
       "value_original": "Pride of Dragon Keep",
-      "value_translated": "El Orgullo de la Torre del Dragón",
+      "value_translated": "Orgullo de la Fortaleza del Dragón",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1111,22 +1111,22 @@
     "character_skills_localised_name_wh2_dlc17_skill_unique_thane_02_kraka": {
       "key": "character_skills_localised_name_wh2_dlc17_skill_unique_thane_02_kraka",
       "value_original": "Knee-Capper",
-      "value_translated": "Rodilleras",
+      "value_translated": "Arrodillador",
       "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_name_wh2_dlc17_skill_unique_thane_03_kraka": {
       "key": "character_skills_localised_name_wh2_dlc17_skill_unique_thane_03_kraka",
       "value_original": "One-Dwarf Army",
-      "value_translated": "Ejército de Un Enano",
+      "value_translated": "Ejército de un sólo enano",
       "needs_retranslation": false,
       "removed": false
     },
     "character_trait_levels_colour_text_": {
       "key": "character_trait_levels_colour_text_",
       "value_original": "text",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "text",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_trait_levels_colour_text_kraka_trait_defeated_cromson": {
@@ -1160,43 +1160,43 @@
     "character_trait_levels_explanation_text_": {
       "key": "character_trait_levels_explanation_text_",
       "value_original": "Defeated X",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Defeated X",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_trait_levels_explanation_text_kraka_trait_defeated_cromson": {
       "key": "character_trait_levels_explanation_text_kraka_trait_defeated_cromson",
       "value_original": "Defeated King Thorgard Cromson",
-      "value_translated": "Ha derrotado al Rey Thorgard Cromson",
+      "value_translated": "Ha derrotado al Rey Thorgard Cromson.",
       "needs_retranslation": false,
       "removed": false
     },
     "character_trait_levels_explanation_text_kraka_trait_defeated_cromson2": {
       "key": "character_trait_levels_explanation_text_kraka_trait_defeated_cromson2",
       "value_original": "Defeated King Thorgard Cromson, again",
-      "value_translated": "Ha derrotado al Rey Thorgard Cromson, otra vez",
+      "value_translated": "Ha derrotado al Rey Thorgard Cromson, otra vez.",
       "needs_retranslation": false,
       "removed": false
     },
     "character_trait_levels_explanation_text_kraka_trait_defeated_cromson3": {
       "key": "character_trait_levels_explanation_text_kraka_trait_defeated_cromson3",
       "value_original": "Defeated King Thorgard Cromson, once too much",
-      "value_translated": "Ha derrotado al Rey Thorgard Cromson, demasiadas veces",
+      "value_translated": "Ha derrotado al Rey Thorgard Cromson, demasiadas veces.",
       "needs_retranslation": false,
       "removed": false
     },
     "character_trait_levels_explanation_text_kraka_trait_defeated_thorgrim_as_cromson": {
       "key": "character_trait_levels_explanation_text_kraka_trait_defeated_thorgrim_as_cromson",
       "value_original": "Defeated Thorgrim Grudgebearer as King Thorgard Cromson",
-      "value_translated": "El Rey Thorgard Cromson ha derrotado a Thorgrim Custodio de Agravios",
+      "value_translated": "El Rey Thorgard Cromson ha derrotado a Thorgrim Custodio de Agravios.",
       "needs_retranslation": false,
       "removed": false
     },
     "character_trait_levels_onscreen_name_": {
       "key": "character_trait_levels_onscreen_name_",
       "value_original": "onscreen name",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "onscreen name",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_trait_levels_onscreen_name_kraka_trait_defeated_cromson": {
@@ -1216,7 +1216,7 @@
     "character_trait_levels_onscreen_name_kraka_trait_defeated_cromson3": {
       "key": "character_trait_levels_onscreen_name_kraka_trait_defeated_cromson3",
       "value_original": "Wardbreaker",
-      "value_translated": "Rompe Guardias",
+      "value_translated": "Rompeguardas",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1230,7 +1230,7 @@
     "cultures_frontend_description_ak_kraka_custom_culture": {
       "key": "cultures_frontend_description_ak_kraka_custom_culture",
       "value_original": "Dwarfs are a proud, bearded folk who are quick to temper, often defined by a love of gems, gold and other precious metals. With their Dwarfholds established across the Old World, the Dawi – as they call themselves in Khazalid – prospered for many generations until their realm was riven by a chain of devastating conflicts and earthquakes.\\\\n\\\\nIn recent times, the Dwarfs are a race barely holding onto glories past, with only a few strongholds remaining in their hands and the rest lost to enemies or abandoned to the elements. To this day the Dawi still fight; their ultimate goal is to restore the 'Karaz Ankor' and they have the means to do it with fearsome throngs of warriors and the most advanced weaponry in the Old World.",
-      "value_translated": "Los Enanos son un pueblo orgulloso y barbudo de temperamento irascible, a menudo definido por el amor a las gemas, el oro y otros metales preciosos. Con sus Fortalezas Enanas establecidas por todo el Viejo Mundo, los Dawi,como se llaman a sí mismos en Khazalid, prosperaron durante muchas generaciones hasta que su reino se vio desgarrado por una cadena de devastadores conflictos y terremotos.\\\\n\\\\nEn tiempos recientes, los Enanos son una raza que apenas se aferra a las glorias pasadas, con sólo unas pocas fortalezas que permanecen en sus manos y el resto perdidas a manos de los enemigos o abandonadas a los elementos. A día de hoy los Dawi siguen luchando; su objetivo final es restaurar el \"Karaz Ankor\" y tienen los medios para hacerlo con temibles tropas de guerreros y el armamento más avanzado del Viejo Mundo.",
+      "value_translated": "Los Enanos son un pueblo orgulloso y barbudo de temperamento irascible, a menudo definido por el amor a las gemas, el oro y otros metales preciosos. Con sus Fortalezas Enanas establecidas por todo el Viejo Mundo, los Dawi, como se llaman a sí mismos en Khazalid, prosperaron durante muchas generaciones hasta que su reino se vio desgarrado por una cadena de devastadores conflictos y terremotos.\\\\n\\\\nEn tiempos recientes, los Enanos son una raza que apenas se aferra a las glorias pasadas, con sólo unas pocas fortalezas que permanecen en sus manos y el resto perdidas a manos de los enemigos o abandonadas a los elementos. A día de hoy los Dawi siguen luchando; su objetivo final es restaurar el \"Karaz Ankor\" y tienen los medios para hacerlo con temibles tropas de guerreros y el armamento más avanzado del Viejo Mundo.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1258,8 +1258,8 @@
     "effect_bundles_localised_description_kraka_bundle_noror": {
       "key": "effect_bundles_localised_description_kraka_bundle_noror",
       "value_original": "brugh",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "brugh",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_description_mixer_faction_trait_wh_main_dwf_kraka_drak": {
@@ -1272,8 +1272,8 @@
     "effect_bundles_localised_title_kraka_bundle_noror": {
       "key": "effect_bundles_localised_title_kraka_bundle_noror",
       "value_original": "breh",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "breh",
+      "needs_retranslation": false,
       "removed": false
     },
     "effect_bundles_localised_title_mixer_faction_trait_wh_main_dwf_kraka_drak": {
@@ -1293,14 +1293,14 @@
     "effects_description_enable_kraka_cromson_armour": {
       "key": "effects_description_enable_kraka_cromson_armour",
       "value_original": "Passive ability: \"Blue Amber Cuirass\"",
-      "value_translated": "Habilidad Pasiva: \"Coraza de Ámbar Azul\"",
+      "value_translated": "Habilidad pasiva: \"Coraza de Ámbar Azul\"",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_enable_kraka_cromson_axe": {
       "key": "effects_description_enable_kraka_cromson_axe",
       "value_original": "Passive ability: \"Drakesplitter\"",
-      "value_translated": "Habilidad Pasiva: \"Dracodivisora\"",
+      "value_translated": "Habilidad pasiva: \"Dracodivisora\"",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1328,7 +1328,7 @@
     "effects_description_enable_kraka_wl_rune_hunter": {
       "key": "effects_description_enable_kraka_wl_rune_hunter",
       "value_original": "Passive ability: \"Rune of the Hunter\"",
-      "value_translated": "Habilidad Pasiva: \"Runa del Cazador\"",
+      "value_translated": "Habilidad pasiva: \"Runa del Cazador\"",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1342,14 +1342,14 @@
     "effects_description_kraka_attack_braves_rangers": {
       "key": "effects_description_kraka_attack_braves_rangers",
       "value_original": "Melee attack: %+n for Braves, Rangers and Pathgrinders",
-      "value_translated": "Ataque cuerpo a cuerpo: %+n para Valientes, Montaraces y Comecaminos",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para Valientes, Exploradores y Rompecaminos",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_attack_runic_inf": {
       "key": "effects_description_kraka_attack_runic_inf",
       "value_original": "Melee attack: %+n for Wardbearers, Stormbeards, Trollsearers, Orgi's Blades and Huskarls",
-      "value_translated": "Ataque cuerpo a cuerpo: %+n para Guardianes, Barbastormentas, Fundetroles, Hachas de Orgi y Huscarles",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para Portaguardas, Barbastormentas, Fundetroles, Espadas de Orgi y Huscarles",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1370,7 +1370,7 @@
     "effects_description_kraka_charge_add_runic_inf": {
       "key": "effects_description_kraka_charge_add_runic_inf",
       "value_original": "Charge bonus: %+n for Wardbearers, Stormbeards, Trollsearers, Orgi's Blades and Huskarls",
-      "value_translated": "Bonif. de carga: %+n para Guardianes, Barbastormentas, Fundetroles, Hachas de Orgi y Huscarles",
+      "value_translated": "Bonif. de carga: %+n para Portaguardas, Barbastormentas, Fundetroles, Espadas de Orgi y Huscarles",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1398,7 +1398,7 @@
     "effects_description_kraka_defence_runic_inf": {
       "key": "effects_description_kraka_defence_runic_inf",
       "value_original": "Melee defence: %+n for Wardbearers, Stormbeards, Trollsearers, Orgi's Blades and Huskarls",
-      "value_translated": "Defensa cuerpo a cuerpo: %+n para Guardianes, Barbastormentas, Fundetroles, Hachas de Orgi y Huscarles",
+      "value_translated": "Defensa cuerpo a cuerpo: %+n para Portaguardas, Barbastormentas, Fundetroles, Espadas de Orgi y Huscarles",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1412,29 +1412,29 @@
     "effects_description_kraka_dummy_unlock_orgi_stuff": {
       "key": "effects_description_kraka_dummy_unlock_orgi_stuff",
       "value_original": "Unlocks for recruitment:[[col:white]]\\\\nOrgi Three-Fingers (Smithies)\\\\nOrgi's Blades (Barracks)\\\\nPathgrinders (Ranger Barracks)[[/col]]",
-      "value_translated": "Desbloquea el reclutamiento de [[col:white]]\\\\nOrgi Tres Dedos (Herrería)\\\\nHachas de Orgi (Barracones)\\\\n Comecaminos (Barracones de Montaraces)[[/col]]",
+      "value_translated": "Desbloquea el reclutamiento de [[col:white]]\\\\nOrgi Tres Dedos (Herrería)\\\\nEspadas de Orgi (Barracones)\\\\nRompecaminos (Barracones de Montaraces)[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_dummy_unlock_pathgrinders_garri": {
       "key": "effects_description_kraka_dummy_unlock_pathgrinders_garri",
       "value_original": "Adds Pathgrinders as garrison units for {{tr:building_culture_variants_name_wh_dlc06_dwf_ranger_hub_1_all}}, Trading Depots and Guild Marketplaces",
-      "value_translated": "Añade guarnición de Comecaminos en los edificios de Almacén comercial y Mercado de los gremios",
+      "value_translated": "Añade Rompecaminos como unidades de guarnición a {{tr:building_culture_variants_name_wh_dlc06_dwf_ranger_hub_1_all}}, Almacén comercial y Mercado de los gremios",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_grudge_points_percent": {
       "key": "effects_description_kraka_grudge_points_percent",
       "value_original": "Settled Grudges: %+n% against Norsca, Warriors of Chaos and Daemons of Chaos PLACEHOLDER THIS IS CURRENTLY ALL GRUDGES shit's complicated",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Agravios resueltos: %+n% contra Norsca, Guerreros del Caos y Demonios del Caos (EN REALIDAD AFECTA A TODOS, PORQUE LA MIERDA ESTA DE LOS AGRAVIOS EN COMPLICADA)",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_guardian_wardbearers": {
       "key": "effects_description_kraka_guardian_wardbearers",
       "value_original": "Passive ability: \"{{tr:unit_abilities_onscreen_name_wh2_dlc10_unit_passive_guardian}}\" for Wardbearers",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Habilidad pasiva: \"{{tr:unit_abilities_onscreen_name_wh2_dlc10_unit_passive_guardian}}\" para Portaguardas",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_huskarls_discount": {
@@ -1447,21 +1447,21 @@
     "effects_description_kraka_iron_resolve_huskarls": {
       "key": "effects_description_kraka_iron_resolve_huskarls",
       "value_original": "Passive ability: \"{{tr:unit_abilities_onscreen_name_wh3_dlc25_unit_passive_iron_resolve}}\" for Huskarls",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Habilidad pasiva: \"{{tr:unit_abilities_onscreen_name_wh3_dlc25_unit_passive_iron_resolve}}\" para Huscarles",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_liquid_fortification_rangers": {
       "key": "effects_description_kraka_liquid_fortification_rangers",
       "value_original": "Passive ability: \"{{tr:unit_abilities_onscreen_name_wh_dlc06_unit_passive_liquid_fortification}}\" for Pathgrinders and Rangers",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Habilidad pasiva: \"{{tr:unit_abilities_onscreen_name_wh_dlc06_unit_passive_liquid_fortification}}\" para Rompecaminos y Exploradores",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_lord_08_att": {
       "key": "effects_description_kraka_lord_08_att",
       "value_original": "Melee attack: %+n for  Wardbearers, Stormbeards, Orgi's Blades and Huskarls OBSOLETE",
-      "value_translated": "Ataque cuerpo a cuerpo: %+n para  Guardianes, Barbastormentas, Hachas de Orgi y Huscarles OBSOLETE",
+      "value_translated": "Ataque cuerpo a cuerpo: %+n para Portaguardas, Barbastormentas, Espadas de Orgi y Huscarles OBSOLETO",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1489,7 +1489,7 @@
     "effects_description_kraka_lord_10_sp": {
       "key": "effects_description_kraka_lord_10_sp",
       "value_original": "Speed: %+n% for all infantry units",
-      "value_translated": "Velocidad: %+n% todas las unidades de infantería",
+      "value_translated": "Velocidad: %+n% para todas las unidades de infantería",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1503,21 +1503,21 @@
     "effects_description_kraka_phys_res_runechars": {
       "key": "effects_description_kraka_phys_res_runechars",
       "value_original": "Physical resistance: %+n% for Runesmiths, Runelords and Wardlords",
-      "value_translated": "Resistencia física: %+n% para Herreros Rúnicos, Señores de las Runas y Señores Guardianes",
+      "value_translated": "Resistencia física: %+n% para Herreros Rúnicos, Señores de las Runas y Señores de las Guardas",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_phys_res_wardbearers": {
       "key": "effects_description_kraka_phys_res_wardbearers",
       "value_original": "Ward save: %+n% for Wardbearers",
-      "value_translated": "Salvación especial: %+n% para Guardianes",
+      "value_translated": "Salvación especial: %+n% para Portaguardas",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_rage_lords_thanes": {
       "key": "effects_description_kraka_rage_lords_thanes",
       "value_original": "Passive ability: \"Rage\" for Dwarf Lords and Thanes",
-      "value_translated": "Habilidad Pasiva: \"Rabia\" para los Señores Enanos y los Señores del Clan",
+      "value_translated": "Habilidad pasiva: \"Rabia\" para los Señores Enanos y los Señores del Clan",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1531,14 +1531,14 @@
     "effects_description_kraka_recr_cost_runic_inf_specific": {
       "key": "effects_description_kraka_recr_cost_runic_inf_specific",
       "value_original": "Recruitment cost: %+n% for Wardbearers, Stormbeards and Orgi's Blades",
-      "value_translated": "Coste de reclutamiento: %+n% para Guardianes, Barbastormentas y Hachas de Orgi",
+      "value_translated": "Coste de reclutamiento: %+n% para Portaguardas, Barbastormentas y Espadas de Orgi",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_recr_time_runic_inf_specific": {
       "key": "effects_description_kraka_recr_time_runic_inf_specific",
       "value_original": "Recruitment duration: %+n for Wardbearers, Stormbeards and Orgi's Blades",
-      "value_translated": "Duración del reclutamiento: %+n para Guardianes, Barbastormentas y Hachas de Orgi",
+      "value_translated": "Duración del reclutamiento: %+n para Portaguardas, Barbastormentas y Espadas de Orgi",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1552,14 +1552,14 @@
     "effects_description_kraka_stalk_pathgrinders_stormbeards": {
       "key": "effects_description_kraka_stalk_pathgrinders_stormbeards",
       "value_original": "Attribute: Stalk for Pathgrinders and Stormbeards",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Atributo: \"Acechar\" para Rompecaminos y Barbastormentas",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_strength_braves_rangers": {
       "key": "effects_description_kraka_strength_braves_rangers",
       "value_original": "Weapon strength: %+n% for Braves, Rangers and Pathgrinders",
-      "value_translated": "Fuerza del arma: %+n% para Valientes, Montaraces y Comecaminos",
+      "value_translated": "Fuerza del arma: %+n% para Valientes, Exploradores y Rompecaminos",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1580,7 +1580,7 @@
     "effects_description_kraka_tech2_example_ch": {
       "key": "effects_description_kraka_tech2_example_ch",
       "value_original": "Charge bonus: %+n for all units (twice for Longbeards, Braves, Wardbearers, Stormbeards and Huskarls)",
-      "value_translated": "Bonif. de carga: %+n para todas las unidades (doble para Barbaslargas, Valientes, Guardianes, Barbastormentas y Huscarles)",
+      "value_translated": "Bonif. de carga: %+n para todas las unidades (doble para Barbaslargas, Valientes, Portaguardas, Barbastormentas y Huscarles)",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1594,7 +1594,7 @@
     "effects_description_kraka_tech2_stalwart_morale": {
       "key": "effects_description_kraka_tech2_stalwart_morale",
       "value_original": "Leadership: %+n for Miners, Warriors, Pathgrinders, Rangers, Longbeards and Braves",
-      "value_translated": "Liderazgo: %+n para Mineros, Guerreros, Comecaminos, Montaraces, Barbaslargas y Valientes",
+      "value_translated": "Liderazgo: %+n para Mineros, Guerreros, Rompecaminos, Exploradores, Barbaslargas y Valientes",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1608,7 +1608,7 @@
     "effects_description_kraka_tech_node12_xp": {
       "key": "effects_description_kraka_tech_node12_xp",
       "value_original": "Recruit rank: %+n for Wardbearers, Stormbeards and Huskarls",
-      "value_translated": "Rango de reclutamiento: %+n para Guardianes, Barbastormentas y Huscarles",
+      "value_translated": "Rango de reclutamiento: %+n para Portaguardas, Barbastormentas y Huscarles",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1636,7 +1636,7 @@
     "effects_description_kraka_unique_wl_bodyguard": {
       "key": "effects_description_kraka_unique_wl_bodyguard",
       "value_original": "Armour, Melee attack and Melee defence: %+n for Wardbearers",
-      "value_translated": "Armadura, Ataque cuerpo a cuerpo y Defensa cuerpo a cuerpo: %+n para Guardianes",
+      "value_translated": "Armadura, Ataque cuerpo a cuerpo y Defensa cuerpo a cuerpo: %+n para Portaguardas",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1706,21 +1706,21 @@
     "effects_description_kraka_vigour_own_territory": {
       "key": "effects_description_kraka_vigour_own_territory",
       "value_original": "Vigour loss reduction: %+n% when in own territory",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Reducción de la pérdida de vigor: %+n% en territorio propio",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_xp_miners_warriors_rangers_longbeards": {
       "key": "effects_description_kraka_xp_miners_warriors_rangers_longbeards",
       "value_original": "Recruit rank: %+n for Miners, Warriors, Pathgrinders, Rangers, Longbeards and Braves",
-      "value_translated": "Rango de reclutamiento: %+n para Mineros, Guerreros, Comecaminos, Montaraces, Barbaslargas y Valientes",
+      "value_translated": "Rango de reclutamiento: %+n para Mineros, Guerreros, Rompecaminos, Exploradores, Barbaslargas y Valientes",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_kraka_xp_rangers_pathgrinders": {
       "key": "effects_description_kraka_xp_rangers_pathgrinders",
       "value_original": "Recruit rank: %+n for Pathgrinders and Rangers",
-      "value_translated": "Rango de reclutamiento: %+n para Comecaminos y Montaraces",
+      "value_translated": "Rango de reclutamiento: %+n para Rompecaminos y Exploradores",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1867,7 +1867,7 @@
     "land_units_onscreen_name_kraka_pathgrinders": {
       "key": "land_units_onscreen_name_kraka_pathgrinders",
       "value_original": "Pathgrinders",
-      "value_translated": "Comecaminos",
+      "value_translated": "Rompecaminos",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1881,7 +1881,7 @@
     "land_units_onscreen_name_kraka_ror_crimsonbane": {
       "key": "land_units_onscreen_name_kraka_ror_crimsonbane",
       "value_original": "The Crimson Bane (Stormbeards)",
-      "value_translated": "La Maldición Carmesí (Barbastormentas)",
+      "value_translated": "La Perdición Carmesí (Barbastormentas)",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1895,7 +1895,7 @@
     "land_units_onscreen_name_kraka_ror_losturk": {
       "key": "land_units_onscreen_name_kraka_ror_losturk",
       "value_original": "Raiders of the Lost Urk (Rangers)",
-      "value_translated": "Incursores del Urk Perdido (Montaraces)",
+      "value_translated": "Cazadores del Urk Perdido (Exploradores)",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1909,21 +1909,21 @@
     "land_units_onscreen_name_kraka_ror_stoneguard": {
       "key": "land_units_onscreen_name_kraka_ror_stoneguard",
       "value_original": "Stone Guard (Wardbearers)",
-      "value_translated": "Guardia de Piedra (Guardianes)",
+      "value_translated": "Guardia de Piedra (Portaguardas)",
       "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_kraka_ror_thunderbows": {
       "key": "land_units_onscreen_name_kraka_ror_thunderbows",
       "value_original": "The Thunderbows (Pathgrinders)",
-      "value_translated": "Los Arcos de Trueno (Comecaminos)",
+      "value_translated": "Los Arcos de Trueno (Rompecaminos)",
       "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_kraka_rust": {
       "key": "land_units_onscreen_name_kraka_rust",
       "value_original": "Orgi's Blades",
-      "value_translated": "Hachas de Orgi",
+      "value_translated": "Espadas de Orgi",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1951,21 +1951,21 @@
     "land_units_onscreen_name_kraka_wardbearers": {
       "key": "land_units_onscreen_name_kraka_wardbearers",
       "value_original": "Wardbearers",
-      "value_translated": "Guardianes",
+      "value_translated": "Portaguardas",
       "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_kraka_wardlord": {
       "key": "land_units_onscreen_name_kraka_wardlord",
       "value_original": "Wardlord",
-      "value_translated": "Señor Guardián",
+      "value_translated": "Señor de las Guardas",
       "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_bulletpoints_kraka_cromson": {
       "key": "loading_screen_quotes_bulletpoints_kraka_cromson",
       "value_original": "[[img:ui/skins/default/icon_stat_armour.png]][[/img]]Armoured & [[img:ui/skins/default/modifier_icon_shield.png]][[/img]]Shielded||Melee Expert",
-      "value_translated": "[[img:ui/skins/default/icon_stat_armour.png]][[/img]]Acorazado y [[img:ui/skins/default/modifier_icon_shield.png]][[/img]]Shielded||Especialista cuerpo a cuerpo",
+      "value_translated": "[[img:ui/skins/default/icon_stat_armour.png]][[/img]]Acorazado y [[img:ui/skins/default/modifier_icon_shield.png]][[/img]]escudado||Especialista cuerpo a cuerpo",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2035,7 +2035,7 @@
     "resources_onscreen_text_res_location_kraka_terraform": {
       "key": "resources_onscreen_text_res_location_kraka_terraform",
       "value_original": "Reclamation",
-      "value_translated": "Reclamación",
+      "value_translated": "Restauración",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2049,14 +2049,14 @@
     "special_ability_groups_name_kraka_orgi": {
       "key": "special_ability_groups_name_kraka_orgi",
       "value_original": "Runic Magic",
-      "value_translated": "Magia Rúnica",
+      "value_translated": "Magia rúnica",
       "needs_retranslation": false,
       "removed": false
     },
     "special_ability_groups_name_kraka_wardlord": {
       "key": "special_ability_groups_name_kraka_wardlord",
       "value_original": "Runic Magic",
-      "value_translated": "Magia Rúnica",
+      "value_translated": "Magia rúnica",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2084,15 +2084,15 @@
     "special_ability_phases_onscreen_name_kraka_frostgun1": {
       "key": "special_ability_phases_onscreen_name_kraka_frostgun1",
       "value_original": "[[col:red]][[img:ui/battle ui/ability_icons/wh_dlc08_quest_passive_frost_aura.png]][[/img]]Runic Frost[[/col]]",
-      "value_translated": "[[col:red]][[img:ui/battle ui/ability_icons/wh_dlc08_quest_passive_frost_aura.png]][[/img]]Hielo Rúnico[[/col]]",
+      "value_translated": "[[col:red]][[img:ui/battle ui/ability_icons/wh_dlc08_quest_passive_frost_aura.png]][[/img]]Hielo rúnico[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "special_ability_phases_onscreen_name_kraka_frostgun2": {
       "key": "special_ability_phases_onscreen_name_kraka_frostgun2",
       "value_original": "currently unused",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "currently unused",
+      "needs_retranslation": false,
       "removed": false
     },
     "start_pos_settlements_onscreen_name_settlement:wh3_main_combi_region_khazid_bordkarag1342173113": {
@@ -2119,7 +2119,7 @@
     "technologies_onscreen_name_kraka_tech1_maintainance": {
       "key": "technologies_onscreen_name_kraka_tech1_maintainance",
       "value_original": "Ward Maintenance",
-      "value_translated": "Mantenimiento de las Piedras Protectoras",
+      "value_translated": "Mantenimiento de las Guardas",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2140,7 +2140,7 @@
     "technologies_onscreen_name_kraka_tech1_wards": {
       "key": "technologies_onscreen_name_kraka_tech1_wards",
       "value_original": "Greater Wards",
-      "value_translated": "Protecciones Más Grandes",
+      "value_translated": "Guardas Más Grandes",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2259,8 +2259,8 @@
     "technologies_onscreen_name_kraka_tech_push_dummy": {
       "key": "technologies_onscreen_name_kraka_tech_push_dummy",
       "value_original": "Ye mighty pushdown node",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ye mighty pushdown node",
+      "needs_retranslation": false,
       "removed": false
     },
     "technologies_onscreen_name_kraka_tech_secondary_keorling": {
@@ -2308,7 +2308,7 @@
     "technologies_short_description_kraka_tech1_maintainance": {
       "key": "technologies_short_description_kraka_tech1_maintainance",
       "value_original": "Making sure the warding stones are still working is the first step towards safety against the Taint.",
-      "value_translated": "Asegurarse de que las piedras de protección siguen funcionando es el primer paso hacia la seguridad contra la Corrupción.",
+      "value_translated": "Asegurarse de que las guardas de piedra siguen funcionando es el primer paso hacia la seguridad contra la Corrupción.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2329,7 +2329,7 @@
     "technologies_short_description_kraka_tech1_wards": {
       "key": "technologies_short_description_kraka_tech1_wards",
       "value_original": "Once the wall is safe, improve upon it. Even stronger wards will make the northern dwarfdom an enclave of sanity in a sea of madness.",
-      "value_translated": "Una vez que el muro sea seguro, mejóralo. Unas protecciones aún más fuertes harán del reino enano del norte un enclave de cordura en un mar de locura.",
+      "value_translated": "Una vez que el muro sea seguro, mejóralo. Unas guardas aún más fuertes harán del reino enano del norte un enclave de cordura en un mar de locura.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2385,7 +2385,7 @@
     "technologies_short_description_kraka_tech3_shrine": {
       "key": "technologies_short_description_kraka_tech3_shrine",
       "value_original": "Second only to Karak Kadrin's, the Shrine of Kraka Ornsmotek is witness to innumerable slayer oaths.",
-      "value_translated": "Después de Karak Kadrin, el santuario de Kraka Ornsmotek es testigo de innumerables juramentos de Matadores.",
+      "value_translated": "Sólo superado por Karak Kadrin, el santuario de Kraka Ornsmotek es testigo de innumerables juramentos de Matadores.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2448,8 +2448,8 @@
     "technologies_short_description_kraka_tech_push_dummy": {
       "key": "technologies_short_description_kraka_tech_push_dummy",
       "value_original": "Nothing to see here, I need this right here for technical reasons.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Nothing to see here, I need this right here for technical reasons.",
+      "needs_retranslation": false,
       "removed": false
     },
     "technologies_short_description_kraka_tech_secondary_keorling": {
@@ -2462,7 +2462,7 @@
     "technologies_short_description_kraka_tech_secondary_levy": {
       "key": "technologies_short_description_kraka_tech_secondary_levy",
       "value_original": "As the shieldwall calls for reinforcements, even more artisans have to be called from their workshops to fight for the Kraka.",
-      "value_translated": "Como la muralla pide refuerzos, hay que llamar a más artesanos de sus talleres para que luchen por el Kraka.",
+      "value_translated": "Mientras el muro de escudos pida refuerzos, habrá que llamar a más artesanos de sus talleres para que luchen por el Kraka.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2511,7 +2511,7 @@
     "ui_unit_bullet_point_enums_onscreen_name_kraka_aoemissile": {
       "key": "ui_unit_bullet_point_enums_onscreen_name_kraka_aoemissile",
       "value_original": "Explosive Projectiles",
-      "value_translated": "Pproyectiles Explosivos",
+      "value_translated": "Proyectiles Explosivos",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2567,7 +2567,7 @@
     "ui_unit_bullet_point_enums_tooltip_kraka_drakken_crew": {
       "key": "ui_unit_bullet_point_enums_tooltip_kraka_drakken_crew",
       "value_original": "The crew of Rangers, Huskarls and Frostdrakes will autonomously harass targets of opportunity within their range. The runic dragonhead on the prow will also spit fire on its own, presumably guided by the will of Grimnir. The Drakken thrives when charging in and out of combat.",
-      "value_translated": "La dotación de Montaraces, Huscarles y Dracohielos acosará de forma autónoma a los objetivos potenciales dentro de su radio de acción. La cabeza de dragón rúnica de la proa también escupe fuego por sí misma, presumiblemente guiada por la voluntad de Grimnir. El Drakkar se esfuerza en cargar dentro y fuera del combate.",
+      "value_translated": "La dotación de Exploradores, Huscarles y Dracohielos acosará de forma autónoma a los objetivos potenciales dentro de su radio de acción. La cabeza de dragón rúnica de la proa también escupe fuego por sí misma, presumiblemente guiada por la voluntad de Grimnir. El Drakkar se esfuerza en cargar dentro y fuera del combate.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2602,28 +2602,28 @@
     "ui_unit_groupings_onscreen_kraka_runic_inf": {
       "key": "ui_unit_groupings_onscreen_kraka_runic_inf",
       "value_original": "Runic Infantry",
-      "value_translated": "Infantería Rúnica",
+      "value_translated": "Infantería rúnica",
       "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_groupings_onscreen_kraka_runic_inf_2h": {
       "key": "ui_unit_groupings_onscreen_kraka_runic_inf_2h",
       "value_original": "Runic Infantry",
-      "value_translated": "Infantería Rúnica",
+      "value_translated": "Infantería rúnica",
       "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_groupings_onscreen_kraka_runic_inf_ranged": {
       "key": "ui_unit_groupings_onscreen_kraka_runic_inf_ranged",
       "value_original": "Runic Infantry",
-      "value_translated": "Infantería Rúnica",
+      "value_translated": "Infantería rúnica",
       "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_groupings_onscreen_kraka_runic_inf_ranged_2h": {
       "key": "ui_unit_groupings_onscreen_kraka_runic_inf_ranged_2h",
       "value_original": "Runic Infantry",
-      "value_translated": "Infantería Rúnica",
+      "value_translated": "Infantería rúnica",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2644,35 +2644,35 @@
     "ui_unit_groupings_tooltip_kraka_runic_inf": {
       "key": "ui_unit_groupings_tooltip_kraka_runic_inf",
       "value_original": "With weapons and armour enchanted by the Runesmiths of Kraka Drak, these are specialist units.",
-      "value_translated": "Con armas y armaduras encantadas por los Herreros Rúnicos de Kraka Drak, éstas son unidades especializadas..",
+      "value_translated": "Con armas y armaduras encantadas por los Herreros Rúnicos de Kraka Drak, éstas son unidades especializadas.",
       "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_groupings_tooltip_kraka_runic_inf_2h": {
       "key": "ui_unit_groupings_tooltip_kraka_runic_inf_2h",
       "value_original": "With weapons and armour enchanted by the Runesmiths of Kraka Drak, these are specialist units.",
-      "value_translated": "Con armas y armaduras encantadas por los Herreros Rúnicos de Kraka Drak, éstas son unidades especializadas..",
+      "value_translated": "Con armas y armaduras encantadas por los Herreros Rúnicos de Kraka Drak, éstas son unidades especializadas.",
       "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_groupings_tooltip_kraka_runic_inf_ranged": {
       "key": "ui_unit_groupings_tooltip_kraka_runic_inf_ranged",
       "value_original": "With weapons and armour enchanted by the Runesmiths of Kraka Drak, these are specialist units.",
-      "value_translated": "Con armas y armaduras encantadas por los Herreros Rúnicos de Kraka Drak, éstas son unidades especializadas..",
+      "value_translated": "Con armas y armaduras encantadas por los Herreros Rúnicos de Kraka Drak, éstas son unidades especializadas.",
       "needs_retranslation": false,
       "removed": false
     },
     "ui_unit_groupings_tooltip_kraka_runic_inf_ranged_2h": {
       "key": "ui_unit_groupings_tooltip_kraka_runic_inf_ranged_2h",
       "value_original": "With weapons and armour enchanted by the Runesmiths of Kraka Drak, these are specialist units.",
-      "value_translated": "Con armas y armaduras encantadas por los Herreros Rúnicos de Kraka Drak, éstas son unidades especializadas..",
+      "value_translated": "Con armas y armaduras encantadas por los Herreros Rúnicos de Kraka Drak, éstas son unidades especializadas.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_additional_ui_effects_localised_text_heal_passive_6": {
       "key": "unit_abilities_additional_ui_effects_localised_text_heal_passive_6",
       "value_original": "[[col:green]][[img:icon_arrow_up]][[/img]] Restores [[img:icon_hp]][[/img]]6 Hit Points per second[[/col]]",
-      "value_translated": "[[col:green]][[img:icon_arrow_up]][[/img]] Restores [[img:icon_hp]][[/img]]6 Puntos de golpe por segundo[[/col]]",
+      "value_translated": "[[col:green]][[img:icon_arrow_up]][[/img]] Restaura [[img:icon_hp]][[/img]]6 Puntos de golpe por segundo[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2686,8 +2686,8 @@
     "unit_abilities_onscreen_name_kraka_acid_boom": {
       "key": "unit_abilities_onscreen_name_kraka_acid_boom",
       "value_original": "kraka_acid_boom",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "kraka_acid_boom",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_onscreen_name_kraka_braves_passive": {
@@ -2700,7 +2700,7 @@
     "unit_abilities_onscreen_name_kraka_carrions": {
       "key": "unit_abilities_onscreen_name_kraka_carrions",
       "value_original": "Entrap",
-      "value_translated": "Trampa",
+      "value_translated": "Atrapar",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2721,7 +2721,7 @@
     "unit_abilities_onscreen_name_kraka_engie_buff": {
       "key": "unit_abilities_onscreen_name_kraka_engie_buff",
       "value_original": "Bring 'at thin' down!",
-      "value_translated": "¡Derribad esa Cosa!",
+      "value_translated": "¡Derribad esa cosa!",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2777,7 +2777,7 @@
     "unit_abilities_onscreen_name_kraka_truesons": {
       "key": "unit_abilities_onscreen_name_kraka_truesons",
       "value_original": "Cull the Weak",
-      "value_translated": "Sacrificar al Devil",
+      "value_translated": "Sacrificar al Débil",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2819,8 +2819,8 @@
     "unit_abilities_tooltip_text_kraka_acid_boom": {
       "key": "unit_abilities_tooltip_text_kraka_acid_boom",
       "value_original": "kraka_acid_boom",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "kraka_acid_boom",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_kraka_braves_passive": {
@@ -2833,21 +2833,21 @@
     "unit_abilities_tooltip_text_kraka_carrions": {
       "key": "unit_abilities_tooltip_text_kraka_carrions",
       "value_original": "Cast a net at a chasing foe, and reap the results. And the enemy.",
-      "value_translated": "Lanza una red a un enemigo perseguidor, y recoge los resultados. Y el enemigo.",
+      "value_translated": "Lanza una red a un enemigo perseguidor, y recoge los resultados. Y al enemigo.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_kraka_cromson_armour": {
       "key": "unit_abilities_tooltip_text_kraka_cromson_armour",
       "value_original": "Crafted in solid blocks of local blue amber, framed in gromril, this marvelous runic armour is said to be eternally polished and preserved by the Winds, draining them from surrounding hostile umgak.",
-      "value_translated": "Elaborada con bloques macizos de ámbar azul local, enmarcados en gromril, se dice que esta maravillosa armadura rúnica está eternamente pulida y preservada por los Vientos.",
+      "value_translated": "Elaborada con bloques macizos de ámbar azul local, enmarcados en gromril, se dice que esta maravillosa armadura rúnica está eternamente pulida y preservada por los Vientos, drenándolos constantemente de los Umgak a su alrededor.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_kraka_cromson_axe": {
       "key": "unit_abilities_tooltip_text_kraka_cromson_axe",
       "value_original": "An ancient axe exclusive to the Great King of Kraka Drak, baptized in dragon blood and sharpened on Kurgan skulls.",
-      "value_translated": "Una antigua hacha exclusiva del legítimo Rey de Kraka Drak, bautizada con sangre de dragón y afilada en los cráneos de los Kurgan.",
+      "value_translated": "Una antigua hacha exclusiva del legítimo Gran Rey de Kraka Drak, bautizada con sangre de dragón y afilada en los cráneos de los Kurgan.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2882,14 +2882,14 @@
     "unit_abilities_tooltip_text_kraka_orgi_rust": {
       "key": "unit_abilities_tooltip_text_kraka_orgi_rust",
       "value_original": "The most famous work of the infamous Runelord manages to work, to a degree. It does regenerate the bearer's flesh, but also reduces their intellect to Urk-like levels. What's worse, it immediately and utterly corrodes the host armour.",
-      "value_translated": "La obra más famosa del infame Herrero Rúnico se las arregla para trabajar, hasta cierto punto. Regenera la carne del portador, pero también reduce su intelecto a niveles similares a los de los Urk. Lo que es peor, inmediata y completamente corroe la armadura del huésped.",
+      "value_translated": "La obra más famosa del infame Herrero Rúnico se las arregla para funcionar, hasta cierto punto. Regenera la carne del portador, pero también reduce su intelecto a niveles similares a los de los Urk. Lo que es peor, inmediata y completamente corroe la armadura del huésped.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_abilities_tooltip_text_kraka_orgi_slaughter": {
       "key": "unit_abilities_tooltip_text_kraka_orgi_slaughter",
       "value_original": "Willing to outclass or at least equal mighty weapon enchantments the likes of the Rune of Dragon Slaying, Orgi forged the Rune of Slaughter. It comes without saying that becoming temporarily ethereal is not comforting to most.",
-      "value_translated": "Dispuesto a superar, o al menos igualar, los encantos de armas poderosas como la Runa de la Matanza del Dragón, Orgi forjó la Runa de la Matanza. No hace falta decir que volverse temporalmente etéreo no es reconfortante para la mayoría.",
+      "value_translated": "Dispuesto a superar, o al menos igualar, los encantamientos de armas poderosos como la Runa de la Matanza del Dragón, Orgi forjó la Runa de la Matanza. No hace falta decir que volverse temporalmente etéreo no es reconfortante para la mayoría.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2917,7 +2917,7 @@
     "unit_abilities_tooltip_text_kraka_wl_rune_dark": {
       "key": "unit_abilities_tooltip_text_kraka_wl_rune_dark",
       "value_original": "Striking one of the most mysterious runes of the north, the Wardlord unleashes the ancestral terror of the dark in the enemy.",
-      "value_translated": "Golpeando una de las runas más misteriosas del norte, el Señor Guardián desata el terror ancestral de la oscuridad en el enemigo.",
+      "value_translated": "Golpeando una de las runas más misteriosas del norte, el Señor de las Guardas desata el terror ancestral de la oscuridad en el enemigo.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2966,7 +2966,7 @@
     "unit_description_historical_texts_text_kraka_cromson": {
       "key": "unit_description_historical_texts_text_kraka_cromson",
       "value_original": "Many have dubbed him \"the last King of Kraka Drak\". Whatever fate waits the Norse Dwarfs,Thorgard Cromson is going to make as many of his foes as possible \"the last of their kind\" too. The Great King of Kraka Drak is a resolute defender and a ferocious fighter at once, a sure fulcrum for his bodyguard of Huskarls. ",
-      "value_translated": "Muchos lo han apodado \"el último Rey de Kraka Drak\". Sea cual sea el destino que les espera a los Enanos Norses, Thorgard Cromson va a hacer que el mayor número posible de sus enemigos sean también \"los últimos de su especie\". El Gran Rey de Kraka Drak es un decidido defensor y un feroz luchador al mismo tiempo, un seguro pilar para su guardaespaldas de Huscarles. ",
+      "value_translated": "Muchos lo han apodado \"el último Rey de Kraka Drak\". Sea cual sea el destino que les espera a los Enanos Norses, Thorgard Cromson va a hacer que el mayor número posible de sus enemigos sean también \"los últimos de su especie\". El Gran Rey de Kraka Drak es un decidido defensor y un feroz luchador al mismo tiempo, un seguro pilar para sus guardaespaldas Huscarles. ",
       "needs_retranslation": false,
       "removed": false
     },
@@ -3022,7 +3022,7 @@
     "unit_description_historical_texts_text_kraka_pathgrinders": {
       "key": "unit_description_historical_texts_text_kraka_pathgrinders",
       "value_original": "Armed with stone-carved (and highly unstable) runes, these rangers are sent out to protect the trade caravans. They act in small groups, often with more dwarf Rangers or Warriors or guards from Kislev and the Empire. The runic explosions unleashed during their engagements double up to blind foes and to signal for support.",
-      "value_translated": "Armados con runas talladas en piedra (y muy inestables), estos exploradores son enviados a proteger las caravanas comerciales. Actúan en pequeños grupos, a menudo con más Montaraces, Guerreros o guardias de Kislev y del Imperio. Las explosiones rúnicas que desencadenan durante sus enfrentamientos sirven para cegar a los enemigos y para pedir apoyo.",
+      "value_translated": "Armados con runas talladas en piedra (y muy inestables), estos exploradores son enviados a proteger las caravanas comerciales. Actúan en pequeños grupos, a menudo con más Exploradores o Guerreros Enanos, o guardias de Kislev y del Imperio. Las explosiones rúnicas que desencadenan durante sus enfrentamientos sirven para cegar a los enemigos y para pedir apoyo.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -3050,7 +3050,7 @@
     "unit_description_historical_texts_text_kraka_ror_losturk": {
       "key": "unit_description_historical_texts_text_kraka_ror_losturk",
       "value_original": "During one of their raids, these Rangers annihilated an orc tribe from the south, but for their shaman. The Raiders still chase him, to repay for the curse he has laid on them.",
-      "value_translated": "Durante una de sus incursiones, estos Montaraces aniquilaron a una tribu de orcos del sur, menos a su chamán. Los Montaraces aún lo persiguen, para compensar la maldición que lanzó sobre ellos.",
+      "value_translated": "Durante una de sus incursiones, estos Exploradores aniquilaron a una tribu de orcos del sur, menos a su chamán. Los Exploradores aún lo persiguen, para compensar la maldición que lanzó sobre ellos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -3064,14 +3064,14 @@
     "unit_description_historical_texts_text_kraka_ror_stoneguard": {
       "key": "unit_description_historical_texts_text_kraka_ror_stoneguard",
       "value_original": "The resolve of these Wardbearers is undisputed, as they are the last survivors of unspeakable struggles. They will still speak of them. Unprompted and at length.",
-      "value_translated": "La determinación de estos Guardianes es indiscutible, ya que son los últimos supervivientes de luchas innombrables. Todavía hablarán de ellas. Sin que nadie se lo pida y en profundidad.",
+      "value_translated": "La determinación de estos Portaguardas es indiscutible, ya que son los últimos supervivientes de luchas innombrables. Todavía hablarán de ellas. Sin que nadie se lo pida y en profundidad.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_historical_texts_text_kraka_ror_thunderbows": {
       "key": "unit_description_historical_texts_text_kraka_ror_thunderbows",
       "value_original": "These Pathgrinders wield crossbows - to fire runestone darts at the unlucky target.",
-      "value_translated": "Estos Comecaminos empuñan ballestas para disparar saetas de piedra rúnica a los desafortunados objetivos.",
+      "value_translated": "Estos Rompecaminos empuñan ballestas para disparar saetas de piedra rúnica a los desafortunados objetivos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -3113,7 +3113,7 @@
     "unit_description_historical_texts_text_kraka_wardlord": {
       "key": "unit_description_historical_texts_text_kraka_wardlord",
       "value_original": "Patrol and maintenance of the farthest wards is a dangerous task: the powerful caste of the Wardlords runesmiths is up to the challenge.",
-      "value_translated": "El patrullaje y el mantenimiento de las protecciones más lejanas es una tarea peligrosa: la poderosa casta de herreros rúnicos de los Señores Guardianes está a la altura del desafío.",
+      "value_translated": "El patrullaje y el mantenimiento de las guardas más lejanas es una tarea peligrosa: la poderosa casta de herreros rúnicos de los Señores de las Guardas está a la altura del desafío.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -3225,7 +3225,7 @@
     "unit_description_short_texts_text_kraka_ror_losturk": {
       "key": "unit_description_short_texts_text_kraka_ror_losturk",
       "value_original": "During one of their raids, these Rangers annihilated an orc tribe from the south, but for their shaman. The Raiders still chase him, to repay for the curse he has laid on them.",
-      "value_translated": "Durante una de sus incursiones, estos Montaraces aniquilaron a una tribu de orcos del sur, menos a su chamán. Los Montaraces aún lo persiguen, para compensar la maldición que lanzó sobre ellos.",
+      "value_translated": "Durante una de sus incursiones, estos Exploradores aniquilaron a una tribu de orcos del sur, menos a su chamán. Los Exploradores aún lo persiguen, para compensar la maldición que lanzó sobre ellos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -3239,14 +3239,14 @@
     "unit_description_short_texts_text_kraka_ror_stoneguard": {
       "key": "unit_description_short_texts_text_kraka_ror_stoneguard",
       "value_original": "The resolve of these Wardbearers is undisputed, as they are the last survivors of unspeakable struggles. They will still speak of them.",
-      "value_translated": "La determinación de estos Guardianes es indiscutible, ya que son los últimos supervivientes de luchas innombrables. Todavía hablarán de ellas.",
+      "value_translated": "La determinación de estos Portaguardas es indiscutible, ya que son los últimos supervivientes de luchas innombrables. Todavía hablarán de ellas.",
       "needs_retranslation": false,
       "removed": false
     },
     "unit_description_short_texts_text_kraka_ror_thunderbows": {
       "key": "unit_description_short_texts_text_kraka_ror_thunderbows",
       "value_original": "These Pathgrinders wield crossbows - to fire runestone darts at the unlucky target.",
-      "value_translated": "Estos Comecaminos empuñan ballestas para disparar saetas de piedra rúnica a los desafortunados objetivos.",
+      "value_translated": "Estos Rompecaminos empuñan ballestas para disparar saetas de piedra rúnica a los desafortunados objetivos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -3288,7 +3288,7 @@
     "unit_description_short_texts_text_kraka_wardlord": {
       "key": "unit_description_short_texts_text_kraka_wardlord",
       "value_original": "Patrol and maintenance of the farthest wards is a dangerous task: the powerful caste of the Wardlords runesmiths is up to the challenge.",
-      "value_translated": "El patrullaje y el mantenimiento de las protecciones más lejanas es una tarea peligrosa: la poderosa casta de herreros rúnicos de los Señores Guardianes está a la altura del desafío.",
+      "value_translated": "El patrullaje y el mantenimiento de las guardas más lejanas es una tarea peligrosa: la poderosa casta de herreros rúnicos de los Señores de las Guardas está a la altura del desafío.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -3372,7 +3372,7 @@
     "unit_set_to_mp_unit_caps_localised_name_mp_kraka_pathgrinders": {
       "key": "unit_set_to_mp_unit_caps_localised_name_mp_kraka_pathgrinders",
       "value_original": "Pathgrinders",
-      "value_translated": "Comecaminos",
+      "value_translated": "Rompecaminos",
       "needs_retranslation": false,
       "removed": false
     },
@@ -3386,7 +3386,7 @@
     "unit_set_to_mp_unit_caps_localised_name_mp_kraka_ror_crimsonbane": {
       "key": "unit_set_to_mp_unit_caps_localised_name_mp_kraka_ror_crimsonbane",
       "value_original": "The Crimson Bane",
-      "value_translated": "La Maldición Carmesí",
+      "value_translated": "La Perdición Carmesí",
       "needs_retranslation": false,
       "removed": false
     },
@@ -3400,7 +3400,7 @@
     "unit_set_to_mp_unit_caps_localised_name_mp_kraka_ror_losturk": {
       "key": "unit_set_to_mp_unit_caps_localised_name_mp_kraka_ror_losturk",
       "value_original": "Raiders of the Lost Urk",
-      "value_translated": "Incursores del Urk Perdido",
+      "value_translated": "Cazadores del Urk Perdido",
       "needs_retranslation": false,
       "removed": false
     },
@@ -3428,7 +3428,7 @@
     "unit_set_to_mp_unit_caps_localised_name_mp_kraka_rust": {
       "key": "unit_set_to_mp_unit_caps_localised_name_mp_kraka_rust",
       "value_original": "Orgi's Blades",
-      "value_translated": "Hachas de Orgi",
+      "value_translated": "Espadas de Orgi",
       "needs_retranslation": false,
       "removed": false
     },
@@ -3456,7 +3456,7 @@
     "unit_set_to_mp_unit_caps_localised_name_mp_kraka_wardbearers": {
       "key": "unit_set_to_mp_unit_caps_localised_name_mp_kraka_wardbearers",
       "value_original": "Wardbearers",
-      "value_translated": "Guardianes",
+      "value_translated": "Portaguardas",
       "needs_retranslation": false,
       "removed": false
     },
