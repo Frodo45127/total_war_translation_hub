@@ -17,6 +17,7 @@ Note that translations may be incomplete.
 - **Troy**: no mods translated nor vanilla loc fixes added.
 - **Warhammer 3**:
     - **Spanish**:
+        - **Assladders Begone!!!**: translated by Frodo45127.
         - **Cataph's Kraka Drak (The Norse Dwarfs)**: translated by Akercrombie. Needs revision, as it was imported outdated.
         - **Cataph's Southern Realms (TEB)**: translated by Gusker. Needs revision, as it was imported outdated.
         - **Community Patch**: translated by Frodo45127.
