@@ -47,7 +47,7 @@
     "agent_actions_localised_action_description_teb_agent_action_dignitary_assist_army_training": {
       "key": "agent_actions_localised_action_description_teb_agent_action_dignitary_assist_army_training",
       "value_original": "[[col:yellow]]Grants %n experience per turn to units serving in the parent army.[[/col]]",
-      "value_translated": "[[col:amarillo]]Concede %n de experiencia por turno a las unidades que sirven en el ejército padre.[[/col]]",
+      "value_translated": "[[col:yellow]]Otorga %n de experiencia por turno a las unidades que sirven en el ejército padre.[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
@@ -103,7 +103,7 @@
     "agent_culture_details_onscreen_name_9880164": {
       "key": "agent_culture_details_onscreen_name_9880164",
       "value_original": "runesmith",
-      "value_translated": "herrero",
+      "value_translated": "herrero rúnico",
       "needs_retranslation": false,
       "removed": false
     },
@@ -118,6 +118,13 @@
       "key": "agent_culture_details_onscreen_name_9880166",
       "value_original": "wizard",
       "value_translated": "hechicero",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_recruitment_categories_onscreen_description_teb_merc_general_camp": {
+      "key": "agent_recruitment_categories_onscreen_description_teb_merc_general_camp",
+      "value_original": "agent_recruitment_categories_onscreen_description_teb_merc_general_camp",
+      "value_translated": "agent_recruitment_categories_onscreen_description_teb_merc_general_camp",
       "needs_retranslation": false,
       "removed": false
     },
@@ -146,6 +153,13 @@
       "key": "agent_recruitment_categories_onscreen_name_teb_merc_general",
       "value_original": "Mercenary General",
       "value_translated": "General Mercenario",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_recruitment_categories_onscreen_name_teb_merc_general_camp": {
+      "key": "agent_recruitment_categories_onscreen_name_teb_merc_general_camp",
+      "value_original": "agent_recruitment_categories_onscreen_name_teb_merc_general_camp",
+      "value_translated": "agent_recruitment_categories_onscreen_name_teb_merc_general_camp",
       "needs_retranslation": false,
       "removed": false
     },
@@ -237,6 +251,13 @@
       "key": "agent_subtypes_description_text_override_teb_merc_general",
       "value_original": "Mercenary generals are powerful individuals of various origins, from Princes to former soldiers, with the wealth and usually the know-how to employ armies of militias and mercenaries. ",
       "value_translated": "Los generales mercenarios son poderosos individuos de diversos orígenes, desde príncipes a antiguos soldados, con la riqueza y normalmente los conocimientos necesarios para emplear ejércitos de milicias y mercenarios. ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_description_text_override_teb_merc_general_camp": {
+      "key": "agent_subtypes_description_text_override_teb_merc_general_camp",
+      "value_original": "agent_subtypes_description_text_override_teb_merc_general_camp",
+      "value_translated": "agent_subtypes_description_text_override_teb_merc_general_camp",
       "needs_retranslation": false,
       "removed": false
     },
@@ -364,6 +385,13 @@
       "value_original": "Mercenary General",
       "value_translated": "General mercenario",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_onscreen_name_override_teb_merc_general_camp": {
+      "key": "agent_subtypes_onscreen_name_override_teb_merc_general_camp",
+      "value_original": "Camp Mercenary General",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "agent_subtypes_onscreen_name_override_teb_priestess": {
@@ -697,9 +725,9 @@
     },
     "ancillaries_colour_text_teb_gashnag_book": {
       "key": "ancillaries_colour_text_teb_gashnag_book",
-      "value_original": "Learning from the Strigoi patriarch's secrets and mistakes could be priceless.",
+      "value_original": "Knowledge is power, and this learning comes from the Strigoi patriarch's secrets and mistakes.",
       "value_translated": "Aprender de los secretos y errores del patriarca de los Strigoi podría no tener precio.",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "ancillaries_colour_text_teb_gashnag_staff": {
@@ -1314,14 +1342,14 @@
     "ancillaries_onscreen_name_mount_teb_colombo_steed": {
       "key": "ancillaries_onscreen_name_mount_teb_colombo_steed",
       "value_original": "Barded Elven Steed & Doom Crossbolt",
-      "value_translated": "Corcel élfico con barbas y ballesta de la muerte",
+      "value_translated": "Corcel élfico con bardas y ballesta de la muerte",
       "needs_retranslation": false,
       "removed": false
     },
     "ancillaries_onscreen_name_mount_teb_colombo_warhorse": {
       "key": "ancillaries_onscreen_name_mount_teb_colombo_warhorse",
       "value_original": "Warhorse & Doom Crossbolt",
-      "value_translated": "Cruceta de caballo de guerra y perdición",
+      "value_translated": "Caballo de guerra y perdición",
       "needs_retranslation": false,
       "removed": false
     },
@@ -1706,8 +1734,8 @@
     "ancillaries_onscreen_name_til_merchant_bear": {
       "key": "ancillaries_onscreen_name_til_merchant_bear",
       "value_original": "Kislevite War Bear",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Oso de guerra kislevita",
+      "needs_retranslation": false,
       "removed": false
     },
     "ancillaries_onscreen_name_wh2_dlc09_anc_armour_armour_armour_of_dawn_TEBUARY": {
@@ -2245,15 +2273,99 @@
     "building_chains_chain_tooltip_teb_allied_outpost": {
       "key": "building_chains_chain_tooltip_teb_allied_outpost",
       "value_original": "Outpost",
-      "value_translated": "Puesto avanzado",
+      "value_translated": "Puesto de avanzada",
       "needs_retranslation": false,
       "removed": false
     },
     "building_chains_chain_tooltip_teb_art": {
       "key": "building_chains_chain_tooltip_teb_art",
       "value_original": "Cultural Development",
-      "value_translated": "Mejoras del mármol y  tintes",
+      "value_translated": "Desarrollo cultural",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_teb_camp_artillery": {
+      "key": "building_chains_chain_tooltip_teb_camp_artillery",
+      "value_original": "Artillery",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_teb_camp_cavalry": {
+      "key": "building_chains_chain_tooltip_teb_camp_cavalry",
+      "value_original": "Cavalry",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_teb_camp_foreign": {
+      "key": "building_chains_chain_tooltip_teb_camp_foreign",
+      "value_original": "Foreign Mercs",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_teb_camp_growth": {
+      "key": "building_chains_chain_tooltip_teb_camp_growth",
+      "value_original": "Camp Growth",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_teb_camp_inf": {
+      "key": "building_chains_chain_tooltip_teb_camp_inf",
+      "value_original": "Frontline Infantry",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_teb_camp_inf2": {
+      "key": "building_chains_chain_tooltip_teb_camp_inf2",
+      "value_original": "teb_camp_inf2",
+      "value_translated": "teb_camp_inf2",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_teb_camp_main": {
+      "key": "building_chains_chain_tooltip_teb_camp_main",
+      "value_original": "Mercenary Camp",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_teb_camp_missile": {
+      "key": "building_chains_chain_tooltip_teb_camp_missile",
+      "value_original": "Missile Infantry",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_teb_camp_port": {
+      "key": "building_chains_chain_tooltip_teb_camp_port",
+      "value_original": "Coast to Coast",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_teb_camp_recr": {
+      "key": "building_chains_chain_tooltip_teb_camp_recr",
+      "value_original": "Recruitment",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_teb_camp_replenish": {
+      "key": "building_chains_chain_tooltip_teb_camp_replenish",
+      "value_original": "Replenishment",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_teb_camp_upk": {
+      "key": "building_chains_chain_tooltip_teb_camp_upk",
+      "value_original": "Upkeep",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "building_chains_chain_tooltip_teb_eco_cloth": {
@@ -2301,7 +2413,7 @@
     "building_chains_chain_tooltip_teb_homeland_vtx": {
       "key": "building_chains_chain_tooltip_teb_homeland_vtx",
       "value_original": "Homeland Expeditions",
-      "value_translated": "Expediciones a la patria",
+      "value_translated": "Expediciones nacionales",
       "needs_retranslation": false,
       "removed": false
     },
@@ -2599,6 +2711,398 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "building_culture_variants_name_teb_camp_artillery_1": {
+      "key": "building_culture_variants_name_teb_camp_artillery_1",
+      "value_original": "Repair Shop",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_artillery_2": {
+      "key": "building_culture_variants_name_teb_camp_artillery_2",
+      "value_original": "Improvised Forge",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_artillery_3": {
+      "key": "building_culture_variants_name_teb_camp_artillery_3",
+      "value_original": "teb_camp_artillery_3",
+      "value_translated": "teb_camp_artillery_3",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_artillery_4": {
+      "key": "building_culture_variants_name_teb_camp_artillery_4",
+      "value_original": "teb_camp_artillery_4",
+      "value_translated": "teb_camp_artillery_4",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_artillery_5": {
+      "key": "building_culture_variants_name_teb_camp_artillery_5",
+      "value_original": "teb_camp_artillery_5",
+      "value_translated": "teb_camp_artillery_5",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_cavalry_1": {
+      "key": "building_culture_variants_name_teb_camp_cavalry_1",
+      "value_original": "Horse Pen",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_cavalry_2": {
+      "key": "building_culture_variants_name_teb_camp_cavalry_2",
+      "value_original": "Stables",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_cavalry_3": {
+      "key": "building_culture_variants_name_teb_camp_cavalry_3",
+      "value_original": "Horse Keeper's Ranch",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_cavalry_4": {
+      "key": "building_culture_variants_name_teb_camp_cavalry_4",
+      "value_original": "teb_camp_cavalry_4",
+      "value_translated": "teb_camp_cavalry_4",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_cavalry_5": {
+      "key": "building_culture_variants_name_teb_camp_cavalry_5",
+      "value_original": "teb_camp_cavalry_5",
+      "value_translated": "teb_camp_cavalry_5",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_foreign_1": {
+      "key": "building_culture_variants_name_teb_camp_foreign_1",
+      "value_original": "Foreign Mercs",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_foreign_2": {
+      "key": "building_culture_variants_name_teb_camp_foreign_2",
+      "value_original": "More Expensive Foreign Mercs",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_growth_1": {
+      "key": "building_culture_variants_name_teb_camp_growth_1",
+      "value_original": "Supplies",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_growth_2": {
+      "key": "building_culture_variants_name_teb_camp_growth_2",
+      "value_original": "More Supplies",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_growth_3": {
+      "key": "building_culture_variants_name_teb_camp_growth_3",
+      "value_original": "Even More Supplies",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_growth_4": {
+      "key": "building_culture_variants_name_teb_camp_growth_4",
+      "value_original": "Amazingly More Supplies",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_growth_5": {
+      "key": "building_culture_variants_name_teb_camp_growth_5",
+      "value_original": "Surprisingly, Stockpiles",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_inf2_1": {
+      "key": "building_culture_variants_name_teb_camp_inf2_1",
+      "value_original": "teb_camp_inf2_1",
+      "value_translated": "teb_camp_inf2_1",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_inf2_2": {
+      "key": "building_culture_variants_name_teb_camp_inf2_2",
+      "value_original": "teb_camp_inf2_2",
+      "value_translated": "teb_camp_inf2_2",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_inf2_3": {
+      "key": "building_culture_variants_name_teb_camp_inf2_3",
+      "value_original": "teb_camp_inf2_3",
+      "value_translated": "teb_camp_inf2_3",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_inf2_4": {
+      "key": "building_culture_variants_name_teb_camp_inf2_4",
+      "value_original": "teb_camp_inf2_4",
+      "value_translated": "teb_camp_inf2_4",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_inf2_5": {
+      "key": "building_culture_variants_name_teb_camp_inf2_5",
+      "value_original": "teb_camp_inf2_5",
+      "value_translated": "teb_camp_inf2_5",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_inf_1": {
+      "key": "building_culture_variants_name_teb_camp_inf_1",
+      "value_original": "Half-Companies",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_inf_2": {
+      "key": "building_culture_variants_name_teb_camp_inf_2",
+      "value_original": "Companies",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_inf_3": {
+      "key": "building_culture_variants_name_teb_camp_inf_3",
+      "value_original": "Regiments",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_inf_4": {
+      "key": "building_culture_variants_name_teb_camp_inf_4",
+      "value_original": "Infantry Hosts",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_inf_5": {
+      "key": "building_culture_variants_name_teb_camp_inf_5",
+      "value_original": "teb_camp_inf1_5",
+      "value_translated": "teb_camp_inf1_5",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_jungle": {
+      "key": "building_culture_variants_name_teb_camp_jungle",
+      "value_original": "Jungle Guides",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_main_1": {
+      "key": "building_culture_variants_name_teb_camp_main_1",
+      "value_original": "Improvised Shacks",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_main_2": {
+      "key": "building_culture_variants_name_teb_camp_main_2",
+      "value_original": "Small Mercenary Camp",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_main_3": {
+      "key": "building_culture_variants_name_teb_camp_main_3",
+      "value_original": "Encampment",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_main_4": {
+      "key": "building_culture_variants_name_teb_camp_main_4",
+      "value_original": "Organized Encampment",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_main_5": {
+      "key": "building_culture_variants_name_teb_camp_main_5",
+      "value_original": "Mercenary Stronghold",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_missile_1": {
+      "key": "building_culture_variants_name_teb_camp_missile_1",
+      "value_original": "Missile Range",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_missile_2": {
+      "key": "building_culture_variants_name_teb_camp_missile_2",
+      "value_original": "Marksmen Recruitment",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_missile_3": {
+      "key": "building_culture_variants_name_teb_camp_missile_3",
+      "value_original": "Masters' Lodge",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_missile_4": {
+      "key": "building_culture_variants_name_teb_camp_missile_4",
+      "value_original": "teb_camp_missile_4",
+      "value_translated": "teb_camp_missile_4",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_missile_5": {
+      "key": "building_culture_variants_name_teb_camp_missile_5",
+      "value_original": "teb_camp_missile_5",
+      "value_translated": "teb_camp_missile_5",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_mountain": {
+      "key": "building_culture_variants_name_teb_camp_mountain",
+      "value_original": "Mountain Guides",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_port": {
+      "key": "building_culture_variants_name_teb_camp_port",
+      "value_original": "Port Intermediaries",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_recr_1": {
+      "key": "building_culture_variants_name_teb_camp_recr_1",
+      "value_original": "Room for More",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_recr_2": {
+      "key": "building_culture_variants_name_teb_camp_recr_2",
+      "value_original": "Recruiter's Tent",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_recr_3": {
+      "key": "building_culture_variants_name_teb_camp_recr_3",
+      "value_original": "Recruiter's Hut",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_recr_4": {
+      "key": "building_culture_variants_name_teb_camp_recr_4",
+      "value_original": "Recruiter's Shack",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_recr_5": {
+      "key": "building_culture_variants_name_teb_camp_recr_5",
+      "value_original": "Recruiter's Log House",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_replenish_1": {
+      "key": "building_culture_variants_name_teb_camp_replenish_1",
+      "value_original": "First Aid",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_replenish_2": {
+      "key": "building_culture_variants_name_teb_camp_replenish_2",
+      "value_original": "Medic's Tent",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_replenish_3": {
+      "key": "building_culture_variants_name_teb_camp_replenish_3",
+      "value_original": "Infirmary",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_replenish_4": {
+      "key": "building_culture_variants_name_teb_camp_replenish_4",
+      "value_original": "Medical Team",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_replenish_5": {
+      "key": "building_culture_variants_name_teb_camp_replenish_5",
+      "value_original": "Field Hospital",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_scavenge": {
+      "key": "building_culture_variants_name_teb_camp_scavenge",
+      "value_original": "Organized Scavenging",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_upk_1": {
+      "key": "building_culture_variants_name_teb_camp_upk_1",
+      "value_original": "Paymaster's Desk",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_upk_2": {
+      "key": "building_culture_variants_name_teb_camp_upk_2",
+      "value_original": "Paymaster's Hut",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_upk_3": {
+      "key": "building_culture_variants_name_teb_camp_upk_3",
+      "value_original": "Paymaster's Safe House",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_upk_4": {
+      "key": "building_culture_variants_name_teb_camp_upk_4",
+      "value_original": "Paymaster's Tavern",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_teb_camp_upk_5": {
+      "key": "building_culture_variants_name_teb_camp_upk_5",
+      "value_original": "Paymaster's Complex",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "building_culture_variants_name_teb_eco_cloth_1": {
       "key": "building_culture_variants_name_teb_eco_cloth_1",
       "value_original": "Weaving House",
@@ -2881,9 +3385,9 @@
     },
     "building_culture_variants_name_teb_mil_badmercs_1": {
       "key": "building_culture_variants_name_teb_mil_badmercs_1",
-      "value_original": "Mercenary Camp",
+      "value_original": "Mercenary Haven",
       "value_translated": "Campamento mercenario",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "building_culture_variants_name_teb_mil_badmercs_2": {
@@ -2938,15 +3442,15 @@
     "building_culture_variants_name_teb_mil_duellists_1": {
       "key": "building_culture_variants_name_teb_mil_duellists_1",
       "value_original": "teb_mil_duellists_1",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "teb_mil_duellists_1",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_teb_mil_duellists_2": {
       "key": "building_culture_variants_name_teb_mil_duellists_2",
       "value_original": "teb_mil_duellists_2",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "teb_mil_duellists_2",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_culture_variants_name_teb_mil_mercs_1": {
@@ -3761,6 +4265,62 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "building_effect_context_expressions_display_text_IsTEBJungleClimate": {
+      "key": "building_effect_context_expressions_display_text_IsTEBJungleClimate",
+      "value_original": "When built in [[img:ui/campaign ui/climate_types/jungle.png]][[/img]]Jungle Climate:",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_effect_context_expressions_display_text_IsTEBMountainClimate": {
+      "key": "building_effect_context_expressions_display_text_IsTEBMountainClimate",
+      "value_original": "When built in [[img:climate_mountain]][[/img]]Mountain Climate:",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_effect_context_expressions_display_text_IsTEBcamppresent": {
+      "key": "building_effect_context_expressions_display_text_IsTEBcamppresent",
+      "value_original": "When any [[img:icon_general]][[/img]]Mercenary Camp is in the region:",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_effect_context_expressions_display_text_teb_IsRegionAbandoned": {
+      "key": "building_effect_context_expressions_display_text_teb_IsRegionAbandoned",
+      "value_original": "When built in an [[img:ui/campaign ui/effect_bundles/icon_ruin.png]][[/img]]abandoned region:",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_sets_onscreen_description_teb_camp_defence": {
+      "key": "building_sets_onscreen_description_teb_camp_defence",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_sets_onscreen_description_teb_camp_infra": {
+      "key": "building_sets_onscreen_description_teb_camp_infra",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_sets_onscreen_description_teb_camp_recruitment": {
+      "key": "building_sets_onscreen_description_teb_camp_recruitment",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_sets_onscreen_description_teb_camp_support": {
+      "key": "building_sets_onscreen_description_teb_camp_support",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
     "building_sets_onscreen_description_teb_defence": {
       "key": "building_sets_onscreen_description_teb_defence",
       "value_original": "Towers and garrisons to defend the city against invaders.",
@@ -3785,6 +4345,41 @@
     "building_sets_onscreen_description_teb_military_support": {
       "key": "building_sets_onscreen_description_teb_military_support",
       "value_original": "Improve the quality of your units and recruit mighty [[img:icon_hero]][[/img]]Heroes to bolster your armies.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_sets_onscreen_name_teb_camp_defence": {
+      "key": "building_sets_onscreen_name_teb_camp_defence",
+      "value_original": "Defence",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_sets_onscreen_name_teb_camp_infra": {
+      "key": "building_sets_onscreen_name_teb_camp_infra",
+      "value_original": "Infrastructure",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_sets_onscreen_name_teb_camp_recruitment": {
+      "key": "building_sets_onscreen_name_teb_camp_recruitment",
+      "value_original": "Camp Recruitment",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_sets_onscreen_name_teb_camp_region": {
+      "key": "building_sets_onscreen_name_teb_camp_region",
+      "value_original": "Region",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_sets_onscreen_name_teb_camp_support": {
+      "key": "building_sets_onscreen_name_teb_camp_support",
+      "value_original": "Support",
       "value_translated": "",
       "needs_retranslation": true,
       "removed": false
@@ -3871,6 +4466,391 @@
       "value_original": "Given enough time and money, local militias and some of the reliable companies can be trained to work together.",
       "value_translated": "Con tiempo y dinero suficientes, se puede entrenar a las milicias locales y a algunas de las compañías fiables para que trabajen juntas.",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_artillery_1": {
+      "key": "building_short_description_texts_short_description_teb_camp_artillery_1",
+      "value_original": "A small mobile workshop that keeps field artillery working and not exploding.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_artillery_2": {
+      "key": "building_short_description_texts_short_description_teb_camp_artillery_2",
+      "value_original": "The best the camp can get, from forges to experienced crewmen with their distinctive tinnitus and lack of eyebrows.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_artillery_3": {
+      "key": "building_short_description_texts_short_description_teb_camp_artillery_3",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_artillery_4": {
+      "key": "building_short_description_texts_short_description_teb_camp_artillery_4",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_artillery_5": {
+      "key": "building_short_description_texts_short_description_teb_camp_artillery_5",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_cavalry_1": {
+      "key": "building_short_description_texts_short_description_teb_camp_cavalry_1",
+      "value_original": "The camp has its own cavalry, and its distinctive smell.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_cavalry_2": {
+      "key": "building_short_description_texts_short_description_teb_camp_cavalry_2",
+      "value_original": "Fancier riders, fancier horses, and still the unintelligible lingo of horse handlers.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_cavalry_3": {
+      "key": "building_short_description_texts_short_description_teb_camp_cavalry_3",
+      "value_original": "Professional riders orbit the camp, and help secure victories.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_cavalry_4": {
+      "key": "building_short_description_texts_short_description_teb_camp_cavalry_4",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_cavalry_5": {
+      "key": "building_short_description_texts_short_description_teb_camp_cavalry_5",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_foreign": {
+      "key": "building_short_description_texts_short_description_teb_camp_foreign",
+      "value_original": "Some foreign mercenaries spontaneously come to the Southern Realms with some regularity. They may have odd customs, but who doesn't.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_growth_1": {
+      "key": "building_short_description_texts_short_description_teb_camp_growth_1",
+      "value_original": "An army marches or encamps on its stomach.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_growth_2": {
+      "key": "building_short_description_texts_short_description_teb_camp_growth_2",
+      "value_original": "Especially the Halflings.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_growth_3": {
+      "key": "building_short_description_texts_short_description_teb_camp_growth_3",
+      "value_original": "And the Ogres.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_growth_4": {
+      "key": "building_short_description_texts_short_description_teb_camp_growth_4",
+      "value_original": "Supplies, mothertucker!",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_growth_5": {
+      "key": "building_short_description_texts_short_description_teb_camp_growth_5",
+      "value_original": "Enough supplies for a literal army, or two or three.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_inf2_1": {
+      "key": "building_short_description_texts_short_description_teb_camp_inf2_1",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_inf2_2": {
+      "key": "building_short_description_texts_short_description_teb_camp_inf2_2",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_inf2_3": {
+      "key": "building_short_description_texts_short_description_teb_camp_inf2_3",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_inf2_4": {
+      "key": "building_short_description_texts_short_description_teb_camp_inf2_4",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_inf2_5": {
+      "key": "building_short_description_texts_short_description_teb_camp_inf2_5",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_inf_1": {
+      "key": "building_short_description_texts_short_description_teb_camp_inf_1",
+      "value_original": "\"Men with sticks! Sticks with men! Stick-men! All are welcome here!\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_inf_2": {
+      "key": "building_short_description_texts_short_description_teb_camp_inf_2",
+      "value_original": "\"On second thought, let's get some half-decent fighters too.\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_inf_3": {
+      "key": "building_short_description_texts_short_description_teb_camp_inf_3",
+      "value_original": "\"And that rat-man horde isn't going to kill itself...\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_inf_4": {
+      "key": "building_short_description_texts_short_description_teb_camp_inf_4",
+      "value_original": "\"...not quickly enough, anyway.\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_inf_5": {
+      "key": "building_short_description_texts_short_description_teb_camp_inf_5",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_jungle": {
+      "key": "building_short_description_texts_short_description_teb_camp_jungle",
+      "value_original": "\"Look, guys, the guides here are not lascivious blondes in skimpy outfits. No, shut up. We're lucky to have found Bob the lizard here.\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_main_1": {
+      "key": "building_short_description_texts_short_description_teb_camp_main_1",
+      "value_original": "Build the best camp in the world, or I'll eat your souls!",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_main_2": {
+      "key": "building_short_description_texts_short_description_teb_camp_main_2",
+      "value_original": "And we wrote the first thing that came to our heads-",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_main_3": {
+      "key": "building_short_description_texts_short_description_teb_camp_main_3",
+      "value_original": "-It just so happened to be.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_main_4": {
+      "key": "building_short_description_texts_short_description_teb_camp_main_4",
+      "value_original": "The best camp in the world.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_main_5": {
+      "key": "building_short_description_texts_short_description_teb_camp_main_5",
+      "value_original": "It was the best camp in the world.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_missile_1": {
+      "key": "building_short_description_texts_short_description_teb_camp_missile_1",
+      "value_original": "Shooting people and monsters with crossbows! Finest tradition in the south.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_missile_2": {
+      "key": "building_short_description_texts_short_description_teb_camp_missile_2",
+      "value_original": "This shooting range will do for the most part. Drunk mercs occasionally waddle in, but it adds to the challenge.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_missile_3": {
+      "key": "building_short_description_texts_short_description_teb_camp_missile_3",
+      "value_original": "\"And for my next demonstration, I shall hit the target after pirhouetting full-circle, without aiming and while jumping on the spot!\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_missile_4": {
+      "key": "building_short_description_texts_short_description_teb_camp_missile_4",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_missile_5": {
+      "key": "building_short_description_texts_short_description_teb_camp_missile_5",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_mountain": {
+      "key": "building_short_description_texts_short_description_teb_camp_mountain",
+      "value_original": "\"Aren't you a little short to be a mercen-\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_port": {
+      "key": "building_short_description_texts_short_description_teb_camp_port",
+      "value_original": "The many ports of the South are not only vehicles for commerce, but contribute to the various mercenary companies finding new shores and habitats. Nature is beautiful.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_recr_1": {
+      "key": "building_short_description_texts_short_description_teb_camp_recr_1",
+      "value_original": "\"Whether you're here for the booze or to impress the ladies, we got room for you.\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_recr_2": {
+      "key": "building_short_description_texts_short_description_teb_camp_recr_2",
+      "value_original": "\"Next! Next! Next!\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_recr_3": {
+      "key": "building_short_description_texts_short_description_teb_camp_recr_3",
+      "value_original": "\"No, I said no Goblins! Alright, fine, but it's your responsibility!\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_recr_4": {
+      "key": "building_short_description_texts_short_description_teb_camp_recr_4",
+      "value_original": "\"No, that is not a dragon and you are not Asarnil. How do I- it just oinked at me!\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_recr_5": {
+      "key": "building_short_description_texts_short_description_teb_camp_recr_5",
+      "value_original": "\"Look, if you can ride the pig well enough you can get in a lance company at half pay. Next!\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_replenish_1": {
+      "key": "building_short_description_texts_short_description_teb_camp_replenish_1",
+      "value_original": "\"You got what stuck where?\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_replenish_2": {
+      "key": "building_short_description_texts_short_description_teb_camp_replenish_2",
+      "value_original": "\"Yes, yes, lay down next to Inigo.\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_replenish_3": {
+      "key": "building_short_description_texts_short_description_teb_camp_replenish_3",
+      "value_original": "\"WILL YOU IDIOTS STOP DYING?\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_replenish_4": {
+      "key": "building_short_description_texts_short_description_teb_camp_replenish_4",
+      "value_original": "\"This is fine.\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_replenish_5": {
+      "key": "building_short_description_texts_short_description_teb_camp_replenish_5",
+      "value_original": "\"I should have stayed at the farm.\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_scavenge": {
+      "key": "building_short_description_texts_short_description_teb_camp_scavenge",
+      "value_original": "\"This foreboding sign would probably stop me if I could read.\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_upk_1": {
+      "key": "building_short_description_texts_short_description_teb_camp_upk_1",
+      "value_original": "Know a man's worth, and what he ain't.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_upk_2": {
+      "key": "building_short_description_texts_short_description_teb_camp_upk_2",
+      "value_original": "The click-clack of a big abacus, and the stare of much bigger Maneater guards.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_upk_3": {
+      "key": "building_short_description_texts_short_description_teb_camp_upk_3",
+      "value_original": "The future of the entire camp under a safe lock.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_upk_4": {
+      "key": "building_short_description_texts_short_description_teb_camp_upk_4",
+      "value_original": "Money goes in, money goes out, money all around.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_teb_camp_upk_5": {
+      "key": "building_short_description_texts_short_description_teb_camp_upk_5",
+      "value_original": "And around and around it goes.",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "building_short_description_texts_short_description_teb_eco_stocks_1": {
@@ -4030,15 +5010,15 @@
     "building_short_description_texts_short_description_teb_mil_duellists_1": {
       "key": "building_short_description_texts_short_description_teb_mil_duellists_1",
       "value_original": "teb_mil_duellists_1",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "teb_mil_duellists_1",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_short_description_texts_short_description_teb_mil_duellists_2": {
       "key": "building_short_description_texts_short_description_teb_mil_duellists_2",
       "value_original": "teb_mil_duellists_2",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "teb_mil_duellists_2",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_short_description_texts_short_description_teb_mil_mercs_1": {
@@ -4366,15 +5346,43 @@
     "campaign_effect_scopes_localised_text_faction_to_character_own_lords_only": {
       "key": "campaign_effect_scopes_localised_text_faction_to_character_own_lords_only",
       "value_original": "\\\\n(all Lords)",
-      "value_translated": "\\\\n(Todos los Señores)",
+      "value_translated": "\\\\n(todos los Señores)",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_effect_scopes_localised_text_force_building_to_force_in_sphere_of_influence_any": {
+      "key": "campaign_effect_scopes_localised_text_force_building_to_force_in_sphere_of_influence_any",
+      "value_original": "\\\\n(own and allied armies in circle of influence)",
+      "value_translated": "\\\\n(ejércitos propios y aliados en el círculo de influencia)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_effect_scopes_localised_text_force_building_to_force_in_sphere_of_influence_blue": {
+      "key": "campaign_effect_scopes_localised_text_force_building_to_force_in_sphere_of_influence_blue",
+      "value_original": "\\\\n(any army in circle of influence)",
+      "value_translated": "\\\\n(cualquier ejército del círculo de influencia)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_effect_scopes_localised_text_force_building_to_force_in_sphere_of_influence_enemy": {
+      "key": "campaign_effect_scopes_localised_text_force_building_to_force_in_sphere_of_influence_enemy",
+      "value_original": "\\\\n(enemy armies in circle of influence)",
+      "value_translated": "\\\\n(ejércitos enemigos en círculo de influencia)",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "campaign_effect_scopes_localised_text_force_to_region_any_owner": {
+      "key": "campaign_effect_scopes_localised_text_force_to_region_any_owner",
+      "value_original": "\\\\n(local region owner)",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "campaign_group_rituals_unlock_text_tebuary_culttebuary_3_1": {
       "key": "campaign_group_rituals_unlock_text_tebuary_culttebuary_3_1",
       "value_original": "[[col:dark_r]]dsadsad.[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:dark_r]]dsadsad.[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "campaign_post_battle_captive_options_description_3011990": {
@@ -5336,6 +6344,62 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "character_skills_localised_description_teb_dedicated_fury": {
+      "key": "character_skills_localised_description_teb_dedicated_fury",
+      "value_original": "By a combination of inclination, faith and training, this character is aligned with the cults of Sister Fury, if not a member outright. One of Myrmidia's companions in life, Fury's legacy is one of intense, violent, but controlled rage and violence against injustice and destruction.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_teb_dedicated_morr": {
+      "key": "character_skills_localised_description_teb_dedicated_morr",
+      "value_original": "By a combination of inclination, faith and training, this character is aligned with the cults of the god Morr, if not a member outright. The old god of the dead's legacy is one of fatalism and certainty, and finds its largest seat in Luccini. ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_teb_dedicated_myrmidia": {
+      "key": "character_skills_localised_description_teb_dedicated_myrmidia",
+      "value_original": "By a combination of inclination, faith and training, this character is aligned with the cults of the goddess Myrmidia, if not a member outright. Myrmidia is an ascended mortal and the chief deity in the south, and the vast influence of her cults teach tactical acumen, mercy, and civilization.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_teb_dedicated_nahmud": {
+      "key": "character_skills_localised_description_teb_dedicated_nahmud",
+      "value_original": "By a combination of inclination, faith and training, this character is aligned with the cults of Nahmud, if not a member outright. Although part of the vaster Myrmidian cults, the various sects of Nahmud favour equality and special education, and are somewhat too fond of secrecy.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_teb_dedicated_ranald": {
+      "key": "character_skills_localised_description_teb_dedicated_ranald",
+      "value_original": "By a combination of inclination, faith and training, this character is aligned with the cults of the god Ranald, if not a member outright. He is one of many and sometimes darker aspects, but the lord of fortune was also the only one who could make Morr smile. Somewhat.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_teb_dedicated_shallya": {
+      "key": "character_skills_localised_description_teb_dedicated_shallya",
+      "value_original": "By a combination of inclination, faith and training, this character is aligned with the cults of the goddess Shallya, if not a member outright. Her teachings of healing and compassion feel at odds with the world's grimness and darkness, which is also why many flock to her.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_teb_dedicated_solkan": {
+      "key": "character_skills_localised_description_teb_dedicated_solkan",
+      "value_original": "By a combination of inclination, faith and training, this character is aligned with the cults of the god Solkan, if not a member outright. The merciless god is one of the most ancient, and just as timeless is his unbridled retribution against the corrupted. His is currently a relatively awkward presence, strongest in Remas.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_teb_dedicated_verena": {
+      "key": "character_skills_localised_description_teb_dedicated_verena",
+      "value_original": "By a combination of inclination, faith and training, this character is aligned with the cults of the goddess Verena, if not a member outright. Like her husband Morr, the blind deity's legacy is not only one of learning and justice, but also one of detached impartiality.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "character_skills_localised_description_teb_duellist_hero_bodyguard": {
       "key": "character_skills_localised_description_teb_duellist_hero_bodyguard",
       "value_original": "It's good to have someone watching your back against foes looking for a cheap kill. Especially if they know everything about it.",
@@ -5597,9 +6661,9 @@
     },
     "character_skills_localised_description_teb_gashnag_unique_book": {
       "key": "character_skills_localised_description_teb_gashnag_unique_book",
-      "value_original": "Learning from the Strigoi patriarch's secrets and mistakes directly from one of his surviving artifacts could be priceless.",
+      "value_original": "Knowledge is power, and this learning comes from the Strigoi patriarch's secrets and mistakes.",
       "value_translated": "Aprender de los secretos y errores del patriarca de los Strigoi directamente de uno de sus artefactos supervivientes podría no tener precio.",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "character_skills_localised_description_teb_gashnag_unique_staff": {
@@ -6500,9 +7564,9 @@
     },
     "character_skills_localised_name_bor_ranger_lord_unique_stalk": {
       "key": "character_skills_localised_name_bor_ranger_lord_unique_stalk",
-      "value_original": "The White of Their Eyes",
+      "value_original": "{{tr:unit_abilities_onscreen_name_bor_ranger_lord_stalk}}",
       "value_translated": "El blanco de sus ojos",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "character_skills_localised_name_bor_ranger_lord_unique_warhorse": {
@@ -6752,51 +7816,51 @@
     },
     "character_skills_localised_name_teb_cadavo_story1": {
       "key": "character_skills_localised_name_teb_cadavo_story1",
-      "value_original": "Tale of Cadavo I: Prologue",
+      "value_original": "Tale of Cadavo: Prologue",
       "value_translated": "Historia de Cadavo I: Prólogo",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "character_skills_localised_name_teb_cadavo_story2": {
       "key": "character_skills_localised_name_teb_cadavo_story2",
-      "value_original": "Tale of Cadavo II: The Duel",
+      "value_original": "The Duel",
       "value_translated": "Cuento de Cadavo II: El Duelo",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "character_skills_localised_name_teb_cadavo_story3": {
       "key": "character_skills_localised_name_teb_cadavo_story3",
-      "value_original": "Tale of Cadavo III: Room for One",
+      "value_original": "Room for One",
       "value_translated": "Cuento de Cadavo III: Habitación para uno",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "character_skills_localised_name_teb_cadavo_story4": {
       "key": "character_skills_localised_name_teb_cadavo_story4",
-      "value_original": "Tale of Cadavo IV: Between Legend and Myth",
+      "value_original": "Between Legend and Myth",
       "value_translated": "Historia de Cadavo IV: Entre la leyenda y el mito",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "character_skills_localised_name_teb_cadavo_story5a": {
       "key": "character_skills_localised_name_teb_cadavo_story5a",
-      "value_original": "Tale of Cadavo V: And so he vowed",
+      "value_original": "And so he vowed",
       "value_translated": "Cuento de Cadavo V: Y así juró",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "character_skills_localised_name_teb_cadavo_story5b": {
       "key": "character_skills_localised_name_teb_cadavo_story5b",
-      "value_original": "Tale of Cadavo V: And so he swore",
+      "value_original": "And so he swore",
       "value_translated": "Cuento de Cadavo V: Y así juró",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "character_skills_localised_name_teb_cadavo_story5c": {
       "key": "character_skills_localised_name_teb_cadavo_story5c",
-      "value_original": "Tale of Cadavo V: And so he moved on",
+      "value_original": "And so he moved on",
       "value_translated": "Cuento de Cadavo V: Y así siguió adelante",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "character_skills_localised_name_teb_cadavo_talisman": {
@@ -7049,6 +8113,62 @@
       "value_original": "Gourd of Lustrian Wine",
       "value_translated": "Calabaza de vino de Lustria",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_teb_dedicated_fury": {
+      "key": "character_skills_localised_name_teb_dedicated_fury",
+      "value_original": "Dedicated to Sister Fury",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_teb_dedicated_morr": {
+      "key": "character_skills_localised_name_teb_dedicated_morr",
+      "value_original": "Dedicated to Grim Morr",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_teb_dedicated_myrmidia": {
+      "key": "character_skills_localised_name_teb_dedicated_myrmidia",
+      "value_original": "Dedicated to Holy Myrmidia",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_teb_dedicated_nahmud": {
+      "key": "character_skills_localised_name_teb_dedicated_nahmud",
+      "value_original": "Dedicated to the Dark Maiden",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_teb_dedicated_ranald": {
+      "key": "character_skills_localised_name_teb_dedicated_ranald",
+      "value_original": "Dedicated to Smiling Ranald",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_teb_dedicated_shallya": {
+      "key": "character_skills_localised_name_teb_dedicated_shallya",
+      "value_original": "Dedicated to White Shallya",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_teb_dedicated_solkan": {
+      "key": "character_skills_localised_name_teb_dedicated_solkan",
+      "value_original": "Dedicated to Vengeful Solkan",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_teb_dedicated_verena": {
+      "key": "character_skills_localised_name_teb_dedicated_verena",
+      "value_original": "Dedicated to Wise Verena",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "character_skills_localised_name_teb_duellist_hero_bodyguard": {
@@ -7828,6 +8948,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "character_skills_localised_name_teb_merc_general_camp_barded_horse": {
+      "key": "character_skills_localised_name_teb_merc_general_camp_barded_horse",
+      "value_original": "Barded Warhorse",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "character_skills_localised_name_teb_militia_archers_fire": {
       "key": "character_skills_localised_name_teb_militia_archers_fire",
       "value_original": "Rain Fire",
@@ -8174,8 +9301,8 @@
     "character_trait_levels_colour_text_": {
       "key": "character_trait_levels_colour_text_",
       "value_original": "text",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "text",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_trait_levels_colour_text_teb_trait_alejandro": {
@@ -8384,8 +9511,8 @@
     "character_trait_levels_onscreen_name_": {
       "key": "character_trait_levels_onscreen_name_",
       "value_original": "onscreen name",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "onscreen name",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_trait_levels_onscreen_name_teb_trait_alejandro": {
@@ -8510,8 +9637,8 @@
     "cultures_subcultures_battle_playstyle_description_": {
       "key": "cultures_subcultures_battle_playstyle_description_",
       "value_original": "subculture descr",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "subculture descr",
+      "needs_retranslation": false,
       "removed": false
     },
     "cultures_subcultures_battle_playstyle_description_mixer_teb_southern_realms": {
@@ -8524,8 +9651,8 @@
     "cultures_subcultures_name_": {
       "key": "cultures_subcultures_name_",
       "value_original": "subculture name",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "subculture name",
+      "needs_retranslation": false,
       "removed": false
     },
     "cultures_subcultures_name_mixer_teb_southern_realms": {
@@ -8552,15 +9679,15 @@
     "cultures_subcultures_name_wh_main_teb_estalia_CB": {
       "key": "cultures_subcultures_name_wh_main_teb_estalia_CB",
       "value_original": "Estalia",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Estalia",
+      "needs_retranslation": false,
       "removed": false
     },
     "cultures_subcultures_name_wh_main_teb_tilea_CB": {
       "key": "cultures_subcultures_name_wh_main_teb_tilea_CB",
       "value_original": "Tilea",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tilea",
+      "needs_retranslation": false,
       "removed": false
     },
     "dilemmas_localised_description_": {
@@ -8647,6 +9774,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "effect_bundles_localised_description_teb_camp_stance_normal": {
+      "key": "effect_bundles_localised_description_teb_camp_stance_normal",
+      "value_original": "An assembly of mercenary companies have set up camp here. Any army within its circle of influence will be able to recruit units from the camp.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "effect_bundles_localised_description_teb_captive_kill": {
       "key": "effect_bundles_localised_description_teb_captive_kill",
       "value_original": "Each company has decided the fate of their respective prisoners. The troops seem happy with the results and the extra loot acquired. An enemy noble has been seen running clothed in nothing but a ragged sack.",
@@ -8722,76 +9856,153 @@
       "value_original": "Through innovative tactics and personal hard work, any fortification will be in Borgio's hands by snack time. Dinner, tops.",
       "value_translated": "Mediante tácticas innovadoras y trabajo personal, cualquier fortificación estará en manos de Borgio a la hora de la merienda. La cena, como mucho.",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_description_teb_faction_trait_teb_cadavo": {
       "key": "effect_bundles_localised_description_teb_faction_trait_teb_cadavo",
       "value_original": "Driven by greed, spirit of adventure, debts or all of the above, southerner colonists and warriors are eager to face the New World.",
       "value_translated": "Impulsados por la codicia, el espíritu de aventura, las deudas o todo lo anterior, los colonos y guerreros sureños están ansiosos por enfrentarse al Nuevo Mundo.",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_description_teb_faction_trait_teb_catrazza": {
       "key": "effect_bundles_localised_description_teb_faction_trait_teb_catrazza",
       "value_original": "A commercial and mercenary foothold in Cathay that would make Ricco and Robbio proud and jealous.",
       "value_translated": "Un punto de apoyo comercial y mercenario en Catai que haría que Ricco y Robbio se sintieran orgullosos y celosos.",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_description_teb_faction_trait_teb_colombo": {
       "key": "effect_bundles_localised_description_teb_faction_trait_teb_colombo",
       "value_original": "Led by the best navigator in the Southern Realms, Colombo's men will savour the New World virtually unimpended, potentially with the unique friendship of the local Lizardmen.",
       "value_translated": "Dirigidos por el mejor navegante de los Reinos del Sur, los hombres de Colombo saborearán el Nuevo Mundo prácticamente sin depender de nadie, potencialmente con la amistad única de los Hombres Lagarto locales.",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_description_teb_faction_trait_teb_colombo_TOW": {
       "key": "effect_bundles_localised_description_teb_faction_trait_teb_colombo_TOW",
       "value_original": "Colombo's new enterprise puts together the experience of his Trantian entrepreneurs, Lizardmen contacts and the heavily-armed support of Myrmidian cults.",
       "value_translated": "",
       "needs_retranslation": true,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_description_teb_faction_trait_teb_gashnag": {
       "key": "effect_bundles_localised_description_teb_faction_trait_teb_gashnag",
       "value_original": "Gashnag's benevolent rule encourages a stable kingdom, but his own nature is a tricky matter.",
       "value_translated": "El gobierno benevolente de Gashnag fomenta un reino estable, pero su propia naturaleza es un asunto peliagudo.",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_description_teb_faction_trait_teb_gausser": {
       "key": "effect_bundles_localised_description_teb_faction_trait_teb_gausser",
       "value_original": "The Prince of Akendorf is a strong guide with many challenges around and ahead of him.",
       "value_translated": "El Príncipe de Akendorf es un guía fuerte con muchos retos a su alrededor y por delante.",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_description_teb_faction_trait_teb_lorenzo_lupo": {
       "key": "effect_bundles_localised_description_teb_faction_trait_teb_lorenzo_lupo",
       "value_original": "Luccini may be traditionally led by eccentric and slightly-inbred Princes, but it prides itself with what is likely the best army of Tilea, a famed fleet and a luxurious lifestyle.",
       "value_translated": "",
       "needs_retranslation": true,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_description_teb_faction_trait_teb_lucrezzia_belladonna": {
       "key": "effect_bundles_localised_description_teb_faction_trait_teb_lucrezzia_belladonna",
       "value_original": "The forced exile from the razed homecity of Pavona determines that Lucrezzia's qualities and abilities must ensure new possibilities.",
       "value_translated": "El exilio forzoso de la arrasada ciudad natal de Pavona determina que las cualidades y habilidades de Lucrezzia deban asegurar nuevas posibilidades.",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_description_teb_faction_trait_teb_lucrezzia_belladonna_TOW": {
       "key": "effect_bundles_localised_description_teb_faction_trait_teb_lucrezzia_belladonna_TOW",
       "value_original": "",
       "value_translated": "",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_description_teb_faction_trait_teb_lupio": {
       "key": "effect_bundles_localised_description_teb_faction_trait_teb_lupio",
       "value_original": "Commoners of Estalia who are far away from the king's collectors consider themselves lucky.",
       "value_translated": "Los plebeyos de Estalia que se encuentran lejos de los recaudadores del rey se consideran afortunados.",
       "needs_retranslation": false,
+      "removed": true
+    },
+    "effect_bundles_localised_description_teb_lord_trait_teb_borgio_the_besieger": {
+      "key": "effect_bundles_localised_description_teb_lord_trait_teb_borgio_the_besieger",
+      "value_original": "Through innovative tactics and personal hard work, any fortification will be in Borgio's hands by snack time. Dinner, tops.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_teb_lord_trait_teb_cadavo": {
+      "key": "effect_bundles_localised_description_teb_lord_trait_teb_cadavo",
+      "value_original": "Driven by greed, spirit of adventure, debts or all of the above, southerner colonists and warriors are eager to face the New World.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_teb_lord_trait_teb_catrazza": {
+      "key": "effect_bundles_localised_description_teb_lord_trait_teb_catrazza",
+      "value_original": "A commercial and mercenary foothold in Cathay that would make Ricco and Robbio proud and jealous.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_teb_lord_trait_teb_colombo": {
+      "key": "effect_bundles_localised_description_teb_lord_trait_teb_colombo",
+      "value_original": "Led by the best navigator in the Southern Realms, Colombo's men will savour the New World virtually unimpended, potentially with the unique friendship of the local Lizardmen.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_teb_lord_trait_teb_colombo_TOW": {
+      "key": "effect_bundles_localised_description_teb_lord_trait_teb_colombo_TOW",
+      "value_original": "Colombo's new enterprise puts together the experience of his Trantian entrepreneurs, Lizardmen contacts and the heavily-armed support of Myrmidian cults.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_teb_lord_trait_teb_gashnag": {
+      "key": "effect_bundles_localised_description_teb_lord_trait_teb_gashnag",
+      "value_original": "Gashnag's benevolent rule encourages a stable kingdom, but his own nature is a tricky matter.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_teb_lord_trait_teb_gausser": {
+      "key": "effect_bundles_localised_description_teb_lord_trait_teb_gausser",
+      "value_original": "The Prince of Akendorf is a strong guide with many challenges around and ahead of him.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_teb_lord_trait_teb_lorenzo_lupo": {
+      "key": "effect_bundles_localised_description_teb_lord_trait_teb_lorenzo_lupo",
+      "value_original": "Luccini may be traditionally led by eccentric and slightly-inbred Princes, but it prides itself with what is likely the best army of Tilea, a famed fleet and a luxurious lifestyle.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_teb_lord_trait_teb_lucrezzia_belladonna": {
+      "key": "effect_bundles_localised_description_teb_lord_trait_teb_lucrezzia_belladonna",
+      "value_original": "The forced exile from the razed homecity of Pavona determines that Lucrezzia's qualities and abilities must ensure new possibilities.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_teb_lord_trait_teb_lucrezzia_belladonna_TOW": {
+      "key": "effect_bundles_localised_description_teb_lord_trait_teb_lucrezzia_belladonna_TOW",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effect_bundles_localised_description_teb_lord_trait_teb_lupio": {
+      "key": "effect_bundles_localised_description_teb_lord_trait_teb_lupio",
+      "value_original": "Commoners of Estalia who are far away from the king's collectors consider themselves lucky.",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "effect_bundles_localised_description_tebuary_1_teb_duellist_hero": {
@@ -8913,6 +10124,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "effect_bundles_localised_title_teb_camp_stance_normal": {
+      "key": "effect_bundles_localised_title_teb_camp_stance_normal",
+      "value_original": "{{tr:effect_bundles_localised_title_wh3_dlc20_bundle_stance_army_encampment_festus}}",
+      "value_translated": "{{tr:effect_bundles_localised_title_wh3_dlc20_bundle_stance_army_encampment_festus}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
     "effect_bundles_localised_title_teb_captive_kill": {
       "key": "effect_bundles_localised_title_teb_captive_kill",
       "value_original": "Humiliated Captives",
@@ -8988,76 +10206,153 @@
       "value_original": "The Besieger",
       "value_translated": "El Asediador",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_title_teb_faction_trait_teb_cadavo": {
       "key": "effect_bundles_localised_title_teb_faction_trait_teb_cadavo",
       "value_original": "Explorers & Rascals",
       "value_translated": "Exploradores y Bribones",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_title_teb_faction_trait_teb_catrazza": {
       "key": "effect_bundles_localised_title_teb_faction_trait_teb_catrazza",
       "value_original": "Grand Embassy to the Grand Cathay",
       "value_translated": "Gran Embajada en el Gran Catai",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_title_teb_faction_trait_teb_colombo": {
       "key": "effect_bundles_localised_title_teb_faction_trait_teb_colombo",
       "value_original": "Navigators & Entrepeneurs",
       "value_translated": "Navegantes y emprendedores",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_title_teb_faction_trait_teb_colombo_TOW": {
       "key": "effect_bundles_localised_title_teb_faction_trait_teb_colombo_TOW",
       "value_original": "Blazing Adventure",
       "value_translated": "",
       "needs_retranslation": true,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_title_teb_faction_trait_teb_gashnag": {
       "key": "effect_bundles_localised_title_teb_faction_trait_teb_gashnag",
       "value_original": "The Black Prince",
       "value_translated": "El Príncipe Negro",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_title_teb_faction_trait_teb_gausser": {
       "key": "effect_bundles_localised_title_teb_faction_trait_teb_gausser",
       "value_original": "Master of Hope",
       "value_translated": "Maestro de la Esperanza",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_title_teb_faction_trait_teb_lorenzo_lupo": {
       "key": "effect_bundles_localised_title_teb_faction_trait_teb_lorenzo_lupo",
       "value_original": "Legacy of the Twins",
       "value_translated": "Legado de los gemelos",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_title_teb_faction_trait_teb_lucrezzia_belladonna": {
       "key": "effect_bundles_localised_title_teb_faction_trait_teb_lucrezzia_belladonna",
       "value_original": "Mistress of Diplomacy",
       "value_translated": "Maestra de la Diplomacia",
       "needs_retranslation": false,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_title_teb_faction_trait_teb_lucrezzia_belladonna_TOW": {
       "key": "effect_bundles_localised_title_teb_faction_trait_teb_lucrezzia_belladonna_TOW",
       "value_original": "Mistress of Diplomacy",
       "value_translated": "",
       "needs_retranslation": true,
-      "removed": false
+      "removed": true
     },
     "effect_bundles_localised_title_teb_faction_trait_teb_lupio": {
       "key": "effect_bundles_localised_title_teb_faction_trait_teb_lupio",
       "value_original": "Magritta's Golden Regency",
       "value_translated": "Requisiciones hacia los mosquetes reales",
       "needs_retranslation": false,
+      "removed": true
+    },
+    "effect_bundles_localised_title_teb_lord_trait_teb_borgio_the_besieger": {
+      "key": "effect_bundles_localised_title_teb_lord_trait_teb_borgio_the_besieger",
+      "value_original": "The Besieger",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_teb_lord_trait_teb_cadavo": {
+      "key": "effect_bundles_localised_title_teb_lord_trait_teb_cadavo",
+      "value_original": "Explorers & Rascals",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_teb_lord_trait_teb_catrazza": {
+      "key": "effect_bundles_localised_title_teb_lord_trait_teb_catrazza",
+      "value_original": "Grand Embassy to the Grand Cathay",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_teb_lord_trait_teb_colombo": {
+      "key": "effect_bundles_localised_title_teb_lord_trait_teb_colombo",
+      "value_original": "Navigators & Entrepeneurs",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_teb_lord_trait_teb_colombo_TOW": {
+      "key": "effect_bundles_localised_title_teb_lord_trait_teb_colombo_TOW",
+      "value_original": "Blazing Adventure",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_teb_lord_trait_teb_gashnag": {
+      "key": "effect_bundles_localised_title_teb_lord_trait_teb_gashnag",
+      "value_original": "The Black Prince",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_teb_lord_trait_teb_gausser": {
+      "key": "effect_bundles_localised_title_teb_lord_trait_teb_gausser",
+      "value_original": "Master of Hope",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_teb_lord_trait_teb_lorenzo_lupo": {
+      "key": "effect_bundles_localised_title_teb_lord_trait_teb_lorenzo_lupo",
+      "value_original": "Legacy of the Twins",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_teb_lord_trait_teb_lucrezzia_belladonna": {
+      "key": "effect_bundles_localised_title_teb_lord_trait_teb_lucrezzia_belladonna",
+      "value_original": "Mistress of Diplomacy",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_teb_lord_trait_teb_lucrezzia_belladonna_TOW": {
+      "key": "effect_bundles_localised_title_teb_lord_trait_teb_lucrezzia_belladonna_TOW",
+      "value_original": "Mistress of Diplomacy",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_teb_lord_trait_teb_lupio": {
+      "key": "effect_bundles_localised_title_teb_lord_trait_teb_lupio",
+      "value_original": "Magritta's Golden Regency",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "effect_bundles_localised_title_tebuary_1_teb_duellist_hero": {
@@ -9244,9 +10539,9 @@
     },
     "effects_description_enable_bor_ranger_lord_stalk": {
       "key": "effects_description_enable_bor_ranger_lord_stalk",
-      "value_original": "Passive ability: \"Sneak\"",
+      "value_original": "Passive ability: \"{{tr:unit_abilities_onscreen_name_bor_ranger_lord_stalk}}\"",
       "value_translated": "Habilidad pasiva: \"Sigilo\"",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_enable_charge_defence_clean": {
@@ -9282,6 +10577,13 @@
       "value_original": "Passive ability: \"Beloved General\"",
       "value_translated": "Habilidad pasiva: \"Amado General\"",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_enable_teb_borgio_difficult": {
+      "key": "effects_description_enable_teb_borgio_difficult",
+      "value_original": "Passive ability: \"{{tr:unit_abilities_onscreen_name_teb_borgio_difficult}}\"",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_enable_teb_borgio_mace": {
@@ -9490,56 +10792,56 @@
     "effects_description_hidden_construction_cost": {
       "key": "effects_description_hidden_construction_cost",
       "value_original": "hidden_construction_cost\r",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "hidden_construction_cost\n",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_hidden_construction_time": {
       "key": "effects_description_hidden_construction_time",
       "value_original": "hidden_construction_time\r",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "hidden_construction_time\n",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_hidden_growth": {
       "key": "effects_description_hidden_growth",
       "value_original": "hidden_growth\r",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "hidden_growth\n",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_hidden_income_all": {
       "key": "effects_description_hidden_income_all",
       "value_original": "hidden_income_all\r",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "hidden_income_all\n",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_hidden_order": {
       "key": "effects_description_hidden_order",
       "value_original": "hidden_order\r",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "hidden_order\n",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_hidden_recruitment_time": {
       "key": "effects_description_hidden_recruitment_time",
       "value_original": "hidden_recruitment_time\r",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "hidden_recruitment_time\n",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_hidden_replenishment": {
       "key": "effects_description_hidden_replenishment",
       "value_original": "hidden_replenishment\r",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "hidden_replenishment\n",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_teb_KOM_unlock_dummy": {
       "key": "effects_description_teb_KOM_unlock_dummy",
       "value_original": "[[col:black]]Unlocks recruitment of Knights of Morr via Renown pool upon construction (Southern Realms only)[[/col]]",
-      "value_translated": "[[col:negro]]Desbloquea el reclutamiento de Caballeros de Morr a través de la reserva de Renombre tras la construcción (solo Reinos del Sur)[[/col]]",
+      "value_translated": "[[col:black]]Desbloquea el reclutamiento de Caballeros de Morr mediante la reserva de Renombre tras su construcción (sólo Reinos del Sur)[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
@@ -9559,9 +10861,9 @@
     },
     "effects_description_teb_MA_militia_low": {
       "key": "effects_description_teb_MA_militia_low",
-      "value_original": "Melee attack: %+n for Militia Spearmen, Militia Archers, Half-Pikes and Billmen",
+      "value_original": "Melee attack: %+n for Militia Spearmen, Militia Archers, Half Pikes and Billmen",
       "value_translated": "Ataque cuerpo a cuerpo: %+n para Milicia de Lanceros, Milicia de Arqueros, Medias Picas y Alabarderos.",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_MA_shieldbearers": {
@@ -9573,9 +10875,9 @@
     },
     "effects_description_teb_MD_militia_low": {
       "key": "effects_description_teb_MD_militia_low",
-      "value_original": "Melee defence: %+n for Militia Spearmen, Militia Archers, Half-Pikes and Billmen",
+      "value_original": "Melee defence: %+n for Militia Spearmen, Militia Archers, Half Pikes and Billmen",
       "value_translated": "Defensa cuerpo a cuerpo: %+n para los Milicia de Lanceros, Milicia de Arqueros, Medias Picas y Alabarderos.",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_MD_shieldbearers": {
@@ -9609,7 +10911,7 @@
     "effects_description_teb_agent_action_dignitary_assist_army_training": {
       "key": "effects_description_teb_agent_action_dignitary_assist_army_training",
       "value_original": "[[col:yellow]]{{tr:agent_action_name_training}}[[/col]] action: Experience per turn is increased by an additional %n",
-      "value_translated": "Acción [[col:yellow]]{{tr:agent_action_name_training}}[[/col]]: La experiencia por turno aumenta un %n adicional",
+      "value_translated": "Acción de [[col:yellow]]{{tr:agent_action_name_training}}[[/col]]: La experiencia por turno aumenta un %n adicional",
       "needs_retranslation": false,
       "removed": false
     },
@@ -9739,6 +11041,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "effects_description_teb_artillery_recr_time_both": {
+      "key": "effects_description_teb_artillery_recr_time_both",
+      "value_original": "Global and Local Recruitment duration: %+n turn for artillery units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "effects_description_teb_attrition_res_mountain": {
       "key": "effects_description_teb_attrition_res_mountain",
       "value_original": "Attrition: %+n% casualties suffered from mountain attrition",
@@ -9751,6 +11060,13 @@
       "value_original": "Attrition: %+n% casualties suffered from wasteland attrition",
       "value_translated": "Desgaste: %+n% de bajas sufridas por desgaste en páramo",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_teb_billmen_contact": {
+      "key": "effects_description_teb_billmen_contact",
+      "value_original": "Enables Hooking attacks for Billmen, exposing foes",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_birdmen_buffs": {
@@ -9832,9 +11148,9 @@
     },
     "effects_description_teb_cadavo_buff_pirates_attack": {
       "key": "effects_description_teb_cadavo_buff_pirates_attack",
-      "value_original": "Melee attack: %+n for Half-Pikes, Swashbucklers, Riders and Maneaters",
+      "value_original": "Melee attack: %+n for Half Pikes, Swashbucklers, Riders and Maneaters",
       "value_translated": "Ataque cuerpo a cuerpo: %+n para Medias Picas, Espadachines, Jinetes y Comehombres",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_cadavo_buff_pirates_dakka": {
@@ -9846,23 +11162,23 @@
     },
     "effects_description_teb_cadavo_buff_pirates_dmg": {
       "key": "effects_description_teb_cadavo_buff_pirates_dmg",
-      "value_original": "Weapon Strength: %+n% for Half-Pikes, Swashbucklers, Riders and Maneaters",
+      "value_original": "Weapon Strength: %+n% for Half Pikes, Swashbucklers, Riders and Maneaters",
       "value_translated": "Fuerza del arma: %+n% para Medias Picas, Espadachines, Jinetes y Comehombres.",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_cadavo_buff_pirates_melee": {
       "key": "effects_description_teb_cadavo_buff_pirates_melee",
-      "value_original": "Melee defence: %+n for Half-Pikes, Swashbucklers, Riders and Maneaters",
+      "value_original": "Melee defence: %+n for Half Pikes, Swashbucklers, Riders and Maneaters",
       "value_translated": "Defensa cuerpo a cuerpo: %+n para Medias Picas, Espadachines, Jinetes y Comehombres",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_cadavo_buff_pirates_morale": {
       "key": "effects_description_teb_cadavo_buff_pirates_morale",
-      "value_original": "Leadership: %+n for Half-Pikes, Swashbucklers, Riders and Maneaters",
+      "value_original": "Leadership: %+n for Half Pikes, Swashbucklers, Riders and Maneaters",
       "value_translated": "Liderazgo: %+n para semiorcos, Espadachines, Jinetes y Comehombres",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_cadavo_pistolshot2": {
@@ -9877,6 +11193,27 @@
       "value_original": "The Tale of Cadavo skill chain provides story-driven buffs for him and his army",
       "value_translated": "La cadena de habilidades del Cuento de Cadavo proporciona mejoras basadas en la historia para él y su ejército",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_teb_camp_cap": {
+      "key": "effects_description_teb_camp_cap",
+      "value_original": "[[col:white]]Mercenary Camp[[/col]] limit: %+n",
+      "value_translated": "Límite de [[col:white]]Campamentos Mercenarios[[/col]]: %+n",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_teb_camp_units_mercenary_cap_mod_1": {
+      "key": "effects_description_teb_camp_units_mercenary_cap_mod_1",
+      "value_original": "Improves availability of Southern Realms mercenary units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_teb_camp_units_mercenary_cap_mod_2": {
+      "key": "effects_description_teb_camp_units_mercenary_cap_mod_2",
+      "value_original": "Greatly improves availability of Southern Realms mercenary units",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_cannon_barrage": {
@@ -10047,6 +11384,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "effects_description_teb_crooked_dice": {
+      "key": "effects_description_teb_crooked_dice",
+      "value_original": "Ability: \"{{tr:unit_abilities_onscreen_name_wh3_dlc23_hero_abilities_crooked_dice}}\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "effects_description_teb_crossbow_range": {
       "key": "effects_description_teb_crossbow_range",
       "value_original": "Range: %+n% for all crossbow units",
@@ -10192,6 +11536,13 @@
       "value_original": "Foster Independence commandment: additional %+n Diplomatic relations with Men and High Elves",
       "value_translated": "Mandamiento Fomentar la Independencia: relaciones diplomáticas adicionales: %+n con Hombres y Altos Elfos.",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_teb_edict_add_order": {
+      "key": "effects_description_teb_edict_add_order",
+      "value_original": "Foster Independence commandment: additional %+n {{tr:public_order_effect}}",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_edict_add_order_tax": {
@@ -10467,6 +11818,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "effects_description_teb_half_pikes_contact": {
+      "key": "effects_description_teb_half_pikes_contact",
+      "value_original": "Enables Containing attacks for Half Pikes, weakening foes",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "effects_description_teb_homeland_req_dummy": {
       "key": "effects_description_teb_homeland_req_dummy",
       "value_original": "The following buildings (or better) need to be present in the same settlement.",
@@ -10609,16 +11967,16 @@
     },
     "effects_description_teb_lord_tileaguy_pike_MD": {
       "key": "effects_description_teb_lord_tileaguy_pike_MD",
-      "value_original": "Melee defence: %+n for Pikemen and Half-Pikes {{tr:rank7}}",
+      "value_original": "Melee defence: %+n for Pikemen and Half Pikes {{tr:rank7}}",
       "value_translated": "Defensa cuerpo a cuerpo: %+n para Piqueros y Medias Picas {{tr:rank7}}",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_lord_tileaguy_upk": {
       "key": "effects_description_teb_lord_tileaguy_upk",
-      "value_original": "Upkeep: %+n% for Pikemen, Half-Pikes, Broken Lances, Noble Retinue, Knights Encarmine and all crossbow units",
+      "value_original": "Upkeep: %+n% for Pikemen, Half Pikes, Broken Lances, Noble Retinue, Knights Encarmine and all crossbow units",
       "value_translated": "Mantenimiento: %+n% para todas las unidades de Ballesteros, Piqueros, Medias Picas, Lanzas Rotas, Sequito Noble y Caballeros Encarnados.",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_lord_tileaguy_xbow_dmg": {
@@ -10824,6 +12182,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "effects_description_teb_militia_spearmen_archers_morale": {
+      "key": "effects_description_teb_militia_spearmen_archers_morale",
+      "value_original": "Leadership: %+n for Militia Spearmen and Militia Archers",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "effects_description_teb_missile_dmg_crossbow_gun_artillery": {
       "key": "effects_description_teb_missile_dmg_crossbow_gun_artillery",
       "value_original": "Missile strength: %+n% for crossbow, gunpowder and artillery units",
@@ -10840,9 +12205,9 @@
     },
     "effects_description_teb_nobles_dmg": {
       "key": "effects_description_teb_nobles_dmg",
-      "value_original": "Base Weapon damage: %+n for all heavy cavalry and other aristocratic units",
+      "value_original": "Armour-piercing weapon damage: %+n for all heavy cavalry and other aristocratic units",
       "value_translated": "Daño de arma base: %+n paraSequito Noble, Lanzas rotas, Caballeros Encarnados, Caballeros de la Lanza Justa, Guardia Negra y Caballero de Fortuna.",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_nobles_dmgFLAGGED": {
@@ -10880,6 +12245,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "effects_description_teb_pavise_block": {
+      "key": "effects_description_teb_pavise_block",
+      "value_original": "Missile block chance: %+n% for Militia Spearmen and other units with pavise shields",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "effects_description_teb_pavise_chargedef": {
       "key": "effects_description_teb_pavise_chargedef",
       "value_original": "Attribute: Expert Charge Defence for Pavise Crossbowmen and Militia Spearmen",
@@ -10896,28 +12268,28 @@
     },
     "effects_description_teb_paymaster_HTL": {
       "key": "effects_description_teb_paymaster_HTL",
-      "value_original": "Passive ability \"Hold the Line!\" for Paymster Wagons",
+      "value_original": "Passive ability \"Hold the Line!\" for Paymaster Chest Wagons",
       "value_translated": "",
       "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_paymaster_armour": {
       "key": "effects_description_teb_paymaster_armour",
-      "value_original": "Armour: %+n for Paymaster Wagons",
+      "value_original": "Armour: %+n for Paymaster Chest Wagons",
       "value_translated": "",
       "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_paymaster_missile_dmg": {
       "key": "effects_description_teb_paymaster_missile_dmg",
-      "value_original": "Missile strength: %+n% for Paymaster Wagons",
+      "value_original": "Missile strength: %+n% for Paymaster Chest Wagons",
       "value_translated": "",
       "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_paymaster_restock": {
       "key": "effects_description_teb_paymaster_restock",
-      "value_original": "Ability \"Restock!\" for Paymster Wagons",
+      "value_original": "Ability \"Restock!\" for Paymaster Chest Wagons",
       "value_translated": "",
       "needs_retranslation": true,
       "removed": false
@@ -11107,28 +12479,28 @@
     "effects_description_teb_roc_dieterfist": {
       "key": "effects_description_teb_roc_dieterfist",
       "value_original": "[[col:white]]Unlocks Dietershafen's Fist via Renown panel[[/col]]",
-      "value_translated": "[[col:white]]Desbloquea el Puños de Dietershafen a través del panel de Renombre[[/col]]",
+      "value_translated": "[[col:white]]Desbloquea a los Puños de Dietershafen mediante el panel de Renombre[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_teb_roc_estragon": {
       "key": "effects_description_teb_roc_estragon",
       "value_original": "[[col:white]]Unlocks Estragon's Pariahs via Renown panel[[/col]]",
-      "value_translated": "[[col:white]]Desbloquea los Parias de Estragón a través del panel de Renombre[[/col]]",
+      "value_translated": "[[col:white]]Desbloquea a los Parias de Estragón mediante el panel de Renombre[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_teb_roc_gunn": {
       "key": "effects_description_teb_roc_gunn",
       "value_original": "[[col:white]]Unlocks Gunnslieb's Rustlers via Renown panel[[/col]]",
-      "value_translated": "[[col:white]]Desbloquea los Ladrones de Gunnslieb mediante el panel de Renombre[[/col]]",
+      "value_translated": "[[col:white]]Desbloquea a los Ladrones de Gunnslieb mediante el panel de Renombre[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_teb_roc_gwatch": {
       "key": "effects_description_teb_roc_gwatch",
       "value_original": "[[col:white]]Unlocks the Prince's Own via Renown panel[[/col]]",
-      "value_translated": "[[col:white]]Desbloquea la Armada del Príncipe a través del panel de Renombre[[/col]]",
+      "value_translated": "[[col:white]]Desbloquea a la Armada del Príncipe mediante el panel de Renombre[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
@@ -11142,29 +12514,50 @@
     "effects_description_teb_roc_montecastello": {
       "key": "effects_description_teb_roc_montecastello",
       "value_original": "[[col:white]]Unlocks Knights Forlorn of Monte Castello via Renown panel[[/col]]",
-      "value_translated": "[[col:white]]Desbloquea Caballeros Desamparados de Monte Castello mediante el panel de Renombre[[/col]]",
+      "value_translated": "[[col:white]]Desbloquea a los Caballeros Desamparados de Monte Castello mediante el panel de Renombre[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_teb_roc_organ": {
       "key": "effects_description_teb_roc_organ",
       "value_original": "[[col:white]]Unlocks Otho's Unlucky Organ via Renown panel[[/col]]",
-      "value_translated": "[[col:white]]Desbloquea el Órgano desafortunado de Otho mediante el panel de Renombre[[/col]]",
+      "value_translated": "[[col:white]]Desbloquea al Órgano Desafortunado de Otho mediante el panel de Renombre[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_teb_roc_strygos": {
       "key": "effects_description_teb_roc_strygos",
       "value_original": "[[col:white]]Unlocks Sons of Strygos via Renown panel[[/col]]",
-      "value_translated": "[[col:white]]Desbloquea Hijos de Strygos a través del panel de Renombre[[/col]]",
+      "value_translated": "[[col:white]]Desbloquea a los Hijos de Strygos mediante el panel de Renombre[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_teb_roc_verena": {
       "key": "effects_description_teb_roc_verena",
       "value_original": "[[col:white]]Unlocks Verena's Owls via Renown panel[[/col]]",
-      "value_translated": "[[col:white]]Desbloquea los Búhos de Verena mediante el panel de Renombre[[/col]]",
+      "value_translated": "[[col:white]]Desbloquea a los Búhos de Verena mediante el panel de Renombre[[/col]]",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_teb_sergioleone_charge": {
+      "key": "effects_description_teb_sergioleone_charge",
+      "value_original": "Charge bonus: %+n for {{tr:land_units_onscreen_name_teb_carabiniers}}, {{tr:land_units_onscreen_name_teb_conqui_riders}}, {{tr:land_units_onscreen_name_teb_enforcers}} and {{tr:land_units_onscreen_name_teb_xbow_cav}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_teb_sergioleone_missile_dmg": {
+      "key": "effects_description_teb_sergioleone_missile_dmg",
+      "value_original": "Missile strength: %+n% for {{tr:land_units_onscreen_name_teb_carabiniers}}, {{tr:land_units_onscreen_name_teb_conqui_riders}}, {{tr:land_units_onscreen_name_teb_enforcers}} and {{tr:land_units_onscreen_name_teb_xbow_cav}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_teb_sergioleone_phys_res": {
+      "key": "effects_description_teb_sergioleone_phys_res",
+      "value_original": "Physical resistance: %+n% for {{tr:land_units_onscreen_name_teb_carabiniers}}, {{tr:land_units_onscreen_name_teb_conqui_riders}}, {{tr:land_units_onscreen_name_teb_enforcers}} and {{tr:land_units_onscreen_name_teb_xbow_cav}}",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_spirit_drain": {
@@ -11344,9 +12737,9 @@
     },
     "effects_description_teb_tech_tercio_misres": {
       "key": "effects_description_teb_tech_tercio_misres",
-      "value_original": "Missile resistance: %+n% for Pikemen, Half-Pikes, Billmen, Crossbowmen, Handgunners and Royal Guard",
+      "value_original": "Missile resistance: %+n% for Pikemen, Half Pikes, Billmen, Crossbowmen, Handgunners and Royal Guard",
       "value_translated": "Resistencia a proyectiles: %+n% para Piqueros, Medias Picas, Alabarderos, Ballesteros, Pistoleros y Guardia Real.",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "effects_description_teb_tech_tercio_rodeleros": {
@@ -11405,6 +12798,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "effects_description_teb_temples_constr_time": {
+      "key": "effects_description_teb_temples_constr_time",
+      "value_original": "Construction time: %+n for normal Cult of Myrmidia and Cult of Shallya buildings",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "effects_description_teb_tercio_encou": {
       "key": "effects_description_teb_tercio_encou",
       "value_original": "Attribute: Encourage for Pikemen",
@@ -11415,7 +12815,7 @@
     "effects_description_teb_terraform_dummy": {
       "key": "effects_description_teb_terraform_dummy",
       "value_original": "[[col:black]]Negates and ameliorates penalties from hostile climate in the region [[/col]]",
-      "value_translated": "[[col:negro]]Anula y mejora las penalizaciones del clima hostil de la región [[/col]]",
+      "value_translated": "[[col:black]]Anula y atenúa las penalizaciones derivadas del clima hostil en la región.[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
@@ -11443,8 +12843,8 @@
     "effects_description_teb_tow_norsca_exploit_dummy": {
       "key": "effects_description_teb_tow_norsca_exploit_dummy",
       "value_original": "[[col:yellow]]Construct buildings to exploit untapped resources in Norsca[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Construye edificios para explotar recursos sin explotar en Norsca.[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_teb_tylos_1_dummy": {
@@ -11541,63 +12941,63 @@
     "effects_description_tebuary_1_teb_duellist_hero": {
       "key": "effects_description_tebuary_1_teb_duellist_hero",
       "value_original": "[[col:white]]A mercenary combat specialist and spy at your service[[/col]]",
-      "value_translated": "[[col:white]]Un mercenario especialista en combate y espía a tu servicio[[/col]]",
+      "value_translated": "[[col:white]]Un mercenario especialista en combate y espionaje a tu servicio.[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_tebuary_1_teb_duellist_hero_bis": {
       "key": "effects_description_tebuary_1_teb_duellist_hero_bis",
       "value_original": "[[col:yellow]]The agent will spawn at your capital settlement (usable once every 20[[img:icon_turns]][[/img]])[[/col]]",
-      "value_translated": "[[col:yellow]]El agente aparecerá en tu asentamiento capital (utilizable una vez cada 20[[img:icon_turns]][[/img]])[[/col]]",
+      "value_translated": "[[col:yellow]]El agente aparecerá en tu capital (20 [[img:icon_turns]][[/img]]turnos de espera)[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_tebuary_1_teb_duellist_hero_req": {
       "key": "effects_description_tebuary_1_teb_duellist_hero_req",
       "value_original": "[[col:yellow]]Requires a City (growing primary settlements)[[/col]]",
-      "value_translated": "[[col:amarillo]]Requiere una Ciudad (asentamientos primarios en crecimiento)[[/col]]",
+      "value_translated": "[[col:yellow]]Requiere una ciudad (asentamientos principales en crecimiento)[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_tebuary_1_teb_lorenzo": {
       "key": "effects_description_tebuary_1_teb_lorenzo",
       "value_original": "[[col:white]]Prince of Luccini, mighty athlete and commander[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:white]]Príncipe de Luccini, poderoso atleta y comandante[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_tebuary_1_teb_lorenzo_bis": {
       "key": "effects_description_tebuary_1_teb_lorenzo_bis",
       "value_original": "[[col:yellow]]Will spawn nearby Luccini with a small army[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Aparecerá cerca de Luccini con un pequeño ejército.[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_tebuary_1_teb_lorenzo_req": {
       "key": "effects_description_tebuary_1_teb_lorenzo_req",
       "value_original": "[[col:yellow]]Requires the Fortified Acropolis in Luccini[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[col:yellow]]Requiere la Acrópolis fortificada en Luccini[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "effects_description_tebuary_1_teb_templar_lord": {
       "key": "effects_description_tebuary_1_teb_templar_lord",
       "value_original": "[[col:white]]A master strategist and provincial commander from the Order of the Eagle[[/col]]",
-      "value_translated": "[[col:white]]Maestro estratega y comandante provincial de la Orden del Águila[[/col]]",
+      "value_translated": "[[col:white]]Maestro estratega y comandante provincial de la Orden del Águila.[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_tebuary_1_teb_templar_lord_bis": {
       "key": "effects_description_tebuary_1_teb_templar_lord_bis",
       "value_original": "[[col:yellow]]Available in the Lord pool (usable once every 100[[img:icon_turns]][[/img]])[[/col]]",
-      "value_translated": "[[col:amarillo]]Disponible en la reserva del Señor (utilizable una vez cada 100[[img:icon_turns]][[/img]])[[/col]]",
+      "value_translated": "[[col:yellow]]Disponible en la lista de Señores (100 [[img:icon_turns]][[/img]]turnos de espera)[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
     "effects_description_tebuary_1_teb_templar_lord_req": {
       "key": "effects_description_tebuary_1_teb_templar_lord_req",
       "value_original": "[[col:yellow]]Requires a Myrmidian Fortress[[/col]]",
-      "value_translated": "[[col:amarillo]]Requiere una Fortaleza de Myrmidia[[/col]]",
+      "value_translated": "[[col:yellow]]Requiere una Fortaleza Myrmidiana[[/col]]",
       "needs_retranslation": false,
       "removed": false
     },
@@ -11653,14 +13053,14 @@
     "factions_attack_desc_mixer_teb_bilbali": {
       "key": "factions_attack_desc_mixer_teb_bilbali",
       "value_original": "You are attacking Bilbali!",
-      "value_translated": "¡Estás atacando Bilbali!",
+      "value_translated": "¡Estás atacando a Bilbali!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_attack_desc_mixer_teb_border_princes": {
       "key": "factions_attack_desc_mixer_teb_border_princes",
       "value_original": "You are attacking Border Princes!",
-      "value_translated": "¡Atacas a los Reinos Fronterizos!",
+      "value_translated": "¡Estás atacando a los Reinos Fronterizos!",
       "needs_retranslation": false,
       "removed": false
     },
@@ -11681,21 +13081,21 @@
     "factions_attack_desc_mixer_teb_estalia": {
       "key": "factions_attack_desc_mixer_teb_estalia",
       "value_original": "You are attacking Estalia!",
-      "value_translated": "¡Estás atacando Estalia!",
+      "value_translated": "¡Estás atacando a Estalia!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_attack_desc_mixer_teb_gashnag": {
       "key": "factions_attack_desc_mixer_teb_gashnag",
       "value_original": "You are attacking Gashnagia!",
-      "value_translated": "¡Atacas a Gashnagia!",
+      "value_translated": "¡Estás atacando a Gashnagia!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_attack_desc_mixer_teb_new_world_colonies": {
       "key": "factions_attack_desc_mixer_teb_new_world_colonies",
       "value_original": "You are attacking the New World Colonies!",
-      "value_translated": "¡Atacas a las colonias del Nuevo Mundo!",
+      "value_translated": "¡Estás atacando a las Colonias del Nuevo Mundo!",
       "needs_retranslation": false,
       "removed": false
     },
@@ -11709,7 +13109,7 @@
     "factions_attack_desc_wh_main_teb_bilbali": {
       "key": "factions_attack_desc_wh_main_teb_bilbali",
       "value_original": "You are attacking Bilbali!",
-      "value_translated": "¡Están atacando Bilbali!",
+      "value_translated": "¡Estás atacando a Bilbali!",
       "needs_retranslation": false,
       "removed": false
     },
@@ -11723,120 +13123,120 @@
     "factions_attack_desc_wh_main_teb_luccini": {
       "key": "factions_attack_desc_wh_main_teb_luccini",
       "value_original": "You are attacking Luccini!",
-      "value_translated": "¡Atacáis a Luccini!",
+      "value_translated": "¡Estás atacando a Luccini!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_attack_desc_wh_main_teb_magritta": {
       "key": "factions_attack_desc_wh_main_teb_magritta",
       "value_original": "You are attacking Magritta!",
-      "value_translated": "¡Atacáis a Magritta!",
+      "value_translated": "¡Estás atacando a Magritta!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_attack_desc_wh_main_teb_tobaro": {
       "key": "factions_attack_desc_wh_main_teb_tobaro",
       "value_original": "You are attacking Tobaro!",
-      "value_translated": "¡Atacas a Tobaro!",
+      "value_translated": "¡Estás atacando a Tobaro!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_mixer_teb_bilbali": {
       "key": "factions_defend_desc_mixer_teb_bilbali",
       "value_original": "You are defending against Bilbali!",
-      "value_translated": "¡Estás defendiendo contra Bilbali!",
+      "value_translated": "¡Te estás defendiendo contra Bilbali!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_mixer_teb_border_princes": {
       "key": "factions_defend_desc_mixer_teb_border_princes",
       "value_original": "You are defending against Border Princes!",
-      "value_translated": "¡Te defiendes de los Reinos Fronterizos!",
+      "value_translated": "¡Te estás defendiendo contra los Reinos Fronterizos!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_mixer_teb_catrazza": {
       "key": "factions_defend_desc_mixer_teb_catrazza",
       "value_original": "You are defending against East Ind Company!",
-      "value_translated": "¡Estás defendiendo contra la Compañía de las Indias Orientales!",
+      "value_translated": "¡Te estás defendiendo contra la Compañía de las Indias Orientales!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_mixer_teb_colombo": {
       "key": "factions_defend_desc_mixer_teb_colombo",
       "value_original": "You are defending against West Ind Company!",
-      "value_translated": "¡Estás defendiendo contra la Compañía de las Indias Occidentales!",
+      "value_translated": "¡Te estás defendiendo contra la Compañía de las Indias Occidentales!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_mixer_teb_estalia": {
       "key": "factions_defend_desc_mixer_teb_estalia",
       "value_original": "You are defending against Estalia!",
-      "value_translated": "¡Te defiendes de Estalia!",
+      "value_translated": "¡Te estás defendiendo contra Estalia!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_mixer_teb_gashnag": {
       "key": "factions_defend_desc_mixer_teb_gashnag",
       "value_original": "You are defending against Gashnagia!",
-      "value_translated": "¡Estás defendiendo contra Gashnagia!",
+      "value_translated": "¡Te estás defendiendo contra Gashnagia!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_mixer_teb_new_world_colonies": {
       "key": "factions_defend_desc_mixer_teb_new_world_colonies",
       "value_original": "You are defending against the New World Colonies!",
-      "value_translated": "¡Te defiendes de las Colonias del Nuevo Mundo!",
+      "value_translated": "¡Te estás defendiendo contra las Colonias del Nuevo Mundo!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_mixer_teb_tilea": {
       "key": "factions_defend_desc_mixer_teb_tilea",
       "value_original": "You are defending against Tilea!",
-      "value_translated": "¡Te estás defendiendo de Tilea!",
+      "value_translated": "¡Te estás defendiendo contra Tilea!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_wh_main_teb_bilbali": {
       "key": "factions_defend_desc_wh_main_teb_bilbali",
       "value_original": "You are defending against Bilbali!",
-      "value_translated": "¡Te defiendes de Bilbali!",
+      "value_translated": "¡Te estás defendiendo contra Bilbali!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_wh_main_teb_lichtenburg_confederacy": {
       "key": "factions_defend_desc_wh_main_teb_lichtenburg_confederacy",
       "value_original": "You are defending against the Lichtenburg Confederacy!",
-      "value_translated": "¡Te defiendes de la Confederación de Lichtenburg!",
+      "value_translated": "¡Te estás defendiendo contra la Confederación de Lichtenburg!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_wh_main_teb_luccini": {
       "key": "factions_defend_desc_wh_main_teb_luccini",
       "value_original": "You are defending against Luccini!",
-      "value_translated": "¡Te defiendes de Luccini!",
+      "value_translated": "¡Te estás defendiendo contra Luccini!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_wh_main_teb_magritta": {
       "key": "factions_defend_desc_wh_main_teb_magritta",
       "value_original": "You are defending against Magritta!",
-      "value_translated": "¡Te defiendes de Magritta!",
+      "value_translated": "¡Te estás defendiendo contra Magritta!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_defend_desc_wh_main_teb_tobaro": {
       "key": "factions_defend_desc_wh_main_teb_tobaro",
       "value_original": "You are defending against Tobaro!",
-      "value_translated": "¡Te defiendes de Tobaro!",
+      "value_translated": "¡Te estás defendiendo contra Tobaro!",
       "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_adjective_mixer_teb_bilbali": {
       "key": "factions_screen_adjective_mixer_teb_bilbali",
       "value_original": "Bilbali",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Bilbali",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_adjective_mixer_teb_catrazza": {
@@ -11856,15 +13256,15 @@
     "factions_screen_adjective_mixer_teb_gashnag": {
       "key": "factions_screen_adjective_mixer_teb_gashnag",
       "value_original": "Gashnagia",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Gashnagia",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_adjective_wh_main_teb_bilbali": {
       "key": "factions_screen_adjective_wh_main_teb_bilbali",
       "value_original": "Bilbali",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Bilbali",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_adjective_wh_main_teb_lichtenburg_confederacy": {
@@ -11877,57 +13277,57 @@
     "factions_screen_adjective_wh_main_teb_luccini": {
       "key": "factions_screen_adjective_wh_main_teb_luccini",
       "value_original": "Luccini",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Luccini",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_adjective_wh_main_teb_magritta": {
       "key": "factions_screen_adjective_wh_main_teb_magritta",
       "value_original": "Magritta",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Magritta",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_adjective_wh_main_teb_tobaro": {
       "key": "factions_screen_adjective_wh_main_teb_tobaro",
       "value_original": "Tobaro",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tobaro",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_": {
       "key": "factions_screen_name_",
       "value_original": "faction name",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "faction name",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_cr_teb_luccini": {
       "key": "factions_screen_name_cr_teb_luccini",
       "value_original": "Luccini",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Luccini",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_cr_teb_order_of_the_blazing_sun": {
       "key": "factions_screen_name_cr_teb_order_of_the_blazing_sun",
       "value_original": "Order of the Blazing Sun",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Orden del Sol Llameante",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_cr_teb_pavona": {
       "key": "factions_screen_name_cr_teb_pavona",
       "value_original": "Pavona",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Pavona",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_mixer_teb_bilbali": {
       "key": "factions_screen_name_mixer_teb_bilbali",
       "value_original": "Bilbali",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Bilbali",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_mixer_teb_border_princes": {
@@ -11954,15 +13354,15 @@
     "factions_screen_name_mixer_teb_estalia": {
       "key": "factions_screen_name_mixer_teb_estalia",
       "value_original": "Estalia",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Estalia",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_mixer_teb_gashnag": {
       "key": "factions_screen_name_mixer_teb_gashnag",
       "value_original": "Gashnagia",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Gashnagia",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_mixer_teb_new_world_colonies": {
@@ -11975,8 +13375,8 @@
     "factions_screen_name_mixer_teb_tilea": {
       "key": "factions_screen_name_mixer_teb_tilea",
       "value_original": "Tilea",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tilea",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_wh2_main_emp_new_world_colonies_CB": {
@@ -11989,8 +13389,8 @@
     "factions_screen_name_wh_main_teb_bilbali": {
       "key": "factions_screen_name_wh_main_teb_bilbali",
       "value_original": "Bilbali",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Bilbali",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_wh_main_teb_border_princes_CB": {
@@ -12003,8 +13403,8 @@
     "factions_screen_name_wh_main_teb_estalia_CB": {
       "key": "factions_screen_name_wh_main_teb_estalia_CB",
       "value_original": "Estalia",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Estalia",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_wh_main_teb_lichtenburg_confederacy": {
@@ -12017,35 +13417,35 @@
     "factions_screen_name_wh_main_teb_luccini": {
       "key": "factions_screen_name_wh_main_teb_luccini",
       "value_original": "Luccini",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Luccini",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_wh_main_teb_magritta": {
       "key": "factions_screen_name_wh_main_teb_magritta",
       "value_original": "Magritta",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Magritta",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_wh_main_teb_tilea_CB": {
       "key": "factions_screen_name_wh_main_teb_tilea_CB",
       "value_original": "Tilea",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tilea",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_wh_main_teb_tobaro": {
       "key": "factions_screen_name_wh_main_teb_tobaro",
       "value_original": "Tobaro",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tobaro",
+      "needs_retranslation": false,
       "removed": false
     },
     "factions_screen_name_when_rebels_mixer_teb_bilbali": {
       "key": "factions_screen_name_when_rebels_mixer_teb_bilbali",
       "value_original": "Bilbali Rebels",
-      "value_translated": "Rebeldes Bilbali",
+      "value_translated": "Rebeldes de Bilbali",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12059,7 +13459,7 @@
     "factions_screen_name_when_rebels_mixer_teb_catrazza": {
       "key": "factions_screen_name_when_rebels_mixer_teb_catrazza",
       "value_original": "East Ind Company Rebels",
-      "value_translated": " Rebeldes de la Compañía de las Indias Orientales",
+      "value_translated": "Rebeldes de la Compañía de las Indias Orientales",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12087,7 +13487,7 @@
     "factions_screen_name_when_rebels_mixer_teb_new_world_colonies": {
       "key": "factions_screen_name_when_rebels_mixer_teb_new_world_colonies",
       "value_original": "New World Colony Rebels",
-      "value_translated": "Colonias del Nuevo Mundo Rebeldes",
+      "value_translated": "Rebeldes de las Colonias del Nuevo Mundo",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12143,43 +13543,43 @@
     "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_catrazza": {
       "key": "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_catrazza",
       "value_original": "[BETA]\\\\nTilean Prince Leonardo Catrazza is in the far east. After securing the Iron Dragon's partnership, he takes an aggressive bid on the spice route.\\\\n{{tr:frontend_bullet_tilea}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[BETA]\\\\nEl príncipe tileano Leonardo Catrazza se encuentra en el lejano oriente. Tras conseguir la colaboración del Dragón de Hierro, se lanza a una agresiva puja por la ruta de las especias.\\\\n{{tr:frontend_bullet_tilea}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_central_confederacy": {
       "key": "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_central_confederacy",
       "value_original": "[BETA]\\\\nValmir Gausser is a promising ruler in the Border Princes, one who may finally unite the lands at peace with the many nosy neighbours.\\\\n{{tr:frontend_bullet_border}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[BETA]\\\\nValmir Gausser es un gobernante prometedor en los Reinos Fronterizos, uno que puede finalmente unir las tierras en paz con los muchos vecinos entrometidos.\\\\n{{tr:frontend_bullet_border}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_gashnag": {
       "key": "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_gashnag",
       "value_original": "[BETA]\\\\nAn incognito Strigoi Prince ruling over his lands in the Border Princes, Gashnag is an intentionally-curated benevolent and protective presence.\\\\n{{tr:frontend_bullet_border}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[BETA]\\\\nPríncipe Strigoi de incógnito que gobierna sus tierras en los Reinos Fronterizos, Gashnag es una presencia benévola y cuidadosamente protectora.\\\\n{{tr:frontend_bullet_border}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_luccini": {
       "key": "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_luccini",
       "value_original": "[BETA]\\\\nLuccini is a city of eccentricity, opulence, and military traditions. All in the athletic grip of its current prince.\\\\n{{tr:frontend_bullet_tilea}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[BETA]\\\\nLuccini es una ciudad de excentricidad, opulencia y tradiciones militares. Todo bajo el atlético control de su actual príncipe.\\\\n{{tr:frontend_bullet_tilea}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_magritta": {
       "key": "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_magritta",
       "value_original": "[BETA]\\\\nThe eccentric Lupio Sunscryer, Prince of Magritta, believes in gold and himself. And gold is all around Estalia, if one is keen to reach for it.\\\\n{{tr:frontend_bullet_estalia}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[BETA]\\\\nEl excéntrico Lupio Escrutasoles, príncipe de Magritta, cree en el oro y en sí mismo. Y el oro está por todas partes en Estalia, si uno tiene ganas de alcanzarlo.\\\\n{{tr:frontend_bullet_estalia}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_miragliano": {
       "key": "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_miragliano",
       "value_original": "[BETA]\\\\nTilea is besieged by ratmen, pirates and greenskins. However, they didn't account for the return of the Besieger.\\\\n{{tr:frontend_bullet_tilea}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[BETA]\\\\nTilea está asediada por hombres rata, piratas y pieles verdes. Sin embargo, no tuvieron en cuenta el regreso del Sitiador.\\\\n{{tr:frontend_bullet_tilea}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_new_world_colonies": {
@@ -12192,15 +13592,15 @@
     "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_order_of_the_blazing_sun": {
       "key": "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_order_of_the_blazing_sun",
       "value_original": "[BETA]\\\\nFamous navigator, marksman, diplomat and adventurer Marco Colombo is at the head of a joint venture and Myrmidian crusade in the exotic, though frigid, lands of Norsca.\\\\n[[img:bullet_armies]][[/img]]Merc-Myrmidian Expedition: hybrid roster with mercenary and cult units.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[BETA]\\\\nEl famoso navegante, tirador, diplomático y aventurero Marco Colombo está al frente de una empresa conjunta y de una cruzada myrmidiana en las exóticas, aunque gélidas, tierras de Norsca.\\\\n[[img:bullet_armies]][[/img]]Expedición mercenaria-myrmidiana: elenco híbrido con unidades de mercenarios y cultistas.",
+      "needs_retranslation": false,
       "removed": false
     },
     "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_pavona": {
       "key": "frontend_faction_leaders_frontend_description_cr_oldworld_political_party_teb_pavona",
       "value_original": "[BETA]\\\\nSorceress Lucrezzia Belladonna is a mistress of diplomacy, manipulation and discreet assassination.\\\\n{{tr:frontend_bullet_tilea}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[BETA]\\\\nLa hechicera Lucrezzia Belladonna es una maestra de la diplomacia, la manipulación y el asesinato discreto.\\\\n{{tr:frontend_bullet_tilea}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "frontend_faction_leaders_frontend_description_mixer_ime_emp_new_world_colonies": {
@@ -12282,7 +13682,7 @@
     },
     "frontend_faction_leaders_loading_screen_text_cr_oldworld_political_party_teb_gashnag": {
       "key": "frontend_faction_leaders_loading_screen_text_cr_oldworld_political_party_teb_gashnag",
-      "value_original": "Heir to the Strigoi King Vorag Bloodytooth, Gashnag rules a small kingdom in the Border Princes. As opposed to his sire's aggressive and bloody tendencies, Gashnag has chosen a more peaceful and reclusive form of government, emulous to the empire of Ushoran, the very first of the Strigoi bloodline. The Black Prince, as he is rather affectionately known among his subjects, hides his true nature and personally protects the towns under his rule from incursions. In order to avoid unwanted attentions from feral Strigoi, jealous Von Carsteins or neighbouring Princes, Gashnag wears a heavy black cloak and multiple illusions, upholding a façade as a scarred but romantically heroic figure of selflessness.\\\\nGashnag is inclined to find and research Ushoran's secrets, lost in the Badlands, to augment his powers. However, he needs to decide whether to continue on that route or rush back to protect his princedom from encroaching Ogres.",
+      "value_original": "Heir to the Strigoi King Vorag Bloodytooth, Gashnag rules a small domain in the Border Princes. As opposed to his sire's aggressive and bloody tendencies, Gashnag has chosen a more peaceful and reclusive form of government, emulous to the empire of Ushoran, the very first of the Strigoi bloodline. The Black Prince, as he is rather affectionately known among his subjects, hides his true nature and personally protects the towns under his rule from incursions. In order to avoid unwanted attentions from feral Strigoi, jealous Von Carsteins or neighbouring Princes, Gashnag wears a heavy black cloak and multiple illusions, upholding a façade as a scarred but romantically heroic figure of selflessness.\\\\nGashnag is inclined to find and research Ushoran's secrets, lost in the Badlands, to augment his powers. However, he needs to decide whether to continue on that route or rush back to protect his princedom from encroaching Ogres.",
       "value_translated": "",
       "needs_retranslation": true,
       "removed": false
@@ -12380,15 +13780,15 @@
     },
     "frontend_faction_leaders_loading_screen_text_mixer_teb_gashnag": {
       "key": "frontend_faction_leaders_loading_screen_text_mixer_teb_gashnag",
-      "value_original": "Heir to the Strigoi King Vorag Bloodytooth, Gashnag rules a small kingdom in the Border Princes. As opposed to his sire's aggressive and bloody tendencies, Gashnag has chosen a more peaceful and reclusive form of government, emulous to the empire of Ushoran, the very first of the Strigoi bloodline. The Black Prince, as he is rather affectionately known among his subjects, hides his true nature and personally protects the towns under his rule from incursions. In order to avoid unwanted attentions from feral Strigoi, jealous Von Carsteins or neighbouring Princes, Gashnag wears a heavy black cloak and multiple illusions, upholding a façade as a scarred but romantically heroic figure of selflessness.\\\\nGashnag is inclined to find and research Ushoran's secrets, lost in the Badlands, to augment his powers. However, he needs to decide whether to continue on that route or rush back to protect his princedom from encroaching Ogres.",
+      "value_original": "Heir to the Strigoi King Vorag Bloodytooth, Gashnag rules a small domain in the Border Princes. As opposed to his sire's aggressive and bloody tendencies, Gashnag has chosen a more peaceful and reclusive form of government, emulous to the empire of Ushoran, the very first of the Strigoi bloodline. The Black Prince, as he is rather affectionately known among his subjects, hides his true nature and personally protects the towns under his rule from incursions. In order to avoid unwanted attentions from feral Strigoi, jealous Von Carsteins or neighbouring Princes, Gashnag wears a heavy black cloak and multiple illusions, upholding a façade as a scarred but romantically heroic figure of selflessness.\\\\nGashnag is inclined to find and research Ushoran's secrets, lost in the Badlands, to augment his powers. However, he needs to decide whether to continue on that route or rush back to protect his princedom from encroaching Ogres.",
       "value_translated": "Heredero del rey strigoi Vorag Diente Sangriento, Gashnag gobierna un pequeño reino en los Príncipes Fronterizos. Frente a las tendencias agresivas y sangrientas de su progenitor, Gashnag ha elegido una forma de gobierno más pacífica y solitaria, emulando al imperio de Ushoran, el primero de la estirpe Strigoi. El Príncipe Negro, como se le conoce cariñosamente entre sus súbditos, oculta su verdadera naturaleza y protege personalmente de las incursiones a las ciudades bajo su dominio. Para evitar las atenciones no deseadas de Strigoi salvajes, Von Carstein celosos o Príncipes vecinos, Gashnag lleva una pesada capa negra y múltiples ilusiones, manteniendo una fachada de figura desinteresada, cicatrizada pero románticamente heroica.\\nGashnag se inclina por encontrar e investigar los secretos de Ushoran, perdidos en las Tierras Yermas, para aumentar sus poderes. Sin embargo, tiene que decidir si sigue por ese camino o vuelve corriendo para proteger su principado de los Ogros invasores.",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "frontend_factions_localised_mechanics_mixer_teb_border_princes": {
       "key": "frontend_factions_localised_mechanics_mixer_teb_border_princes",
       "value_original": "[[img:bullet_chs_awaken]][[/img]]Tilea, Estalia, Border Princes and New World Colonies: four subgroups with roster and mechanic variations, each with their own challenges and advantages.||[[img:bullet_treasury]][[/img]]Plutocracy: strong economy can sustain vast expenses, finance political maneuvers and fuel expensive collections of exotic items.||[[img:bullet_armies]][[/img]]Mercenary and Border Armies: rosters of local and foreign infantry and cavalry, favouring combined arms, Regiments of Renown and specialist heroes over complicated contraptions. Experienced units get additional benefits.",
-      "value_translated": "[[img:bullet_chs_awaken]][[/img]]Tilea, Estalia, Príncipes Fronterizos y Colonias del Nuevo Mundo: cuatro subgrupos con listas y mecánicas diferentes, cada uno con sus propios retos y ventajas.||[[img:bullet_treasury]][[/img]]Plutocracia: una economía fuerte puede sostener grandes gastos, financiar maniobras políticas y alimentar costosas colecciones de objetos exóticos. ||Ejércitos mercenarios y fronterizos: listas de infantería y caballería local y extranjera, favoreciendo las armas combinadas, los regimientos de renombre y los héroes especialistas por encima de complicados artilugios. Las unidades experimentadas obtienen beneficios adicionales.",
+      "value_translated": "[[img:bullet_chs_awaken]][[/img]]Tilea, Estalia, Reinos Fronterizos y Colonias del Nuevo Mundo: cuatro subgrupos con un listado de unidades y variaciones mecánicas, cada una con sus propios retos y ventajas.||[[img:bullet_treasury]][[/img]]Plutocracia: una economía fuerte puede mantener grandes gastos, financiar maniobras políticas y alimentar costosas colecciones de objetos exóticos.||[[img:bullet_armies]][[/img]]Ejércitos mercenarios y fronterizos: listado de unidades de infantería y caballería local y extranjera, que favorecen las armas combinadas, los Regimientos de Renombre y los héroes especialistas frente a complicados artilugios. Las unidades experimentadas obtienen ventajas adicionales.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12556,7 +13956,7 @@
     "kislev": {
       "key": "kislev",
       "value_original": "is in zzz loc for compatibility",
-      "value_translated": "está en zzz loc por compatibilidad",
+      "value_translated": "is in zzz loc for compatibility",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12710,29 +14110,29 @@
     "land_units_onscreen_name_teb_cadavo": {
       "key": "land_units_onscreen_name_teb_cadavo",
       "value_original": "El Cadavo",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El Cadavo",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_cadavo_bhorse": {
       "key": "land_units_onscreen_name_teb_cadavo_bhorse",
       "value_original": "El Cadavo",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El Cadavo",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_cadavo_grif": {
       "key": "land_units_onscreen_name_teb_cadavo_grif",
       "value_original": "El Cadavo",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El Cadavo",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_cadavo_horse": {
       "key": "land_units_onscreen_name_teb_cadavo_horse",
       "value_original": "El Cadavo",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El Cadavo",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_carabiniers": {
@@ -12773,28 +14173,28 @@
     "land_units_onscreen_name_teb_colombo": {
       "key": "land_units_onscreen_name_teb_colombo",
       "value_original": "Marco Colombo",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Marco Colombo",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_colombo_horse": {
       "key": "land_units_onscreen_name_teb_colombo_horse",
       "value_original": "Marco Colombo",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Marco Colombo",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_colombo_steed": {
       "key": "land_units_onscreen_name_teb_colombo_steed",
       "value_original": "Marco Colombo",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Marco Colombo",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_conqui_adventurers": {
       "key": "land_units_onscreen_name_teb_conqui_adventurers",
       "value_original": "Adventurers",
-      "value_translated": "Rodeleros",
+      "value_translated": "Aventureros",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12843,7 +14243,7 @@
     "land_units_onscreen_name_teb_duellist_hero_encarmine": {
       "key": "land_units_onscreen_name_teb_duellist_hero_encarmine",
       "value_original": "Knight Duellist Encarmine",
-      "value_translated": "Caballero Duelista Encarnado",
+      "value_translated": "Caballero Encarnado Duelista",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12878,14 +14278,14 @@
     "land_units_onscreen_name_teb_enforcers": {
       "key": "land_units_onscreen_name_teb_enforcers",
       "value_original": "Enforcers",
-      "value_translated": "Polizontes",
+      "value_translated": "Ejecutores",
       "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_freelance_knights": {
       "key": "land_units_onscreen_name_teb_freelance_knights",
       "value_original": "Freelance Knights",
-      "value_translated": "Caballeros de Fortuna",
+      "value_translated": "Caballeros Libres",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12920,29 +14320,29 @@
     "land_units_onscreen_name_teb_gausser": {
       "key": "land_units_onscreen_name_teb_gausser",
       "value_original": "Valmir Gausser",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Valmir Gausser",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_gausser_barded_warhorse": {
       "key": "land_units_onscreen_name_teb_gausser_barded_warhorse",
       "value_original": "Valmir Gausser",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Valmir Gausser",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_gausser_pegasus": {
       "key": "land_units_onscreen_name_teb_gausser_pegasus",
       "value_original": "Valmir Gausser",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Valmir Gausser",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_gausser_warhorse": {
       "key": "land_units_onscreen_name_teb_gausser_warhorse",
       "value_original": "Valmir Gausser",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Valmir Gausser",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_guard_kossars": {
@@ -12976,7 +14376,7 @@
     "land_units_onscreen_name_teb_kotrs": {
       "key": "land_units_onscreen_name_teb_kotrs",
       "value_original": "Knights of the Righteous Spear",
-      "value_translated": "Caballeros de la Lanza Justa",
+      "value_translated": "Caballeros de la Lanza Justiciera",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12990,7 +14390,7 @@
     "land_units_onscreen_name_teb_light_cannon": {
       "key": "land_units_onscreen_name_teb_light_cannon",
       "value_original": "Light Cannons",
-      "value_translated": "Culebrinas",
+      "value_translated": "Cañones Ligeros",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13004,35 +14404,35 @@
     "land_units_onscreen_name_teb_lorenzo_lupo": {
       "key": "land_units_onscreen_name_teb_lorenzo_lupo",
       "value_original": "Lorenzo Lupo",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lorenzo Lupo",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_lucrezzia_belladonna": {
       "key": "land_units_onscreen_name_teb_lucrezzia_belladonna",
       "value_original": "Lucrezzia Belladonna",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lucrezzia Belladonna",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_lucrezzia_belladonna_bhorse": {
       "key": "land_units_onscreen_name_teb_lucrezzia_belladonna_bhorse",
       "value_original": "Lucrezzia Belladonna",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lucrezzia Belladonna",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_lucrezzia_belladonna_horse": {
       "key": "land_units_onscreen_name_teb_lucrezzia_belladonna_horse",
       "value_original": "Lucrezzia Belladonna",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lucrezzia Belladonna",
+      "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_lupio": {
       "key": "land_units_onscreen_name_teb_lupio",
       "value_original": "Lupio Sunscryer",
-      "value_translated": "Secador solar Lupio",
+      "value_translated": "Lupio Escrutasoles",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13277,21 +14677,21 @@
     "land_units_onscreen_name_teb_roc_gunn": {
       "key": "land_units_onscreen_name_teb_roc_gunn",
       "value_original": "Gunnslieb's Rustlers (Light Scouts)",
-      "value_translated": "Ladrones de Gunnslieb (Exploradores ligeros)",
+      "value_translated": "Cuatreros de Gunnslieb (Exploradores Ligeros)",
       "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_roc_gwatch": {
       "key": "land_units_onscreen_name_teb_roc_gwatch",
       "value_original": "The Prince's Own (Black Watch)",
-      "value_translated": "La Armada del Príncipe (Guardia Negra)",
+      "value_translated": "Armada del Príncipe (Guardia Negra)",
       "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_teb_roc_kotss": {
       "key": "land_units_onscreen_name_teb_roc_kotss",
       "value_original": "Knights of the Starry Shield (Knights of the Righteous Spear)",
-      "value_translated": "Caballeros del Escudo Estrellado (Caballeros de la Lanza Justa)",
+      "value_translated": "Caballeros del Escudo Estrellado (Caballeros de la Lanza Justiciera)",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13347,7 +14747,7 @@
     "land_units_onscreen_name_teb_swash": {
       "key": "land_units_onscreen_name_teb_swash",
       "value_original": "Swashbucklers",
-      "value_translated": "Espadachines",
+      "value_translated": "Mercenarios de Capa y Espada",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13361,7 +14761,7 @@
     "land_units_onscreen_name_teb_tank_ror": {
       "key": "land_units_onscreen_name_teb_tank_ror",
       "value_original": "Ugoletti's Floating Ordnance \\\\n(Tortoise Tank)",
-      "value_translated": "Artillería Flotante de Ugoletti (tanque tortuga)",
+      "value_translated": "Artillería Flotante de Ugoletti\\\\n(Tanque Tortuga)",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13438,28 +14838,28 @@
     "land_units_onscreen_name_til_merchant": {
       "key": "land_units_onscreen_name_til_merchant",
       "value_original": "Merchant Prince",
-      "value_translated": "Príncipe mercader",
+      "value_translated": "Príncipe Mercader",
       "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_til_merchant_bear": {
       "key": "land_units_onscreen_name_til_merchant_bear",
       "value_original": "Merchant Prince",
-      "value_translated": "Príncipe mercader",
+      "value_translated": "Príncipe Mercader",
       "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_til_merchant_bhorse": {
       "key": "land_units_onscreen_name_til_merchant_bhorse",
       "value_original": "Merchant Prince",
-      "value_translated": "Príncipe mercader",
+      "value_translated": "Príncipe Mercader",
       "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_til_merchant_horse": {
       "key": "land_units_onscreen_name_til_merchant_horse",
       "value_original": "Merchant Prince",
-      "value_translated": "Príncipe mercader",
+      "value_translated": "Príncipe Mercader",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13746,7 +15146,7 @@
     "loading_screen_quotes_title_teb_conqui_adventurers": {
       "key": "loading_screen_quotes_title_teb_conqui_adventurers",
       "value_original": "Adventurers",
-      "value_translated": "Rodeleros",
+      "value_translated": "Aventureros",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13788,14 +15188,14 @@
     "loading_screen_quotes_title_teb_freelance_knights": {
       "key": "loading_screen_quotes_title_teb_freelance_knights",
       "value_original": "Knights",
-      "value_translated": "Caballeros de Fortuna",
+      "value_translated": "Caballeros",
       "needs_retranslation": false,
       "removed": false
     },
     "loading_screen_quotes_title_teb_kotrs": {
       "key": "loading_screen_quotes_title_teb_kotrs",
       "value_original": "Knights of the Righteous Spear",
-      "value_translated": "Caballeros de la Lanza Justa",
+      "value_translated": "Caballeros de la Lanza Justiciera",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13809,7 +15209,7 @@
     "loading_screen_quotes_title_teb_light_cannon": {
       "key": "loading_screen_quotes_title_teb_light_cannon",
       "value_original": "Light Cannon",
-      "value_translated": "Culebrinas",
+      "value_translated": "Cañones Ligeros",
       "needs_retranslation": false,
       "removed": false
     },
@@ -13921,7 +15321,7 @@
     "loading_screen_quotes_title_teb_swash": {
       "key": "loading_screen_quotes_title_teb_swash",
       "value_original": "Swashbucklers",
-      "value_translated": "Espadachines",
+      "value_translated": "Mercenarios de Capa y Espada",
       "needs_retranslation": false,
       "removed": false
     },
@@ -14012,8 +15412,8 @@
     "missions_localised_description_teb_mission_borgio_besiege_1": {
       "key": "missions_localised_description_teb_mission_borgio_besiege_1",
       "value_original": "teb_mission_borgio_besiege_1",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "teb_mission_borgio_besiege_1",
+      "needs_retranslation": false,
       "removed": false
     },
     "missions_localised_description_teb_mission_take_tylos": {
@@ -19101,29 +20501,29 @@
     "names_name_997019": {
       "key": "names_name_997019",
       "value_original": "Lorenzo Lupo",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lorenzo Lupo",
+      "needs_retranslation": false,
       "removed": false
     },
     "names_name_997020": {
       "key": "names_name_997020",
       "value_original": "Lorenzo Lupo",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lorenzo Lupo",
+      "needs_retranslation": false,
       "removed": false
     },
     "names_name_997021": {
       "key": "names_name_997021",
       "value_original": "Lorenzo Lupo",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lorenzo Lupo",
+      "needs_retranslation": false,
       "removed": false
     },
     "names_name_997022": {
       "key": "names_name_997022",
       "value_original": "Lorenzo Lupo",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lorenzo Lupo",
+      "needs_retranslation": false,
       "removed": false
     },
     "odd misspelling compared to any manowar map": {
@@ -19136,35 +20536,35 @@
     "old___frontend_factions_localised_mechanics_wh2_main_emp_new_world_colonies": {
       "key": "old___frontend_factions_localised_mechanics_wh2_main_emp_new_world_colonies",
       "value_original": "[[img:bullet_treasury]][[/img]]Plutocracy: strong economy can sustain vast expenses, finance political maneuvers and fuel expensive collections of exotic items.||[[img:bullet_armies]][[/img]]Colonial Armies: slow-to-grow roster that combines many of the individual strengths of the homeland.||[[img:bullet_chs_awaken]][[/img]]Human adaptability allows opportunities in the face of adversities, including domination of otherwise unsuitable regions.",
-      "value_translated": "[[img:bullet_treasury]][[/img]]Plutocracia: una economía fuerte puede sostener grandes gastos, financiar maniobras políticas y alimentar costosas colecciones de objetos exóticos. ||[[img:bullet_armies]][[/img]]Ejércitos coloniales: lista de crecimiento lento que combina muchos de los puntos fuertes individuales de la patria.||[[img:bullet_chs_awaken]][[/img]]La adaptabilidad humana permite oportunidades frente a las adversidades, incluida la dominación de regiones que de otro modo serían inadecuadas.",
+      "value_translated": "[[img:bullet_treasury]][[/img]]Plutocracia: una economía fuerte puede mantener grandes gastos, financiar maniobras políticas y alimentar costosas colecciones de objetos exóticos.||[[img:bullet_armies]][[/img]]Ejércitos coloniales: listado de unidades de crecimiento lento que combina muchos de los puntos fuertes individuales de la patria.||[[img:bullet_chs_awaken]][[/img]]La adaptabilidad humana permite crear oportunidades donde otras razas sólo ven adversidades, incluido el dominio de regiones que de otro modo serían inadecuadas.",
       "needs_retranslation": false,
       "removed": false
     },
     "old___frontend_factions_localised_mechanics_wh_main_teb_border_princes": {
       "key": "old___frontend_factions_localised_mechanics_wh_main_teb_border_princes",
       "value_original": "[[img:bullet_treasury]][[/img]]Plutocracy: strong economy can sustain vast expenses, finance political maneuvers and fuel expensive collections of exotic items.||[[img:bullet_grn_savage][[/img]]Armies of the Borderlands: jack-of-all-trades roster of skirmishers, specialists and dwarf auxiliaries, favouring Regiments of Renown and hedge wizards over complicated contraptions.||[[img:bullet_chs_awaken]][[/img]]Human adaptability allows opportunities in the face of adversities, including domination of otherwise unsuitable regions.",
-      "value_translated": "[[img:bullet_treasury]][[/img]]Plutocracia: una economía fuerte puede sostener grandes gastos, financiar maniobras políticas y alimentar costosas colecciones de objetos exóticos. ||Ejércitos de las Tierras Fronterizas: una lista de escaramuzadores, especialistas y auxiliares enanos, que favorece a los Regimientos de Renombre y a los hechiceros de seto por encima de complicados artilugios.",
+      "value_translated": "[[img:bullet_treasury]][[/img]]Plutocracia: una economía fuerte puede mantener grandes gastos, financiar maniobras políticas y alimentar costosas colecciones de objetos exóticos.||[[img:bullet_grn_savage][[/img]]Ejércitos de las Tierras Fronterizas: una elenco de escaramuzadores, especialistas y auxiliares enanos, que prefiere los Regimientos de Renombre y los hechiceros vulgares a los complicados artilugios.||[[img:bullet_chs_awaken]][[/img]]La adaptabilidad humana permite crear oportunidades donde otras razas sólo ven adversidades, incluido el dominio de regiones que de otro modo serían inadecuadas.",
       "needs_retranslation": false,
       "removed": false
     },
     "old___frontend_factions_localised_mechanics_wh_main_teb_estalia": {
       "key": "old___frontend_factions_localised_mechanics_wh_main_teb_estalia",
       "value_original": "[[img:bullet_treasury]][[/img]]Plutocracy: strong economy can sustain vast expenses, finance political maneuvers and fuel expensive collections of exotic items.||[[img:bullet_armies]][[/img]]Mercenary Armies: heavily-armoured roster of versatile Conquistadores and Myrmidian warriors, favouring Regiments of Renown and hedge wizards over complicated contraptions.||[[img:bullet_chs_awaken]][[/img]]Human adaptability allows opportunities in the face of adversities, including domination of otherwise unsuitable regions.",
-      "value_translated": "[[img:bullet_treasury]][[/img]]Plutocracia: una economía fuerte puede sostener grandes gastos, financiar maniobras políticas y alimentar costosas colecciones de objetos exóticos. ||[[img:bullet_armies]][[/img]]Ejércitos mercenarios: nómina fuertemente armada de versátiles Conquistadores y guerreros mirmidianos, que favorecen a los Regimientos de Renombre y a los hechiceros de seto por encima de complicados artilugios.||[[img:bullet_chs_awaken]][[/img]]La adaptabilidad humana permite oportunidades ante las adversidades, incluyendo la dominación de regiones de otro modo inadecuadas.",
+      "value_translated": "[[img:bullet_treasury]][[/img]]Plutocracia: una economía fuerte puede mantener grandes gastos, financiar maniobras políticas y alimentar costosas colecciones de objetos exóticos.||[[img:bullet_armies]][[/img]]Ejércitos mercenarios: listado de versáritles y fuertemente blindadas unidades de Conquistadores y Guerreros Myrmidianos, que prefieren los Regimientos de Renombre y los hechiceros vulgares a los complicados artilugios.||[[img:bullet_chs_awaken]][[/img]]La adaptabilidad humana permite crear oportunidades donde otras razas sólo ven adversidades, incluido el dominio de regiones que de otro modo serían inadecuadas.",
       "needs_retranslation": false,
       "removed": false
     },
     "old___frontend_factions_localised_mechanics_wh_main_teb_tilea": {
       "key": "old___frontend_factions_localised_mechanics_wh_main_teb_tilea",
       "value_original": "[[img:bullet_treasury]][[/img]]Plutocracy: strong economy can sustain vast expenses, finance political maneuvers and fuel expensive collections of exotic items.||[[img:bullet_armies]][[/img]]Mercenary Armies: reliable and heavily-armoured roster of local and foreign infantry and cavalry, favouring Regiments of Renown and hedge wizards over complicated contraptions.||[[img:bullet_chs_awaken]][[/img]]Human adaptability allows opportunities in the face of adversities, including domination of otherwise unsuitable regions.",
-      "value_translated": "[[img:bullet_treasury]][[/img]]Plutocracia: una economía fuerte puede sostener grandes gastos, financiar maniobras políticas y alimentar costosas colecciones de objetos exóticos. ||[[img:bullet_armies]][[/img]]Ejércitos mercenarios: lista fiable y fuertemente armada de infantería y caballería local y extranjera, que favorece a los Regimientos de Renombre y a los magos de seto por encima de complicados artilugios.||[[img:bullet_chs_awaken]][[/img]]La adaptabilidad humana permite oportunidades ante las adversidades, incluyendo la dominación de regiones que de otro modo serían inadecuadas.",
+      "value_translated": "[[img:bullet_treasury]][[/img]]Plutocracia: una economía fuerte puede mantener grandes gastos, financiar maniobras políticas y alimentar costosas colecciones de objetos exóticos.||[[img:bullet_armies]][[/img]]Ejércitos mercenarios: listado de fiables y fuertemente blindadas unidades de infantería y caballería local y extranjera, que prefieren los Regimientos de Renombre y los hechiceros vulgares a los complicados artilugios.||[[img:bullet_chs_awaken]][[/img]]La adaptabilidad humana permite crear oportunidades donde otras razas sólo ven adversidades, incluido el dominio de regiones que de otro modo serían inadecuadas.",
       "needs_retranslation": false,
       "removed": false
     },
     "old___frontend_factions_localised_mechanics_wh_main_teb_tobaro": {
       "key": "old___frontend_factions_localised_mechanics_wh_main_teb_tobaro",
       "value_original": "[[img:bullet_treasury]][[/img]]Plutocracy: strong economy can sustain vast expenses, finance political maneuvers and fuel expensive collections of exotic items.||[[img:bullet_armies]][[/img]]Mercenary Armies: versatile and heavily-armoured roster of local and foreign mercenaries, favouring Regiments of Renown over complicated contraptions.||[[img:bullet_chs_awaken]][[/img]]Human adaptability allows opportunities in the face of adversities, including domination of otherwise unsuitable regions.",
-      "value_translated": "[[img:bullet_treasury]][[/img]]Plutocracia: una economía fuerte puede sostener grandes gastos, financiar maniobras políticas y alimentar costosas colecciones de objetos exóticos. ||[[img:bullet_armies]][[/img]]Ejércitos mercenarios: lista versátil y fuertemente armada de mercenarios locales y extranjeros, favoreciendo Regimientos de Renombre sobre complicados artilugios.||[[img:bullet_chs_awaken]][[/img]]La adaptabilidad humana permite oportunidades frente a las adversidades, incluyendo la dominación de regiones de otro modo inadecuadas.",
+      "value_translated": "[[img:bullet_treasury]][[/img]]Plutocracia: una economía fuerte puede mantener grandes gastos, financiar maniobras políticas y alimentar costosas colecciones de objetos exóticos.||[[img:bullet_armies]][[/img]]Ejércitos mercenarios: versátil y fuertemente blindado elenco de mercenarios locales y extranjeros, que prefieren los Regimientos de Renombre a los complicados artilugios.||[[img:bullet_chs_awaken]][[/img]]La adaptabilidad humana permite crear oportunidades donde otras razas sólo ven adversidades, incluido el dominio de regiones que de otro modo serían inadecuadas.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -19185,21 +20585,21 @@
     "pooled_resources_display_name_teb_duellist_hero_PR": {
       "key": "pooled_resources_display_name_teb_duellist_hero_PR",
       "value_original": "Required Building: \\\\n\\\\nCity (most major settlements level 4).",
-      "value_translated": "Edificio necesario: Ciudad (la mayoría de los asentamientos importantes de nivel 4).",
+      "value_translated": "Edificio necesario: \\\\n\\\\nCiudad (casi todos los asentamientos grandes a nivel 4).",
       "needs_retranslation": false,
       "removed": false
     },
     "pooled_resources_display_name_teb_lorenzo_lupo_PR": {
       "key": "pooled_resources_display_name_teb_lorenzo_lupo_PR",
       "value_original": "Required Building: \\\\n\\\\nFortified Acropolis (Luccini).",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Edificio necesario: \\\\n\\\\nAcrópolis fortificada (Luccini).",
+      "needs_retranslation": false,
       "removed": false
     },
     "pooled_resources_display_name_teb_templar_lord_PR": {
       "key": "pooled_resources_display_name_teb_templar_lord_PR",
       "value_original": "Required Building: \\\\n\\\\nMyrmidian Fortress.",
-      "value_translated": "Edificio necesario: Fortaleza de Myrmidian.",
+      "value_translated": "Edificio necesario: \\\\n\\\\nFortaleza myrmidiana.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -20057,6 +21457,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "spawnable_forces_display_name_teb_camp": {
+      "key": "spawnable_forces_display_name_teb_camp",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "special_ability_invalid_usage_flags_alt_description_army_is_full": {
       "key": "special_ability_invalid_usage_flags_alt_description_army_is_full",
       "value_original": "Army is not full",
@@ -20076,6 +21483,13 @@
       "value_original": "Throat-cutting Time",
       "value_translated": "Hora de cortar gargantas",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "special_ability_phases_onscreen_name_teb_billmen_contact": {
+      "key": "special_ability_phases_onscreen_name_teb_billmen_contact",
+      "value_original": "[[img:ui/battle ui/ability_icons/teb_billmen_contact.png]][[/img]][[col:red]]Hooked[[/col]]",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "special_ability_phases_onscreen_name_teb_catrazza_ring": {
@@ -20099,11 +21513,18 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "special_ability_phases_onscreen_name_teb_crossbow_rocket_contact": {
+      "key": "special_ability_phases_onscreen_name_teb_crossbow_rocket_contact",
+      "value_original": "[[col:red]][[img:ui/battle ui/ability_icons/teb_crossbow_rocket_contact.png]][[/img]]Fireworks![[/col]]",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "special_ability_phases_onscreen_name_teb_dirty_fighting": {
       "key": "special_ability_phases_onscreen_name_teb_dirty_fighting",
-      "value_original": "Dirty Fighting",
+      "value_original": "[[col:red]]Dirty Fighting[[/col]]",
       "value_translated": "Pelea sucia",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "special_ability_phases_onscreen_name_teb_eldaddio_contact": {
@@ -20113,25 +21534,32 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "special_ability_phases_onscreen_name_teb_half_pikes_contact": {
+      "key": "special_ability_phases_onscreen_name_teb_half_pikes_contact",
+      "value_original": "[[img:ui/battle ui/ability_icons/teb_half_pikes_contact.png]][[/img]][[col:red]]Contained[[/col]]",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "special_ability_phases_onscreen_name_teb_lorenzo_lupo_runner": {
       "key": "special_ability_phases_onscreen_name_teb_lorenzo_lupo_runner",
       "value_original": "[[img:ui/battle ui/ability_icons/replenishment_fatigue.png]][[/img]]Running Practice",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[img:ui/battle ui/ability_icons/replenishment_fatigue.png]][[/img]]Prácticas de carrera",
+      "needs_retranslation": false,
       "removed": false
     },
     "special_ability_phases_onscreen_name_teb_lorenzo_lupo_strongman": {
       "key": "special_ability_phases_onscreen_name_teb_lorenzo_lupo_strongman",
       "value_original": "[[img:ui/battle ui/ability_icons/replenishment_fatigue.png]][[/img]]Rowing Practice",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[img:ui/battle ui/ability_icons/replenishment_fatigue.png]][[/img]]Práctica de remo",
+      "needs_retranslation": false,
       "removed": false
     },
     "special_ability_phases_onscreen_name_teb_lorenzo_lupo_wrestler": {
       "key": "special_ability_phases_onscreen_name_teb_lorenzo_lupo_wrestler",
       "value_original": "[[img:ui/battle ui/ability_icons/replenishment_fatigue.png]][[/img]]Wrestling Practice",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "[[img:ui/battle ui/ability_icons/replenishment_fatigue.png]][[/img]]Prácticas de lucha",
+      "needs_retranslation": false,
       "removed": false
     },
     "special_ability_phases_onscreen_name_teb_priestess_spear": {
@@ -20386,6 +21814,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "technologies_onscreen_name_teb_tech_exped_vets_sub": {
+      "key": "technologies_onscreen_name_teb_tech_exped_vets_sub",
+      "value_original": "Militia Reforms",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "technologies_onscreen_name_teb_tech_immune_psy": {
       "key": "technologies_onscreen_name_teb_tech_immune_psy",
       "value_original": "Unfazed Survivors",
@@ -20461,6 +21896,13 @@
       "value_original": "Recruit the Veterans",
       "value_translated": "Recluta a los Veteranos",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_onscreen_name_teb_tech_recr_vets_sub": {
+      "key": "technologies_onscreen_name_teb_tech_recr_vets_sub",
+      "value_original": "Men with No Names",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "technologies_onscreen_name_teb_tech_steel": {
@@ -20694,6 +22136,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "technologies_short_description_teb_tech_exped_vets_sub": {
+      "key": "technologies_short_description_teb_tech_exped_vets_sub",
+      "value_original": "It's only natural for the South to invest money (albeit begrudgingly) in garrisons, considering the average neighbour is a scheming prince or a greenskin warband.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "technologies_short_description_teb_tech_immune_psy": {
       "key": "technologies_short_description_teb_tech_immune_psy",
       "value_original": "\"You think that's scary? Wake me up when it starts spitting fire all over the pl-Alright, alright, bloody Myrmidia, I'm coming.\"",
@@ -20769,6 +22218,13 @@
       "value_original": "\"See the scruffy one with the bandage and the limp? Pick that one. Just do it.\"",
       "value_translated": "\"¿Ves al desaliñado con el vendaje y la cojera? Elige a ese. Hazlo\".",
       "needs_retranslation": false,
+      "removed": false
+    },
+    "technologies_short_description_teb_tech_recr_vets_sub": {
+      "key": "technologies_short_description_teb_tech_recr_vets_sub",
+      "value_original": "Many are the tales of those lone riders, the somewhat-anti-heroes who head into the deep countryside to exact some sort of justice. Steel-eyed and quick-firing, often announced by the music of a carillon.",
+      "value_translated": "",
+      "needs_retranslation": true,
       "removed": false
     },
     "technologies_short_description_teb_tech_steel": {
@@ -20977,28 +22433,28 @@
     "ui_text_replacements_localised_text_frontend_bullet_border": {
       "key": "ui_text_replacements_localised_text_frontend_bullet_border",
       "value_original": "[[img:bullet_armies]][[/img]]Armies of the Borderlands: jack-of-all-trades roster of skirmishers, specialists and cost-effective compromises.",
-      "value_translated": "[[img:bullet_armies]][[/img]]Ejércitos de las Tierras Fronterizas: una lista de todoterreno con escaramuzadores, especialistas y unidades de compromiso rentables.",
+      "value_translated": "[[img:bullet_armies]][[/img]]Ejércitos de las Tierras Fronterizas: un listado de unidades multiusos, como escaramuzadores, especialistas y unidades a precios asequibles.",
       "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_frontend_bullet_colonies": {
       "key": "ui_text_replacements_localised_text_frontend_bullet_colonies",
       "value_original": "[[img:bullet_armies]][[/img]]Colonial Armies: jack-of-all-trades roster that combines many of the individual strengths of the homeland with fewer of their elites.",
-      "value_translated": "[[img:bullet_armies]][[/img]]Ejércitos coloniales: una lista de todoterreno que combina muchos de los puntos fuertes individuales de la patria con menos de sus élites.",
+      "value_translated": "[[img:bullet_armies]][[/img]]Ejércitos coloniales: listado de unidades polifacéticas que combina muchos de los puntos fuertes individuales de la patria con menos de sus élites.",
       "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_frontend_bullet_estalia": {
       "key": "ui_text_replacements_localised_text_frontend_bullet_estalia",
       "value_original": "[[img:bullet_armies]][[/img]]Armies of Estalia: reliable and heavily-armoured roster, with versatile Conquistador units.",
-      "value_translated": "[[img:bullet_armies]][[/img]]Ejércitos de Estalia: Tilea: lista de unidades fiables y fuertemente acorazados, con versátiles unidades de conquistadores.",
+      "value_translated": "[[img:bullet_armies]][[/img]]Ejércitos de Estalia: elenco fiable y fuertemente blindado, con versátiles unidades de Conquistadores.",
       "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_frontend_bullet_tilea": {
       "key": "ui_text_replacements_localised_text_frontend_bullet_tilea",
       "value_original": "[[img:bullet_armies]][[/img]]Armies of Tilea: reliable and heavily-armoured roster, with better artillery and cavalry than their neighbours.",
-      "value_translated": "[[img:bullet_armies]][[/img]]Ejércitos de Tilea: lista de unidades fiable y fuertemente acorazado, con mejor artillería y caballería que sus vecinos.",
+      "value_translated": "[[img:bullet_armies]][[/img]]Ejércitos de Tilea: elenco fiable y fuertemente blindado, con mejor artillería y caballería que sus vecinos.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -21011,16 +22467,16 @@
     },
     "ui_text_replacements_localised_text_teb_howtheyplay1": {
       "key": "ui_text_replacements_localised_text_teb_howtheyplay1",
-      "value_original": "[[img:plutocracy]][[/img]] [[col:white]]Plutocracy[[/col]]\\\\n[[col:green]]Use your {{tr:icon_treasury}}treasury, when strategically viable, to fund [[img:ui/skins/default/browser_spell_tab_character.png]][[/img]]specific agents or even unique characters, hire special [[img:ui/skins/default/icon_effect_ror.png]][[/img]]Regiments of Renown, purchase [[img:icon_prologue_character]][[/img]]character items, and [[img:ui/skins/default/icon_factions.png]][[/img]]initiate temporary but factionwide bonuses. Southern Realms have few ways of reducing expenses but many to increase income, particularly from ports buildings and province capitals.[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_original": "[[img:plutocracy]][[/img]] [[col:white]]Plutocracy[[/col]]\\\\n[[col:green]]Use your {{tr:icon_treasury}}treasury, when strategically viable, to fund [[img:ui/skins/default/browser_spell_tab_character.png]][[/img]]specific agents or even unique characters, hire special [[img:ui/skins/default/icon_effect_ror.png]][[/img]]Regiments of Renown, purchase [[img:icon_prologue_character]][[/img]]character items, and [[img:ui/skins/default/icon_factions.png]][[/img]]initiate temporary factionwide bonuses. \\\\n\\\\nSouthern Realms have few ways of reducing expenses but many to increase income, particularly from ports buildings and province capitals.[[/col]]",
+      "value_translated": "[[img:plutocracy]][[/img]] [[col:white]]Plutocracia[[/col]]\\\\n[[col:green]]Utiliza tu {{tr:icon_treasury}}tesoro, cuando sea estratégicamente viable, para financiar [[img:ui/skins/default/browser_spell_tab_character.png]][[/img]]agentes específicos o incluso personajes únicos, contratar [[img:ui/skins/default/icon_effect_ror.png]][[/img]]Regimientos de Renombre especiales, comprar [[img:icon_prologue_character]][[/img]]objetos de personajes, e iniciar [[img:ui/skins/default/icon_factions.png]][[/img]]bonificaciones temporales para toda la facción. \\\\n\\\\nLos Reinos del Sur tienen pocas formas de reducir los gastos, pero muchas de aumentar los ingresos, sobre todo de los edificios portuarios y las capitales de provincia.[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_teb_howtheyplay2": {
       "key": "ui_text_replacements_localised_text_teb_howtheyplay2",
-      "value_original": "[[img:bullet_armies]][[/img]] [[col:white]]Rosters of the Southern Realms[[/col]]\\\\n[[col:green]]The Southern Realms are not only politically divided, but also split into four subgroups: [[img:tilea]][[/img]]Tileans, [[img:estalia]][[/img]]Estalians, [[img:border]][[/img]]Border Princes and [[img:nwc]][[/img]]Colonies. Each of these has access to different variations and combinations of different units, down to where exactly they are recruitable. A province may focus more on city levies or mercenary camps, and you may swap between their two [[img:ui/skins/default/icon_recruit_without_border.png]][[/img]]recruitment chains.\\\\nSouthern Realms rosters benefit particularly from [[img:ui/skins/default/experience_9.png]][[/img]]experience, including the wide offer of [[img:ui/skins/default/icon_effect_ror.png]][[/img]]Regiments of Renown.[[/col]]",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_original": "[[img:bullet_armies]][[/img]] [[col:white]]Rosters of the Southern Realms[[/col]]\\\\n[[col:green]]The Southern Realms are not only politically divided, but also split into four subgroups: [[img:tilea]][[/img]]Tileans, [[img:estalia]][[/img]]Estalians, [[img:border]][[/img]]Border Princes and [[img:nwc]][[/img]]Colonies. Each of these has access to different variations and combinations of different units, down to where exactly they are recruitable. A province may focus more on city levies or mercenary camps, and you may swap between their two [[img:ui/skins/default/icon_recruit_without_border.png]][[/img]]recruitment chains.\\\\n\\\\nSouthern Realms rosters benefit particularly from [[img:ui/skins/default/experience_9.png]][[/img]]experience, including the wide offer of [[img:ui/skins/default/icon_effect_ror.png]][[/img]]Regiments of Renown.[[/col]]",
+      "value_translated": "[[img:bullet_armies]][[/img]] [[col:white]]Elenco de los Reinos del Sur[[/col]]\\\\n[[col:green]]Los Reinos del Sur no sólo están divididos políticamente, sino también en cuatro subgrupos: [[img:tilea]][[/img]]Tileanos, [[img:estalia]][[/img]]Estalianos, de los [[img:border]][[/img]]Reinos Fronterizos y de las [[img:nwc]][[/img]]Colonias. Cada uno de ellos tiene acceso a distintas variantes y combinaciones de unidades diferentes, variando incluso en dónde se pueden reclutar exactamente. Una provincia puede centrarse más en levas de ciudad o campamentos mercenarios, y puedes cambiar entre sus dos [[img:ui/skins/default/icon_recruit_without_border.png]][[/img]]cadenas de reclutamiento.\\\\n\\\\nEl elenco de los Reinos del Sur se beneficia especialmente de [[img:ui/skins/default/experience_9.png]][[/img]]experiencia, incluyendo su gran oferta de [[img:ui/skins/default/icon_effect_ror.png]][[/img]]Regimientos de Renombre.[[/col]]",
+      "needs_retranslation": false,
       "removed": false
     },
     "ui_text_replacements_localised_text_teb_howtheyplay3": {
@@ -21033,7 +22489,7 @@
     "ui_text_replacements_localised_text_teb_pools_dummybase": {
       "key": "ui_text_replacements_localised_text_teb_pools_dummybase",
       "value_original": "of the following units in the Renown pool, replenishing randomly across 15 turns:",
-      "value_translated": "de las siguientes unidades en la reserva de Renombre, reponiéndose aleatoriamente a lo largo de 15 turnos:",
+      "value_translated": "de las siguientes unidades en la reserva de Regimientos de Renombre, reponiéndose aleatoriamente a lo largo de 15 turnos:",
       "needs_retranslation": false,
       "removed": false
     },
@@ -21359,6 +22815,13 @@
       "needs_retranslation": false,
       "removed": false
     },
+    "uied_component_texts_localised_string_ComponentTooltip_rhox_teb_camp_cost": {
+      "key": "uied_component_texts_localised_string_ComponentTooltip_rhox_teb_camp_cost",
+      "value_original": "Camp cost",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
     "uied_component_texts_localised_string_button_mortuary_cult_Tooltip_650039": {
       "key": "uied_component_texts_localised_string_button_mortuary_cult_Tooltip_650039",
       "value_original": "{{tr:button_mortuary_cult}}",
@@ -21452,9 +22915,9 @@
     },
     "unit_abilities_additional_ui_effects_localised_text_teb_galloper_horse_unlimber": {
       "key": "unit_abilities_additional_ui_effects_localised_text_teb_galloper_horse_unlimber",
-      "value_original": "Permanently deploys the light cannons for use",
+      "value_original": "Deploys the galloper cannons for use",
       "value_translated": "Despliega permanentemente los cañones ligeros para su uso",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "unit_abilities_additional_ui_effects_localised_text_teb_galloper_limber": {
@@ -21508,9 +22971,9 @@
     },
     "unit_abilities_onscreen_name_bor_ranger_lord_stalk": {
       "key": "unit_abilities_onscreen_name_bor_ranger_lord_stalk",
-      "value_original": "Sneak",
+      "value_original": "The White of Their Eyes",
       "value_translated": "Emboscada",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "unit_abilities_onscreen_name_est_inquisitor_judgement": {
@@ -22138,9 +23601,9 @@
     },
     "unit_abilities_tooltip_text_bor_ranger_lord_fakenerf": {
       "key": "unit_abilities_tooltip_text_bor_ranger_lord_fakenerf",
-      "value_original": "This is for the AI. Nothing to see here. Move along, sir.",
+      "value_original": "This is for the AI. Nothing to see here. Move along, sir. Also completely obsolete, will remove at some point.",
       "value_translated": "Esto es para la IA. Aquí no hay nada que ver. Muévase, señor.",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "unit_abilities_tooltip_text_bor_ranger_lord_stalk": {
@@ -22754,9 +24217,9 @@
     },
     "unit_abilities_tooltip_text_til_merchant_protect": {
       "key": "unit_abilities_tooltip_text_til_merchant_protect",
-      "value_original": "\"Get them! Ten per cent bonus for every confirmed kill! Halvened pay if they touch me!\"",
+      "value_original": "\"Get them! Ten per cent bonus for every confirmed kill! Halved pay if they touch me!\"",
       "value_translated": "\"¡A por ellos! Bonificación del diez por ciento por cada muerte confirmada. Paga halvened si me tocan!\"",
-      "needs_retranslation": false,
+      "needs_retranslation": true,
       "removed": false
     },
     "unit_attributes_removed_effect_text_hide_forest": {
@@ -23539,8 +25002,8 @@
     "unit_set_to_mp_unit_caps_localised_name_mp_teb_nobles": {
       "key": "unit_set_to_mp_unit_caps_localised_name_mp_teb_nobles",
       "value_original": "Nobles",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Nobles",
+      "needs_retranslation": false,
       "removed": false
     },
     "unit_set_to_mp_unit_caps_localised_name_mp_teb_origo": {
@@ -23994,8 +25457,8 @@
     "units_custom_battle_mounts_mount_name_til_merchanttil_merchant_bear": {
       "key": "units_custom_battle_mounts_mount_name_til_merchanttil_merchant_bear",
       "value_original": "Kislevite War Bear",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Oso de guerra kislevita",
+      "needs_retranslation": false,
       "removed": false
     },
     "units_custom_battle_mounts_mount_name_til_merchanttil_merchant_bhorse": {
@@ -24029,8 +25492,8 @@
     "units_custom_battle_permissions_override_name_wh_main_emp_cha_wizard_fire_0mixer_teb_tilea0": {
       "key": "units_custom_battle_permissions_override_name_wh_main_emp_cha_wizard_fire_0mixer_teb_tilea0",
       "value_original": "Hedge Wizard",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hechicero vulgar",
+      "needs_retranslation": false,
       "removed": false
     },
     "{{tr:frontend_bullet_border}}": {
