@@ -5710,8 +5710,8 @@
     "ancillaries_onscreen_name_mixu_emp_warrior_priest_of_taal_mount_bear": {
       "key": "ancillaries_onscreen_name_mixu_emp_warrior_priest_of_taal_mount_bear",
       "value_original": "{{tr:ancillaries_onscreen_name_wh3_main_anc_mount_ksl_boyar_war_bear}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "{{tr:ancillaries_onscreen_name_wh3_main_anc_mount_ksl_boyar_war_bear}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "ancillaries_onscreen_name_mixu_emp_wolfram_hertwig_mount_barded_warhorse": {
@@ -8881,7 +8881,7 @@
     "campaign_effect_scopes_localised_text_mixu_LL_banner_emp_greatswords": {
       "key": "campaign_effect_scopes_localised_text_mixu_LL_banner_emp_greatswords",
       "value_original": "\\\\n(assigned Greatswords unit)",
-      "value_translated": "\\\\n(Unidad de Grandes Espaderos asignada)",
+      "value_translated": "\\\\n(unidad asignada de Grandes Espaderos)",
       "needs_retranslation": false,
       "removed": false
     },
@@ -8916,14 +8916,14 @@
     "campaign_effect_scopes_localised_text_mixu_building_to_force_in_adjacent_regions": {
       "key": "campaign_effect_scopes_localised_text_mixu_building_to_force_in_adjacent_regions",
       "value_original": "\\\\n(all forces in adjacent regions)",
-      "value_translated": "\\\\n(Todas las fuerzas en regiones adyacentes)",
+      "value_translated": "\\\\n(todas las fuerzas en regiones adyacentes)",
       "needs_retranslation": false,
       "removed": false
     },
     "campaign_effect_scopes_localised_text_mixu_building_to_foreign_building_regionwide": {
       "key": "campaign_effect_scopes_localised_text_mixu_building_to_foreign_building_regionwide",
       "value_original": "\\\\n(local region)",
-      "value_translated": "\\\\n(Region Local)",
+      "value_translated": "\\\\n(región Local)",
       "needs_retranslation": false,
       "removed": false
     },
@@ -8937,7 +8937,7 @@
     "campaign_effect_scopes_localised_text_mixu_character_to_enemy_armies_regionwide": {
       "key": "campaign_effect_scopes_localised_text_mixu_character_to_enemy_armies_regionwide",
       "value_original": "\\\\n(local enemy region)",
-      "value_translated": "\\\\n(Region local enemiga)",
+      "value_translated": "\\\\n(región local enemiga)",
       "needs_retranslation": false,
       "removed": false
     },
@@ -8986,21 +8986,21 @@
     "campaign_effect_scopes_localised_text_mixu_force_to_enemy_armies_provincewide": {
       "key": "campaign_effect_scopes_localised_text_mixu_force_to_enemy_armies_provincewide",
       "value_original": "\\\\n(local enemy armies)",
-      "value_translated": "\\\\n(Ejercitos enemigos locales)",
+      "value_translated": "\\\\n(ejércitos enemigos locales)",
       "needs_retranslation": false,
       "removed": false
     },
     "campaign_effect_scopes_localised_text_mixu_force_to_enemy_province": {
       "key": "campaign_effect_scopes_localised_text_mixu_force_to_enemy_province",
       "value_original": "\\\\n(local enemy province)",
-      "value_translated": "\\\\n(Provincia enemiga local)",
+      "value_translated": "\\\\n(provincia enemiga local)",
       "needs_retranslation": false,
       "removed": false
     },
     "campaign_effect_scopes_localised_text_mixu_force_to_force_own_provincewide": {
       "key": "campaign_effect_scopes_localised_text_mixu_force_to_force_own_provincewide",
       "value_original": "\\\\n(local armies)",
-      "value_translated": "\\\\n(Ejercitos locales)",
+      "value_translated": "\\\\n(ejércitos locales)",
       "needs_retranslation": false,
       "removed": false
     },
@@ -19388,8 +19388,8 @@
     "character_skills_localised_name_mixu_emp_warrior_priest_of_taal_mount_bear": {
       "key": "character_skills_localised_name_mixu_emp_warrior_priest_of_taal_mount_bear",
       "value_original": "{{tr:ancillaries_onscreen_name_wh3_main_anc_mount_ksl_boyar_war_bear}}",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "{{tr:ancillaries_onscreen_name_wh3_main_anc_mount_ksl_boyar_war_bear}}",
+      "needs_retranslation": false,
       "removed": false
     },
     "character_skills_localised_name_mixu_emp_witch_doctor_campaign_boost_income": {
@@ -42530,8 +42530,8 @@
     "names_name_645068403": {
       "key": "names_name_645068403",
       "value_original": "the Wise",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "el Sabio",
+      "needs_retranslation": false,
       "removed": false
     },
     "names_name_645068404": {
@@ -52764,7 +52764,7 @@
     "units_custom_battle_mounts_mount_name_mixu_emp_cha_warrior_priest_of_taalmixu_emp_cha_warrior_priest_of_taal_bear": {
       "key": "units_custom_battle_mounts_mount_name_mixu_emp_cha_warrior_priest_of_taalmixu_emp_cha_warrior_priest_of_taal_bear",
       "value_original": "{{tr:ancillaries_onscreen_name_wh3_main_anc_mount_ksl_boyar_war_bear}}",
-      "value_translated": "{{tr:ancillaries_onscreen_name_wh3_main_anc_mount_ksl_boyar_war_bear}}  ",
+      "value_translated": "{{tr:ancillaries_onscreen_name_wh3_main_anc_mount_ksl_boyar_war_bear}}",
       "needs_retranslation": false,
       "removed": false
     },
