@@ -1,0 +1,55 @@
+{
+  "language": "SP",
+  "pack_name": "laf_ostankya_chicken_hut.pack",
+  "translations": {
+    "ancillaries_colour_text_laf_anc_mount_ksl_ostankya_chicken_hut": {
+      "key": "ancillaries_colour_text_laf_anc_mount_ksl_ostankya_chicken_hut",
+      "value_original": "Brought to life with ancient magic, this sinister hut can ferry Mother Ostankya towards her enemies in defense of Kislev.",
+      "value_translated": "Traída a la vida con magia ancestral, esta siniestra cabaña puede transportar a la Madre Ostankya hacia sus enemigos en defensa de Kislev.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_onscreen_name_laf_anc_mount_ksl_ostankya_chicken_hut": {
+      "key": "ancillaries_onscreen_name_laf_anc_mount_ksl_ostankya_chicken_hut",
+      "value_original": "Chicken-Legged Hut",
+      "value_translated": "Cabaña con Patas de Pollo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_laf_skill_node_ksl_ostankya_chicken_hut": {
+      "key": "character_skills_localised_description_laf_skill_node_ksl_ostankya_chicken_hut",
+      "value_original": "Brought to life with ancient magic, this sinister hut can ferry Mother Ostankya towards her enemies in defense of Kislev.",
+      "value_translated": "Traída a la vida con magia ancestral, esta siniestra cabaña puede transportar a la Madre Ostankya hacia sus enemigos en defensa de Kislev.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_laf_skill_node_ksl_ostankya_chicken_hut": {
+      "key": "character_skills_localised_name_laf_skill_node_ksl_ostankya_chicken_hut",
+      "value_original": "Chicken-Legged Hut",
+      "value_translated": "Cabaña con Patas de Pollo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "effects_description_laf_effect_enable_mount_ostankya_chicken_hut": {
+      "key": "effects_description_laf_effect_enable_mount_ostankya_chicken_hut",
+      "value_original": "Mount: Chicken-Legged Hut",
+      "value_translated": "Montura: Cabaña con Patas de Pollo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_laf_ksl_ostankya_hut": {
+      "key": "land_units_onscreen_name_laf_ksl_ostankya_hut",
+      "value_original": "Mother Ostankya",
+      "value_translated": "Madre Ostankya",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_mount_name_wh3_dlc24_ksl_cha_mother_ostankyalaf_ksl_ostankya_hut": {
+      "key": "units_custom_battle_mounts_mount_name_wh3_dlc24_ksl_cha_mother_ostankyalaf_ksl_ostankya_hut",
+      "value_original": "Chicken-Legged Hut",
+      "value_translated": "Cabaña con Patas de Pollo",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}
