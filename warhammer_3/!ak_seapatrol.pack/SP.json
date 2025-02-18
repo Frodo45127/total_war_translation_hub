@@ -1,0 +1,2442 @@
+{
+  "language": "SP",
+  "pack_name": "!ak_seapatrol.pack",
+  "translations": {
+    "agent_recruitment_categories_onscreen_name_AK_hef_seahelm": {
+      "key": "agent_recruitment_categories_onscreen_name_AK_hef_seahelm",
+      "value_original": "Sea Helm",
+      "value_translated": "Yelmo del Mar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_description_text_override_AK_hef_seahelm": {
+      "key": "agent_subtypes_description_text_override_AK_hef_seahelm",
+      "value_original": "An experienced Lothern commander that can lead an amphibious force abroad.",
+      "value_translated": "Un comandante de Lothern con experiencia que puede dirigir una fuerza anfibia en el extranjero.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_onscreen_name_override_AK_aislinn": {
+      "key": "agent_subtypes_onscreen_name_override_AK_aislinn",
+      "value_original": "Legendary Lord",
+      "value_translated": "Señor legendario",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "agent_subtypes_onscreen_name_override_AK_hef_seahelm": {
+      "key": "agent_subtypes_onscreen_name_override_AK_hef_seahelm",
+      "value_original": "Sea Helm",
+      "value_translated": "Yelmo del Mar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_colour_text_AK_aislinn_panoply": {
+      "key": "ancillaries_colour_text_AK_aislinn_panoply",
+      "value_original": "{{tr:AK_aislinn_panoply_descr}}",
+      "value_translated": "{{tr:AK_aislinn_panoply_descr}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_colour_text_AK_aislinn_roc": {
+      "key": "ancillaries_colour_text_AK_aislinn_roc",
+      "value_original": "This loyal creature is as mighty and swift as a Great Eagle.",
+      "value_translated": "Esta leal criatura es tan poderosa y veloz como una Gran Águila.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_colour_text_AK_aislinn_storm_dragon": {
+      "key": "ancillaries_colour_text_AK_aislinn_storm_dragon",
+      "value_original": "{{tr:AK_aislinn_dragon_descr}}",
+      "value_translated": "{{tr:AK_aislinn_dragon_descr}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_colour_text_AK_hef_seahelm_roc": {
+      "key": "ancillaries_colour_text_AK_hef_seahelm_roc",
+      "value_original": "This loyal creature is as mighty and swift as a Great Eagle.",
+      "value_translated": "Esta leal criatura es tan poderosa y veloz como una Gran Águila.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_colour_text_AK_hef_seahelm_skycutter": {
+      "key": "ancillaries_colour_text_AK_hef_seahelm_skycutter",
+      "value_original": "Pulled by a Swiftfeather Roc, this enchanted vessel is a proper chariot for a Sea Helm.",
+      "value_translated": "Tirada por un Roc Plumaveloz, esta embarcación encantada es un carruaje apropiado para un Yelmo del Mar.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_onscreen_name_AK_aislinn_panoply": {
+      "key": "ancillaries_onscreen_name_AK_aislinn_panoply",
+      "value_original": "{{tr:AK_aislinn_panoply}}",
+      "value_translated": "{{tr:AK_aislinn_panoply}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_onscreen_name_AK_aislinn_roc": {
+      "key": "ancillaries_onscreen_name_AK_aislinn_roc",
+      "value_original": "Swiftfeather Roc",
+      "value_translated": "Roc Plumaveloz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_onscreen_name_AK_aislinn_storm_dragon": {
+      "key": "ancillaries_onscreen_name_AK_aislinn_storm_dragon",
+      "value_original": "{{tr:AK_aislinn_dragon}}",
+      "value_translated": "{{tr:AK_aislinn_dragon}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_onscreen_name_AK_hef_seahelm_roc": {
+      "key": "ancillaries_onscreen_name_AK_hef_seahelm_roc",
+      "value_original": "Swiftfeather Roc",
+      "value_translated": "Roc Plumaveloz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "ancillaries_onscreen_name_AK_hef_seahelm_skycutter": {
+      "key": "ancillaries_onscreen_name_AK_hef_seahelm_skycutter",
+      "value_original": "Skycutter",
+      "value_translated": "Escolta Celeste",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_AK_hef_seahelm_ballista": {
+      "key": "building_chains_chain_tooltip_AK_hef_seahelm_ballista",
+      "value_original": "Eagle Claws",
+      "value_translated": "Garras de águila",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_AK_hef_seahelm_barracks": {
+      "key": "building_chains_chain_tooltip_AK_hef_seahelm_barracks",
+      "value_original": "Fleet Crew",
+      "value_translated": "Tripulación de flota",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_AK_hef_seahelm_dragonblades": {
+      "key": "building_chains_chain_tooltip_AK_hef_seahelm_dragonblades",
+      "value_original": "Rostra",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_AK_hef_seahelm_flotilla": {
+      "key": "building_chains_chain_tooltip_AK_hef_seahelm_flotilla",
+      "value_original": "Support Flotilla",
+      "value_translated": "Apoyo de flotilla",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_AK_hef_seahelm_mages": {
+      "key": "building_chains_chain_tooltip_AK_hef_seahelm_mages",
+      "value_original": "Magic Support",
+      "value_translated": "Apoyo mágico",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_AK_hef_seahelm_main": {
+      "key": "building_chains_chain_tooltip_AK_hef_seahelm_main",
+      "value_original": "Fleet",
+      "value_translated": "Flota",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_AK_hef_seahelm_mariners": {
+      "key": "building_chains_chain_tooltip_AK_hef_seahelm_mariners",
+      "value_original": "Crews",
+      "value_translated": "Tripulaciones",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_AK_hef_seahelm_monsters": {
+      "key": "building_chains_chain_tooltip_AK_hef_seahelm_monsters",
+      "value_original": "Flying Support",
+      "value_translated": "Apoyo aéreo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_AK_hef_seahelm_sparring": {
+      "key": "building_chains_chain_tooltip_AK_hef_seahelm_sparring",
+      "value_original": "Sparring Deck",
+      "value_translated": "Cubierta de combate",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_chains_chain_tooltip_AK_special_aislinn": {
+      "key": "building_chains_chain_tooltip_AK_special_aislinn",
+      "value_original": "Unique Deck",
+      "value_translated": "Cubierta única",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_ballista_1": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_ballista_1",
+      "value_original": "Fixed Eagle Claws",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_ballista_2": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_ballista_2",
+      "value_original": "Eagle Claw Castles",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_ballista_3": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_ballista_3",
+      "value_original": "Dragonship Broadside Eagle Claws",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_barracks_1": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_barracks_1",
+      "value_original": "Ship Companies",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_barracks_2": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_barracks_2",
+      "value_original": "High Sea Marines",
+      "value_translated": "Marineros de aguas profundas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_barracks_3": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_barracks_3",
+      "value_original": "Silver Helm Marines",
+      "value_translated": "Marineros Yelmos Plateados",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_dragonblades": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_dragonblades",
+      "value_original": "Dragonblades",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_flotilla_1": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_flotilla_1",
+      "value_original": "Supply Line",
+      "value_translated": "Línea de suministro",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_flotilla_2": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_flotilla_2",
+      "value_original": "Secured Support",
+      "value_translated": "Apoyo asegurado",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_flotilla_3": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_flotilla_3",
+      "value_original": "Support Flotilla",
+      "value_translated": "Apoyo de flotilla",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_mages_1": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_mages_1",
+      "value_original": "Mist Mages Quarters",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_mages_2": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_mages_2",
+      "value_original": "Mist Mages Pinnacle",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_mages_3": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_mages_3",
+      "value_original": "Mist Mages Tower",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_main_1": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_main_1",
+      "value_original": "Hawkship Patrol",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_main_2": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_main_2",
+      "value_original": "Sea Patrol",
+      "value_translated": "Patrulla marina",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_main_3": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_main_3",
+      "value_original": "Cruising Fleet",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_main_4": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_main_4",
+      "value_original": "Eagleship Fleet",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_main_5": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_main_5",
+      "value_original": "Dragonship",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_mariners_1": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_mariners_1",
+      "value_original": "Experienced Crews",
+      "value_translated": "Tripulaciones experimentadas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_mariners_2": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_mariners_2",
+      "value_original": "Cothiquan Sailors",
+      "value_translated": "Marineros de Cothique",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_monsters_1": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_monsters_1",
+      "value_original": "Roc Perches",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_monsters_2": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_monsters_2",
+      "value_original": "Dragon Support",
+      "value_translated": "Apoyo de dragones",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_monsters_3": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_monsters_3",
+      "value_original": "Star Dragon Perch",
+      "value_translated": "Percha de Dragón Estelar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_sparring_1": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_sparring_1",
+      "value_original": "Ranger Training",
+      "value_translated": "Entrenamiento de Exploradores",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_sparring_2": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_sparring_2",
+      "value_original": "Ritual Sparring",
+      "value_translated": "Combate ritual",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_spies_1": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_spies_1",
+      "value_original": "Field Reports",
+      "value_translated": "Informes de campo",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_spies_2": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_spies_2",
+      "value_original": "Local Espionage",
+      "value_translated": "Espionaje local",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_spies_3": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_spies_3",
+      "value_original": "Foreign Allies",
+      "value_translated": "Aliados extranjeros",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_supplies_1": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_supplies_1",
+      "value_original": "Reserves",
+      "value_translated": "Reservas",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_supplies_2": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_supplies_2",
+      "value_original": "Stockpile",
+      "value_translated": "Existencias",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_hef_seahelm_supplies_3": {
+      "key": "building_culture_variants_name_AK_hef_seahelm_supplies_3",
+      "value_original": "Fleet Supplies",
+      "value_translated": "Suministros de flota",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_culture_variants_name_AK_special_aislinn": {
+      "key": "building_culture_variants_name_AK_special_aislinn",
+      "value_original": "Sea Lord Deck",
+      "value_translated": "Cubierta del Señor del Mar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_sets_onscreen_description_AK_hef_seahelm_infrastructure": {
+      "key": "building_sets_onscreen_description_AK_hef_seahelm_infrastructure",
+      "value_original": "New decks and logistics.",
+      "value_translated": "Nuevas cubiertas y mejoras logísticas.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_sets_onscreen_description_AK_hef_seahelm_main": {
+      "key": "building_sets_onscreen_description_AK_hef_seahelm_main",
+      "value_original": "Asur Fleet",
+      "value_translated": "Flota Asur",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_sets_onscreen_description_AK_hef_seahelm_military": {
+      "key": "building_sets_onscreen_description_AK_hef_seahelm_military",
+      "value_original": "Recruitment of Asur military crews.",
+      "value_translated": "Reclutamiento de tripulaciones militares Asur.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_sets_onscreen_description_AK_hef_seahelm_support": {
+      "key": "building_sets_onscreen_description_AK_hef_seahelm_support",
+      "value_original": "Recruitment of navigation, flying and magic support.",
+      "value_translated": "Reclutamiento de apoyos de navegación, vuelo y magia.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_sets_onscreen_description_AK_special_aislinn": {
+      "key": "building_sets_onscreen_description_AK_special_aislinn",
+      "value_original": "Special admiral decks.",
+      "value_translated": "Cubiertas especiales para el almirante.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_sets_onscreen_name_AK_hef_seahelm_infrastructure": {
+      "key": "building_sets_onscreen_name_AK_hef_seahelm_infrastructure",
+      "value_original": "Fleet Infrastructure",
+      "value_translated": "Infraestructura de flota",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_sets_onscreen_name_AK_hef_seahelm_main": {
+      "key": "building_sets_onscreen_name_AK_hef_seahelm_main",
+      "value_original": "Main Squadron",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_sets_onscreen_name_AK_hef_seahelm_military": {
+      "key": "building_sets_onscreen_name_AK_hef_seahelm_military",
+      "value_original": "Marines",
+      "value_translated": "Infantería de marina",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_sets_onscreen_name_AK_hef_seahelm_support": {
+      "key": "building_sets_onscreen_name_AK_hef_seahelm_support",
+      "value_original": "Fleet Support",
+      "value_translated": "Apoyo de flota",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_sets_onscreen_name_AK_special_aislinn": {
+      "key": "building_sets_onscreen_name_AK_special_aislinn",
+      "value_original": "Unique",
+      "value_translated": "Único",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_ballista_1": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_ballista_1",
+      "value_original": "A few bolt throwers in good bearing positions can keep small vessels and beasts at bay.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_ballista_2": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_ballista_2",
+      "value_original": "Accurate and massed artillery is the trademark of any decent Asur flotilla. ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_ballista_3": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_ballista_3",
+      "value_original": "A Dragonship may carry various weapons more impressive than bolt throwers, but a whole deck bristling with ballistas is still an excellent conventional tool.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_barracks_1": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_barracks_1",
+      "value_original": "An Asur Sea Patrol will always have a number of trained marines on board.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_barracks_2": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_barracks_2",
+      "value_original": "The Sea Guard is known for its disciplined efficiency both on board and on... preemptive maneuvers.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_barracks_3": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_barracks_3",
+      "value_original": "Traditionally, an Asur flagship of this size will keep an aristocratic deck crew. There may even be enough room and spare cargo to carry some horses.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_dragonblades": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_dragonblades",
+      "value_original": "Forged in enchanted truesilver, the twin rams of a Dragonship can sink even a Black Ark.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_flotilla_1": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_flotilla_1",
+      "value_original": "Can't patrol the seas on an empty belly.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_flotilla_2": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_flotilla_2",
+      "value_original": "On either land or sea, an expeditionary force needs to know reinforcements and supplies are coming.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_flotilla_3": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_flotilla_3",
+      "value_original": "It can hardly get safer than your supply line having its own screen squadrons...",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_mages_1": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_mages_1",
+      "value_original": "Mages are employed in the Asur navy to protect, hide, and even propel its ships.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_mages_2": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_mages_2",
+      "value_original": "The best Mages in naval service are dubbed Storm Weavers, for their refined control over the weather and sea creatures.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_main_1": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_main_1",
+      "value_original": "A small squadron of Hawkships, patrolling more than cruising.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_main_2": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_main_2",
+      "value_original": "A larger patrol that may be able to deal with something more than the occasional bad weather.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_main_3": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_main_3",
+      "value_original": "An Eagle flagship leading a large squadron of Hawkships, fast and well-equipped, carrying enough marines for quick incursions.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_main_4": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_main_4",
+      "value_original": "The mainstand of the Asur fleet, a main squadron of Eagleships, fast and lethal. ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_main_5": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_main_5",
+      "value_original": "Dragonships are ancient and irreplaceable vessels, crewed by veterans and silver-helmed nobles. These majestic catamarans are only ever employed to actively destroy the biggest sea threats to Ulthuan.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_mariners_1": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_mariners_1",
+      "value_original": "The worth of a fleet and its marines is only as good as that of its crews.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_mariners_2": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_mariners_2",
+      "value_original": "Mariners from Cothique are the best sailors in the world. Nobody else is so confident around the extraordinarily treacherous seas that surround Ulthuan.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_monsters_1": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_monsters_1",
+      "value_original": "Swiftfeather Rocs are useful allies and live much closer at hand to Lothern than the Annulii Eagles, but they will still need care on a fleet.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_monsters_2": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_monsters_2",
+      "value_original": "Dragons and boats normally go along like a house on fire. Very much on fire, in fact.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_monsters_3": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_monsters_3",
+      "value_original": "Not even a Black Ark is safe from something as powerful as a Star Dragon. ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_sparring_1": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_sparring_1",
+      "value_original": "Experienced Rangers are excellent instructors for greener recruits.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_sparring_2": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_sparring_2",
+      "value_original": "Aristocratic crews need room to vent their... nobility of arm and heart.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_spies_1": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_spies_1",
+      "value_original": "If you are going to land somewhere, you'd better know who or what is going to greet you.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_spies_2": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_spies_2",
+      "value_original": "The Asur have known the value of information long before savages thought clubs were a good idea.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_spies_3": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_spies_3",
+      "value_original": "Knowledge can open closed doors altogether.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_supplies_1": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_supplies_1",
+      "value_original": "Empty stomachs are only good for sea sickness.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_supplies_2": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_supplies_2",
+      "value_original": "Crews are certainly happier if they know that they can keep fighting and eating even when reinforcements are stalled.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_hef_seahelm_supplies_3": {
+      "key": "building_short_description_texts_short_description_AK_hef_seahelm_supplies_3",
+      "value_original": "Biscuits, as far as the eye can see. Logistics have no room for poetry, only for more crackers and fresh water.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "building_short_description_texts_short_description_AK_special_aislinn": {
+      "key": "building_short_description_texts_short_description_AK_special_aislinn",
+      "value_original": "From atop a battle-scarred deck Aislinn plans and drills his crew, surrounded by his White Lion bodyguard.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_": {
+      "key": "character_skills_localised_description_",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_aislinn_camp_sack": {
+      "key": "character_skills_localised_description_AK_aislinn_camp_sack",
+      "value_original": "About time someone paid them back with their same medicine.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_aislinn_innate": {
+      "key": "character_skills_localised_description_AK_aislinn_innate",
+      "value_original": "The Sea Lord is a veteran of centuries of hit and run, ship to shore warfare.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_aislinn_panoply": {
+      "key": "character_skills_localised_description_AK_aislinn_panoply",
+      "value_original": "{{tr:AK_aislinn_panoply_descr}}",
+      "value_translated": "{{tr:AK_aislinn_panoply_descr}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_aislinn_roc": {
+      "key": "character_skills_localised_description_AK_aislinn_roc",
+      "value_original": "This loyal creature is as mighty and swift as a Great Eagle.",
+      "value_translated": "Esta leal criatura es tan poderosa y veloz como una Gran Águila.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_aislinn_storm_dragon": {
+      "key": "character_skills_localised_description_AK_aislinn_storm_dragon",
+      "value_original": "{{tr:AK_aislinn_dragon_descr}}",
+      "value_translated": "{{tr:AK_aislinn_dragon_descr}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_aislinn_unique_command": {
+      "key": "character_skills_localised_description_AK_aislinn_unique_command",
+      "value_original": "Aislinn's narrow-eyed glares and short nods are an open book to his crews.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_aislinn_unique_excessive": {
+      "key": "character_skills_localised_description_AK_aislinn_unique_excessive",
+      "value_original": "Aislinn's merciless actions are certainly effective if not exceedingly brutal and... diplomatically awkward. The politicking elven court has little appreciation for such disruption.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_aislinn_unique_herald": {
+      "key": "character_skills_localised_description_AK_aislinn_unique_herald",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_aislinn_unique_king": {
+      "key": "character_skills_localised_description_AK_aislinn_unique_king",
+      "value_original": "In these dangerous times, it's oddly comforting to know that there is someone with a propensity for brutal efficiency. The Phoenix King can make use of that.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_aislinn_unique_mastermists": {
+      "key": "character_skills_localised_description_AK_aislinn_unique_mastermists",
+      "value_original": "Making full use of the magic mists summoned by his mages, Aislinn is keen on leading shrewd surprise tactics against the enemy.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_aislinn_unique_self": {
+      "key": "character_skills_localised_description_AK_aislinn_unique_self",
+      "value_original": "With typical Asur economy of motion and less common propensity for violence, Aislinn's longsword can cut a foe in twain even on a rocking boat. Not hypothetically.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_aislinn_unique_veterans": {
+      "key": "character_skills_localised_description_AK_aislinn_unique_veterans",
+      "value_original": "Only the best on Aislinn's flagship, able to infiltrate, form up, kill everything and sail back in a fluent bloody motion.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_battle_discipline": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_battle_discipline",
+      "value_original": "Survivors of a hundred battles and storms, paragons of what being a Sea Guard is all about.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_battle_dominion": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_battle_dominion",
+      "value_original": "In air and wave, everything goes through the gauntlet.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_battle_mathlann": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_battle_mathlann",
+      "value_original": "Oaths have been spoken, souls have been bound... And half of Ulthuan already sees the crew as lost elves walking. The other half would have been more careful with gods.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_battle_melee": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_battle_melee",
+      "value_original": "A dangerous and bloody business, but getting in stabbing distance with the enemy is as decisive as you can get.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_battle_rain": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_battle_rain",
+      "value_original": "[unused]",
+      "value_translated": "[unused]",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_battle_razor": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_battle_razor",
+      "value_original": "Even a giant brute is a dead meat sack if you know where to cut.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_battle_redmist": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_battle_redmist",
+      "value_original": "The Asur may not like it to be reminded, but they can be as bloody-minded as their hated cousins when things get particularly... obsessive. ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_battle_resilience": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_battle_resilience",
+      "value_original": "Be it on a deck or a beach, never fail your companions. ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_battle_skirmishers": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_battle_skirmishers",
+      "value_original": "Get in fast, get out faster, clean and professional and nobody gets hurt. Much.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_battle_storm": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_battle_storm",
+      "value_original": "Once more onto the beach, my friends! Once more into the bloody waves!",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_battle_traditions": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_battle_traditions",
+      "value_original": "The fundamentals of the Lothern Navy has always been discipline and firepower. Never forget that. And magic. And dragons. But mostly discipline and firepower.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_camp_growth": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_camp_growth",
+      "value_original": "Things go a lot smoother when you are friendly with half of Lothern's nobility.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_hold_the_line": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_hold_the_line",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_innate_drill": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_innate_drill",
+      "value_original": "\"I wasn't told I would be leading a force of forest savages. Get the ranks in order right this instant!\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_innate_hardened": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_innate_hardened",
+      "value_original": "They say even his scars have scars of their own.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_innate_logistics": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_innate_logistics",
+      "value_original": "This commander personally makes sure supplies are more than in order. Being well-connected also helps.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_innate_mathlann": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_innate_mathlann",
+      "value_original": "There is nothing natural in how this Elf is invigorated by stormy weather.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_innate_proactive": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_innate_proactive",
+      "value_original": "An enemy killed at distance is an enemy that can't stab you in the neck.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_innate_pupil": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_innate_pupil",
+      "value_original": "This commander was trained under the Sea Lord and learned many of his... tactics.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_innate_pure": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_innate_pure",
+      "value_original": "This Elf is genuinely as inspiring as the heroes of ages past. And straight enough that he could be used to measure starwood planks. ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_innate_ranger": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_innate_ranger",
+      "value_original": "Unpredictable and slightly paranoid, this commander wouldn't be incongrous among Shadow Warriors.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_innate_touched": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_innate_touched",
+      "value_original": "This commander was born of a family with many mages among its ranks.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_innate_visceral": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_innate_visceral",
+      "value_original": "This commander had one too many grudges against the Druchii. Some say you could see Tethlis the Slayer in his eyes...",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_innate_zero": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_innate_zero",
+      "value_original": "For one good reason or another, this officer is not entrusted with more than a basic flotilla.\\\\nThe fleet will not grow in size and it is only allowed the most basic recruitment.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_roc": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_roc",
+      "value_original": "This loyal creature is as mighty and swift as a Great Eagle.",
+      "value_translated": "Esta leal criatura es tan poderosa y veloz como una Gran Águila.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_skycutter": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_skycutter",
+      "value_original": "Pulled by a Swiftfeather Roc, this enchanted vessel is a proper chariot for a Sea Helm.",
+      "value_translated": "Tirada por un Roc Plumaveloz, esta embarcación encantada es un carruaje apropiado para un Yelmo del Mar.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_description_AK_hef_seahelm_trident_buff": {
+      "key": "character_skills_localised_description_AK_hef_seahelm_trident_buff",
+      "value_original": "A trident may actually not be the most advanced cutting edge in the field of cutting edges, but once something fleshy is hit it stays hit.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_": {
+      "key": "character_skills_localised_name_",
+      "value_original": "",
+      "value_translated": "",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_aislinn_camp_sack": {
+      "key": "character_skills_localised_name_AK_aislinn_camp_sack",
+      "value_original": "Ruthlessness",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_aislinn_innate": {
+      "key": "character_skills_localised_name_AK_aislinn_innate",
+      "value_original": "Phenomenal Tactician",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_aislinn_panoply": {
+      "key": "character_skills_localised_name_AK_aislinn_panoply",
+      "value_original": "{{tr:AK_aislinn_panoply}}",
+      "value_translated": "{{tr:AK_aislinn_panoply}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_aislinn_roc": {
+      "key": "character_skills_localised_name_AK_aislinn_roc",
+      "value_original": "Swiftfeather Roc",
+      "value_translated": "Roc Plumaveloz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_aislinn_storm_dragon": {
+      "key": "character_skills_localised_name_AK_aislinn_storm_dragon",
+      "value_original": "{{tr:AK_aislinn_dragon}}",
+      "value_translated": "{{tr:AK_aislinn_dragon}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_aislinn_unique_command": {
+      "key": "character_skills_localised_name_AK_aislinn_unique_command",
+      "value_original": "Sea Lord",
+      "value_translated": "Señor del Mar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_aislinn_unique_excessive": {
+      "key": "character_skills_localised_name_AK_aislinn_unique_excessive",
+      "value_original": "The Pernicious",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_aislinn_unique_herald": {
+      "key": "character_skills_localised_name_AK_aislinn_unique_herald",
+      "value_original": "Herald of Mathlann",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_aislinn_unique_king": {
+      "key": "character_skills_localised_name_AK_aislinn_unique_king",
+      "value_original": "Royal Approval",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_aislinn_unique_mastermists": {
+      "key": "character_skills_localised_name_AK_aislinn_unique_mastermists",
+      "value_original": "Master of the Mists",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_aislinn_unique_self": {
+      "key": "character_skills_localised_name_AK_aislinn_unique_self",
+      "value_original": "Tide of Ithilmar",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_aislinn_unique_veterans": {
+      "key": "character_skills_localised_name_AK_aislinn_unique_veterans",
+      "value_original": "Veterans of the Brinedragon",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_battle_discipline": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_battle_discipline",
+      "value_original": "Discipline",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_battle_dominion": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_battle_dominion",
+      "value_original": "Dominion",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_battle_mathlann": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_battle_mathlann",
+      "value_original": "Bound to Mathlann",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_battle_melee": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_battle_melee",
+      "value_original": "Bloody Melee",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_battle_rain": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_battle_rain",
+      "value_original": "Rain of Death",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_battle_razor": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_battle_razor",
+      "value_original": "The Razor",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_battle_redmist": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_battle_redmist",
+      "value_original": "Red Mist",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_battle_resilience": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_battle_resilience",
+      "value_original": "Resilience",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_battle_skirmishers": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_battle_skirmishers",
+      "value_original": "Skirmishers",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_battle_storm": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_battle_storm",
+      "value_original": "The Storm",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_battle_traditions": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_battle_traditions",
+      "value_original": "Sea Guard Traditions",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_camp_growth": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_camp_growth",
+      "value_original": "Aggregative",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_hold_the_line": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_hold_the_line",
+      "value_original": "Hold the Line!",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_innate_drill": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_innate_drill",
+      "value_original": "Drillmaster",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_innate_hardened": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_innate_hardened",
+      "value_original": "Battle-Hardened",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_innate_logistics": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_innate_logistics",
+      "value_original": "Logistical Genius",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_innate_mathlann": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_innate_mathlann",
+      "value_original": "Blessed by Mathlann",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_innate_proactive": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_innate_proactive",
+      "value_original": "Proactive",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_innate_pupil": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_innate_pupil",
+      "value_original": "Pupil to Aislinn",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_innate_pure": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_innate_pure",
+      "value_original": "Pure of Heart",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_innate_ranger": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_innate_ranger",
+      "value_original": "Ranger",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_innate_touched": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_innate_touched",
+      "value_original": "Touched by the Winds",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_innate_visceral": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_innate_visceral",
+      "value_original": "Foaming",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_innate_zero": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_innate_zero",
+      "value_original": "Not Born for This",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_roc": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_roc",
+      "value_original": "Swiftfeather Roc",
+      "value_translated": "Roc Plumaveloz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_skycutter": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_skycutter",
+      "value_original": "Skycutter",
+      "value_translated": "Escolta Celeste",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_skills_localised_name_AK_hef_seahelm_trident_buff": {
+      "key": "character_skills_localised_name_AK_hef_seahelm_trident_buff",
+      "value_original": "Ithilmar Trident",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_trait_levels_colour_text_ak_trait_defeated_aislinn": {
+      "key": "character_trait_levels_colour_text_ak_trait_defeated_aislinn",
+      "value_original": "Finally, Aislinn can put his feet up and relax, while he's thrown overboard.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_trait_levels_colour_text_ak_trait_defeated_lokhir_as_aislinn": {
+      "key": "character_trait_levels_colour_text_ak_trait_defeated_lokhir_as_aislinn",
+      "value_original": "One can never be sure with Lokhir, but at least for the moment he won't be above sea level.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_trait_levels_explanation_text_ak_trait_defeated_aislinn": {
+      "key": "character_trait_levels_explanation_text_ak_trait_defeated_aislinn",
+      "value_original": "Defeated Aislinn",
+      "value_translated": "Ha derrotado a Aislinn.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_trait_levels_explanation_text_ak_trait_defeated_lokhir_as_aislinn": {
+      "key": "character_trait_levels_explanation_text_ak_trait_defeated_lokhir_as_aislinn",
+      "value_original": "Defeated Lokhir Fellheart as Aislinn",
+      "value_translated": "Ha derrotado a Lokhir Fellheart como Aislinn.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "character_trait_levels_onscreen_name_ak_trait_defeated_aislinn": {
+      "key": "character_trait_levels_onscreen_name_ak_trait_defeated_aislinn",
+      "value_original": "Down with the Dragonship",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "character_trait_levels_onscreen_name_ak_trait_defeated_lokhir_as_aislinn": {
+      "key": "character_trait_levels_onscreen_name_ak_trait_defeated_lokhir_as_aislinn",
+      "value_original": "Black-Hearted Dead Lord",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_AK_hef_seahelm_stance_channel": {
+      "key": "effect_bundles_localised_description_AK_hef_seahelm_stance_channel",
+      "value_original": "The expedition lays down in magic mists, waiting for the enemy.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_AK_hef_seahelm_stance_patrol": {
+      "key": "effect_bundles_localised_description_AK_hef_seahelm_stance_patrol",
+      "value_original": "The fleet drops anchor and assembles to reorganize and aggregate the flow of reinforcements.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_description_mixer_faction_trait_wh2_main_hef_cothique": {
+      "key": "effect_bundles_localised_description_mixer_faction_trait_wh2_main_hef_cothique",
+      "value_original": "For too long the domain of the seas has been neglected. By order of the Phoenix King, the best Sea Guards and Cothiquan mariners will make the Asur rule the waves again.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_AK_hef_seahelm_stance_channel": {
+      "key": "effect_bundles_localised_title_AK_hef_seahelm_stance_channel",
+      "value_original": "Stance: Mist Trap",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_AK_hef_seahelm_stance_land_raid": {
+      "key": "effect_bundles_localised_title_AK_hef_seahelm_stance_land_raid",
+      "value_original": "NOTE: so the fun thing is that since LAND_RAID is there for everybody in campaign stance effects, but doesn't work for high elves as long as they're not individually given it in stance factions. Which means I can't discriminate between charbound hordes and normal armies.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_AK_hef_seahelm_stance_patrol": {
+      "key": "effect_bundles_localised_title_AK_hef_seahelm_stance_patrol",
+      "value_original": "Stance: Patrol",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effect_bundles_localised_title_mixer_faction_trait_wh2_main_hef_cothique": {
+      "key": "effect_bundles_localised_title_mixer_faction_trait_wh2_main_hef_cothique",
+      "value_original": "Ulthuan Rule the Waves",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_aislinn_faction_recr_rank": {
+      "key": "effects_description_AK_aislinn_faction_recr_rank",
+      "value_original": "Recruit rank: %+n for Sea Company units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_aislinn_herald": {
+      "key": "effects_description_AK_aislinn_herald",
+      "value_original": "Passive ability: \"Herald of Mathlann\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_aislinn_mastermists": {
+      "key": "effects_description_AK_aislinn_mastermists",
+      "value_original": "Passive ability: \"Master of the Mists\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_aislinn_mastermists_stalk": {
+      "key": "effects_description_AK_aislinn_mastermists_stalk",
+      "value_original": "Attribute: Stalk for all Lothern Sea Guard, Sea Company, Sea Rangers, Swiftfeather Riders and Eagle Claw units {{tr:rank4}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_aislinn_mastermists_vanguard": {
+      "key": "effects_description_AK_aislinn_mastermists_vanguard",
+      "value_original": "Attribute: Vanguard Deployment for all Lothern Sea Guard, Sea Company, Sea Rangers, Swiftfeather Riders and Eagle Claw units {{tr:rank4}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_aislinn_panoply": {
+      "key": "effects_description_AK_aislinn_panoply",
+      "value_original": "Passive ability: \"Panoply of the Merlord\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_aislinn_storm_dragon": {
+      "key": "effects_description_AK_aislinn_storm_dragon",
+      "value_original": "Unlocks mount: Storm Dragon",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_climate_ocean_suitable": {
+      "key": "effects_description_AK_climate_ocean_suitable",
+      "value_original": "Suitable Climate: Ocean",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_oceanid_summon": {
+      "key": "effects_description_AK_hef_oceanid_summon",
+      "value_original": "Army ability at sea: \"Mistress of the Deep\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_oceanid_summon_land": {
+      "key": "effects_description_AK_hef_oceanid_summon_land",
+      "value_original": "Army ability: \"Mistress of the Deep\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_barrage1": {
+      "key": "effects_description_AK_hef_seahelm_barrage1",
+      "value_original": "Army ability at sea: \"Eagle Claw Salvo\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_barrage2": {
+      "key": "effects_description_AK_hef_seahelm_barrage2",
+      "value_original": "Army ability at sea: \"Eagle Claw Bombardment\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_barrage3": {
+      "key": "effects_description_AK_hef_seahelm_barrage3",
+      "value_original": "Army ability at sea: \"Eagle Claw Broadside\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_discipline": {
+      "key": "effects_description_AK_hef_seahelm_battle_discipline",
+      "value_original": "Attribute: Encourage for all fleet infantry and cavalry units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_dominion_artillery_dmg": {
+      "key": "effects_description_AK_hef_seahelm_battle_dominion_artillery_dmg",
+      "value_original": "Missile strength: %+n% for Lothern Swiftfeather Riders and Eagle Claw Bolt Throwers {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_dominion_dragons_phys_res": {
+      "key": "effects_description_AK_hef_seahelm_battle_dominion_dragons_phys_res",
+      "value_original": "Physical resistance: %+n% for all dragon units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_melee_MA": {
+      "key": "effects_description_AK_hef_seahelm_battle_melee_MA",
+      "value_original": "Melee attack: %+n for Lothern Sea Company and Silver Helm Marines",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_melee_MD": {
+      "key": "effects_description_AK_hef_seahelm_battle_melee_MD",
+      "value_original": "Melee defence: %+n for Lothern Sea Company and Silver Helm Marines",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_melee_armour": {
+      "key": "effects_description_AK_hef_seahelm_battle_melee_armour",
+      "value_original": "Armour: %+n for Lothern Sea Company and Silver Helm Marines",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_razor": {
+      "key": "effects_description_AK_hef_seahelm_battle_razor",
+      "value_original": "Armour-piercing damage: %+n% for all fleet infantry and cavalry units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_redmist_vsinf": {
+      "key": "effects_description_AK_hef_seahelm_battle_redmist_vsinf",
+      "value_original": "Bonus vs. Infantry: %+n for Lothern Sea Rangers, Sea Company and Silver Helm Marines",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_resilience": {
+      "key": "effects_description_AK_hef_seahelm_battle_resilience",
+      "value_original": "Armour: %+n for all fleet infantry and cavalry units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_skirmishers_MD": {
+      "key": "effects_description_AK_hef_seahelm_battle_skirmishers_MD",
+      "value_original": "Melee defence: %+n for Lothern Sea Rangers",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_storm": {
+      "key": "effects_description_AK_hef_seahelm_battle_storm",
+      "value_original": "Charge bonus: %+n for all fleet infantry and cavalry units {{tr:rank7}}",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_traditions_MA": {
+      "key": "effects_description_AK_hef_seahelm_battle_traditions_MA",
+      "value_original": "Melee attack: %+n for Lothern Sea Guard, Lothern Swiftfeather Riders and Eagle Claw Bolt Throwers ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_traditions_MD": {
+      "key": "effects_description_AK_hef_seahelm_battle_traditions_MD",
+      "value_original": "Melee defence: %+n for Lothern Sea Guard, Lothern Swiftfeather Riders and Eagle Claw Bolt Throwers ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_battle_traditions_missile": {
+      "key": "effects_description_AK_hef_seahelm_battle_traditions_missile",
+      "value_original": "Missile damage: %+n% for Lothern Sea Guard, Lothern Swiftfeather Riders and Eagle Claw Bolt Throwers ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_charge_rangers": {
+      "key": "effects_description_AK_hef_seahelm_charge_rangers",
+      "value_original": "Charge bonus: %+n for Lothern Sea Rangers ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_dragonblades": {
+      "key": "effects_description_AK_hef_seahelm_dragonblades",
+      "value_original": "Passive army ability at sea: \"Dragonship Ramming\" (may severely damage up to three enemy units)",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_dragonblades_LD": {
+      "key": "effects_description_AK_hef_seahelm_dragonblades_LD",
+      "value_original": "Enemy leadership: %+n",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_growth": {
+      "key": "effects_description_AK_hef_seahelm_growth",
+      "value_original": "Fleet growth: %+n",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_mist": {
+      "key": "effects_description_AK_hef_seahelm_mist",
+      "value_original": "Army ability: \"The Writhing Mists\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_replenish_merwyrms": {
+      "key": "effects_description_AK_hef_seahelm_replenish_merwyrms",
+      "value_original": "Casualty replenishment rate: %+n% for Merwyrms",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_replenish_units": {
+      "key": "effects_description_AK_hef_seahelm_replenish_units",
+      "value_original": "Casualty replenishment rate: %+n% for all units (except characters)",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_roc": {
+      "key": "effects_description_AK_hef_seahelm_roc",
+      "value_original": "Unlocks mount: Swiftfeather Roc",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_skycutter": {
+      "key": "effects_description_AK_hef_seahelm_skycutter",
+      "value_original": "Unlocks mount: Skycutter",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_spies": {
+      "key": "effects_description_AK_hef_seahelm_spies",
+      "value_original": "Enables siege assault",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_AK_hef_seahelm_stalk_lothern_inf": {
+      "key": "effects_description_AK_hef_seahelm_stalk_lothern_inf",
+      "value_original": "Attribute: Stalk for all Lothern Sea Guard and Company units",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_ak_hef_berserk_merwyrms": {
+      "key": "effects_description_ak_hef_berserk_merwyrms",
+      "value_original": "Passive ability: \"Berserk\" for Merwyrms",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_ak_hef_flaming_projectiles": {
+      "key": "effects_description_ak_hef_flaming_projectiles",
+      "value_original": "\"Dragon Claw\" arrows ([[img:ui/skins/default/modifier_icon_magical.png]][[/img]]magical and [[img:ui/skins/default/modifier_icon_flaming.png]][[/img]]flaming) for fleet infantry and flying cavalry",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_ak_hef_flaming_projectiles_eagle_claw": {
+      "key": "effects_description_ak_hef_flaming_projectiles_eagle_claw",
+      "value_original": "\"Dragon Flare\" bolts ([[img:ui/skins/default/modifier_icon_magical.png]][[/img]]magical, [[img:ui/skins/default/modifier_icon_flaming.png]][[/img]]flaming and causing [[img:ui/skins/default/modifier_icon_flammable.png]][[/img]]Flammable) for Eagle Claws and Lothern Skycutters",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_ak_hef_flaming_projectiles_eagle_clawNOTE:": {
+      "key": "effects_description_ak_hef_flaming_projectiles_eagle_clawNOTE:",
+      "value_original": "this can't target skycutters because the entire crew will start firing ballista bolts, with predictable results.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_ak_hef_frenzy_merwyrms": {
+      "key": "effects_description_ak_hef_frenzy_merwyrms",
+      "value_original": "Passive ability: \"Frenzy\" for Merwyrms",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_ak_hef_mist_mages_passive_aura": {
+      "key": "effects_description_ak_hef_mist_mages_passive_aura",
+      "value_original": "Passive ability: \"Magic Mist\"",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_ak_hef_xp_gain_increase_at_sea": {
+      "key": "effects_description_ak_hef_xp_gain_increase_at_sea",
+      "value_original": "Double experience gain for units when fighting at sea",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_ak_hef_xp_mist_mages": {
+      "key": "effects_description_ak_hef_xp_mist_mages",
+      "value_original": "Lord and Hero recruit rank: %+n for Lores of Shadows and Heavens spellcasters",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_ak_hef_xp_sea_helms": {
+      "key": "effects_description_ak_hef_xp_sea_helms",
+      "value_original": "Lord recruit rank: %+n for Sea Helms",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh2_dlc15_effect_recruitment_xp_hef_loremaster_mages_archmages_cataph_hordes": {
+      "key": "effects_description_wh2_dlc15_effect_recruitment_xp_hef_loremaster_mages_archmages_cataph_hordes",
+      "value_original": "Recruit rank: %+n for Loremasters of Hoeth, Mages and Archmages",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "effects_description_wh_main_effect_force_all_campaign_replenishment_rate_horde": {
+      "key": "effects_description_wh_main_effect_force_all_campaign_replenishment_rate_horde",
+      "value_original": "Constant casualty replenishment rate: %+n%",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "factions_screen_name_AK_hef_seahelm_faction": {
+      "key": "factions_screen_name_AK_hef_seahelm_faction",
+      "value_original": "Lothern Sea Patrol",
+      "value_translated": "Patrulla Marina de Lothern",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "frontend_faction_leaders_frontend_description_mixer_ime_hef_cothique": {
+      "key": "frontend_faction_leaders_frontend_description_mixer_ime_hef_cothique",
+      "value_original": "Sea Lord Aislinn is tasked with leading Ulthuan's mighty fleets from a base in Cothique, the Outer Realm of mariners.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_cothique": {
+      "key": "frontend_faction_leaders_loading_screen_text_mixer_ime_hef_cothique",
+      "value_original": "As much as the majority of the Court doesn't quite approve of Lord Aislinn's attitude, the Phoenix King sees in him a useful ruthlessness. With the defence of Lothern in the hands of Tyrion, Aislinn is dispatched by Finubar to the eastern shores of Ulthuan, where the misty sea can only be of so much protection from emboldened aggressors. And where the local Realms may need reassurance that the King is still behind them.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "frontend_factions_localised_mechanics_wh2_main_hef_cothique": {
+      "key": "frontend_factions_localised_mechanics_wh2_main_hef_cothique",
+      "value_original": "[[img:bullet_hef_intrigue]][[/img]]Intrigue: Influence can be spent on superior Lords, or used to affect diplomacy between factions.||[[img:bullet_hef_espionage]][[/img]]Espionage: Trade agreements allow line of sight to assets controlled by the trade partner.||[[img:bullet_hef_martial_prowess]][[/img]]Martial Prowess: Superior coordination in melee combat when High Elves enter battle at full strength.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "land_units_onscreen_name_AK_aislinn": {
+      "key": "land_units_onscreen_name_AK_aislinn",
+      "value_original": "Aislinn",
+      "value_translated": "Aislinn",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_AK_aislinn_dragon": {
+      "key": "land_units_onscreen_name_AK_aislinn_dragon",
+      "value_original": "Aislinn",
+      "value_translated": "Aislinn",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_AK_aislinn_roc": {
+      "key": "land_units_onscreen_name_AK_aislinn_roc",
+      "value_original": "Aislinn",
+      "value_translated": "Aislinn",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_AK_hef_oceanid": {
+      "key": "land_units_onscreen_name_AK_hef_oceanid",
+      "value_original": "Oceanid Nymph",
+      "value_translated": "Ninfa Oceánica",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_AK_hef_sea_company": {
+      "key": "land_units_onscreen_name_AK_hef_sea_company",
+      "value_original": "Sea Company",
+      "value_translated": "Compañía Marina",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_AK_hef_sea_rangers": {
+      "key": "land_units_onscreen_name_AK_hef_sea_rangers",
+      "value_original": "Lothern Sea Rangers",
+      "value_translated": "Exploradores del Mar de Lothern",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_AK_hef_sea_roc_riders": {
+      "key": "land_units_onscreen_name_AK_hef_sea_roc_riders",
+      "value_original": "Lothern Swiftfeather Riders",
+      "value_translated": "Jinetes de Plumaveloz de Lothern",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_AK_hef_sea_silver": {
+      "key": "land_units_onscreen_name_AK_hef_sea_silver",
+      "value_original": "Silver Helm Marines",
+      "value_translated": "Marineros Yelmos Plateados",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_AK_hef_seahelm": {
+      "key": "land_units_onscreen_name_AK_hef_seahelm",
+      "value_original": "Sea Helm",
+      "value_translated": "Yelmo del Mar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_AK_hef_seahelm_roc": {
+      "key": "land_units_onscreen_name_AK_hef_seahelm_roc",
+      "value_original": "Sea Helm",
+      "value_translated": "Yelmo del Mar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_AK_hef_seahelm_skycutter": {
+      "key": "land_units_onscreen_name_AK_hef_seahelm_skycutter",
+      "value_original": "Sea Helm",
+      "value_translated": "Yelmo del Mar",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_AKcr_hef_merwyrm": {
+      "key": "land_units_onscreen_name_AKcr_hef_merwyrm",
+      "value_original": "Merwyrm",
+      "value_translated": "Merwyrm",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "land_units_onscreen_name_AKcr_hef_skycutter": {
+      "key": "land_units_onscreen_name_AKcr_hef_skycutter",
+      "value_original": "Lothern Skycutters",
+      "value_translated": "Escoltas Celestes de Lothern",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "names_name_30119900": {
+      "key": "names_name_30119900",
+      "value_original": "Aislinn",
+      "value_translated": "Aislinn",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "names_name_BREEEEEEAK2147360302": {
+      "key": "names_name_BREEEEEEAK2147360302",
+      "value_original": "Aislinn",
+      "value_translated": "Aislinn",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "special_ability_phases_onscreen_name_AK_aislinn_mastermists": {
+      "key": "special_ability_phases_onscreen_name_AK_aislinn_mastermists",
+      "value_original": "[[img:stage_one]][[/img]]Phase One: Setup",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "special_ability_phases_onscreen_name_AK_aislinn_mastermists_bis": {
+      "key": "special_ability_phases_onscreen_name_AK_aislinn_mastermists_bis",
+      "value_original": "[[img:stage_two]][[/img]]Phase Two: Trap",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "special_ability_phases_onscreen_name_AK_hef_sea_rangers_contact": {
+      "key": "special_ability_phases_onscreen_name_AK_hef_sea_rangers_contact",
+      "value_original": "[[col:red]][[img:ui/battle ui/ability_icons/AK_hef_sea_rangers_contact.png]][[/img]]Off-balance![[/col]]",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_AK_aislinn_dragon": {
+      "key": "ui_text_replacements_localised_text_AK_aislinn_dragon",
+      "value_original": "Storm Dragon",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_AK_aislinn_dragon_descr": {
+      "key": "ui_text_replacements_localised_text_AK_aislinn_dragon_descr",
+      "value_original": "The kindred of the storms for the Herald of Mathlann.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_AK_aislinn_panoply": {
+      "key": "ui_text_replacements_localised_text_AK_aislinn_panoply",
+      "value_original": "Panoply of the Merlord",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_AK_aislinn_panoply_descr": {
+      "key": "ui_text_replacements_localised_text_AK_aislinn_panoply_descr",
+      "value_original": "This rare suit of armour forged in ithilmar and sea gold is enchanted to protect the wearer and bears unusual prayers to Mathlann. Most elven smiths wouldn't normally dare, as the god is as fickle as the tides.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_building_panel_button_tooltip_wh2_main_sc_hef_high_elves": {
+      "key": "ui_text_replacements_localised_text_building_panel_button_tooltip_wh2_main_sc_hef_high_elves",
+      "value_original": "Fleet Building",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_text_replacements_localised_text_rank4": {
+      "key": "ui_text_replacements_localised_text_rank4",
+      "value_original": "([[img:rank4]][[/img]]Rank 4 and above)",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_onscreen_name_AK_aislinn_dragon": {
+      "key": "ui_unit_bullet_point_enums_onscreen_name_AK_aislinn_dragon",
+      "value_original": "Storm Dragon's Breath",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_onscreen_name_AK_hef_oceanid": {
+      "key": "ui_unit_bullet_point_enums_onscreen_name_AK_hef_oceanid",
+      "value_original": "Disruptive",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_onscreen_name_AK_hef_seahelm_windrider": {
+      "key": "ui_unit_bullet_point_enums_onscreen_name_AK_hef_seahelm_windrider",
+      "value_original": "Windrider",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_tooltip_AK_aislinn_dragon": {
+      "key": "ui_unit_bullet_point_enums_tooltip_AK_aislinn_dragon",
+      "value_original": "The rare Storm Dragons normally charge up amidst dark clouds and dive unleashing concentrated lightning.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_tooltip_AK_hef_oceanid": {
+      "key": "ui_unit_bullet_point_enums_tooltip_AK_hef_oceanid",
+      "value_original": "The Oceanid deals little to no damage but will hamper and knock back nearby foes.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_bullet_point_enums_tooltip_AK_hef_seahelm_windrider": {
+      "key": "ui_unit_bullet_point_enums_tooltip_AK_hef_seahelm_windrider",
+      "value_original": "An airborne Sea Helm is an amazing wind of swooping vengeance. His and his mount's [[img:ui/battle ui/ability_icons/resistance_missile.png]][[/img]]Missile Resistance is much higher than normal.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_groupings_onscreen_AK_hef_oceanid": {
+      "key": "ui_unit_groupings_onscreen_AK_hef_oceanid",
+      "value_original": "Disruptive Monster",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_groupings_onscreen_AK_hef_seahelm": {
+      "key": "ui_unit_groupings_onscreen_AK_hef_seahelm",
+      "value_original": "Missile & Spear Infantry",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_groupings_onscreen_AK_hef_skycutter": {
+      "key": "ui_unit_groupings_onscreen_AK_hef_skycutter",
+      "value_original": "Flying Missile Chariot",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_groupings_onscreen_AK_hef_sword_bow_inf": {
+      "key": "ui_unit_groupings_onscreen_AK_hef_sword_bow_inf",
+      "value_original": "Hybrid Bow Infantry",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_groupings_tooltip_AK_hef_oceanid": {
+      "key": "ui_unit_groupings_tooltip_AK_hef_oceanid",
+      "value_original": "The Oceanid deals little to no damage but will hamper and knock back nearby foes.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "ui_unit_groupings_tooltip_AK_hef_skycutter": {
+      "key": "ui_unit_groupings_tooltip_AK_hef_skycutter",
+      "value_original": " ",
+      "value_translated": " ",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_additional_ui_effects_localised_text_AK_hef_oceanid_summon": {
+      "key": "unit_abilities_additional_ui_effects_localised_text_AK_hef_oceanid_summon",
+      "value_original": "Summons an Oceanid Nymph to disrupt foes[[/col]]",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_additional_ui_effects_localised_text_AK_sundering": {
+      "key": "unit_abilities_additional_ui_effects_localised_text_AK_sundering",
+      "value_original": "[[col:green]][[img:ui/battle ui/ability_icons/wh_dlc06_unit_contact_sundered_armour.png]][[/img]]Sundering projectiles[[/col]]",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_aislinn_dragon": {
+      "key": "unit_abilities_onscreen_name_AK_aislinn_dragon",
+      "value_original": "Storm Dragon's Breath",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_aislinn_herald": {
+      "key": "unit_abilities_onscreen_name_AK_aislinn_herald",
+      "value_original": "Herald of Mathlann",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_aislinn_mastermists": {
+      "key": "unit_abilities_onscreen_name_AK_aislinn_mastermists",
+      "value_original": "Master of the Mists",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_aislinn_panoply": {
+      "key": "unit_abilities_onscreen_name_AK_aislinn_panoply",
+      "value_original": "{{tr:AK_aislinn_panoply}}",
+      "value_translated": "{{tr:AK_aislinn_panoply}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_hef_oceanid_aura": {
+      "key": "unit_abilities_onscreen_name_AK_hef_oceanid_aura",
+      "value_original": "The Oceanid's Song",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_hef_oceanid_death": {
+      "key": "unit_abilities_onscreen_name_AK_hef_oceanid_death",
+      "value_original": "HIDDEN",
+      "value_translated": "OCULTO",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_hef_oceanid_summon": {
+      "key": "unit_abilities_onscreen_name_AK_hef_oceanid_summon",
+      "value_original": "Mistress of the Deep",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_hef_oceanid_tidecall": {
+      "key": "unit_abilities_onscreen_name_AK_hef_oceanid_tidecall",
+      "value_original": "HIDDEN",
+      "value_translated": "OCULTO",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_hef_oceanid_tidecall2": {
+      "key": "unit_abilities_onscreen_name_AK_hef_oceanid_tidecall2",
+      "value_original": "HIDDEN",
+      "value_translated": "OCULTO",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_hef_seahelm_barrage1": {
+      "key": "unit_abilities_onscreen_name_AK_hef_seahelm_barrage1",
+      "value_original": "Eagle Claw Salvo",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_hef_seahelm_barrage2": {
+      "key": "unit_abilities_onscreen_name_AK_hef_seahelm_barrage2",
+      "value_original": "Eagle Claw Bombardment",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_hef_seahelm_barrage3": {
+      "key": "unit_abilities_onscreen_name_AK_hef_seahelm_barrage3",
+      "value_original": "Eagle Claw Broadside",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_hef_seahelm_discipline": {
+      "key": "unit_abilities_onscreen_name_AK_hef_seahelm_discipline",
+      "value_original": "Naval Discipline",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_hef_seahelm_dragonblades": {
+      "key": "unit_abilities_onscreen_name_AK_hef_seahelm_dragonblades",
+      "value_original": "Dragonship Ramming",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_hef_seahelm_mist": {
+      "key": "unit_abilities_onscreen_name_AK_hef_seahelm_mist",
+      "value_original": "The Writhing Mists",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_onscreen_name_AK_hef_seahelm_spies": {
+      "key": "unit_abilities_onscreen_name_AK_hef_seahelm_spies",
+      "value_original": "BREAK DA WALL",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_aislinn_dragon": {
+      "key": "unit_abilities_tooltip_text_AK_aislinn_dragon",
+      "value_original": "The rare Storm Dragons normally charge up amidst dark clouds and dive unleashing concentrated lightning.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_aislinn_herald": {
+      "key": "unit_abilities_tooltip_text_AK_aislinn_herald",
+      "value_original": "They say Aislinn is being kept safe by Mathlann himself, to the point that even when defeated he might just wash ashore as if nothing happened.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_aislinn_mastermists": {
+      "key": "unit_abilities_tooltip_text_AK_aislinn_mastermists",
+      "value_original": "Aislinn is adept at making full use of the magic mists summoned by his mages to hit the enemy hard before the battle has even started.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_aislinn_panoply": {
+      "key": "unit_abilities_tooltip_text_AK_aislinn_panoply",
+      "value_original": "{{tr:AK_aislinn_panoply_descr}}",
+      "value_translated": "{{tr:AK_aislinn_panoply_descr}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_hef_oceanid_aura": {
+      "key": "unit_abilities_tooltip_text_AK_hef_oceanid_aura",
+      "value_original": "The enemy falters, beholden by visions of haunting beauty unique to each of them.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_hef_oceanid_death": {
+      "key": "unit_abilities_tooltip_text_AK_hef_oceanid_death",
+      "value_original": "used for death vfx atm",
+      "value_translated": "used for death vfx atm",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_hef_oceanid_summon": {
+      "key": "unit_abilities_tooltip_text_AK_hef_oceanid_summon",
+      "value_original": "Aislinn's Storm Weavers summon a sea nymph to aid the Asur. The Oceanid's daunting beauty and song enthrall the foe offering an opening to the Sea Guard.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_hef_oceanid_tidecall": {
+      "key": "unit_abilities_tooltip_text_AK_hef_oceanid_tidecall",
+      "value_original": "used to time splashy vortex",
+      "value_translated": "used to time splashy vortex",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_hef_oceanid_tidecall2": {
+      "key": "unit_abilities_tooltip_text_AK_hef_oceanid_tidecall2",
+      "value_original": "used to time splashy vortex",
+      "value_translated": "used to time splashy vortex",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_hef_seahelm_barrage1": {
+      "key": "unit_abilities_tooltip_text_AK_hef_seahelm_barrage1",
+      "value_original": "Younger races may look down upon simple bolt throwers, but Sea Guards are quite accurate.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_hef_seahelm_barrage2": {
+      "key": "unit_abilities_tooltip_text_AK_hef_seahelm_barrage2",
+      "value_original": "Asur ships carry many Eagle Claw bolt throwers on their decks. Anything hostile is target to a lot of precise attention.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_hef_seahelm_barrage3": {
+      "key": "unit_abilities_tooltip_text_AK_hef_seahelm_barrage3",
+      "value_original": "A Dragonship's deck bristles with firepower. Certainly not as powerful as a cannon broadside, but it can accurately shear off its target.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_hef_seahelm_discipline": {
+      "key": "unit_abilities_tooltip_text_AK_hef_seahelm_discipline",
+      "value_original": "The Sea Helm's finely-honed instincts combine with the Sea Guard's discipline to create a swiftly adaptable force.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_hef_seahelm_dragonblades": {
+      "key": "unit_abilities_tooltip_text_AK_hef_seahelm_dragonblades",
+      "value_original": "Being rammed by Dragonblades is one of the worst things that can happen to a ship. And its crew.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_hef_seahelm_mist": {
+      "key": "unit_abilities_tooltip_text_AK_hef_seahelm_mist",
+      "value_original": "A salt-scented mist rolls in across the battlefield, shrouding the Asur troops.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_abilities_tooltip_text_AK_hef_seahelm_spies": {
+      "key": "unit_abilities_tooltip_text_AK_hef_seahelm_spies",
+      "value_original": "hidden",
+      "value_translated": "oculto",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AK_aislinn": {
+      "key": "unit_description_historical_texts_text_AK_aislinn",
+      "value_original": "Sea Lord Aislinn, known as \"the Pernicious\" in the Phoenix Court, is a phenomenal tactician and implacable foe. Under his control the High Elf fleet has gained scores of impressive victories. While none question his successes, it has been noted that Lord Aislinn carries out his duties with ruthless enthusiasm and an air of viciousness that many in the courts of Ulthuan find distasteful. Indeed, Finubar himself has made note that not even the counsel of a king will sway Aislinn's thoughts once his mind is made up.\\\\n\\\\nDetermined to stop Norse raids upon Ulthuan altogether, Aislinn has overseen a violent campaign of attacks on the Norscan coastline. Entire Norse settlements were wiped out, the Sea Guard spreading confusion and fear along the coast and melting away into the morning mists after each ruthless and quick incursion is finished.\\\\n\\\\nProud, with a pronounced cruel streak, any Human or Dwarf who treats him with disrespect is likely to be challenged to a duel, and he has a particular (and peculiar) loathing of Halflings. His first campaign of note was indeed one of retribution against Marienburg, after the pirate Otto Steinroth had attacked the settlement of Sardenath. Under cover by magical mist, the Asur fleet staged an assault on the harbour of Marienbrug to successfully bring the pirate to justice, retrieving the loot and elven merchants in the process. In the Phoenix Court, Aislinn reception was mixed. Some regarded him as a hero, while others believed his actions to be unnecessarily harsh. Phoenix King Finubar is, ironically, one of his greatest approvers as he sees in him a ruthlessness that the elven people could not afford to lose.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AK_aislinn_dragon": {
+      "key": "unit_description_historical_texts_text_AK_aislinn_dragon",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "PLACEHOLDER",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AK_aislinn_roc": {
+      "key": "unit_description_historical_texts_text_AK_aislinn_roc",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "PLACEHOLDER",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AK_hef_oceanid": {
+      "key": "unit_description_historical_texts_text_AK_hef_oceanid",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "PLACEHOLDER",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AK_hef_sea_company": {
+      "key": "unit_description_historical_texts_text_AK_hef_sea_company",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "PLACEHOLDER",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AK_hef_sea_rangers": {
+      "key": "unit_description_historical_texts_text_AK_hef_sea_rangers",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "PLACEHOLDER",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AK_hef_sea_roc_riders": {
+      "key": "unit_description_historical_texts_text_AK_hef_sea_roc_riders",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "PLACEHOLDER",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AK_hef_sea_silver": {
+      "key": "unit_description_historical_texts_text_AK_hef_sea_silver",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "PLACEHOLDER",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AK_hef_seahelm": {
+      "key": "unit_description_historical_texts_text_AK_hef_seahelm",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "PLACEHOLDER",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AK_hef_seahelm_roc": {
+      "key": "unit_description_historical_texts_text_AK_hef_seahelm_roc",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "PLACEHOLDER",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AK_hef_seahelm_skycutter": {
+      "key": "unit_description_historical_texts_text_AK_hef_seahelm_skycutter",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "PLACEHOLDER",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AKcr_hef_merwyrm": {
+      "key": "unit_description_historical_texts_text_AKcr_hef_merwyrm",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "PLACEHOLDER",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_historical_texts_text_AKcr_hef_skycutter": {
+      "key": "unit_description_historical_texts_text_AKcr_hef_skycutter",
+      "value_original": "PLACEHOLDER",
+      "value_translated": "PLACEHOLDER",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_description_short_texts_text_AK_aislinn": {
+      "key": "unit_description_short_texts_text_AK_aislinn",
+      "value_original": "Stern and ruthless, Aislinn reaches into the enemy's own land to defend Ulthuan.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_AK_hef_oceanid": {
+      "key": "unit_description_short_texts_text_AK_hef_oceanid",
+      "value_original": "Aislinn's storm-weaving mages may summon the aid of an Oceanid, member of the vast nymph family. ",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_AK_hef_sea_company": {
+      "key": "unit_description_short_texts_text_AK_hef_sea_company",
+      "value_original": "The ships' own crews are trained fighters that can be called to fight when numbers are lacking among Seaguards proper.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_AK_hef_sea_rangers": {
+      "key": "unit_description_short_texts_text_AK_hef_sea_rangers",
+      "value_original": "The elite of the Lothern Sea Guard leads preemptive raids, striking efficiently and violently and dealing damage disproportionate to their low numbers.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_AK_hef_sea_roc_riders": {
+      "key": "unit_description_short_texts_text_AK_hef_sea_roc_riders",
+      "value_original": "Swiftfeather Rocs dwell on Lothern's coasts and are invaluable allies for the Sea Guard.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_AK_hef_sea_silver": {
+      "key": "unit_description_short_texts_text_AK_hef_sea_silver",
+      "value_original": "Dragonship marines tend to be composed of silver-helmed nobles, eager to prove themselves wherever needed.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_AK_hef_seahelm": {
+      "key": "unit_description_short_texts_text_AK_hef_seahelm",
+      "value_original": "Sea Helms lead the highly-disciplined fleets and marines that defend Lothern. Their aid in defending Ulthuan is invaluable.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_AKcr_hef_merwyrm": {
+      "key": "unit_description_short_texts_text_AKcr_hef_merwyrm",
+      "value_original": "Rare dragonkin and a terror of the sea, the Merwyrms are as wingless as they are ferocious and ravenous, barely kept in check by elven Mist mages.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_description_short_texts_text_AKcr_hef_skycutter": {
+      "key": "unit_description_short_texts_text_AKcr_hef_skycutter",
+      "value_original": "Magic vessels like these are drawn into battle by Swiftfeather Rocs and employed by the Seaguard crew for outflying missions.",
+      "value_translated": "",
+      "needs_retranslation": true,
+      "removed": false
+    },
+    "unit_set_to_mp_unit_caps_localised_name_mp_AK_hef_oceanid": {
+      "key": "unit_set_to_mp_unit_caps_localised_name_mp_AK_hef_oceanid",
+      "value_original": "Oceanid Nymph",
+      "value_translated": "Ninfa Oceánica",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_set_to_mp_unit_caps_localised_name_mp_AK_hef_sea_company": {
+      "key": "unit_set_to_mp_unit_caps_localised_name_mp_AK_hef_sea_company",
+      "value_original": "Sea Company",
+      "value_translated": "Compañía Marina",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_set_to_mp_unit_caps_localised_name_mp_AK_hef_sea_rangers": {
+      "key": "unit_set_to_mp_unit_caps_localised_name_mp_AK_hef_sea_rangers",
+      "value_original": "Lothern Sea Rangers",
+      "value_translated": "Exploradores del Mar de Lothern",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_set_to_mp_unit_caps_localised_name_mp_AK_hef_sea_roc_riders": {
+      "key": "unit_set_to_mp_unit_caps_localised_name_mp_AK_hef_sea_roc_riders",
+      "value_original": "Lothern Swiftfeather Riders",
+      "value_translated": "Jinetes de Plumaveloz de Lothern",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_set_to_mp_unit_caps_localised_name_mp_AK_hef_sea_silver": {
+      "key": "unit_set_to_mp_unit_caps_localised_name_mp_AK_hef_sea_silver",
+      "value_original": "Silver Helm Marines",
+      "value_translated": "Marineros Yelmos Plateados",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "unit_set_to_mp_unit_caps_localised_name_mp_AKcr_hef_skycutter": {
+      "key": "unit_set_to_mp_unit_caps_localised_name_mp_AKcr_hef_skycutter",
+      "value_original": "Lothern Skycutter",
+      "value_translated": "Escolta Celeste de Lothern",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_localised_description_AK_aislinnAK_aislinn_dragon": {
+      "key": "units_custom_battle_mounts_localised_description_AK_aislinnAK_aislinn_dragon",
+      "value_original": "{{tr:AK_aislinn_dragon_descr}}",
+      "value_translated": "{{tr:AK_aislinn_dragon_descr}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_localised_description_AK_aislinnAK_aislinn_roc": {
+      "key": "units_custom_battle_mounts_localised_description_AK_aislinnAK_aislinn_roc",
+      "value_original": "Bird is the word.",
+      "value_translated": "Pájaro es la palabra.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_localised_description_AK_hef_seahelmAK_hef_seahelm_roc": {
+      "key": "units_custom_battle_mounts_localised_description_AK_hef_seahelmAK_hef_seahelm_roc",
+      "value_original": "Bird is the word.",
+      "value_translated": "Pájaro es la palabra.",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_mount_name_AK_aislinnAK_aislinn_dragon": {
+      "key": "units_custom_battle_mounts_mount_name_AK_aislinnAK_aislinn_dragon",
+      "value_original": "{{tr:AK_aislinn_dragon}}",
+      "value_translated": "{{tr:AK_aislinn_dragon}}",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_mount_name_AK_aislinnAK_aislinn_roc": {
+      "key": "units_custom_battle_mounts_mount_name_AK_aislinnAK_aislinn_roc",
+      "value_original": "Swiftfeather Roc",
+      "value_translated": "Roc Plumaveloz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_mount_name_AK_hef_seahelmAK_hef_seahelm_roc": {
+      "key": "units_custom_battle_mounts_mount_name_AK_hef_seahelmAK_hef_seahelm_roc",
+      "value_original": "Swiftfeather Roc",
+      "value_translated": "Roc Plumaveloz",
+      "needs_retranslation": false,
+      "removed": false
+    },
+    "units_custom_battle_mounts_mount_name_AK_hef_seahelmAK_hef_seahelm_skycutter": {
+      "key": "units_custom_battle_mounts_mount_name_AK_hef_seahelmAK_hef_seahelm_skycutter",
+      "value_original": "Skycutter",
+      "value_translated": "Escolta Celeste",
+      "needs_retranslation": false,
+      "removed": false
+    }
+  }
+}
