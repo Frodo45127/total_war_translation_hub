@@ -1,0 +1,9 @@
+key	text	tooltip
+#Loc;1;text/fixes.loc
+random_localisation_strings_string_bribe_nonhostile_description	Estás intentando manipular a un agente no hostil para que se una a tu facción. Esto es un acto de guerra.\\n¿Qué vas a hacer?	true
+random_localisation_strings_string_Empty_building_warning	\\n\\nSi dejas este sitio sin desarrollar demasiado tiempo, se crearán barrios pobres.	true
+random_localisation_strings_string_trade_agreement_tooltip_export_route_count	Rutas marítimas de exportación restantes:\\\\nTú: %d/%d  Ellos: %d/%d||Se basa en los puertos comerciales de la región de la capital.	true
+ui_unit_stats_onscreen_name_stat_missile_block_chance	Prob. bloq. de proyectiles	true
+ui_unit_stats_tooltip_text_stat_ammo	La cantidad de munición que esta unidad puede llevar a la batalla.||Una vez consumida, la unidad se verá forzada a pasar al modo cuerpo a cuerpo para seguir luchando.||Después de la batalla, la munición se recuperará completamente.	true
+ui_unit_stats_tooltip_text_stat_weapon_damage	El daño causado por el arma de una unidad, dividido entre daños básicos y por perforación de armadura.||El daño por perforación de armadura se aplica siempre; el daño básico puede ser bloqueado por la armadura.	true
+unit_attributes_bullet_text_hide_scrub_and_forest	Esconderse en el bosque y en los matorrales||Esta unidad puede esconderse en el bosque y en los matorrales hasta que se acerquen las unidades enemigas.	true
