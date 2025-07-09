@@ -7425,7 +7425,7 @@
     "land_units_onscreen_name_arn_lords_westernesse": {
       "key": "land_units_onscreen_name_arn_lords_westernesse",
       "value_original": "Lords of Westernesse",
-      "value_translated": "Señores de Westernesse",
+      "value_translated": "Señores de Oesternesse",
       "needs_retranslation": false,
       "removed": false
     },
@@ -12262,7 +12262,7 @@
     "quotes_people_quote_person_onscreen_gloin3": {
       "key": "quotes_people_quote_person_onscreen_gloin3",
       "value_original": "Glóin to the Council, ‘The Council of Elrond’ (The Fellowship of the Ring)",
-      "value_translated": "Glóin al Consejo, «El Consejo de Elrond» (La Comunidad del Anillo)",
+      "value_translated": "Glóin al Consejo, «El Concilio de Elrond» (La Comunidad del Anillo)",
       "needs_retranslation": false,
       "removed": false
     },
