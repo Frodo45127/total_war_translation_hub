@@ -11849,7 +11849,7 @@
     "projectile_shot_type_enum_button_tooltip_text_explosives": {
       "key": "projectile_shot_type_enum_button_tooltip_text_explosives",
       "value_original": "Explosive Pot",
-      "value_translated": "Olla explosiva",
+      "value_translated": "Caldero explosivo",
       "needs_retranslation": false,
       "removed": false
     },
@@ -30084,7 +30084,7 @@
     "unit_weights_onscreen_text_troll_heavy": {
       "key": "unit_weights_onscreen_text_troll_heavy",
       "value_original": "Heavy",
-      "value_translated": "Pesada",
+      "value_translated": "(Pesada)",
       "needs_retranslation": false,
       "removed": false
     }
