@@ -9,7 +9,10 @@ Note that translations may be incomplete.
         - **Vanilla fixes**: provided by Frodo45127
         - **Roots of Japan**: translated by Frodo45127
 - **Rome 2**: no mods translated nor vanilla loc fixes added.
-- **Attila**: no mods translated nor vanilla loc fixes added.
+- **Attila**: 
+    - **Spanish**:
+        - **Vanilla fixes**: provided by Frodo45127
+        - **The Dawnless Days**: provided by Frodo45127.
 - **Thrones of Britannia**: no mods translated nor vanilla loc fixes added.
 - **Warhammer**: no mods translated nor vanilla loc fixes added.
 - **Warhammer 2**: no mods translated nor vanilla loc fixes added.
