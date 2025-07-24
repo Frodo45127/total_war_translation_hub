@@ -10484,14 +10484,14 @@
     "land_units_onscreen_name_loth_haldir": {
       "key": "land_units_onscreen_name_loth_haldir",
       "value_original": "Haldir (Wardens of the Fences)",
-      "value_translated": "Haldir (Custodios de las Vallas)",
+      "value_translated": "Haldir (Custodios de las fronteras)",
       "needs_retranslation": false,
       "removed": false
     },
     "land_units_onscreen_name_loth_haldirs_bodyguards": {
       "key": "land_units_onscreen_name_loth_haldirs_bodyguards",
       "value_original": "Haldir (Wardens of the Fences)",
-      "value_translated": "Haldir (Custodios de las Vallas)",
+      "value_translated": "Haldir (Custodios de las fronteras)",
       "needs_retranslation": false,
       "removed": false
     },
@@ -10582,7 +10582,7 @@
     "land_units_onscreen_name_loth_wardens_fences": {
       "key": "land_units_onscreen_name_loth_wardens_fences",
       "value_original": "Wardens of the Fences",
-      "value_translated": "Custodios de las Vallas",
+      "value_translated": "Custodios de las fronteras",
       "needs_retranslation": false,
       "removed": false
     },
