@@ -13,7 +13,9 @@ Note that translations may be incomplete.
     - **Spanish**:
         - **Vanilla fixes**: provided by Frodo45127
         - **The Dawnless Days**: provided by Frodo45127.
-- **Thrones of Britannia**: no mods translated nor vanilla loc fixes added.
+- **Thrones of Britannia**:
+    - **German**:
+        - **Thrones Reforged**: translated by @steevenklapschinsky-rgb
 - **Warhammer**: no mods translated nor vanilla loc fixes added.
 - **Warhammer 2**: no mods translated nor vanilla loc fixes added.
 - **Three Kingdoms**: no mods translated nor vanilla loc fixes added.
