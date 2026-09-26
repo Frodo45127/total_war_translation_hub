@@ -56033,8 +56033,8 @@
     "building_short_description_texts_short_description_rom_dale_military_2": {
       "key": "building_short_description_texts_short_description_rom_dale_military_2",
       "value_original": "\"No men in Middle-earth can surpass our riders, save for our cousins in Rohan.\"",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "«Ningún hombre de la Tierra Media puede superar a nuestros jinetes, salvo nuestros primos de Rohan».",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_short_description_texts_short_description_rom_dale_military_cavalry_3": {
@@ -56131,7 +56131,7 @@
     "building_short_description_texts_short_description_rom_dale_religion_4": {
       "key": "building_short_description_texts_short_description_rom_dale_religion_4",
       "value_original": "Forging weapons and tools, vital to both war and industry.",
-      "value_translated": "",
+      "value_translated": "La forja de armas y herramientas, fundamental tanto para la guerra como para la industria.",
       "needs_retranslation": false,
       "removed": false
     },
@@ -56145,8 +56145,8 @@
     "building_short_description_texts_short_description_rom_dale_supplies_forge_1": {
       "key": "building_short_description_texts_short_description_rom_dale_supplies_forge_1",
       "value_original": "\"Our blacksmits can link rings and forge swords that can rival those of the Lonely Mountain.\" ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "«Nuestros herreros pueden unir anillos y forjar espadas que pueden rivalizar con las de la Montaña Solitaria». ",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_short_description_texts_short_description_rom_dale_supplies_forge_2": {
@@ -56159,7 +56159,7 @@
     "building_short_description_texts_short_description_rom_dale_supplies_forge_3": {
       "key": "building_short_description_texts_short_description_rom_dale_supplies_forge_3",
       "value_original": "Long chains of supplies to ensure Dale's forces are always well-fed and well provisioned. ",
-      "value_translated": "",
+      "value_translated": "Largas cadenas de suministro para garantizar que las fuerzas de Dale estén siempre bien alimentadas y bien abastecidas. ",
       "needs_retranslation": false,
       "removed": false
     },
@@ -63264,8 +63264,8 @@
     "building_short_description_texts_short_description_rom_unique_dale_kings_hall_1": {
       "key": "building_short_description_texts_short_description_rom_unique_dale_kings_hall_1",
       "value_original": "From these great halls, the King of Dale projects authority over the realm.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Desde estas grandiosas salas, el rey de Dale ejerce su autoridad sobre el reino.",
+      "needs_retranslation": false,
       "removed": false
     },
     "building_short_description_texts_short_description_rom_unique_doors_of_durin_1": {
@@ -64734,8 +64734,8 @@
     "campaign_effect_scopes_localised_text_rom_province_to_force_enemy_in_adjacent_province": {
       "key": "campaign_effect_scopes_localised_text_rom_province_to_force_enemy_in_adjacent_province",
       "value_original": "(enemy forces in adjacent provinces)",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "(fuerzas enemigas en provincias adyacentes)",
+      "needs_retranslation": false,
       "removed": false
     },
     "campaign_localised_strings_string_character_neutral_effect_level": {
@@ -83942,7 +83942,7 @@
     "character_trait_levels_onscreen_name_rom_trait_general_experience_military_seafarer_2": {
       "key": "character_trait_levels_onscreen_name_rom_trait_general_experience_military_seafarer_2",
       "value_original": "Seafarer",
-      "value_translated": "",
+      "value_translated": "Marinero",
       "needs_retranslation": false,
       "removed": false
     },
@@ -90718,211 +90718,211 @@
     "diplomacy_strings_string_acknowledge_cancel_trade_dwarves_01": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_dwarves_01",
       "value_original": "And where will you get yer mithril now?",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¿Y de dónde vas a sacar ahora el mithril?",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_dwarves_02": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_dwarves_02",
       "value_original": "I'll not beg ye to reconsider. It's yer loss, not mine.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "No te voy a rogar que lo reconsideres. Es tu pérdida, no la mía.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_dwarves_03": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_dwarves_03",
       "value_original": "Yer coin was second rate in our markets anyway.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "De todos modos, vuestra moneda ya era de segunda categoría en nuestros mercados.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_easterlings_01": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_easterlings_01",
       "value_original": "And where will you get your gold and silk now? ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¿Y de dónde vas a sacar ahora el oro y la seda? ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_easterlings_02": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_easterlings_02",
       "value_original": "Our markets are closed to you and your wares. Rhûnic gold flows to you no more.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Nuestros mercados están cerrados para ti y para tus mercancías. El oro rhûnico ya no fluye hacia ti.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_easterlings_03": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_easterlings_03",
       "value_original": "It is folly that leads a man to bite the hand that feeds him. Do not look to us for sustenance.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Es una locura lo que lleva a un hombre a morder la mano que le da de comer. No esperes que seamos nosotros quienes te demos de comer.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_elves_01": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_elves_01",
       "value_original": "The rivers of commerce, it seems, no longer flow between our realms. Let us hope this does not presage a deeper estrangement, for the sake of all who dwell near the forest's edge.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Al parecer, los flujos comerciales ya no circulan entre nuestros reinos. Esperemos que esto no presagie un distanciamiento aún mayor, por el bien de todos los que habitan cerca del límite del bosque.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_elves_02": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_elves_02",
       "value_original": "Though unwelcome, your choice is clear. I trust you have weighed the consequences of severing these ties with due consideration.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Aunque no sea lo que nos gustaría, tu decisión está clara. Confío en que hayas sopesado con la debida atención las consecuencias de romper estos lazos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_elves_03": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_elves_03",
       "value_original": "If such is your will, we shall respect it. Know, however, that the threads of trust, once broken, are not easily rewoven.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Si esa es tu voluntad, la respetaremos. Pero ten en cuenta que los lazos de confianza, una vez rotos, no se vuelven a tejer fácilmente.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_isengard_01": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_isengard_01",
       "value_original": "Isengard is glad to be rid of your trinkets, for they were merely thrown to the fires of our industry.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Isengard se alegra de haberse librado de tus baratijas, pues no fueron más que combustible para el fuego de nuestra industria.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_isengard_02": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_isengard_02",
       "value_original": "Prosperity once share now withers by your own hand. Fortune seldom smiles upon isolation.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La prosperidad que antes compartías se marchita ahora por tu propia culpa. La fortuna rara vez sonríe al aislamiento.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_isengard_03": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_isengard_03",
       "value_original": "Wealth finds new rivers, and those who dam the old may yet drown in stagnation.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "La riqueza encuentra nuevos cauces, y quienes construyen presas en los antiguos pueden acabar ahogándose en el estancamiento.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_middle_men_01": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_middle_men_01",
       "value_original": "A shortsighted sacrifice, when gold cannot buy friends, and allies even less.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Un sacrificio poco previsor, cuando el oro no puede comprar amigos y, menos aún, aliados.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_middle_men_02": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_middle_men_02",
       "value_original": "You recall your merchants and hoard your goods like a robber in his own hold. ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Llamas a tus comerciantes y atesoras tus mercancías como un ladrón en su propio guarida. ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_middle_men_03": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_middle_men_03",
       "value_original": "A shame that our merchants no longer carry our fine goods to your lands.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Es una pena que nuestros comerciantes ya no lleven nuestros excelentes productos a vuestras tierras.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_mordor_01": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_mordor_01",
       "value_original": "The Master has wealth that would make the greatest dwarf lord weep. This serves as hindrance only to thy coffers.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El Amo posee una riqueza que haría llorar al más grande de los señores enanos. Esto solo supone un obstáculo para tus arcas.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_mordor_02": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_mordor_02",
       "value_original": "I had already assumed that wealth no longer flows between our lands, such is the sorry state of thy markets. Thy art of no worth to us, creature.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ya había dado por hecho que la riqueza ya no circula entre nuestras tierras, tal es el lamentable estado de tus mercados. Tu arte no tiene ningún valor para nosotros, criatura.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_mordor_03": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_mordor_03",
       "value_original": "This is no hindrance, I assure thee. What the Lord of the Tower wants, He shall recieve.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "No supone ningún obstáculo, te lo aseguro. Lo que el Señor de la Torre quiera, lo recibirá.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_orcs_01": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_orcs_01",
       "value_original": "Fine. Keep your gold and your grain. But you won't keep your throats in the middle of the night.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Vale. Quédate con tu oro y tu trigo. Pero no te quedarás con tus gargantas en plena noche.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_orcs_02": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_orcs_02",
       "value_original": "You get fat on our blades, then pull your deals like teeth from a wolf’s mouth? We should’ve eaten you instead.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¿Te haces rico gracias a nuestras cuchillas y luego nos quitas tus negocios como si fueran los dientes de la boca de un lobo? Más nos hubiera valido comerte a ti.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_orcs_03": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_orcs_03",
       "value_original": "What is trade to the Orcs? You think you've got the upper hand? We do not trade, we take!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¿Qué es el comercio para los orcos? ¿Crees que tienes la sartén por el mango? ¡Nosotros no comerciamos, tomamos!",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_rohirrim_01": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_rohirrim_01",
       "value_original": "Rohan has always ridden alone if need be, and so we shall again. Though this severing weakens us both, we will not falter.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Rohan siempre ha cabalgado solo cuando ha sido necesario, y así lo haremos de nuevo. Aunque esta separación nos debilita a ambos, no nos desanimaremos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_rohirrim_02": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_rohirrim_02",
       "value_original": "Your choice is made. May your stores prove sufficient against the hardship you have chosen.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ya has tomado una decisión. Ojalá tus reservas resulten suficientes para hacer frente a las dificultades que has elegido.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_rohirrim_03": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_rohirrim_03",
       "value_original": "The agreement is broken, then. While regretful of its end, Rohan will not beg. Mayhap one day, trust can be rebuilt, but the road is long.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Entonces, el acuerdo se ha roto. Aunque lamenta que haya llegado a su fin, Rohan no suplicará. Quizá algún día se pueda recuperar la confianza, pero el camino es largo.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_southrons_01": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_southrons_01",
       "value_original": "We shall tell our bazaars to rid their pits of dung. I mean, their shelves of your wares.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Les diremos a nuestros mercadillos que se deshagan de sus montones de estiércol. Quiero decir, de sus estanterías llenas de vuestras mercancías.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_southrons_02": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_southrons_02",
       "value_original": "Your trinkets are as valuable as the sands. We have enough dunes as it stands.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tus baratijas valen tanto como la arena. Ya tenemos suficientes dunas tal y como están las cosas.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_southrons_03": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_southrons_03",
       "value_original": "We regret your loss of our caravans.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lamentamos que hayas perdido nuestras caravanas.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_wildmen_01": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_wildmen_01",
       "value_original": "You break bread with us no longer. Take your soft goods and leave our sight.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ya no compartes el pan con nosotros. Coge tus pertenencias y desaparece de nuestra vista.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_wildmen_02": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_wildmen_02",
       "value_original": "Keep your wares, hoard your gold. The wildmen have survived without your scraps before, and we will again.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Quédate con tus mercancías, atesora tu oro. Los hombres salvajes ya hemos sobrevivido antes sin tus sobras, y lo volveremos a hacer.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_cancel_trade_wildmen_03": {
       "key": "diplomacy_strings_string_acknowledge_cancel_trade_wildmen_03",
       "value_original": "Then the hills will provide, as they always have.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Entonces las colinas nos darán lo que necesitamos, como siempre han hecho.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_dunedain_01": {
@@ -90970,85 +90970,85 @@
     "diplomacy_strings_string_acknowledge_reject_dwarves_01": {
       "key": "diplomacy_strings_string_acknowledge_reject_dwarves_01",
       "value_original": "Blast it all. I had hoped for more sense from ye.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¡Maldita sea! Esperaba que tuvierais un poco más de sentido común.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_dwarves_02": {
       "key": "diplomacy_strings_string_acknowledge_reject_dwarves_02",
       "value_original": "Bah, stubborn as a mountain goat, you are.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Vaya, eres tan terco como una cabra de montaña.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_dwarves_03": {
       "key": "diplomacy_strings_string_acknowledge_reject_dwarves_03",
       "value_original": "Damn and blast! I poured over them plans for weeks. Should've known better than to expect sense from surface folk.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¡Maldita sea! Llevaba semanas estudiando a fondo esos planos. Debería haber sabido que no se puede esperar que la gente de la superficie tenga sentido común.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_dwarves_04": {
       "key": "diplomacy_strings_string_acknowledge_reject_dwarves_04",
       "value_original": "Fine. Waste yer chance, then.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Vale. Pues desperdicia tu oportunidad, entonces.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_dwarves_05": {
       "key": "diplomacy_strings_string_acknowledge_reject_dwarves_05",
       "value_original": "Don't come cryin' back. I'll say I told ya so. ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "No vuelvas a venir a lloriquear. Te diré que ya te lo había dicho. ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_dwarves_06": {
       "key": "diplomacy_strings_string_acknowledge_reject_dwarves_06",
       "value_original": "Durin's beard! A right pity, it is.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¡Por la barba de Durin! Es una verdadera lástima.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_easterlings_01": {
       "key": "diplomacy_strings_string_acknowledge_reject_easterlings_01",
       "value_original": "So, you are a fool, then. It is no matter. If you are as witless as I think, you may never even come to realise your mistake.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Pues, entonces eres un tonto. No importa. Si eres tan despistado como creo, puede que ni siquiera llegues a darte cuenta de tu error.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_easterlings_02": {
       "key": "diplomacy_strings_string_acknowledge_reject_easterlings_02",
       "value_original": "You have chosen...poorly.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Has elegido... mal.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_easterlings_03": {
       "key": "diplomacy_strings_string_acknowledge_reject_easterlings_03",
       "value_original": "It is no matter. You simply lack the fortitude to do what is necessary when presented the opportunity.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "No pasa nada. Simplemente te falta la entereza necesaria para hacer lo que hay que hacer cuando se te presenta la oportunidad.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_easterlings_04": {
       "key": "diplomacy_strings_string_acknowledge_reject_easterlings_04",
       "value_original": "I regret your decision. All of Rhûn regrets your decision. Pray you the golden hordes do not take offense.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lamento tu decisión. Todo Rhûn lamenta tu decisión. Reza para que las hordas doradas no se ofendan.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_easterlings_05": {
       "key": "diplomacy_strings_string_acknowledge_reject_easterlings_05",
       "value_original": "Our failure to convince you is not of great import. It is but our courage to continue that counts. ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El hecho de que no hayamos logrado convenceros no tiene gran importancia. Lo que cuenta es nuestro valor para seguir adelante. ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_easterlings_06": {
       "key": "diplomacy_strings_string_acknowledge_reject_easterlings_06",
       "value_original": "The clansmen are disappointed you have chosen a path of folly this day. ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Los miembros del clan están decepcionados porque hoy has elegido un camino de locura. ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_elves_01": {
@@ -91061,330 +91061,330 @@
     "diplomacy_strings_string_acknowledge_reject_elves_02": {
       "key": "diplomacy_strings_string_acknowledge_reject_elves_02",
       "value_original": "Perhaps reason has not prevailed today, but so be it: it is written now in the history of Arda, and neither Melkor nor Manwë can unwrite it.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Quizá hoy no haya prevalecido la razón, pero que así sea: ya está escrito en la historia de Arda, y ni Melkor ni Manwë pueden borrarlo.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_elves_03": {
       "key": "diplomacy_strings_string_acknowledge_reject_elves_03",
       "value_original": "You, it seems, will take counsel with your own wisdom, or with your sword only, and you speak haughtily. And I say to you that if you do so, other might be your doom than you look for.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Parece que vas a guiarte por tu propia sabiduría, o solo por tu espada, y hablas con altivez. Y yo te digo que, si lo haces, tu destino podría ser muy distinto al que esperas.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_elves_04": {
       "key": "diplomacy_strings_string_acknowledge_reject_elves_04",
       "value_original": "I wish it were not so, yet I do not cast all hope away. Tomorrow is unknown. Rede oft is found at the rising of the Sun.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ojalá no fuera así, pero no pierdo del todo la esperanza. El mañana es una incógnita. A menudo se encuentra la solución al salir el sol.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_elves_05": {
       "key": "diplomacy_strings_string_acknowledge_reject_elves_05",
       "value_original": "I had hoped that the wisdom of ages might find purchase in your heart. Farewell, then.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tenía la esperanza de que la sabiduría de los siglos encontrara eco en tu corazón. Adiós, pues.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_elves_06": {
       "key": "diplomacy_strings_string_acknowledge_reject_elves_06",
       "value_original": "Alas, some eyes are blind to the light that graces the path of wisdom.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Por desgracia, hay quienes no ven la luz que ilumina el camino de la sabiduría.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_isengard_01": {
       "key": "diplomacy_strings_string_acknowledge_reject_isengard_01",
       "value_original": "I have made a fair offer, so that those whom you mislead may clearly see the choice of roads. I need you not!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "He hecho una oferta justa, para que aquellos a quienes engañas puedan ver claramente las distintas opciones que tienen. ¡No te necesito!",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_isengard_02": {
       "key": "diplomacy_strings_string_acknowledge_reject_isengard_02",
       "value_original": "You are proud and do not love advice, having indeed a store of your own wisdom. But on this occasion you erred.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Eres orgulloso y no te gustan los consejos, ya que, de hecho, tienes tu propia sabiduría. Pero en esta ocasión te has equivocado.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_isengard_03": {
       "key": "diplomacy_strings_string_acknowledge_reject_isengard_03",
       "value_original": "Your love of the Halflings' leaf has clearly slowed your mind!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¡Tu pasión por la hoja de los medianos te ha nublado claramente la mente!",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_isengard_04": {
       "key": "diplomacy_strings_string_acknowledge_reject_isengard_04",
       "value_original": "I gave you the chance of aiding me willingly.  But you have elected the way of pain!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Te di la oportunidad de ayudarme por voluntad propia. ¡Pero has elegido el camino del sufrimiento!",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_isengard_05": {
       "key": "diplomacy_strings_string_acknowledge_reject_isengard_05",
       "value_original": "Well, I see that this wise course does not commend itself to you. Not yet? Not if some better way can be contrived?",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Bueno, veo que esta sabia decisión no te convence. ¿Aún no? ¿A menos que se pueda idear alguna forma mejor?",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_isengard_06": {
       "key": "diplomacy_strings_string_acknowledge_reject_isengard_06",
       "value_original": "You have chosen the path of obsolescence. Do not expect sympathy when your forests fall to fuel the furnaces of a new age.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Has elegido el camino de la obsolescencia. No esperes compasión cuando tus bosques sean talados para alimentar los hornos de una nueva era.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_middle_men_01": {
       "key": "diplomacy_strings_string_acknowledge_reject_middle_men_01",
       "value_original": "I remind you that a choice made in anger cannot be undone, nor will we forget it.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Os recuerdo que una decisión tomada en un momento de enfado no se puede deshacer, ni la olvidaremos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_middle_men_02": {
       "key": "diplomacy_strings_string_acknowledge_reject_middle_men_02",
       "value_original": "Common sense, it seems, is not so common.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Al parecer, el sentido común no es tan común.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_middle_men_03": {
       "key": "diplomacy_strings_string_acknowledge_reject_middle_men_03",
       "value_original": "We are decepted then. Our terms were fair, yet you lay the matter to rest.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Entonces nos han engañado. Nuestras condiciones eran justas, y sin embargo tú das el asunto por zanjado.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_middle_men_04": {
       "key": "diplomacy_strings_string_acknowledge_reject_middle_men_04",
       "value_original": "So your will is made plain. Defiance. ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Así que tu voluntad ha quedado clara. Desafío. ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_middle_men_05": {
       "key": "diplomacy_strings_string_acknowledge_reject_middle_men_05",
       "value_original": "You will not unmake what you have wrought. Reap the firstfruits of your folly. ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "No podrás deshacer lo que has hecho. Cosecha los primeros frutos de tu insensatez. ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_middle_men_06": {
       "key": "diplomacy_strings_string_acknowledge_reject_middle_men_06",
       "value_original": "You refuse, and that is your right, though the wind turns cold.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Te niegas, y estás en tu derecho, aunque el viento se vuelva frío.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_mordor_01": {
       "key": "diplomacy_strings_string_acknowledge_reject_mordor_01",
       "value_original": "A poor choice. Know that there will be consequences for denying the Master His will.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Una mala decisión. Ten en cuenta que habrá consecuencias por negarte a cumplir la voluntad del Maestro.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_mordor_02": {
       "key": "diplomacy_strings_string_acknowledge_reject_mordor_02",
       "value_original": "Kah! Niceties are not enough for thee? I will not understand thy kind, not ever. ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¡Bah! ¿No te bastan las sutilezas? No llegaré a entender a los de tu calaña, nunca jamás. ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_mordor_03": {
       "key": "diplomacy_strings_string_acknowledge_reject_mordor_03",
       "value_original": "It is no matter. Sauron the Great and most Powerful can only be denied for so long.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "No importa. A Sauron, el Grande y el Más Poderoso, solo se le puede resistir durante un tiempo.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_mordor_04": {
       "key": "diplomacy_strings_string_acknowledge_reject_mordor_04",
       "value_original": "A bold choice. I would commend thy will, if it were not so mindless.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Una decisión audaz. Elogiaría tu determinación, si no fuera tan irreflexiva.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_mordor_05": {
       "key": "diplomacy_strings_string_acknowledge_reject_mordor_05",
       "value_original": "Very well, thy mind is made. Do not grovel when my Master's will is done in force.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Muy bien, ya has tomado una decisión. No te humilles cuando se cumpla con firmeza la voluntad de mi Señor.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_mordor_06": {
       "key": "diplomacy_strings_string_acknowledge_reject_mordor_06",
       "value_original": "Did I mishear thee? Or art thou truly more of a fool than I thought?",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¿Te he oído mal? ¿O es que realmente eres más tonto de lo que pensaba?",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_orcs_01": {
       "key": "diplomacy_strings_string_acknowledge_reject_orcs_01",
       "value_original": "Guess it's time for a raiding party. ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Supongo que es hora de organizar una incursión. ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_orcs_02": {
       "key": "diplomacy_strings_string_acknowledge_reject_orcs_02",
       "value_original": "We like the sound of iron better than words anyway. ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "De todos modos, nos gusta más el sonido del hierro que el de las palabras. ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_orcs_03": {
       "key": "diplomacy_strings_string_acknowledge_reject_orcs_03",
       "value_original": "Now we can take what we asked for. More fun that way. ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ahora podemos quedarnos con lo que pedimos. Así es más divertido. ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_orcs_04": {
       "key": "diplomacy_strings_string_acknowledge_reject_orcs_04",
       "value_original": "Suit yourself. Then hear this: we’re coming, and not to talk.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Como quieras. Pues escucha esto: vamos para allá, y no es para hablar.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_orcs_05": {
       "key": "diplomacy_strings_string_acknowledge_reject_orcs_05",
       "value_original": "Hope your blood’s worth the insult.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Espero que tu sangre valga la pena el insulto.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_orcs_06": {
       "key": "diplomacy_strings_string_acknowledge_reject_orcs_06",
       "value_original": "What a shame. At least we know to not bother talking next time.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Qué pena. Al menos ya sabemos que la próxima vez no vale la pena ni molestarnos en hablar.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_rohirrim_01": {
       "key": "diplomacy_strings_string_acknowledge_reject_rohirrim_01",
       "value_original": "This rash decision is a sign of dark times indeed. Let us hope ill does not befall you on your journey home.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Esta decisión precipitada es, sin duda, un indicio de que corren tiempos oscuros. Esperemos que no te ocurra nada malo durante el viaje de vuelta a casa.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_rohirrim_02": {
       "key": "diplomacy_strings_string_acknowledge_reject_rohirrim_02",
       "value_original": "Pray you swiftly ride forth, for your welcome here is now cut short.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Reza por que te marches pronto, pues tu estancia aquí ha llegado a su fin.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_rohirrim_03": {
       "key": "diplomacy_strings_string_acknowledge_reject_rohirrim_03",
       "value_original": "So be it. Though you turn aside our offer, may your course be wise, and may the wind not turn against you.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Que así sea. Aunque rechacéis nuestra oferta, que vuestra decisión sea acertada y que el viento no se vuelva en vuestra contra.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_rohirrim_04": {
       "key": "diplomacy_strings_string_acknowledge_reject_rohirrim_04",
       "value_original": "A sorrow, perhaps, that we do not find common ground. Yet Rohan endures, as it always has.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Quizá sea una pena que no encontremos puntos en común. Sin embargo, Rohan perdura, como siempre lo ha hecho.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_rohirrim_05": {
       "key": "diplomacy_strings_string_acknowledge_reject_rohirrim_05",
       "value_original": "It is a bitter thing to extend good-will only for it to be cast aside. Take your leave of my halls.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Es muy doloroso ofrecer buena voluntad para que luego la rechacen. Abandona mis aposentos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_rohirrim_06": {
       "key": "diplomacy_strings_string_acknowledge_reject_rohirrim_06",
       "value_original": "I find no surprise in your answer. You were ever thus, bound to your nature as the horse is to the plains.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tu respuesta no me sorprende en absoluto. Siempre has sido así, tan ligado a tu naturaleza como lo está el caballo a las llanuras.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_southrons_01": {
       "key": "diplomacy_strings_string_acknowledge_reject_southrons_01",
       "value_original": "I know a forked tongue when I see one.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Reconozco una lengua viperina cuando la veo.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_southrons_02": {
       "key": "diplomacy_strings_string_acknowledge_reject_southrons_02",
       "value_original": "Your reasoning is as foreign to me as my lands are to you.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tu razonamiento me resulta tan ajeno como mis tierras te lo son a ti.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_southrons_03": {
       "key": "diplomacy_strings_string_acknowledge_reject_southrons_03",
       "value_original": "Mulkhêrasal...your desires are a maze to my mind. Guide me now, so I can escape.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Mulkhêrasal... tus deseos son un laberinto para mi mente. Guíame ahora, para que pueda escapar.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_southrons_04": {
       "key": "diplomacy_strings_string_acknowledge_reject_southrons_04",
       "value_original": "Bah. You are the reason we never venture from our lands.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Bah. Tú eres la razón por la que nunca nos aventuramos fuera de nuestras tierras.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_southrons_05": {
       "key": "diplomacy_strings_string_acknowledge_reject_southrons_05",
       "value_original": "Don't check your pockets when I leave. ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "No revises tus bolsillos cuando me vaya. ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_southrons_06": {
       "key": "diplomacy_strings_string_acknowledge_reject_southrons_06",
       "value_original": "Help me understand your ways. Is it the snow clogging your mind?",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ayúdame a entender cómo piensas. ¿Es la nieve lo que te nubla la mente?",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_wildmen_01": {
       "key": "diplomacy_strings_string_acknowledge_reject_wildmen_01",
       "value_original": "You may not live to regret this.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Puede que ni siquiera llegues a arrepentirte de esto.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_wildmen_02": {
       "key": "diplomacy_strings_string_acknowledge_reject_wildmen_02",
       "value_original": "Stupid choice. The dark will take you soon.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Qué elección más estúpida. La oscuridad te atrapará pronto.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_wildmen_03": {
       "key": "diplomacy_strings_string_acknowledge_reject_wildmen_03",
       "value_original": "You protest too much, I think.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Creo que te quejas demasiado.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_wildmen_04": {
       "key": "diplomacy_strings_string_acknowledge_reject_wildmen_04",
       "value_original": "Do I need to ask a second time? I hate asking a second time.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¿Tengo que volver a preguntarlo? Odio tener que volver a preguntar.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_wildmen_05": {
       "key": "diplomacy_strings_string_acknowledge_reject_wildmen_05",
       "value_original": "You are disappointing. But the Elders have expected this.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Me estás decepcionando. Pero los Ancianos ya se lo esperaban.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_reject_wildmen_06": {
       "key": "diplomacy_strings_string_acknowledge_reject_wildmen_06",
       "value_original": "So, there is no honour in you, then. I knew it.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Así que no tienes ningún sentido del honor, pues. Ya me lo imaginaba.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_dunedain_01": {
@@ -91411,211 +91411,211 @@
     "diplomacy_strings_string_acknowledge_state_gift_dwarves_01": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_dwarves_01",
       "value_original": "Another generous gift such as this and Smaug may return!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¡Si hay otro regalo tan generoso como este, puede que Smaug vuelva!",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_dwarves_02": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_dwarves_02",
       "value_original": "By my beard! A welcome sight, indeed.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¡Por mi barba! Menuda alegría, la verdad.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_dwarves_03": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_dwarves_03",
       "value_original": "Now yer speakin' my tongue.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ahora sí que me entiendes.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_easterlings_01": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_easterlings_01",
       "value_original": "You show your quality in this gift. It shall be repaid in kind.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Con este regalo demuestras tu valía. Se te recompensará con la misma moneda.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_easterlings_02": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_easterlings_02",
       "value_original": "The palace treasury can hold no more, yet you present a kingly gift. Honour be unto you, noble one.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El tesoro del palacio no puede albergar nada más, y, sin embargo, me ofreces un regalo digno de un rey. Que el honor te acompañe, noble.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_easterlings_03": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_easterlings_03",
       "value_original": "It is said that the Sea of Rhûn is the water of life for the body and the soul. I shall send you some for this gift.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Se dice que el Mar de Rhûn es el agua de la vida para el cuerpo y el alma. Te enviaré un poco como regalo.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_elves_01": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_elves_01",
       "value_original": "Your generosity shines like sunlight through the leaves, and is gratefully received. May it prove a bright ember against the coming night.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tu generosidad brilla como la luz del sol a través de las hojas, y la recibimos con gratitud. Que sea una brilla brasa que ilumine la noche que se avecina.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_elves_02": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_elves_02",
       "value_original": "Hannon allen. This gift is fair as the gleaming starlight caught within the waters of our falls. I thank you for your aid.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hannon Allen. Este regalo es tan hermoso como la luz resplandeciente de las estrellas reflejada en las aguas de nuestras cascadas. Te agradezco tu ayuda.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_elves_03": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_elves_03",
       "value_original": "Many things that are fair dwell still beneath these trees, yet the brightness of your boon outshines them. May the stars ever light your path.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Bajo estos árboles aún habitan muchas cosas hermosas, pero el resplandor de tu regalo las eclipsa. Que las estrellas iluminen siempre tu camino.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_isengard_01": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_isengard_01",
       "value_original": "You offer this gift to the greatest of the Istari. What gift might the White Wizard bestow upon you?",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Le ofreces este regalo al más grande de los Istari. ¿Qué regalo podría concederte el Mago Blanco?",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_isengard_02": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_isengard_02",
       "value_original": "A most generous token. Those who look upon Isengard with favour shall not find themselves forgotten when the hour darkens.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Un gesto de gran generosidad. Aquellos que miren con buenos ojos a Isengard no se verán olvidados cuando llegue la hora oscura.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_isengard_03": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_isengard_03",
       "value_original": "This gift is noted and appreciated. In times to come, remembrance of such gestures may carry weight beyond their worth.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tomamos nota de este regalo y lo agradecemos. En el futuro, el recuerdo de gestos como este puede tener un valor que vaya más allá de su valor material.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_middle_men_01": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_middle_men_01",
       "value_original": "A rare kindness, and not forgotten. May your generosity meet with justice in the turning of seasons.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Un gesto de bondad poco común, que no se olvida. Que tu generosidad encuentre su merecida recompensa con el paso de las estaciones.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_middle_men_02": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_middle_men_02",
       "value_original": "Our halls are brightened by your gift, and our hearth warmer toward your folk because of it.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tu regalo ilumina nuestros salones y, gracias a él, nuestro hogar se llena de más calidez hacia los tuyos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_middle_men_03": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_middle_men_03",
       "value_original": "Your generosity finds welcome here, and your name is carved into more than stone...it rests in memory.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tu generosidad es bienvenida aquí, y tu nombre no solo está grabado en piedra... sino que perdura en la memoria.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_mordor_01": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_mordor_01",
       "value_original": "Thou art generous, lord. The Black Council surely favours thee.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Eres generoso, señor. Sin duda, el Consejo Negro te favorece.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_mordor_02": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_mordor_02",
       "value_original": "The coffers of Lugbúrz are not filled without effort. My gratitude.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Las arcas de Lugbúrz no se llenan sin esfuerzo. Mi agradecimiento.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_mordor_03": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_mordor_03",
       "value_original": "A gift? I will deliver this to my master. I must document this, so that He knows thee. Scribe thy name here, and here, and here. Not there.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¿Un regalo? Se lo entregaré a mi señor. Debo dejarlo por escrito para que Él te conozca. Escribe tu nombre aquí, aquí y aquí. Ahí no.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_orcs_01": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_orcs_01",
       "value_original": "Well, what a nice gift you have there. The snagas won't have to eat maggoty bread this week, ha!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Vaya, qué bonito regalo tienes ahí. Los snagas no tendrán que comer pan lleno de gusanos esta semana, ¡ja!",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_orcs_02": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_orcs_02",
       "value_original": "Looks like you're trying to pay us off now! I'll take it, but keep it coming, or we keep taking!",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "¡Parece que ahora intentas sobornarnos! Lo aceptaré, pero sigue así, ¡o seguiremos cogiendo!",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_orcs_03": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_orcs_03",
       "value_original": "Saves us the trouble of having to pillage and plunder. For today.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Nos ahorra la molestia de tener que saquear y robar. Al menos por hoy.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_rohirrim_01": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_rohirrim_01",
       "value_original": "Your generosity warms my heart like a hearth-fire in winter. This gold shall be well-used, strengthening the sinews of Rohan against the coming darkness.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tu generosidad me llena el corazón de calor, como el fuego de la chimenea en invierno. Este oro se empleará bien, fortaleciendo los lazos de Rohan frente a la oscuridad que se avecina.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_rohirrim_02": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_rohirrim_02",
       "value_original": "This is a kingly offering, worthy of song. Rohan thanks you for your unwavering support; we shall remember this when the horns of war sound.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Esta es una ofrenda digna de un rey, digna de ser cantada. Rohan te agradece tu apoyo inquebrantable; lo recordaremos cuando suenen los cuernos de guerra.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_rohirrim_03": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_rohirrim_03",
       "value_original": "Such bounty is a great aid to our people. Know that your kindness will be repaid, be it in deed or in honour, as the fates allow.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tal generosidad supone una gran ayuda para nuestro pueblo. Ten por seguro que tu bondad será recompensada, ya sea con hechos o con honores, según lo permitan los destinos.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_southrons_01": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_southrons_01",
       "value_original": "A man who gives without debt is rare in our lands. My thanks to you, kisala.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Es raro encontrar en nuestras tierras a un hombre que dé sin pedir nada a cambio. Muchas gracias, kisala.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_southrons_02": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_southrons_02",
       "value_original": "As valuable as a cold waterskin. Our gratitude is eternal.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tan valioso como una cantimplora de agua fría. Nuestra gratitud es eterna.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_southrons_03": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_southrons_03",
       "value_original": "Men of near and far will know of your generosity.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Hombres de cerca y de lejos se enterarán de tu generosidad.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_wildmen_01": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_wildmen_01",
       "value_original": "This is a good gift. You are a man of honour.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Es un buen regalo. Eres un hombre de honor.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_wildmen_02": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_wildmen_02",
       "value_original": "What’s given may bear root… or rot. But it lies with us now.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Lo que se nos ha dado puede echar raíces… o pudrirse. Pero ahora depende de nosotros.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_state_gift_wildmen_03": {
       "key": "diplomacy_strings_string_acknowledge_state_gift_wildmen_03",
       "value_original": "A gift passed without chain, without spear. Our hearths will speak of it.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Un regalo entregado sin cadenas, sin lanzas. Nuestros hogares lo contarán.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_dunedain_01": {
@@ -91642,169 +91642,169 @@
     "diplomacy_strings_string_acknowledge_vassal_dwarves_01": {
       "key": "diplomacy_strings_string_acknowledge_vassal_dwarves_01",
       "value_original": "Now, have ye sent yer fair share of gold to the King?",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Bueno, ¿ya habéis enviado al rey la parte de oro que os corresponde?",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_dwarves_02": {
       "key": "diplomacy_strings_string_acknowledge_vassal_dwarves_02",
       "value_original": "Now show me ye've got the spine to stand tall beside us when the axes clash and the mountain trembles.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ahora demostradme que tenéis la entereza necesaria para permanecer erguidos a nuestro lado cuando las hachas choquen y la montaña tiemble.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_dwarves_03": {
       "key": "diplomacy_strings_string_acknowledge_vassal_dwarves_03",
       "value_original": "Aye, I accept yer fealty. Prove yerself a strong arm and a sturdy pick.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Sí, acepto tu lealtad. Demuestra que eres un hombre fuerte y un minero resistente.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_easterlings_01": {
       "key": "diplomacy_strings_string_acknowledge_vassal_easterlings_01",
       "value_original": "It shall be thus: that you are under our protection, and shall render aid and assistance when called upon.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Quedará así establecido: que estáis bajo nuestra protección y que prestaréis ayuda y asistencia cuando se os solicite.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_easterlings_02": {
       "key": "diplomacy_strings_string_acknowledge_vassal_easterlings_02",
       "value_original": "Rhûn is a confederacy of clans. We welcome you, and gladly share in the rich spoils of our wars.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Rhûn es una confederación de clanes. Te damos la bienvenida y compartimos con mucho gusto el abundante botín de nuestras guerras.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_easterlings_03": {
       "key": "diplomacy_strings_string_acknowledge_vassal_easterlings_03",
       "value_original": "Take comfort you are under the protection of the golden dragon. All shall be well.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tén la tranquilidad de saber que estás bajo la protección del dragón dorado. Todo irá bien.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_elves_01": {
       "key": "diplomacy_strings_string_acknowledge_vassal_elves_01",
       "value_original": "We hear your oath, sworn beneath the trees and stars. Let your loyalty be a bright flame against the gathering gloom, and a shield against the enemies of the light.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Oímos tu juramento, pronunciado bajo los árboles y las estrellas. Que tu lealtad sea una llama brillante frente a la oscuridad que se cierne sobre nosotros, y un escudo contra los enemigos de la luz.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_elves_02": {
       "key": "diplomacy_strings_string_acknowledge_vassal_elves_02",
       "value_original": "So it is written, so it shall be. You are more worthy to wear the armor of elf-princes than many that have looked more comely in it.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Así está escrito, así será. Eres más digno de llevar la armadura de los príncipes elfos que muchos de los que han lucido mejor con ella.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_elves_03": {
       "key": "diplomacy_strings_string_acknowledge_vassal_elves_03",
       "value_original": "Your fealty is accepted, and your fate now intertwined with ours. May this union blossom with strength, and never wither, like deep roots of old growth.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tu lealtad ha sido aceptada, y tu destino queda ahora entrelazado con el nuestro. Que esta unión florezca con fuerza y nunca se marchite, como las raíces profundas de un bosque centenario.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_isengard_01": {
       "key": "diplomacy_strings_string_acknowledge_vassal_isengard_01",
       "value_original": "From the pinnacle of Orthanc I observe my dominion, and now by your fealty my sight grows ever further.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Desde lo alto de Orthanc contemplo mi reino, y ahora, gracias a vuestra lealtad, mi visión se extiende cada vez más.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_isengard_02": {
       "key": "diplomacy_strings_string_acknowledge_vassal_isengard_02",
       "value_original": "Your banners now fly beneath the shadow of Orthanc, not in shame, but in foresight. For Isengard does not demand fealty. It inspires it.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Vuestros estandartes ondean ahora a la sombra de Orthanc, no por vergüenza, sino por visión de futuro. Porque Isengard no exige lealtad. La inspira.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_isengard_03": {
       "key": "diplomacy_strings_string_acknowledge_vassal_isengard_03",
       "value_original": "In times such as these, lesser powers must anchor themselves to certainty. And the dominion of Isengard is the only certainty that remains.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "En tiempos como estos, las potencias menores deben aferrarse a la certeza. Y el dominio de Isengard es la única certeza que queda.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_middle_men_01": {
       "key": "diplomacy_strings_string_acknowledge_vassal_middle_men_01",
       "value_original": "By your oath and our seal, the bond is struck. Let our flame guard your hearth, and let your strength now be counted among ours.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Por tu juramento y nuestro sello, el pacto queda sellado. Que nuestra llama proteja tu hogar, y que tu fuerza se sume ahora a la nuestra.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_middle_men_02": {
       "key": "diplomacy_strings_string_acknowledge_vassal_middle_men_02",
       "value_original": "The river runs fuller now, for another stream has joined. May we find strength in the flow, and peace in its depths.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El río lleva ahora más agua, pues se le ha unido otro arroyo. Ojalá encontremos fuerza en su corriente y paz en sus profundidades.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_middle_men_03": {
       "key": "diplomacy_strings_string_acknowledge_vassal_middle_men_03",
       "value_original": "Let it be recorded in the halls and remembered in song. On this day we stand united in oath, unbroken in purpose.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Que quede constancia de ello en los salones y se recuerde en las canciones. En este día nos mantenemos unidos en nuestro juramento, con un propósito inquebrantable.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_mordor_01": {
       "key": "diplomacy_strings_string_acknowledge_vassal_mordor_01",
       "value_original": "Bow thy head and bend thy knee, for thou art in service of the Dark Lord. When He calls upon thee, thou must always answer. Now go, and know that the Tower guards thy lands.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Inclina la cabeza y dobla la rodilla, pues estás al servicio del Señor Oscuro. Cuando Él te llame, debes responder siempre. Ahora vete, y ten presente que la Torre protege tus tierras.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_mordor_02": {
       "key": "diplomacy_strings_string_acknowledge_vassal_mordor_02",
       "value_original": "And so, thy land is spared of misery. Rejoice and know that Lord Sauron, the most Benevolent and Wise, rules over thee.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Y así, tu tierra se libra de la miseria. Alégrate y ten presente que el Señor Sauron, el más benévolo y sabio, reina sobre ti.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_mordor_03": {
       "key": "diplomacy_strings_string_acknowledge_vassal_mordor_03",
       "value_original": "It is well that thou hath joined Sauron. These lands will never fall, and its might will outlast all of the West.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Has hecho bien en unirte a Sauron. Estas tierras nunca caerán, y su poder perdurará más que todo el Oeste.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_orcs_01": {
       "key": "diplomacy_strings_string_acknowledge_vassal_orcs_01",
       "value_original": "You crawl before us at last, but do not expect submission frees you of servitude. You are snaga now.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Por fin te arrastras ante nosotros, pero no esperes que la sumisión te libere de la servidumbre. Ahora eres un snaga.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_orcs_02": {
       "key": "diplomacy_strings_string_acknowledge_vassal_orcs_02",
       "value_original": "We have your lands. Keep your heads. But fail to obey us, and we'll take them too. ",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tenemos vuestras tierras. Mantened la cabeza fría. Pero si no nos obedecéis, también os las quitaremos. ",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_orcs_03": {
       "key": "diplomacy_strings_string_acknowledge_vassal_orcs_03",
       "value_original": "It's about time you bent the knee. I thought we'd have to pry the submission from your bones.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Ya era hora de que te arrodillaras. Pensaba que tendríamos que arrancarte la rendición a la fuerza.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_rohirrim_01": {
       "key": "diplomacy_strings_string_acknowledge_vassal_rohirrim_01",
       "value_original": "The bond between us is now sworn. May your loyalty prove as strong as the war-steeds of the Mark.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "El vínculo que nos une ya está sellado. Que tu lealtad sea tan fuerte como los corceles de guerra de la Marca.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_rohirrim_02": {
       "key": "diplomacy_strings_string_acknowledge_vassal_rohirrim_02",
       "value_original": "Your oath is taken, and we accept it. Ride now with the Rohirrim, until death or darkness take us.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "Tu juramento ha sido prestado y lo aceptamos. Cabalga ahora junto a los rohirrim, hasta que la muerte o la oscuridad nos separen.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_rohirrim_03": {
       "key": "diplomacy_strings_string_acknowledge_vassal_rohirrim_03",
       "value_original": "I hear your pledge. Now, ride with us, fight with us, and let your deeds speak louder than any vow.",
-      "value_translated": "",
-      "needs_retranslation": true,
+      "value_translated": "He escuchado tu promesa. Ahora, cabalga con nosotros, lucha con nosotros y deja que tus actos hablen más alto que cualquier juramento.",
+      "needs_retranslation": false,
       "removed": false
     },
     "diplomacy_strings_string_acknowledge_vassal_southrons_01": {
