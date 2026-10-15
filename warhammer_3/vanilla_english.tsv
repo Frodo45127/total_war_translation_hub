@@ -27149,6 +27149,7 @@ battles_description_major_n_cth_wei_jin	.	false
 battles_description_major_nagashizzar_megatile_01	.	false
 battles_description_major_o_cth	.	false
 battles_description_major_o_tmb	.	false
+battles_description_major_o_tmb_black_pyramid	.	false
 battles_description_major_p_brt	.	false
 battles_description_major_q_cth	.	false
 battles_description_major_s_chd	.	false
@@ -28468,6 +28469,7 @@ battles_localised_name_major_n_cth_wei_jin	Wei-Jin – Cathay	false
 battles_localised_name_major_nagashizzar_megatile_01	Nagashizzar – Undead Legions	false
 battles_localised_name_major_o_cth	Shang-Yang – Cathay	false
 battles_localised_name_major_o_tmb	Khemri – Tomb Kings	false
+battles_localised_name_major_o_tmb_black_pyramid	{{tr:battles_localised_name_major_o_tmb}}	false
 battles_localised_name_major_p_brt	Parravon – Bretonnia	false
 battles_localised_name_major_q_cth	Dragon Gate – Cathay	false
 battles_localised_name_major_s_chd	Black Fortress – Chaos Dwarfs	false
@@ -42492,7 +42494,7 @@ building_effect_context_expressions_display_text_vampire_coven_concealment_actio
 building_effect_context_expressions_display_text_vampire_coven_concealment_blank	[PH]	false
 building_effect_context_expressions_display_text_vampire_coven_concealment_level_0	When Coven [[img:icon_concealment]][[/img]]Concealment is greater than 10:	false
 building_effect_context_expressions_display_text_vampire_coven_concealment_level_1	When Coven [[img:icon_concealment]][[/img]]Concealment is greater than 50:	false
-building_effect_context_expressions_display_text_vampire_coven_concealment_level_10	When the Coven's [[img:icon_concealment]][[/img]]Concealment is less than 100:	false
+building_effect_context_expressions_display_text_vampire_coven_concealment_level_10	When the Coven's [[img:icon_concealment]][[/img]]Concealment is 100 or less:	false
 building_effect_context_expressions_display_text_vampire_coven_concealment_level_2	When Coven [[img:icon_concealment]][[/img]]Concealment is greater than 100:	false
 building_effect_context_expressions_display_text_vampire_coven_concealment_level_3	When Coven [[img:icon_concealment]][[/img]]Concealment is greater than 120:	false
 building_effect_context_expressions_display_text_vampire_coven_concealment_level_4	When Coven [[img:icon_concealment]][[/img]]Concealment is greater than 140:	false
@@ -48030,6 +48032,7 @@ campaign_effect_scopes_localised_text_region_to_region_own_unseen_nurgle		false
 campaign_effect_scopes_localised_text_region_to_region_own_unseen_provincewide		false
 campaign_effect_scopes_localised_text_this_building		false
 campaign_effect_scopes_localised_text_tretch_faction_to_force	\\n(Tretch's army)	false
+campaign_effect_scopes_localised_text_wh3_dlc29_building_to_army_own_provincewide_geographical	[PH] \\n(armies in local province)	false
 campaign_effect_scopes_localised_text_wh3_dlc29_faction_to_faction_all_garden_provinces_dummy	\\n(provinces with a Garden of Corruption)	false
 campaign_effect_scopes_localised_text_wh3_dlc29_faction_to_faction_all_marked_characters_dummy	\\n(all armies)	false
 campaign_effect_scopes_localised_text_wh3_dlc29_faction_to_faction_marked_nurgle_garden_dummy	\\n(Blessed Garden)	false
@@ -51055,6 +51058,7 @@ campaign_localised_strings_string_recruitment_cost_tooltip_wh3_dlc29_emp_fervour
 campaign_localised_strings_string_recruitment_cost_tooltip_wh3_dlc29_nag_necromantic_energy	Cost||This is the amount of [[img:icon_necromantic_energy]][[/img]]{{tr:pooled_resources_display_name_wh3_dlc29_nag_necromantic_energy}} you require to recruit this unit.	false
 campaign_localised_strings_string_recruitment_cost_tooltip_wh3_dlc29_vmp_corpses	Corpse Cost||This is the amount of Corpses you require in the province to recruit this unit.	false
 campaign_localised_strings_string_recruitment_cost_tooltip_wh3_dlc29_vmp_power	Blood Cost||This is the amount of Blood you require to recruit this unit.	false
+campaign_localised_strings_string_recruitment_cost_tooltip_wh3_main_lzd_sacred_spawning	Cost||This is the amount of [[img:icon_spawning_sequence]][[/img]] Spawning Sequence you require to recruit this unit.	false
 campaign_localised_strings_string_recruitment_flesh_lab	Recruit units||Any units in the queue will instantly be recruited to your army.	false
 campaign_localised_strings_string_recruitment_hire_from_horde	Recruit from Horde	false
 campaign_localised_strings_string_recruitment_hire_mercenary	Recruit units||Any units in the queue will instantly be recruited to your army.	false
@@ -51797,6 +51801,7 @@ campaign_localised_strings_string_wh2_main_skv_skaven_discovered_tooltip	{{tr:sk
 campaign_localised_strings_string_wh2_main_skv_skaven_hidden_discovered_tooltip	{{tr:skaven_under_empire_discovered_tooltip}}	false
 campaign_localised_strings_string_wh2_main_skv_skaven_owned_discovered_tooltip	Your Under-City has been discovered!	false
 campaign_localised_strings_string_wh2_main_skv_skaven_owned_tooltip	Under-City Established	false
+campaign_localised_strings_string_wh3_cp1_bhashiva_caravans_no_owned_settlements_dispatch_button_tooltip_warning	[[col:red]You must own at least one settlement to be able to dispatch Caravans[[/col]]	false
 campaign_localised_strings_string_wh3_cp1_insignia_panel_inactive_button_no_available_units_tooltip	\\n\\n[[col:red]]You can equip Insignias only to units found in Shang-Yang's Warhold.[[/col]]	false
 campaign_localised_strings_string_wh3_cp1_ivory_road_active_dispatch_btn_tooltip	Dispatch the Caravan escort by paying the cost of their supplies.	false
 campaign_localised_strings_string_wh3_cp1_ivory_road_confirmation_popup	This route will only yield [[img:icon_iron_favour]][[//img]]Iron Favour in return for your protection.\\n\\nDo you wish to escort this Caravan?	false
@@ -52155,6 +52160,7 @@ campaign_localised_strings_string_wh3_dlc29_lock_chosen_of_ulric_elite	[[col:red
 campaign_localised_strings_string_wh3_dlc29_middenland_army_rituals_tooltip_tx	Winter Rites||Spend [[img:icon_fervour]][[/img]]Fervour to gain bonuses for this army through Ulrican Rites.	false
 campaign_localised_strings_string_wh3_dlc29_nag_black_pyramid_required_mystic_sigils	Empowered [[img:icon_mystic_sigils]][[/img]]Sigils required to reach this node: %d	false
 campaign_localised_strings_string_wh3_dlc29_nag_book_missing_txt	This Book is missing. Check back in %d turns.	false
+campaign_localised_strings_string_wh3_dlc29_nagash_necropolis_occupation_capacity_exceeded_tooltip_warning	[[col:red]]Necropolis limit reached. Additional Necropolises will introduce or increase negative effects to your faction[[/col]]	false
 campaign_localised_strings_string_wh3_dlc29_nagash_ror_lock_tooltip_wh2_dlc09_tmb_followers_of_nagash	[[col:red]]This unit will unlock after Arkhan the Black is Subjugated in the Mortarchs Panel and one of your [[img:icon_general]][[/img]]Lords reaches the required rank.[[/col]]	false
 campaign_localised_strings_string_wh3_dlc29_nagash_ror_lock_tooltip_wh2_dlc11_cst_vampire_coast	[[col:red]]This unit will unlock after Luthor Harkon is Subjugated in the Mortarchs Panel and one of your [[img:icon_general]][[/img]]Lords reaches the required rank.[[/col]]	false
 campaign_localised_strings_string_wh3_dlc29_nagash_ror_lock_tooltip_wh_main_vmp_vampire_counts	[[col:red]]This unit will unlock after Mannfred von Carstein is Subjugated in the Mortarchs Panel and one of your [[img:icon_general]][[/img]]Lords reaches the required rank.[[/col]]	false
@@ -52190,6 +52196,7 @@ campaign_localised_strings_string_wh3_kairos_fragments_of_sorcery_rarity_ability
 campaign_localised_strings_string_wh3_kairos_fragments_of_sorcery_rarity_ability_rare	Rare Spells	false
 campaign_localised_strings_string_wh3_kairos_fragments_of_sorcery_rarity_ability_uncommon	Uncommon Spells	false
 campaign_localised_strings_string_wh3_kairos_fragments_of_sorcery_unlock_slot_at_level	You can unlock this slot at level %d.	false
+campaign_localised_strings_string_wh3_main_force_war_inactive_button_force_war_aislinn_maritime_patrol_tooltip_warning	[[col:red]]War cannot be forced between these two factions[[/col]]	false
 campaign_localised_strings_string_wh3_main_great_game_title_tx	Unholy Manifestations	false
 campaign_localised_strings_string_wh3_main_ksl_force_invocations_title_tx	Army Invocations	false
 campaign_localised_strings_string_wh3_main_regiments_of_renown_pool_source_string	Regiments of Renown	false
@@ -119070,6 +119077,8 @@ effect_bundles_localised_description_wh3_dlc29_bundle_purple_dwarfs_any_dwarf_br
 effect_bundles_localised_description_wh3_dlc29_bundle_purple_magic_draw_combo_piece		false
 effect_bundles_localised_description_wh3_dlc29_bundle_ruthless_expansion	Nothing short of total domination, and one day, deification itself, will satisfy the Hag Sorceress of Ghrond.	false
 effect_bundles_localised_description_wh3_dlc29_bundle_skv_thanquol_mission_7	Genius schemer, brilliant tactician, unmatched sorcerer of verminkind – rats across the Under-Empire twitch at Thanquol’s command, eager to hurl their wretched lives away for his greatest plan yet!	false
+effect_bundles_localised_description_wh3_dlc29_bundle_stance_army_encampment_horde_nag	{{tr:effect_bundles_localised_description_wh2_dlc11_bundle_stance_army_encampment_horde_coast}}	false
+effect_bundles_localised_description_wh3_dlc29_bundle_stance_army_encampment_nag	{{tr:effect_bundles_localised_description_wh2_dlc11_bundle_stance_army_encampment_coast}}	false
 effect_bundles_localised_description_wh3_dlc29_bundle_stance_chs_dark_fortress	This bleak edifice draws the ruinous power of the Chaos Gods unto Archaon, swelling the Everchosen's dreadful might!	false
 effect_bundles_localised_description_wh3_dlc29_bundle_token_upgrade_increase_amount		false
 effect_bundles_localised_description_wh3_dlc29_bundle_token_upgrade_increase_odds		false
@@ -125840,6 +125849,8 @@ effect_bundles_localised_title_wh3_dlc29_bundle_purple_dwarfs_any_dwarf_brew	All
 effect_bundles_localised_title_wh3_dlc29_bundle_purple_magic_draw_combo_piece	Drawing on these Winds will help complete the Masterplan, but carry a risk of Complication	false
 effect_bundles_localised_title_wh3_dlc29_bundle_ruthless_expansion	Ruthless Ambition 	false
 effect_bundles_localised_title_wh3_dlc29_bundle_skv_thanquol_mission_7	The Greatest Grey Seer	false
+effect_bundles_localised_title_wh3_dlc29_bundle_stance_army_encampment_horde_nag	{{tr:effect_bundles_localised_title_wh2_dlc11_bundle_stance_army_encampment_coast}}	false
+effect_bundles_localised_title_wh3_dlc29_bundle_stance_army_encampment_nag	{{tr:effect_bundles_localised_title_wh2_dlc11_bundle_stance_army_encampment_coast}}	false
 effect_bundles_localised_title_wh3_dlc29_bundle_stance_chs_dark_fortress	Invasion Fortress	false
 effect_bundles_localised_title_wh3_dlc29_bundle_token_upgrade_increase_amount	Increase the number of times this Scheme can appear in a Plan	false
 effect_bundles_localised_title_wh3_dlc29_bundle_token_upgrade_increase_odds	Increase the likelyhood of this Scheme appearing in a Plan	false
@@ -140139,16 +140150,19 @@ effects_description_wh3_dlc29_effect_nag_necromancy_cost_mod_war_machines	Necrom
 effects_description_wh3_dlc29_effect_nag_perfect_vigour_vs_dwarf	Attribute: Perfect Vigour when fighting against Dwarfs	false
 effects_description_wh3_dlc29_effect_nag_public_order_edict_hidden		false
 effects_description_wh3_dlc29_effect_nag_raise_dead_recruitment_cost_mod_hidden		false
-effects_description_wh3_dlc29_effect_nag_recruit_cost_construct_monsters_monstrous	Local Recruitment cost: %+n% for Construct Monstrous & Monster units	false
+effects_description_wh3_dlc29_effect_nag_recruit_cost_construct_monsters_monstrous	Local Recruitment cost: %+n% for Construct Monstrous and Monster units	false
 effects_description_wh3_dlc29_effect_nag_recruit_cost_undead_artillery	Local Recruitment cost: %+n% for Artillery units	false
-effects_description_wh3_dlc29_effect_nag_recruit_cost_undead_beasts_monstrous_monsters	Local Recruitment cost: %+n% for Undead Beasts, Monstrous & Monster units	false
-effects_description_wh3_dlc29_effect_nag_recruit_cost_undead_cav_chariot	Local Recruitment cost: %+n% for Cavalry & Chariot units	false
+effects_description_wh3_dlc29_effect_nag_recruit_cost_undead_beasts_monstrous_monsters	Local Recruitment cost: %+n% for Undead Beasts, Monstrous and Monster units	false
+effects_description_wh3_dlc29_effect_nag_recruit_cost_undead_cav_chariot	Local Recruitment cost: %+n% for Cavalry and Chariot units	false
 effects_description_wh3_dlc29_effect_nag_recruit_cost_undead_ethereal	Local Recruitment cost: %+n% for Ethereal units	false
 effects_description_wh3_dlc29_effect_nag_recruit_cost_undead_melee_inf	Local Recruitment cost: %+n% for Melee Infantry units	false
-effects_description_wh3_dlc29_effect_nag_recruit_cost_undead_ranged_inf_flyers	Local Recruitment cost: %+n% for Missile Infantry & Deck Dropper units	false
+effects_description_wh3_dlc29_effect_nag_recruit_cost_undead_ranged_inf_flyers	Local Recruitment cost: %+n% for Missile Infantry and Deck Dropper units	false
 effects_description_wh3_dlc29_effect_nag_recruit_rank_cst_heroes_lords	Recruit rank: %+n for Vampire Coast Lords and Heroes	false
+effects_description_wh3_dlc29_effect_nag_recruit_rank_cst_heroes_lords_hidden	{{tr:effects_description_wh_main_faction_xp_increase_generals_hidden}}	false
 effects_description_wh3_dlc29_effect_nag_recruit_rank_tmb_heroes_lords	Recruit rank: %+n for Tomb King Lords and Heroes	false
+effects_description_wh3_dlc29_effect_nag_recruit_rank_tmb_heroes_lords_hidden	{{tr:effects_description_wh_main_faction_xp_increase_generals_hidden}}	false
 effects_description_wh3_dlc29_effect_nag_recruit_rank_vmp_heroes_lords	Recruit rank: %+n for Vampire Count Lords and Heroes	false
+effects_description_wh3_dlc29_effect_nag_recruit_rank_vmp_heroes_lords_hidden	{{tr:effects_description_wh_main_faction_xp_increase_generals_hidden}}	false
 effects_description_wh3_dlc29_effect_nag_ritual_discount_ai_only		false
 effects_description_wh3_dlc29_effect_nag_ryze_the_grave_call_crypt_horrors	Army ability: "{{tr:unit_abilities_onscreen_name_wh3_dlc29_army_abilities_ryze_the_grave_call_crypt_horrors}}" for armies led by a Vampire Count Lord	false
 effects_description_wh3_dlc29_effect_nag_ryze_the_grave_call_khemrian_warsphinx	Army ability: "{{tr:unit_abilities_onscreen_name_wh3_dlc29_army_abilities_ryze_the_grave_call_khemrian_warsphinx}}" for armies led by a Tomb King Lord	false
@@ -140160,31 +140174,31 @@ effects_description_wh3_dlc29_effect_nag_ryze_the_grave_call_rotting_prometheans
 effects_description_wh3_dlc29_effect_nag_ryze_the_grave_call_rotting_prometheans_upgraded	Army ability: "{{tr:unit_abilities_onscreen_name_wh3_dlc29_army_abilities_ryze_the_grave_call_rotting_prometheans_gunnery_mob}}" now summons units that won't degrade over time	false
 effects_description_wh3_dlc29_effect_nag_ryze_the_grave_call_terrorgheist	Army ability: "{{tr:unit_abilities_onscreen_name_wh3_dlc29_army_abilities_ryze_the_grave_call_terrorgheist}}" for armies led by a Vampire Count Lord	false
 effects_description_wh3_dlc29_effect_nag_ryze_the_grave_call_ushabti	Army ability: "{{tr:unit_abilities_onscreen_name_wh3_dlc29_army_abilities_ryze_the_grave_call_ushabti}}" for armies led by a Tomb King Lord	false
-effects_description_wh3_dlc29_effect_nag_upkeep_construct_monsters_monstrous_tier2	Upkeep: %+n% for all Construct Monstrous & Monster units up to [[img:icon_unit_tier_2]][[/img]]Tier [[b]]2[[/b]]	false
-effects_description_wh3_dlc29_effect_nag_upkeep_construct_monsters_monstrous_tier3	Upkeep: %+n% for all Construct Monstrous & Monster units up to [[img:icon_unit_tier_3]][[/img]]Tier [[b]]3[[/b]]	false
-effects_description_wh3_dlc29_effect_nag_upkeep_construct_monsters_monstrous_tier4	Upkeep: %+n% for all Construct Monstrous & Monster units up to [[img:icon_unit_tier_4]][[/img]]Tier [[b]]4[[/b]]	false
-effects_description_wh3_dlc29_effect_nag_upkeep_construct_monsters_monstrous_tier5	Upkeep: %+n% for all Construct Monstrous & Monster units up to [[img:icon_unit_tier_5]][[/img]]Tier [[b]]5[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_construct_monsters_monstrous_tier2	Upkeep: %+n% for all Construct Monstrous and Monster units up to [[img:icon_unit_tier_2]][[/img]]Tier [[b]]2[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_construct_monsters_monstrous_tier3	Upkeep: %+n% for all Construct Monstrous and Monster units up to [[img:icon_unit_tier_3]][[/img]]Tier [[b]]3[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_construct_monsters_monstrous_tier4	Upkeep: %+n% for all Construct Monstrous and Monster units up to [[img:icon_unit_tier_4]][[/img]]Tier [[b]]4[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_construct_monsters_monstrous_tier5	Upkeep: %+n% for all Construct Monstrous and Monster units up to [[img:icon_unit_tier_5]][[/img]]Tier [[b]]5[[/b]]	false
 effects_description_wh3_dlc29_effect_nag_upkeep_undead_artillery_tier2	Upkeep: %+n% for all Artillery units up to [[img:icon_unit_tier_2]][[/img]]Tier [[b]]2[[/b]]	false
 effects_description_wh3_dlc29_effect_nag_upkeep_undead_artillery_tier3	Upkeep: %+n% for all Artillery units up to [[img:icon_unit_tier_3]][[/img]]Tier [[b]]3[[/b]]	false
 effects_description_wh3_dlc29_effect_nag_upkeep_undead_artillery_tier4	Upkeep: %+n% for all Artillery units up to [[img:icon_unit_tier_4]][[/img]]Tier [[b]]4[[/b]]	false
-effects_description_wh3_dlc29_effect_nag_upkeep_undead_beasts_monstrous_monsters_tier1	Upkeep: %+n% for all [[img:icon_unit_tier_1]][[/img]]Tier [[b]]1[[/b]] Undead Beasts, Monstrous & Monster units	false
-effects_description_wh3_dlc29_effect_nag_upkeep_undead_beasts_monstrous_monsters_tier2	Upkeep: %+n% for all Undead Beasts, Monstrous & Monster units up to [[img:icon_unit_tier_2]][[/img]]Tier [[b]]2[[/b]]	false
-effects_description_wh3_dlc29_effect_nag_upkeep_undead_beasts_monstrous_monsters_tier3	Upkeep: %+n% for all Undead Beasts, Monstrous & Monster units up to [[img:icon_unit_tier_3]][[/img]]Tier [[b]]3[[/b]]	false
-effects_description_wh3_dlc29_effect_nag_upkeep_undead_beasts_monstrous_monsters_tier4	Upkeep: %+n% for all Undead Beasts, Monstrous & Monster units up to [[img:icon_unit_tier_4]][[/img]]Tier [[b]]4[[/b]]	false
-effects_description_wh3_dlc29_effect_nag_upkeep_undead_beasts_monstrous_monsters_tier5	Upkeep: %+n% for all Undead Beasts, Monstrous & Monster units up to [[img:icon_unit_tier_5]][[/img]]Tier [[b]]5[[/b]]	false
-effects_description_wh3_dlc29_effect_nag_upkeep_undead_cav_chariot_tier1	Upkeep: %+n% for all [[img:icon_unit_tier_1]][[/img]]Tier [[b]]1[[/b]] Cavalry & Chariot units	false
-effects_description_wh3_dlc29_effect_nag_upkeep_undead_cav_chariot_tier2	Upkeep: %+n% for all  Cavalry & Chariot units up to [[img:icon_unit_tier_2]][[/img]]Tier [[b]]2[[/b]]	false
-effects_description_wh3_dlc29_effect_nag_upkeep_undead_cav_chariot_tier3	Upkeep: %+n% for all  Cavalry & Chariot units up to [[img:icon_unit_tier_3]][[/img]]Tier [[b]]3[[/b]]	false
-effects_description_wh3_dlc29_effect_nag_upkeep_undead_cav_chariot_tier4	Upkeep: %+n% for all  Cavalry & Chariot units up to [[img:icon_unit_tier_4]][[/img]]Tier [[b]]4[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_undead_beasts_monstrous_monsters_tier1	Upkeep: %+n% for all [[img:icon_unit_tier_1]][[/img]]Tier [[b]]1[[/b]] Undead Beasts, Monstrous and Monster units	false
+effects_description_wh3_dlc29_effect_nag_upkeep_undead_beasts_monstrous_monsters_tier2	Upkeep: %+n% for all Undead Beasts, Monstrous and Monster units up to [[img:icon_unit_tier_2]][[/img]]Tier [[b]]2[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_undead_beasts_monstrous_monsters_tier3	Upkeep: %+n% for all Undead Beasts, Monstrous and Monster units up to [[img:icon_unit_tier_3]][[/img]]Tier [[b]]3[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_undead_beasts_monstrous_monsters_tier4	Upkeep: %+n% for all Undead Beasts, Monstrous and Monster units up to [[img:icon_unit_tier_4]][[/img]]Tier [[b]]4[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_undead_beasts_monstrous_monsters_tier5	Upkeep: %+n% for all Undead Beasts, Monstrous and Monster units up to [[img:icon_unit_tier_5]][[/img]]Tier [[b]]5[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_undead_cav_chariot_tier1	Upkeep: %+n% for all [[img:icon_unit_tier_1]][[/img]]Tier [[b]]1[[/b]] Cavalry and Chariot units	false
+effects_description_wh3_dlc29_effect_nag_upkeep_undead_cav_chariot_tier2	Upkeep: %+n% for all  Cavalry and Chariot units up to [[img:icon_unit_tier_2]][[/img]]Tier [[b]]2[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_undead_cav_chariot_tier3	Upkeep: %+n% for all  Cavalry and Chariot units up to [[img:icon_unit_tier_3]][[/img]]Tier [[b]]3[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_undead_cav_chariot_tier4	Upkeep: %+n% for all  Cavalry and Chariot units up to [[img:icon_unit_tier_4]][[/img]]Tier [[b]]4[[/b]]	false
 effects_description_wh3_dlc29_effect_nag_upkeep_undead_ethereal_tier1	Upkeep: %+n% for all [[img:icon_unit_tier_1]][[/img]]Tier [[b]]1[[/b]] Ethereal units	false
 effects_description_wh3_dlc29_effect_nag_upkeep_undead_ethereal_tier2	Upkeep: %+n% for all Ethereal units up to [[img:icon_unit_tier_2]][[/img]]Tier [[b]]2[[/b]]	false
 effects_description_wh3_dlc29_effect_nag_upkeep_undead_ethereal_tier3	Upkeep: %+n% for all Ethereal units up to [[img:icon_unit_tier_3]][[/img]]Tier [[b]]3[[/b]]	false
 effects_description_wh3_dlc29_effect_nag_upkeep_undead_melee_inf_tier1	Upkeep: %+n% for all [[img:icon_unit_tier_1]][[/img]]Tier [[b]]1[[/b]] Melee Infantry units	false
 effects_description_wh3_dlc29_effect_nag_upkeep_undead_melee_inf_tier2	Upkeep: %+n% for all Melee Infantry units up to [[img:icon_unit_tier_2]][[/img]]Tier [[b]]2[[/b]]	false
 effects_description_wh3_dlc29_effect_nag_upkeep_undead_melee_inf_tier3	Upkeep: %+n% for all Melee Infantry units up to [[img:icon_unit_tier_3]][[/img]]Tier [[b]]3[[/b]]	false
-effects_description_wh3_dlc29_effect_nag_upkeep_undead_ranged_inf_flyers_tier1	Upkeep: %+n% for all [[img:icon_unit_tier_1]][[/img]]Tier [[b]]1[[/b]] Missile Infantry & Deck Dropper units	false
-effects_description_wh3_dlc29_effect_nag_upkeep_undead_ranged_inf_flyers_tier2	Upkeep: %+n% for all Missile Infantry & Deck Dropper units up to [[img:icon_unit_tier_2]][[/img]]Tier [[b]]2[[/b]]	false
-effects_description_wh3_dlc29_effect_nag_upkeep_undead_ranged_inf_flyers_tier3	Upkeep: %+n% for all Missile Infantry & Deck Dropper units up to [[img:icon_unit_tier_3]][[/img]]Tier [[b]]3[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_undead_ranged_inf_flyers_tier1	Upkeep: %+n% for all [[img:icon_unit_tier_1]][[/img]]Tier [[b]]1[[/b]] Missile Infantry and Deck Dropper units	false
+effects_description_wh3_dlc29_effect_nag_upkeep_undead_ranged_inf_flyers_tier2	Upkeep: %+n% for all Missile Infantry and Deck Dropper units up to [[img:icon_unit_tier_2]][[/img]]Tier [[b]]2[[/b]]	false
+effects_description_wh3_dlc29_effect_nag_upkeep_undead_ranged_inf_flyers_tier3	Upkeep: %+n% for all Missile Infantry and Deck Dropper units up to [[img:icon_unit_tier_3]][[/img]]Tier [[b]]3[[/b]]	false
 effects_description_wh3_dlc29_effect_nagash_cst_ror_unlock_dummy	Unlocks access to all [[col:yellow]][[b]]Vampire Coast Regiments of Renown[[/b]][[/col]] once one of your [[img:icon_general]][[/img]]Lords reaches the required rank	false
 effects_description_wh3_dlc29_effect_nagash_rush_construction_unlock_dummy	Enables the factionwide ability to [[col:yellow]]Rush Construction[[/col]] by spending [[img:icon_necromantic_energy]][[/img]]{{tr:pooled_resources_display_name_wh3_dlc29_nag_necromantic_energy}}	false
 effects_description_wh3_dlc29_effect_nagash_shambling_army_duration_dummy	Shambling Horde attrition immunity duration: %+n turns	false
@@ -140253,6 +140267,7 @@ effects_description_wh3_dlc29_effect_post_battle_unit_saving_chance_hp_blood_kni
 effects_description_wh3_dlc29_effect_post_battle_unit_saving_chance_hp_construct_monsters	The Dead Rise Again: %+n% chance and hit points for destroyed Construct Monster units to be restored after battle	false
 effects_description_wh3_dlc29_effect_post_battle_unit_saving_chance_hp_crypt_ghouls_horrors	The Dead Rise Again: %+n% chance and hit points for destroyed Crypt Ghouls and Crypt Horrors units restored after battle	false
 effects_description_wh3_dlc29_effect_post_battle_unit_saving_chance_hp_vampires	The Dead Rise Again: %+n% chance and hit points for destroyed Vampire units to be restored after battle	false
+effects_description_wh3_dlc29_effect_post_battle_unit_saving_chance_lords_hidden	[HIDDEN]	false
 effects_description_wh3_dlc29_effect_post_battle_unit_saving_chance_mournguls	The Dead Rise Again: %+n% chance for destroyed Mourngul units to be restored after battle	false
 effects_description_wh3_dlc29_effect_post_battle_unit_saving_chance_nurglings	Daemons Reforged: %+n% chance for destroyed Nurglings to be restored after battle	false
 effects_description_wh3_dlc29_effect_post_battle_unit_saving_chance_vmp	The Dead Rise Again: %+n% chance for destroyed Vampire Count units to be restored after battle	false
@@ -227749,6 +227764,31 @@ ui_mercenary_recruitment_infos_tooltip_default_inactive_wh3_dlc29_vampire_counts
 ui_mercenary_recruitment_infos_tooltip_default_inactive_wh3_dlc29_vmp_additional_units		false
 ui_mercenary_recruitment_infos_tooltip_default_inactive_wh3_dlc29_woc_gardens_of_nurgle	{{tr:ui_text_replacements_localised_text_tooltip_hud_recruit_glottkin_nurgle_garden_default_inactive}}	false
 ui_mercenary_recruitment_infos_tooltip_default_inactive_zealous_conscription		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_amethyst_units		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_blessed_spawning		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_cp1_shang_yang_support		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_daemonic_summoning		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_dlc27_daemonic_attraction		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_dlc27_monstrous_arcanum		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_dwarf_grudges_units		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_flesh_lab		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_imperial_supply		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_malakai_adventure_units		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_mercenary_recruitment		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_monster_pen		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_nag_raise_dead_faction	[[col:red]]This action is only available within the Land of the Dead[[/col]]	false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_nurgle_buildings		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_raise_dead		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_renown		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_setrapy		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_tamurkhan_chieftains		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_ulric_warband		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_waaagh_units		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_wh3_dlc27_nor_treacheries		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_wh3_dlc29_vampire_counts_raise_dead		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_wh3_dlc29_vmp_additional_units		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_wh3_dlc29_woc_gardens_of_nurgle		false
+ui_mercenary_recruitment_infos_tooltip_inactive_invalid_location_zealous_conscription		false
 ui_mercenary_recruitment_infos_tooltip_inactive_loaned_army_amethyst_units		false
 ui_mercenary_recruitment_infos_tooltip_inactive_loaned_army_blessed_spawning		false
 ui_mercenary_recruitment_infos_tooltip_inactive_loaned_army_cp1_shang_yang_support	{{tr:tooltip_hud_shang_yang_supply_unavailable_loan}}	false
@@ -234126,6 +234166,7 @@ ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_active_effects	T
 ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_active_effects_toggle_txt	Show active effects	false
 ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_button_clear_selection	Clear selection	false
 ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_button_refund_all	All Active Sigils	false
+ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_inactive_disempower_sigils_button_tooltip	[[col:red]]You have not empowered any Sigils yet[[/col]]	false
 ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_invalid_selection_txt	Your selection does not meet the requirements for one or more gateway Sigils	false
 ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_no_active_effects	No active effects from this cluster	false
 ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_notification_count_tooltip	Number of [[img:icon_mystic_sigils]][[/img]]Sigils available to empower	false
@@ -234191,6 +234232,7 @@ ui_text_replacements_localised_text_wh3_dlc29_nag_necropolis_softcap_devastation
 ui_text_replacements_localised_text_wh3_dlc29_nag_necropolis_softcap_occupation_warning	This choice will cause the Necropolis limit to be exceeded	false
 ui_text_replacements_localised_text_wh3_dlc29_nag_necropolis_softcap_title	Necropolis Limit	false
 ui_text_replacements_localised_text_wh3_dlc29_nag_necropolis_softcap_tooltip	{{tr:ui_text_replacements_localised_text_wh3_dlc29_nag_necropolis_softcap_title}}||[[i]]The Land of the Dead is formed of all lands that fall under the dark shadow cast by Nagash’s Necropolises.[[/i]]\\n\\n[[col:yellow]][[img:bullet_nag_necropolis]][[/img]]There is a soft-limit to how many Necropolises you can field at once.\\n[[img:icon_necromantic_energy]][[/img]]If the Necropolis limit is exceeded a negative modifier will reduce the amount of Necromantic Energy gained by the faction, the more the limit is exceeded the stronger the modifier.\\n[[img:icon_land_of_the_dead_devastation]][[/img]]Every 3 provinces Devastated via the Ritual of Undeath will increase the current Necropolis limit by 1.[[/col]]	false
+ui_text_replacements_localised_text_wh3_dlc29_nag_no_necrotic_power_outside_land_of_dead_warning	[[col:red]]You can only receive Necromantic Energy in provinces within the Land of the Dead.[[/col]]	false
 ui_text_replacements_localised_text_wh3_dlc29_nag_pyramid_tour	The Black Pyramid	false
 ui_text_replacements_localised_text_wh3_dlc29_nag_tooltip_black_pyramid	{{tr:ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_panel_title}}||{{tr:ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_tooltip_description}}	false
 ui_text_replacements_localised_text_wh3_dlc29_nag_tooltip_black_pyramid_locked	{{tr:ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_panel_title}}||{{tr:ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_tooltip_description}}\\n\\n[[col:red]]{{tr:ui_text_replacements_localised_text_wh3_dlc29_nag_black_pyramid_panel_title}} will unlock once a [[img:icon_mystic_sigils]][[/img]]Sigil can be empowered.[[/col]]	false
@@ -240657,7 +240699,7 @@ uied_component_texts_localised_string_ComponentTooltip_8cc4a160	Click to remove 
 uied_component_texts_localised_string_ComponentTooltip_8d96f4a	Decrease turns	false
 uied_component_texts_localised_string_ComponentTooltip_8dadd304	{{tr:campaign_localised_strings_string_wh3_dlc25_college_locked_tooltip}}	false
 uied_component_texts_localised_string_ComponentTooltip_8dfa50a2	Delete saved character	false
-uied_component_texts_localised_string_ComponentTooltip_8e21aecc	Once a Necropolis is created, its province and all available adjacent provinces become part of its Land of the Dead.\\n\\nNecromantic Energy is a resource that is shared by all regions and armies within a Land of the Dead, and can be spent to expand settlements, or grow armies.	false
+uied_component_texts_localised_string_ComponentTooltip_8e21aecc	Once a Necropolis is created, its province and all available adjacent provinces become part of its Land of the Dead.\\n\\nNecromantic Energy is a resource that is shared by all regions and armies within a Land of the Dead, and can be spent to expand settlements, or grow armies.||{{tr:click_to_open_hp}}	false
 uied_component_texts_localised_string_ComponentTooltip_8e98fbf8	Traversal cost	false
 uied_component_texts_localised_string_ComponentTooltip_8ed3f9b0	Click to remove pin	false
 uied_component_texts_localised_string_ComponentTooltip_8ed4327e	This runs a short demo level to help identify what graphics settings you should run the game on.	false
@@ -242651,7 +242693,7 @@ uied_component_texts_localised_string_StateText_c293d506	Audio memory	false
 uied_component_texts_localised_string_StateText_c2cfaaf1	Rematch	false
 uied_component_texts_localised_string_StateText_c2dfe33c	Turns to complete:	false
 uied_component_texts_localised_string_StateText_c2fa44f1	Load keys	false
-uied_component_texts_localised_string_StateText_c300d586	[[sl:campaign_necrotic_power]]Land of the Dead[[/sl]]	false
+uied_component_texts_localised_string_StateText_c300d586	[[url:script_link_campaign_land_of_the_dead]]Land of the Dead[[/url]]	false
 uied_component_texts_localised_string_StateText_c32cfae7	BETA	false
 uied_component_texts_localised_string_StateText_c3421cb0	Shapeshift	false
 uied_component_texts_localised_string_StateText_c361e52d	2.22	false
@@ -250010,6 +250052,8 @@ uied_component_texts_localised_string_wh3_dlc29_nag_pyramid_progression_lock_1	{
 uied_component_texts_localised_string_wh3_dlc29_nag_pyramid_progression_lock_2	{{tr:initiatives_localised_name_wh3_dlc29_black_pyramid_lock_2_a}} unlocks once 50 [[img:icon_mystic_sigils]][[/img]]Sigils are empowered	false
 uied_component_texts_localised_string_wh3_dlc29_nag_pyramid_progression_lock_3	{{tr:initiatives_localised_name_wh3_dlc29_black_pyramid_lock_3_a}} unlocks once 100 [[img:icon_mystic_sigils]][[/img]]Sigils are empowered	false
 uied_component_texts_localised_string_wh3_dlc29_nag_pyramid_progression_node	Empower Sigils to unlock additional sections.	false
+uied_component_texts_localised_string_wh3_dlc29_nag_subjugate_complete_label	This Mortarch has already been subjugated	false
+uied_component_texts_localised_string_wh3_dlc29_nag_subjugate_complete_other_player_label	This Mortarch is unavailable for subjugation	false
 uied_component_texts_localised_string_wh3_dlc29_skirmish_map_setup_start_without_lord_option_label	Start without Lord(s)	false
 uied_component_texts_localised_string_wh3_dlc29_skirmish_map_setup_start_without_lord_option_tooltip	When checked, a battle can be started without a selected Lord in an army. The first unit in the army will be considered as army commander.	false
 uied_component_texts_localised_string_wh3_dlc29_skv_chaotic_plans_icon_locked_requirement_tooltip	[[col:red]]You cannot purchase this upgrade – you need to acquire more of the other upgrades in this category.[[/col]]	false
